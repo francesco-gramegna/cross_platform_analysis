@@ -1,5 +1,4 @@
-S.no,Name,Youtuber,Country, Subscribers,Category_2,"Avg. views
-",Avg. likes,Avg Comments,Category_3
+rank,name_youtube,handle_youtube,audience_country,followers,category_1,views_avg,likes_avg,comments_avg,category_2
 1,T-Series,tseries,India,224.4M,Music & Dance,141.5K,4.6K,125,
 2,Cocomelon - Nursery Rhymes,checkgate,,142.5M,Education,12.5M,64.8K,0,
 3,PewDiePie,PewDiePie,United States,111.6M,Animation,1.9M,130.5K,7.4K,

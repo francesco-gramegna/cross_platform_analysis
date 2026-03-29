@@ -1,5 +1,4 @@
-s.no,Name,Instagram Name,Category-1,Followers,"
-Country",Eng. (Auth.),Eng. (Avg.),Category-2
+rank,handle_instagram,name_instagram,category_1,followers,audience_country,engagement_auth,engagement_avg,category_2
 1,cristiano,Cristiano Ronaldo,Sports with a ball,483.1M,India,4.5M,5.6M,
 2,kyliejenner,Kylie 🤍,Fashion,370M,United States,2.8M,4.4M,Modeling
 3,leomessi,Leo Messi,Sports with a ball,357.8M,Indonesia,3.2M,4.1M,Family

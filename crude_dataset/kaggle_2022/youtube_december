@@ -1,5 +1,4 @@
-s.no,Youtube channel,youtuber name,Category,Followers,Country,"
-Views (Avg.)",Likes (Avg.),Comments (Avg.),Category-2
+rank,handle_youtube,name_youtube,category_1,followers,country,views_avg,likes_avg,comments_avg,category_2
 1,tseries,T-Series,Music & Dance,229.5M,India,103.8K,2.8K,158,
 2,setindia,SET India,,147.2M,India,0,0,0,
 3,checkgate,Cocomelon - Nursery Rhymes,Education,146.6M,,9.5M,48.3K,0,

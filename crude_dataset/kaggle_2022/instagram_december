@@ -1,4 +1,4 @@
-Rank,name,instagram name,Category_1,Category_2,followers,country,Eng. (Auth.),Eng. (Avg.)
+﻿rank,handle_instagram,name_instagram,category_1,category_2,followers,audience_country,engagement_auth,engagement_avg
 1,leomessi,Leo Messi,Sports with a ball,Family,409.8M,Argentina,17.8M,23.4M
 2,cristiano,Cristiano Ronaldo,Sports with a ball,,523M,India,11.7M,14.7M
 3,neymarjr,NJ 🇧🇷,Sports with a ball,,198.9M,Brazil,6.7M,9.5M

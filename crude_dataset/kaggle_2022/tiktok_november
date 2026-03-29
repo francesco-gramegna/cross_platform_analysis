@@ -1,6 +1,4 @@
-row-cell,Tiktoker name,Tiktok name,"
-Followers",Views (Avg.),Likes (Avg.),Comments (Avg.),Shares (Avg.)
-,,,,,,,
+rank,handle_tiktok,name_tiktok,followers,views_avg,likes_avg,comments_avg,shares_avg
 1,yossikramer,Yossi,145.6K,26.8M,2.2M,30.1K,71.2K
 2,mrbeast,MrBeast,55.6M,38.1M,3.8M,19K,7.8K
 3,adinross,adin,5.4M,16.6M,2M,10.9K,12.5K

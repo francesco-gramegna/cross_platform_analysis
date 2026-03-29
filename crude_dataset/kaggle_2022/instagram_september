@@ -1,6 +1,4 @@
-S.no,Instagram name, Name,Subscribers,Audience country,"Authentic engagement
-","Engagement average
-",Category_1,Category_2
+rank,handle_instagram, name_instagram,followers,audience_country,engagement_auth,engagement_avg,category_1,category_2
 1,cristiano,Cristiano Ronaldo,477.9M,India,5M,6.2M,Sports with a ball,
 2,kyliejenner,Kylie 🤍,368.1M,United States,3.5M,5.5M,Fashion,Modeling
 3,arianagrande,Ariana Grande,329.6M,United States,2.9M,4M,,
