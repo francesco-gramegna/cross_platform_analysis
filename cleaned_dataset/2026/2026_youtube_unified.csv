@@ -1,0 +1,999 @@
+handle_youtube,exists,name_youtube,followers,audience_country,avg_likes,avg_comments,avg_views,category,number_videos_last_year,processed_at_unix,status,error,unified_category
+@tseries,1,T-Series,311000000.0,India,11219.77,309.3,593456.13,Entertainment,30,1775050592,ok,,Entertainment
+@checkgate,1,Cocomelon - Nursery Rhymes,200000000.0,United States,10525.2,0.0,2354663.77,Film,30,1775050593,ok,,Entertainment
+@setindia,1,SET India,189000000.0,India,50.87,2.57,7726.93,Music of Asia,30,1775050595,ok,,Music
+@PewDiePie,1,PewDiePie,110000000.0,Japan,185737.41,9231.59,3174221.5,Lifestyle (sociology),22,1775050592,ok,,Lifestyle
+@MrBeast6000,1,MrBeast,474000000.0,United States,2602490.5,51044.33,198598032.8,Film,30,1775050593,ok,,Entertainment
+@✿ Kids Diana Show,0,,,,,,,,0,1775050592,error,Could not resolve handle or username @✿ Kids Diana Show,
+@Like Nastya,0,,,,,,,,0,1775050592,error,Could not resolve handle or username @Like Nastya,
+@WWEFanNation,1,WWE,112000000.0,,4629.27,125.93,193300.97,Sport,30,1775050593,ok,,Sports
+@zeemusiccompany,1,Zee Music Company,122000000.0,India,935.07,20.0,73270.1,Pop music,30,1775050594,ok,,Music
+@Vlad and Niki,0,,,,,,,,0,1775050592,error,Could not resolve handle or username @Vlad and Niki,
+@5-Minute Crafts,0,,,,,,,,0,1775050593,error,Could not resolve handle or username @5-Minute Crafts,
+@kidrauhl,1,Justin Bieber,77200000.0,Canada,51849.53,2541.4,5363515.5,Soul music,30,1775050594,ok,,Music
+@GoldminesTelefilms,1,Goldmines,109000000.0,India,530.03,7.1,56669.0,Film,30,1775050594,ok,,Entertainment
+@CanalKondZilla,1,Canal KondZilla,68100000.0,Brazil,245.6,9.17,12594.73,Electronic music,30,1775050594,ok,,Music
+@BANGTANTV,1,BANGTANTV,83400000.0,,280325.43,11939.17,1752352.13,Music of Asia,30,1775050594,ok,,Music
+@sabtv,1,Sony SAB,105000000.0,India,356.5,8.73,22970.53,Entertainment,30,1775050597,ok,,Entertainment
+@ibighit,1,HYBE LABELS,80500000.0,South Korea,374933.17,45396.13,4652750.5,Pop music,30,1775050594,ok,,Music
+@zeetv,1,Zee TV,97500000.0,India,15.1,0.3,742.23,Film,30,1775050596,ok,,Entertainment
+@filmigaane,1,Shemaroo Filmi Gaane,74400000.0,India,280.13,8.87,29275.43,Film,30,1775050596,ok,,Entertainment
+@corycotton,1,Dude Perfect,61800000.0,United States,72589.53,1517.0,5510589.63,Lifestyle (sociology),30,1775050595,ok,,Lifestyle
+@SmartBooksMedia,1,Baby Shark - Pinkfong Kids’ Songs & Stories,84400000.0,United States,2516.23,0.0,768784.4,Music,30,1775050595,ok,,Music
+@ChuChu TV Nursery Rhymes & Kids Songs,0,,,,,,,,0,1775050595,error,Could not resolve handle or username @ChuChu TV Nursery Rhymes & Kids Songs,
+@Marshmello,1,Marshmello,58400000.0,United States,7644.63,306.43,354127.77,Hip hop music,30,1775050595,ok,,Music
+@BHOJPURIWAVE,1,Wave Music,69800000.0,India,810.43,38.1,215119.87,Music of Asia,30,1775050598,ok,,Music
+@colorstv,1,Colors TV,82000000.0,India,1.37,0.03,52.1,Film,30,1775050598,ok,,Entertainment
+@aajtaktv,1,Aaj Tak,74900000.0,India,122.63,2.43,19140.67,Society,30,1775050596,ok,,Info/Business
+@sonymusicindiaSME,1,Sony Music India,70500000.0,India,16090.43,2341.33,287780.87,Pop music,30,1775050598,ok,,Music
+@tipsmusic,1,Tips Official,81000000.0,India,1307.13,19.13,217771.3,Film,30,1775050598,ok,,Entertainment
+@ReinoMariaElenaWalsh,1,El Reino Infantil,71000000.0,Argentina,2184.53,0.0,573820.13,Film,30,1775050597,ok,,Entertainment
+@LooLooKids,1,LooLoo Kids - Nursery Rhymes and Children's Songs,61900000.0,United States,6966.87,0.0,4918082.37,Entertainment,30,1775050597,ok,,Entertainment
+@tseriesbhakti,1,T-Series Bhakti Sagar,81800000.0,India,475.53,37.23,33430.7,Religion,30,1775050599,ok,,Info/Business
+@Badabun,0,,,,,,,,0,1775050597,error,Could not resolve handle or username @Badabun,
+@JuegaGerman,1,JuegaGerman,55100000.0,Chile,129910.53,2799.33,3691241.5,Role-playing video game,30,1775050598,ok,,Tech/Gaming
+@yrf,1,YRF,71600000.0,India,3681.53,29.27,250700.9,Music,30,1775050599,ok,,Music
+@Billie Eilish,0,,,,,,,,0,1775050598,error,Could not resolve handle or username @Billie Eilish,
+@felipeneto,1,Felipe Neto,47800000.0,Brazil,18524.03,376.37,225167.27,Film,30,1775050599,ok,,Entertainment
+@whinderssonnunes,1,whinderssonnunes,44600000.0,Brazil,2362.03,30.47,49852.27,Film,30,1775050599,ok,,Entertainment
+@BRIGHT SIDE,0,,,,,,,,0,1775050598,error,Could not resolve handle or username @BRIGHT SIDE,
+@KatyPerryMusic,1,Katy Perry,46800000.0,United States,14348.23,1430.87,487573.13,Entertainment,30,1775050599,ok,,Entertainment
+@vcsabiavideos,1,Você Sabia?,47100000.0,Brazil,24824.67,565.6,533484.93,Entertainment,30,1775050599,ok,,Entertainment
+@infobellshindirhymes,1,Infobells - Hindi,72200000.0,India,8966.63,0.0,1125740.9,Music of Asia,30,1775050599,ok,,Music
+@DjWalkzz,1,Alan Walker,47400000.0,Norway,6218.8,288.7,178671.5,Electronic music,30,1775050600,ok,,Music
+@sonymusicindiaVEVO,1,SonyMusicIndiaVEVO,59700000.0,,5348.43,71.4,679190.6,Music of Asia,30,1775050600,ok,,Music
+@Like Nastya Show,0,,,,,,,,0,1775050599,error,Could not resolve handle or username @Like Nastya Show,
+@speedrecordss,1,Speed Records,48300000.0,India,708.27,13.13,83642.9,Pop music,30,1775050600,ok,,Music
+@A4,1,Ari Power,18.0,,,,,,0,1775050600,ok,,
+@ABSCBNOnline,1,ABS-CBN Entertainment,54700000.0,Philippines,7.83,0.4,411.73,Entertainment,30,1775050601,ok,,Entertainment
+@getmovies,1,Get Movies,57000000.0,United Arab Emirates,585.17,0.0,113650.93,Entertainment,30,1775050600,ok,,Entertainment
+@LuisitoComunicaa,1,Luisito Comunica,45700000.0,Mexico,132346.23,3571.4,9864385.57,Tourism,30,1775050601,ok,,Lifestyle
+@LittleBabyBum,1,Little Baby Bum - Nursery Rhymes & Kids Songs,41700000.0,United States,705.7,0.0,168273.53,Entertainment,30,1775050600,ok,,Entertainment
+@TheEllenShow,1,TheEllenShow,38000000.0,United States,272.83,,20577.3,Television program,30,1775050601,ok,,Entertainment
+@MashaMedvedTV,1,Маша и Медведь,59900000.0,Russia,9456.97,,2109975.93,Television program,30,1775050601,ok,,Entertainment
+@gr6explode,1,GR6 EXPLODE,42900000.0,Brazil,6956.23,160.73,498155.07,Pop music,30,1775050602,ok,,Music
+@luccasneto,1,LUCCAS NETO,53400000.0,Brazil,4378.43,96.13,311298.67,Entertainment,30,1775050601,ok,,Entertainment
+@venus,1,Ishtar Music,53000000.0,India,970.17,8.47,61201.5,Film,30,1775050603,ok,,Entertainment
+@Kimberly Loaiza,0,,,,,,,,0,1775050601,error,Could not resolve handle or username @Kimberly Loaiza,
+@ShemarooEnt,1,Shemaroo,61500000.0,India,191.53,6.13,26869.4,Film,30,1775050603,ok,,Entertainment
+@DaddyYankeeOFFTV,1,Daddy Yankee,41300000.0,United States,90981.31,4937.62,8929736.31,Lifestyle (sociology),16,1775050602,ok,,Lifestyle
+@Voot Kids,0,,,,,,,,0,1775050601,error,Could not resolve handle or username @Voot Kids,
+@WorkpointOfficial,1,WorkpointOfficial,43600000.0,Thailand,34.87,1.73,1483.0,Lifestyle (sociology),30,1775050604,ok,,Lifestyle
+@Toys and Colors,0,,,,,,,,0,1775050602,error,Could not resolve handle or username @Toys and Colors,
+@shfa,0,,,,,,,,0,1775050602,error,Could not resolve handle or username @shfa,
+@shfa2 - شفا,0,,,,,,,,0,1775050602,error,Could not resolve handle or username @shfa2 - شفا,
+@SuperSimpleSongs,1,Super Simple Songs - Kids Songs,46100000.0,Canada,3567.9,0.0,5848172.03,Film,30,1775050603,ok,,Entertainment
+@Jkk Entertainment,0,,,,,,,,0,1775050602,error,Could not resolve handle or username @Jkk Entertainment,
+@JbalvinTube,1,J Balvin,35200000.0,Colombia,7020.83,255.07,518257.0,Hip hop music,30,1775050603,ok,,Music
+@gmmonetv,1,ช่อง one31,44500000.0,Thailand,47.33,2.23,1302.8,Film,30,1775050605,ok,,Entertainment
+@vegetta777,1,VEGETTA777,34700000.0,,14879.7,196.77,233186.97,Action game,30,1775050604,ok,,Tech/Gaming
+@Masha and The Bear,0,,,,,,,,0,1775050603,error,Could not resolve handle or username @Masha and The Bear,
+@YouTube,1,YouTube,45000000.0,United States,2977.1,207.67,264937.14,Entertainment,30,1775050604,ok,,Entertainment
+@Goldmines Gaane Sune Ansune,0,,,,,,,,0,1775050603,error,Could not resolve handle or username @Goldmines Gaane Sune Ansune,
+@markiplierGAME,1,Markiplier,38500000.0,United States,77970.7,3685.8,1726194.1,Action game,30,1775050604,ok,,Tech/Gaming
+@Like Nastya ESP,0,,,,,,,,0,1775050603,error,Could not resolve handle or username @Like Nastya ESP,
+@Ryan's World,0,,,,,,,,0,1775050604,error,Could not resolve handle or username @Ryan's World,
+@abpnewstv,1,ABP NEWS,50400000.0,India,22.33,0.17,2334.63,Society,30,1775050606,ok,,Info/Business
+@NoCopyrightSounds,1,NoCopyrightSounds,34300000.0,United Kingdom,3734.73,361.47,152900.27,Electronic music,30,1775050604,ok,,Music
+@Desi Music Factory,0,,,,,,,,0,1775050604,error,Could not resolve handle or username @Desi Music Factory,
+@Geet MP3,0,,,,,,,,0,1775050604,error,Could not resolve handle or username @Geet MP3,
+@Total Gaming,0,,,,,,,,0,1775050605,error,Could not resolve handle or username @Total Gaming,
+@Maria Clara & JP,0,,,,,,,,0,1775050604,error,Could not resolve handle or username @Maria Clara & JP,
+@UltraHindi,1,Ultra Bollywood,46900000.0,India,1572.77,28.37,277394.07,Entertainment,30,1775050605,ok,,Entertainment
+@tseriesapnapunjab,1,T-Series Apna Punjab,40900000.0,India,393.1,13.0,17064.87,Music of Asia,30,1775050607,ok,,Music
+@SSSniperWolf,1,SSSniperWolf,35000000.0,United States,9825.2,720.77,394672.23,Film,30,1775050606,ok,,Entertainment
+@Mikecrack,1,Mikecrack,58200000.0,Spain,38048.6,2177.17,1577360.97,Action game,30,1775050606,ok,,Tech/Gaming
+@GENIAL,0,,,,,,,,0,1775050605,error,Could not resolve handle or username @GENIAL,
+@KHANDESHI MOVIES,0,,,,,,,,0,1775050605,error,Could not resolve handle or username @KHANDESHI MOVIES,
+@tv3official,1,Ch3Thailand,36700000.0,Thailand,213.57,5.07,15580.8,Film,30,1775050610,ok,,Entertainment
+@Luis Fonsi,0,,,,,,,,0,1775050606,error,Could not resolve handle or username @Luis Fonsi,
+@sonypalindia,1,Sony PAL,47100000.0,,50.07,1.47,482176.77,Humour,30,1775050606,ok,,Entertainment
+@AllTrapNation,1,Trap Nation,30200000.0,United States,842.17,32.13,34277.9,Electronic music,30,1775050607,ok,,Music
+@IndiaTV,1,IndiaTV,50400000.0,India,50.93,1.27,1931.27,Politics,30,1775050607,ok,,Info/Business
+@cancionesdelagranja,1,La Granja de Zenón,45500000.0,Argentina,3515.33,0.0,624775.23,Music,30,1775050607,ok,,Music
+@erosentertainment,1,Eros Universe,35700000.0,India,73.63,2.03,10547.87,Entertainment,30,1775050608,ok,,Entertainment
+@SMTOWN,1,SMTOWN,33600000.0,,94109.4,10519.73,5288003.8,Electronic music,30,1775050607,ok,,Music
+@MrBean,1,Mr Bean,35700000.0,,455.63,10.93,34232.73,Television program,30,1775050607,ok,,Entertainment
+@juptube,1,Galinha Pintadinha,39000000.0,Brazil,,,,Film,0,1775050608,ok,,Entertainment
+@Ricis Official,0,,,,,,,,0,1775050607,error,Could not resolve handle or username @Ricis Official,
+@rezendeevil,1,rezendeevil,34200000.0,Brazil,8593.83,184.37,211778.2,Lifestyle (sociology),30,1775050609,ok,,Lifestyle
+@AH,1,Ahh,26.0,,,,,,0,1775050608,ok,,
+@SpinninRec,1,Spinnin' Records,32000000.0,Netherlands,418.17,9.67,25942.03,Pop music,30,1775050609,ok,,Music
+@latenight,1,The Tonight Show Starring Jimmy Fallon,33900000.0,United States,2889.9,96.57,66517.2,Entertainment,30,1775050609,ok,,Entertainment
+@tseriesoldisgold,1,T-Series Bollywood Classics,52200000.0,India,1042.6,31.73,95992.5,Film,30,1775050609,ok,,Entertainment
+@rajshri,1,Rajshri,41000000.0,India,44.07,2.7,6938.37,Entertainment,30,1775050609,ok,,Entertainment
+@harpalgeo,1,HAR PAL GEO,72300000.0,Pakistan,22.8,0.4,1638.1,Television program,30,1775050610,ok,,Entertainment
+@DisneyMusicVEVO,1,DisneyMusicVEVO,38900000.0,United States,2641.6,0.0,124670.9,Film,30,1775050609,ok,,Entertainment
+@UltraRecords,1,Ultra Records,32400000.0,,532.1,19.0,29684.93,Electronic music,30,1775050610,ok,,Music
+@jacksepticeye,1,jacksepticeye,31200000.0,Ireland,77436.3,4439.5,1816286.53,Action-adventure game,30,1775050610,ok,,Tech/Gaming
+@BabyBus - Kids Songs and Cartoons,0,,,,,,,,0,1775050610,error,Could not resolve handle or username @BabyBus - Kids Songs and Cartoons,
+@xoxxxoooxo,1,The Weeknd,39500000.0,Canada,139497.56,6773.11,7734564.0,Pop music,9,1775050610,ok,,Music
+@TheLateLateShow,1,The Late Late Show with James Corden,28200000.0,,,,,Film,0,1775050610,ok,,Entertainment
+@ImagineDragons,1,ImagineDragons,33200000.0,United States,4257.77,108.3,143659.4,Music,30,1775050611,ok,,Music
+@TalkingTomCat,1,Talking Tom,33300000.0,United States,1025.7,43.1,160539.37,Film,30,1775050611,ok,,Entertainment
+@toyoraljanahtv,1,قناة طيور الجنة | toyoraljanahtv,33500000.0,,,,39696.33,Society,30,1775050611,ok,,Info/Business
+@theofficialpeppa,1,Peppa Pig - Official Channel,43400000.0,United Kingdom,2735.1,,833611.63,Film,30,1775050611,ok,,Entertainment
+@Little Angel: Nursery Rhymes & Kids Songs,0,,,,,,,,0,1775050610,error,Could not resolve handle or username @Little Angel: Nursery Rhymes & Kids Songs,
+@ARY Digital,0,,,,,,,,0,1775050611,error,Could not resolve handle or username @ARY Digital,
+@WWRBhojpuri,1,Worldwide Records Bhojpuri,38800000.0,India,860.47,21.43,70410.53,Music,30,1775050612,ok,,Music
+@SongsOfIndianCinema,1,Saregama Music,61300000.0,India,5898.27,82.43,803964.87,Pop music,30,1775050612,ok,,Music
+@MrBeast Gaming,0,,,,,,,,0,1775050611,error,Could not resolve handle or username @MrBeast Gaming,
+@Wow Kidz,0,,,,,,,,0,1775050611,error,Could not resolve handle or username @Wow Kidz,
+@TheDonato,1,TheDonato,43100000.0,Argentina,26280.57,471.73,682167.47,Role-playing video game,30,1775050612,ok,,Tech/Gaming
+@GMANETWORK,1,GMA Network,41000000.0,Philippines,59.6,2.7,3210.77,Film,30,1775050614,ok,,Entertainment
+@infobellstamil,1,infobells - Tamil,35900000.0,India,4985.57,0.0,762410.83,Entertainment,30,1775050612,ok,,Entertainment
+@TheDiamondMinecart,1,DanTDM,29200000.0,United Kingdom,25161.1,1744.87,659021.0,Action game,30,1775050612,ok,,Tech/Gaming
+@taylorgangent,1,Wiz Khalifa,30300000.0,United States,1142.13,140.03,28239.5,Pop music,30,1775050612,ok,,Music
+@Bounce Patrol - Kids Songs,0,,,,,,,,0,1775050612,error,Could not resolve handle or username @Bounce Patrol - Kids Songs,
+@WorldStarHipHopTV,1,WORLDSTARHIPHOP,27700000.0,United States,2394.53,168.7,176385.03,Pop music,30,1775050613,ok,,Music
+@VanossGaming,1,VanossGaming,26000000.0,United States,26483.87,653.2,602216.9,Role-playing video game,30,1775050613,ok,,Tech/Gaming
+@enchufetv,1,enchufetv,28700000.0,,32025.83,221.53,514105.73,Film,30,1775050613,ok,,Entertainment
+@infobellstelugu,1,infobells - Telugu,37200000.0,India,3762.03,0.0,723764.6,Music,30,1775050613,ok,,Music
+@LosPolinesios,1,LosPolinesios,27300000.0,,18145.97,482.23,507114.23,Lifestyle (sociology),30,1775050613,ok,,Lifestyle
+@PowerKids,1,PowerKids TV,50200000.0,Ireland,,0.23,103046.57,Television program,30,1775050615,ok,,Entertainment
+@Techno Gamerz,0,,,,,,,,0,1775050613,error,Could not resolve handle or username @Techno Gamerz,
+@1MILLION Dance Studio,0,,,,,,,,0,1775050613,error,Could not resolve handle or username @1MILLION Dance Studio,
+@toycantando,1,toycantando,30900000.0,Colombia,1171.3,0.0,212858.37,Film,30,1775050614,ok,,Entertainment
+@smosh,1,Smosh,27100000.0,United States,23449.0,383.93,447937.13,Television program,30,1775050615,ok,,Entertainment
+@xSkyHeLLxx,1,Renato Garcia,31200000.0,Brazil,78262.6,2288.8,1092049.83,Lifestyle (sociology),30,1775050615,ok,,Lifestyle
+@AboFlah,1,AboFlah,48800000.0,Kuwait,233224.23,8738.4,8289145.07,Film,30,1775050615,ok,,Entertainment
+@zeenews,1,Zee News,41900000.0,India,23.0,0.57,1553.9,Politics,30,1775050616,ok,,Info/Business
+@Diana and Roma ESP,0,,,,,,,,0,1775050614,error,Could not resolve handle or username @Diana and Roma ESP,
+@WatchMojo,1,WatchMojo.com,25900000.0,Canada,615.13,112.87,28029.8,Television program,30,1775050615,ok,,Entertainment
+@Super JoJo - Nursery Rhymes & Kids Songs,0,,,,,,,,0,1775050614,error,Could not resolve handle or username @Super JoJo - Nursery Rhymes & Kids Songs,
+@Genevieve's Playhouse - Learning Videos for Kids,0,,,,,,,,0,1775050614,error,Could not resolve handle or username @Genevieve's Playhouse - Learning Videos for Kids,
+@Jess No Limit,0,,,,,,,,0,1775050615,error,Could not resolve handle or username @Jess No Limit,
+@TwiNboTzVids,1,Lucas and Marcus,37100000.0,United States,7544.73,401.03,351605.57,Entertainment,30,1775050616,ok,,Entertainment
+@MR. INDIAN HACKER,0,,,,,,,,0,1775050615,error,Could not resolve handle or username @MR. INDIAN HACKER,
+@jypentertainment,1,JYP Entertainment,31800000.0,,34731.83,2002.47,951114.4,Pop music,30,1775050616,ok,,Music
+@Las Ratitas,0,,,,,,,,0,1775050615,error,Could not resolve handle or username @Las Ratitas,
+@James Charles,0,,,,,,,,0,1775050615,error,Could not resolve handle or username @James Charles,
+@davidguettavevo,1,David Guetta,27700000.0,United States,4441.47,211.37,555487.0,Electronic music,30,1775050616,ok,,Music
+@nickelodeonjuniorfr,1,Nick Jr.,35200000.0,United States,610.97,0.0,138147.47,Television program,30,1775050617,ok,,Entertainment
+@व्लाद और निकिता,0,,,,,,,,0,1775050616,error,Could not resolve handle or username @व्लाद और निकिता,
+@ZHC,1,zhc,97.0,,,,,Pop music,0,1775050616,ok,,Music
+@adityamusic,1,Aditya Music,36500000.0,India,215.73,1.97,19003.37,Music of Asia,30,1775050619,ok,,Music
+@Logan Paul,0,,,,,,,,0,1775050616,error,Could not resolve handle or username @Logan Paul,
+@Rans Entertainment,0,,,,,,,,0,1775050616,error,Could not resolve handle or username @Rans Entertainment,
+@NewOnNetflix,1,Netflix,33100000.0,United States,16188.27,831.6,616276.47,Music of Asia,30,1775050617,ok,,Music
+@Chloe Ting,0,,,,,,,,0,1775050617,error,Could not resolve handle or username @Chloe Ting,
+@Troom Troom,0,,,,,,,,0,1775050617,error,Could not resolve handle or username @Troom Troom,
+@Masha y el Oso,0,,,,,,,,0,1775050617,error,Could not resolve handle or username @Masha y el Oso,
+@Raffy Tulfo in Action,0,,,,,,,,0,1775050617,error,Could not resolve handle or username @Raffy Tulfo in Action,
+@SesameStreet,1,Sesame Street,29600000.0,United States,1839.03,0.0,360693.07,Television program,30,1775050617,ok,,Entertainment
+@JellyYT,1,Jelly,23400000.0,United Kingdom,3789.43,180.5,177413.1,Role-playing video game,30,1775050618,ok,,Tech/Gaming
+@ColdplayVEVO,1,Coldplay,28400000.0,United Kingdom,13579.27,673.36,662980.91,Pop music,11,1775050618,ok,,Music
+@Diana and Roma HIN,0,,,,,,,,0,1775050617,error,Could not resolve handle or username @Diana and Roma HIN,
+@Mister Max,0,,,,,,,,0,1775050617,error,Could not resolve handle or username @Mister Max,
+@mildicasdemulher,1,Valentina Pontes ofc,28800000.0,Brazil,2064.37,52.48,179993.67,Entertainment,30,1775050619,ok,,Entertainment
+@Vlad và Nikita,0,,,,,,,,0,1775050618,error,Could not resolve handle or username @Vlad và Nikita,
+@DrossRotzank,1,DrossRotzank,24100000.0,Argentina,84803.9,5017.77,1348507.73,Society,30,1775050619,ok,,Info/Business
+@Sandeep Maheshwari,0,,,,,,,,0,1775050618,error,Could not resolve handle or username @Sandeep Maheshwari,
+@ABP NEWS HINDI,0,,,,,,,,0,1775050618,error,Could not resolve handle or username @ABP NEWS HINDI,
+@adityacinema,1,Aditya Movies,38300000.0,India,233.57,2.23,19252.27,Entertainment,30,1775050621,ok,,Entertainment
+@Goldmines Dishoom,0,,,,,,,,0,1775050618,error,Could not resolve handle or username @Goldmines Dishoom,
+@THECHAINSMOKERS,1,The Chainsmokers,23000000.0,United States,1135.87,45.73,39876.7,Music,30,1775050619,ok,,Music
+@netdmuzikk,1,netd müzik,27000000.0,Turkey,210.8,54.45,33783.83,Pop music,30,1775050622,ok,,Music
+@Technical Guruji,0,,,,,,,,0,1775050618,error,Could not resolve handle or username @Technical Guruji,
+@Smile Family,0,,,,,,,,0,1775050618,error,Could not resolve handle or username @Smile Family,
+@gmmgrammyofficial,1,GMM GRAMMY OFFICIAL,25900000.0,Thailand,87.73,3.1,7054.1,Pop music,30,1775050620,ok,,Music
+@Anuel AA,0,,,,,,,,0,1775050619,error,Could not resolve handle or username @Anuel AA,
+@mmoshaya,1,mmoshaya,23500000.0,Saudi Arabia,6644.43,200.03,1087880.43,Lifestyle (sociology),30,1775050620,ok,,Lifestyle
+@Miss Katy,0,,,,,,,,0,1775050619,error,Could not resolve handle or username @Miss Katy,
+@VenusMovies,1,Venus Movies,27600000.0,India,189.53,2.7,29832.97,Film,30,1775050620,ok,,Entertainment
+@Like Nastya AE,0,,,,,,,,0,1775050619,error,Could not resolve handle or username @Like Nastya AE,
+@Frost Diamond,0,,,,,,,,0,1775050619,error,Could not resolve handle or username @Frost Diamond,
+@Tasty,0,,,,,,,,0,1775050620,error,Could not resolve handle or username @Tasty,
+@WHBBP,1,White Hill Production,2.0,,,,,,0,1775050620,ok,,
+@TEDtalksDirector,1,TED,27300000.0,United States,695.93,28.27,30563.27,Society,30,1775050621,ok,,Info/Business
+@WB Kids,0,,,,,,,,0,1775050620,error,Could not resolve handle or username @WB Kids,
+@oRugrat,1,FaZe Rug,28900000.0,United States,63413.67,7707.87,2879614.9,Lifestyle (sociology),30,1775050621,ok,,Lifestyle
+@5-Minute Crafts DIY,0,,,,,,,,0,1775050620,error,Could not resolve handle or username @5-Minute Crafts DIY,
+@AmericasGotTalent,1,America's Got Talent,30900000.0,United States,32432.97,434.43,1235556.7,Music,30,1775050621,ok,,Music
+@CanalCanalha,1,Canal Canalha,21300000.0,Brazil,36809.47,259.0,546373.13,Entertainment,30,1775050621,ok,,Entertainment
+@hamaarbhojiwood,1,Wave Music Bhojpuri,26900000.0,India,65.2,11.57,6269.87,Music of Asia,30,1775050624,ok,,Music
+@PeppaLatinoAmericano,1,Peppa Pig Español Latino - Canal Oficial,30800000.0,United Kingdom,1783.93,,689056.1,Television program,30,1775050621,ok,,Entertainment
+@shemaroomovies,1,Shemaroo Movies,39200000.0,India,928.63,12.63,126384.77,Film,30,1775050623,ok,,Entertainment
+@BabyBus - Canciones Infantiles & Cuentos,0,,,,,,,,0,1775050621,error,Could not resolve handle or username @BabyBus - Canciones Infantiles & Cuentos,
+@Goldmines Bollywood,0,,,,,,,,0,1775050621,error,Could not resolve handle or username @Goldmines Bollywood,
+@Diana and Roma ARA,0,,,,,,,,0,1775050622,error,Could not resolve handle or username @Diana and Roma ARA,
+@The Lallantop,0,,,,,,,,0,1775050622,error,Could not resolve handle or username @The Lallantop,
+@FGTeeV,1,FGTeeV,25200000.0,United States,50167.52,3827.48,4127578.7,Action game,23,1775050622,ok,,Tech/Gaming
+@BuzzFeedVideo,1,BuzzFeedVideo,19700000.0,United States,635.7,29.53,33269.23,Entertainment,30,1775050622,ok,,Entertainment
+@Baim Paula,0,,,,,,,,0,1775050622,error,Could not resolve handle or username @Baim Paula,
+@SSundee,1,SSundee,25300000.0,United States,16191.77,993.2,703434.33,Casual game,30,1775050623,ok,,Tech/Gaming
+@Like Nastya PRT,0,,,,,,,,0,1775050622,error,Could not resolve handle or username @Like Nastya PRT,
+@AuthenticGames,1,AuthenticGames,20200000.0,Brazil,22314.0,1205.0,291298.0,Action-adventure game,1,1775050624,ok,,Tech/Gaming
+@TheFineBros,1,REACT,20100000.0,United States,3549.2,213.9,92050.4,Film,30,1775050623,ok,,Entertainment
+@Crazy XYZ,0,,,,,,,,0,1775050623,error,Could not resolve handle or username @Crazy XYZ,
+@VEVO,1,Vevo,20000000.0,,132.37,3.3,8965.97,Pop music,30,1775050623,ok,,Music
+@DisneyChannelLA,1,Disney Jr. Latinoamérica,30400000.0,Argentina,1706.0,0.0,423765.77,Television program,30,1775050624,ok,,Entertainment
+@goldmineshindi,1,Goldmines Movies,30400000.0,,89.93,1.13,12346.77,Entertainment,30,1775050624,ok,,Entertainment
+@PenIndiaPvtLimited,1,Pen Movies,29900000.0,India,9043.43,314.8,1394381.37,Entertainment,30,1775050624,ok,,Entertainment
+@HaerteTest,1,HaerteTest,19500000.0,Germany,300.37,11.77,131834.0,Lifestyle (sociology),30,1775050624,ok,,Lifestyle
+@SlivkiChanel,1,SlivkiShow,21300000.0,Italy,82755.44,4456.25,4028678.81,Hobby,16,1775050625,ok,,Lifestyle
+@5-Minute Crafts PLAY,0,,,,,,,,0,1775050624,error,Could not resolve handle or username @5-Minute Crafts PLAY,
+@LazarBeam,1,LazarBeam,23300000.0,Australia,437115.08,5691.0,17425225.42,Action game,12,1775050625,ok,,Tech/Gaming
+@Kids TV - Nursery Rhymes And Baby Songs,0,,,,,,,,0,1775050624,error,Could not resolve handle or username @Kids TV - Nursery Rhymes And Baby Songs,
+@NationalGeographic,1,National Geographic,25900000.0,United States,850.8,37.7,67211.77,Film,30,1775050625,ok,,Entertainment
+@Brave Wilderness,0,,,,,,,,0,1775050624,error,Could not resolve handle or username @Brave Wilderness,
+@BeckyGOfficial,1,Becky G,22500000.0,United States,4103.8,189.6,102853.57,Music,30,1775050625,ok,,Music
+@Goldmines Cineplex,0,,,,,,,,0,1775050625,error,Could not resolve handle or username @Goldmines Cineplex,
+@NewAFI2013,1,Indosiar,35200000.0,Indonesia,793.97,102.9,22457.3,Film,30,1775050628,ok,,Entertainment
+@rossbollinger,1,Pencilmation,20300000.0,United States,27124.43,228.43,1064647.23,Humour,30,1775050626,ok,,Entertainment
+@HumNetwork,1,HUM TV,53900000.0,Pakistan,43.27,0.53,3847.53,Television program,30,1775050628,ok,,Entertainment
+@PrestonPlayz,1,PrestonPlayz,17300000.0,United States,31049.97,1279.17,5060456.27,Action game,30,1775050625,ok,,Tech/Gaming
+@Mnet,1,Mnet K-POP,22300000.0,,396.33,36.7,6577.43,Entertainment,30,1775050626,ok,,Entertainment
+@CharliesVlogs,1,Charlie Puth,23100000.0,United States,23915.6,1087.72,1231437.12,Pop music,25,1775050626,ok,,Music
+@Totoy kids - Português,0,,,,,,,,0,1775050626,error,Could not resolve handle or username @Totoy kids - Português,
+@GooodLifeFilms,1,Lyrical Lemonade,24000000.0,United States,69927.5,2711.36,3551283.71,Hip hop music,14,1775050626,ok,,Music
+@RotanaAudio,1,Rotana,27000000.0,Saudi Arabia,8394.3,280.87,2235636.3,Music of Asia,30,1775050629,ok,,Music
+@Crafty Panda,0,,,,,,,,0,1775050626,error,Could not resolve handle or username @Crafty Panda,
+@Noor Stars,0,,,,,,,,0,1775050626,error,Could not resolve handle or username @Noor Stars,
+@DLS News,0,,,,,,,,0,1775050626,error,Could not resolve handle or username @DLS News,
+@Troom Troom Es,0,,,,,,,,0,1775050626,error,Could not resolve handle or username @Troom Troom Es,
+@starplus,1,StarPlus,56300000.0,India,82.2,1.77,3713.3,Film,30,1775050629,ok,,Entertainment
+@The ACE Family,0,,,,,,,,0,1775050627,error,Could not resolve handle or username @The ACE Family,
+@toyorbabytv,1,toyorbabytv,29600000.0,Jordan,,,218492.57,Entertainment,30,1775050627,ok,,Entertainment
+@gordonramsay,1,Gordon Ramsay,21900000.0,,3637.37,142.73,142956.17,Lifestyle (sociology),30,1775050628,ok,,Lifestyle
+@gottalentglobal,1,Got Talent Global,21400000.0,,1332.17,27.0,80351.07,Performing arts,30,1775050628,ok,,Music
+@TelenovelaTelevisa,1,Tlnovelas,27100000.0,Mexico,236.7,13.43,13155.57,Film,30,1775050631,ok,,Entertainment
+@Infinite,1,Infinite,25700000.0,United States,40358.47,4004.37,1863744.47,Film,30,1775050629,ok,,Entertainment
+@MrVivekBindra,1,Dr. Vivek Bindra: Motivational Speaker,21100000.0,India,884.83,9.53,19960.83,Knowledge,30,1775050629,ok,,Info/Business
+@TheWillyrex,1,TheWillyrex,18500000.0,Spain,10594.8,198.77,239081.53,Food,30,1775050630,ok,,Lifestyle
+@UltraMovieParlour,1,Ultra Movie Parlour,31900000.0,India,2807.2,66.37,360009.47,Film,30,1775050629,ok,,Entertainment
+@fatosdesconhecidos,1,Fatos Desconhecidos,22800000.0,Brazil,,250.37,101455.8,Society,30,1775050629,ok,,Info/Business
+@TheEnaldinhO,1,Enaldinho,45800000.0,Brazil,34431.73,1081.6,1827087.57,Entertainment,30,1775050630,ok,,Entertainment
+@Vlad and Niki Arabic,0,,,,,,,,0,1775050629,error,Could not resolve handle or username @Vlad and Niki Arabic,
+@OfficialClashOfClans,1,Clash of Clans,21800000.0,,7901.83,331.27,2070099.6,Role-playing video game,30,1775050630,ok,,Tech/Gaming
+@JimmyKimmelLive,1,Jimmy Kimmel Live,22000000.0,United States,28621.83,1408.6,1008603.07,Film,30,1775050630,ok,,Entertainment
+@MARVEL,1,Marvel Entertainment,22500000.0,United States,3049.7,111.13,146343.8,Film,30,1775050632,ok,,Entertainment
+@RobinHoodGamer1,1,Robin Hood Gamer,22400000.0,Brazil,11197.2,497.9,443832.37,Action game,30,1775050631,ok,,Tech/Gaming
+@Unbox Therapy,0,,,,,,,,0,1775050630,error,Could not resolve handle or username @Unbox Therapy,
+@NBA,1,NBA,24000000.0,United States,1385.27,117.9,77492.27,Sport,30,1775050631,ok,,Sports
+@Kurzgesagt,1,Kurzgesagt – In a Nutshell,25200000.0,Germany,100029.03,2814.73,2196201.77,Health,30,1775050631,ok,,Info/Business
+@TRT Originals Urdu,0,,,,,,,,0,1775050630,error,Could not resolve handle or username @TRT Originals Urdu,
+@CKN,1,cKn,182.0,,,,,Pop music,0,1775050631,ok,,Music
+@gmapublicaffairs,1,GMA Public Affairs,27900000.0,Philippines,58.37,4.67,3142.67,Film,30,1775050633,ok,,Entertainment
+@corbuzierprediction,1,Deddy Corbuzier,25200000.0,Indonesia,9764.93,1054.87,529610.33,Film,30,1775050632,ok,,Entertainment
+@Eva Bravo Play,0,,,,,,,,0,1775050631,error,Could not resolve handle or username @Eva Bravo Play,
+@★ Kids Roma Show,0,,,,,,,,0,1775050631,error,Could not resolve handle or username @★ Kids Roma Show,
+@shfa show India,0,,,,,,,,0,1775050631,error,Could not resolve handle or username @shfa show India,
+@Мирошка ТВ,0,,,,,,,,0,1775050631,error,Could not resolve handle or username @Мирошка ТВ,
+@sonotekvideo,1,Sonotek,20900000.0,India,1932.07,122.2,128497.3,Music of Asia,30,1775050633,ok,,Music
+@greengoldtv,1,Green Gold TV - Official Channel,22200000.0,India,354.13,0.0,50453.77,Humour,30,1775050633,ok,,Entertainment
+@Kinder Spielzeug Kanal,0,,,,,,,,0,1775050632,error,Could not resolve handle or username @Kinder Spielzeug Kanal,
+@GEN HALILINTAR,0,,,,,,,,0,1775050632,error,Could not resolve handle or username @GEN HALILINTAR,
+@INCRÍVEL,0,,,,,,,,0,1775050632,error,Could not resolve handle or username @INCRÍVEL,
+@turmadamonicaTV,1,Turma da Mônica,21500000.0,Brazil,3455.9,0.0,272830.1,Lifestyle (sociology),30,1775050633,ok,,Lifestyle
+@DanielSaboya,1,Dan-Sa / Daniel Saboya,19200000.0,Brazil,414.23,6.97,37672.13,Performing arts,30,1775050633,ok,,Music
+@BritainsGotTalent09,1,Britain's Got Talent,21200000.0,United Kingdom,6265.13,503.7,268687.73,Entertainment,30,1775050633,ok,,Entertainment
+@kbsworld,1,KBS WORLD TV,20500000.0,South Korea,56.67,3.9,815.1,Television program,30,1775050633,ok,,Entertainment
+@TheOdd1sOut,1,TheOdd1sOut,20700000.0,United States,227312.35,4295.13,4919144.26,Film,23,1775050633,ok,,Entertainment
+@Ninja Kidz TV,0,,,,,,,,0,1775050633,error,Could not resolve handle or username @Ninja Kidz TV,
+@Brent Rivera,0,,,,,,,,0,1775050633,error,Could not resolve handle or username @Brent Rivera,
+@PinkPanther,1,Official Pink Panther,22800000.0,,1045.27,0.0,196563.6,Entertainment,30,1775050634,ok,,Entertainment
+@FactTechz,1,FactTechz,21200000.0,India,176001.6,1238.8,3660630.37,Society,30,1775050634,ok,,Info/Business
+@Like Nastya Vlog,0,,,,,,,,0,1775050633,error,Could not resolve handle or username @Like Nastya Vlog,
+@TheGrefg,1,TheGrefg,19700000.0,Spain,34610.1,550.27,692382.1,Video game culture,30,1775050635,ok,,Tech/Gaming
+@SockeyeMedia,1,MGC Playhouse,17800000.0,,142.6,,233789.3,Music,30,1775050634,ok,,Music
+@Matroix,1,Ali-A,19700000.0,United Kingdom,6990.97,141.07,399866.63,Action-adventure game,30,1775050635,ok,,Tech/Gaming
+@HiMan,0,,,,,,,,0,1775050634,error,Could not resolve handle or username @HiMan,
+@rhettandlink2,1,Good Mythical Morning,19600000.0,United States,27918.77,1337.97,786945.27,Film,30,1775050635,ok,,Entertainment
+@CookieSwirlC,1,CookieSwirlC,21400000.0,United States,1406.03,232.13,71573.17,Simulation video game,30,1775050635,ok,,Tech/Gaming
+@ElTrollino,1,ElTrollino,22300000.0,Spain,32778.0,2543.33,1873064.67,Action game,3,1775050635,ok,,Tech/Gaming
+@Naisa Alifia Yuriza (N.A.Y),0,,,,,,,,0,1775050634,error,Could not resolve handle or username @Naisa Alifia Yuriza (N.A.Y),
+@EeOneGuy,1,EeOneGuy,16400000.0,United States,359.1,327.4,71027.5,Music,30,1775050635,ok,,Music
+@Stubborn Facts,0,,,,,,,,0,1775050635,error,Could not resolve handle or username @Stubborn Facts,
+@TheElenaYa,1,Diana and Roma EN,29800000.0,United States,515.4,,851868.5,Entertainment,30,1775050636,ok,,Entertainment
+@MiawAug,1,MiawAug,25300000.0,Indonesia,21938.37,1794.83,673674.5,Action game,30,1775050635,ok,,Tech/Gaming
+@rsiammusic,1,RsiamMusic : อาร์สยาม,20400000.0,,941.8,39.93,145872.17,Music of Asia,30,1775050636,ok,,Music
+@Emiway Bantai,0,,,,,,,,0,1775050635,error,Could not resolve handle or username @Emiway Bantai,
+@Netflix India,0,,,,,,,,0,1775050635,error,Could not resolve handle or username @Netflix India,
+@farrukotv,1,Farruko,20600000.0,United States,5578.6,193.83,287282.33,Electronic music,30,1775050636,ok,,Music
+@dj47maryn,1,Marmok,19400000.0,Russia,102627.48,4082.2,1806918.36,Action-adventure game,25,1775050636,ok,,Tech/Gaming
+@portadosfundos,1,Porta dos Fundos,19000000.0,Brazil,16358.3,343.83,311732.83,Film,30,1775050636,ok,,Entertainment
+@BabyBus - Cerita & Lagu Anak-anak,0,,,,,,,,0,1775050636,error,Could not resolve handle or username @BabyBus - Cerita & Lagu Anak-anak,
+@Willyrex,1,Willyrex,17200000.0,Spain,11071.53,118.97,227161.8,Action-adventure game,30,1775050638,ok,,Tech/Gaming
+@SCTVIndonesia,1,Surya Citra Televisi (SCTV),22800000.0,Indonesia,544.53,46.1,17410.17,Television program,30,1775050641,ok,,Entertainment
+@SebastianYatra,1,Sebastián Yatra,18900000.0,,6525.0,323.57,455848.03,Music of Latin America,30,1775050637,ok,,Music
+@Little Angel Español - Canciones Infantiles,0,,,,,,,,0,1775050636,error,Could not resolve handle or username @Little Angel Español - Canciones Infantiles,
+@ThePoznavatel,1,Познаватель,20400000.0,Ukraine,11927.83,1032.6,943572.57,Lifestyle (sociology),30,1775050637,ok,,Lifestyle
+@A_S Gaming,0,,,,,,,,0,1775050637,error,Could not resolve handle or username @A_S Gaming,
+@RobleisIUTU,1,RobleisIUTU,20100000.0,Argentina,25829.67,328.4,568770.83,Role-playing video game,30,1775050637,ok,,Tech/Gaming
+@Guava Juice,0,,,,,,,,0,1775050637,error,Could not resolve handle or username @Guava Juice,
+@D Billions,0,,,,,,,,0,1775050637,error,Could not resolve handle or username @D Billions,
+@kidstvsongs,1,Doggy Doggy Cartoons,16400000.0,Spain,58.93,,9097.33,Entertainment,30,1775050639,ok,,Entertainment
+@aMOODIEsqueezie,1,SQUEEZIE,20000000.0,France,121549.23,1750.1,3062870.5,Television program,30,1775050638,ok,,Entertainment
+@Vania Mania Kids,0,,,,,,,,0,1775050637,error,Could not resolve handle or username @Vania Mania Kids,
+@Heidi & Zidane बच्चों की कहानियाँ,0,,,,,,,,0,1775050637,error,Could not resolve handle or username @Heidi & Zidane बच्चों की कहानियाँ,
+@The Royalty Family,0,,,,,,,,0,1775050638,error,Could not resolve handle or username @The Royalty Family,
+@musicalrmastv,1,الـريماس - Al-Remas,18400000.0,Iraq,2650.97,174.4,422894.1,Music,30,1775050639,ok,,Music
+@Masha e o Urso,0,,,,,,,,0,1775050638,error,Could not resolve handle or username @Masha e o Urso,
+@grammygoldofficia,1,GRAMMY GOLD OFFICIAL,22100000.0,Thailand,258.6,13.77,35880.97,Music of Asia,30,1775050640,ok,,Music
+@IGNentertainment,1,IGN,19800000.0,United States,465.77,85.87,20902.17,Role-playing video game,30,1775050639,ok,,Tech/Gaming
+@Sun TV,0,,,,,,,,0,1775050638,error,Could not resolve handle or username @Sun TV,
+@TEDEducation,1,TED-Ed,22500000.0,United States,10812.9,510.23,294453.9,Health,30,1775050639,ok,,Info/Business
+@JasonDerulo,1,Jason Derulo,41900000.0,,3354.03,34.7,160113.13,Entertainment,30,1775050640,ok,,Entertainment
+@Tu COSMOPOLIS,0,,,,,,,,0,1775050639,error,Could not resolve handle or username @Tu COSMOPOLIS,
+@jquintanac5,1,DeToxoMoroxo,16800000.0,Mexico,7700.37,89.03,162120.2,Entertainment,30,1775050640,ok,,Entertainment
+@LankyBox,1,LankyBox,42000000.0,United States,3457.53,301.93,385585.1,Role-playing video game,30,1775050641,ok,,Tech/Gaming
+@Beast Reacts,0,,,,,,,,0,1775050639,error,Could not resolve handle or username @Beast Reacts,
+@etvteluguindia,1,etvteluguindia,23400000.0,India,117.83,1.5,6385.77,Entertainment,30,1775050642,ok,,Entertainment
+@ArabGamesNetwork,1,شبكة العاب العرب | Arab Games Network,25500000.0,Saudi Arabia,12144.5,655.27,384343.9,Action-adventure game,30,1775050641,ok,,Tech/Gaming
+@invictorgs3,1,invictor,30400000.0,Spain,10808.3,856.67,578784.5,Action-adventure game,30,1775050641,ok,,Tech/Gaming
+@Vlad and Niki IDN,0,,,,,,,,0,1775050640,error,Could not resolve handle or username @Vlad and Niki IDN,
+@STARVIJAY,1,Vijay Television,28300000.0,India,452.23,16.33,15884.17,Film,30,1775050644,ok,,Entertainment
+@TheBrianMaps,1,TheBrianMaps,18300000.0,Russia,191488.29,8486.71,4235357.0,Action-adventure game,14,1775050641,ok,,Tech/Gaming
+@Rafa & Luiz,0,,,,,,,,0,1775050641,error,Could not resolve handle or username @Rafa & Luiz,
+@IDEAS EN 5 MINUTOS,0,,,,,,,,0,1775050641,error,Could not resolve handle or username @IDEAS EN 5 MINUTOS,
+@SUPER SLICK SLIME SAM,0,,,,,,,,0,1775050641,error,Could not resolve handle or username @SUPER SLICK SLIME SAM,
+@Jane ASMR 제인,0,,,,,,,,0,1775050641,error,Could not resolve handle or username @Jane ASMR 제인,
+@AnittaOficial,1,Anitta,18200000.0,,7460.57,422.13,1015681.27,Electronic music,30,1775050642,ok,,Music
+@jeffreestar,1,jeffreestar,15600000.0,United States,18517.0,2701.0,532629.0,Lifestyle (sociology),1,1775050642,ok,,Lifestyle
+@Canal IN,0,,,,,,,,0,1775050642,error,Could not resolve handle or username @Canal IN,
+@Sandra Cires Art,0,,,,,,,,0,1775050642,error,Could not resolve handle or username @Sandra Cires Art,
+@iberethenorio,1,Manual do Mundo,20100000.0,Brazil,33159.63,569.1,513441.73,Hobby,30,1775050643,ok,,Lifestyle
+@Antrax,1,Antrax,16400000.0,Mexico,5207.38,212.29,104715.71,Lifestyle (sociology),14,1775050642,ok,,Lifestyle
+@zbingzbing,1,zbing z.,21500000.0,Thailand,6765.0,564.2,342622.37,Action game,30,1775050643,ok,,Tech/Gaming
+@Kiddiestv Hindi - Nursery Rhymes & Kids Songs,0,,,,,,,,0,1775050642,error,Could not resolve handle or username @Kiddiestv Hindi - Nursery Rhymes & Kids Songs,
+@littlemixmusic,1,Little Mix,16500000.0,United Kingdom,3501.87,131.0,85248.93,Electronic music,30,1775050644,ok,,Music
+@Prajapati News,0,,,,,,,,0,1775050643,error,Could not resolve handle or username @Prajapati News,
+@Kaykai Salaider,0,,,,,,,,0,1775050643,error,Could not resolve handle or username @Kaykai Salaider,
+@Kids Play,0,,,,,,,,0,1775050643,error,Could not resolve handle or username @Kids Play,
+@boyceavenue,1,Boyce Avenue,17000000.0,United States,1551.9,51.43,80544.57,Music,30,1775050643,ok,,Music
+@failarmy,1,FailArmy,17500000.0,United States,3552.7,198.97,324617.23,Entertainment,30,1775050644,ok,,Entertainment
+@Apple,1,Apple,20600000.0,United States,17158.43,,2775223.5,Technology,30,1775050644,ok,,Tech/Gaming
+@DopeLyrics,1,DopeLyrics,15500000.0,United States,91.79,8.32,4728.21,Music,19,1775050644,ok,,Music
+@DUDU e CAROL,0,,,,,,,,0,1775050643,error,Could not resolve handle or username @DUDU e CAROL,
+@queenofficial,1,Queen Official,18900000.0,United Kingdom,4809.47,172.8,141980.53,Entertainment,30,1775050644,ok,,Entertainment
+@movieclipsTRAILERS,1,Rotten Tomatoes Trailers,16100000.0,United States,735.1,75.73,43511.47,Entertainment,30,1775050645,ok,,Entertainment
+@MatthewPatrick13,1,The Game Theorists,19600000.0,United States,41581.7,1153.1,1285741.97,Action-adventure game,30,1775050645,ok,,Tech/Gaming
+@lescopaque,1,Les' Copaque Production,25800000.0,Malaysia,1029.43,4.03,85957.07,Television program,30,1775050645,ok,,Entertainment
+@Khan GS Research Centre,0,,,,,,,,0,1775050644,error,Could not resolve handle or username @Khan GS Research Centre,
+@TRANSTVofficial,1,TRANS TV Official,18600000.0,Indonesia,56.33,6.33,3377.1,Television program,30,1775050645,ok,,Entertainment
+@SonyMusicSouthVEVO,1,SonyMusicSouthVEVO,23000000.0,,697.03,19.07,59497.0,Film,30,1775050646,ok,,Entertainment
+@RomanAtwoodVlogs,1,Roman Atwood Vlogs,15100000.0,United States,,,,Film,0,1775050645,ok,,Entertainment
+@marquesbrownlee,1,Marques Brownlee,20900000.0,United States,151911.43,7286.63,4656142.63,Lifestyle (sociology),30,1775050645,ok,,Lifestyle
+@Village Cooking Channel,0,,,,,,,,0,1775050645,error,Could not resolve handle or username @Village Cooking Channel,
+@vice,1,VICE,19100000.0,United States,3246.47,454.63,171056.63,Entertainment,30,1775050646,ok,,Entertainment
+@Aayu and Pihu Show,0,,,,,,,,0,1775050645,error,Could not resolve handle or username @Aayu and Pihu Show,
+@हिंदी - Genevieve's Playhouse,0,,,,,,,,0,1775050645,error,Could not resolve handle or username @हिंदी - Genevieve's Playhouse,
+@Kids Channel India - Hindi Rhymes and Baby Songs,0,,,,,,,,0,1775050645,error,Could not resolve handle or username @Kids Channel India - Hindi Rhymes and Baby Songs,
+@tanboy kun,0,,,,,,,,0,1775050645,error,Could not resolve handle or username @tanboy kun,
+@El Reino a Jugar,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @El Reino a Jugar,
+@Triggered Insaan,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Triggered Insaan,
+@monstafluffmusicTV,1,7clouds,32200000.0,United States,3937.4,217.47,414327.73,Hip hop music,30,1775050647,ok,,Music
+@Dyland PROS,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Dyland PROS,
+@Camila Cabello,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Camila Cabello,
+@JenniferLopez,1,Jennifer Lopez,17500000.0,United States,1358.4,120.4,47151.3,Electronic music,30,1775050646,ok,,Music
+@MegatoadStonie,1,Matt Stonie,16400000.0,United States,51045.75,1061.4,1362307.6,Food,20,1775050647,ok,,Lifestyle
+@AdMe.ru - Сайт о творчестве,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @AdMe.ru - Сайт о творчестве,
+@Zappy Toons - Hindi Nursery Rhymes and Stories,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Zappy Toons - Hindi Nursery Rhymes and Stories,
+@Blippi - Educational Videos for Kids,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Blippi - Educational Videos for Kids,
+@Ivana Alawi,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Ivana Alawi,
+@Oyuncak Avı,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Oyuncak Avı,
+@Jason Vlogs,0,,,,,,,,0,1775050646,error,Could not resolve handle or username @Jason Vlogs,
+@portalfitdance,1,FitDance,16900000.0,Brazil,401.0,13.37,14815.77,Electronic music,30,1775050648,ok,,Music
+@Kerajinan 5-Menit,0,,,,,,,,0,1775050647,error,Could not resolve handle or username @Kerajinan 5-Menit,
+@TheRichest,1,TheRichest,14700000.0,United States,96.4,7.33,6675.3,Entertainment,30,1775050647,ok,,Entertainment
+@Goldmines Great Indian Comedy,0,,,,,,,,0,1775050647,error,Could not resolve handle or username @Goldmines Great Indian Comedy,
+@popchartbusters,1,Pop Chartbusters,20600000.0,,5657.23,348.53,594516.07,Pop music,30,1775050648,ok,,Music
+@OGatoGalactico,1,Gato Galactico,20600000.0,Brazil,1821.57,0.0,330788.47,Lifestyle (sociology),30,1775050648,ok,,Lifestyle
+@wifistudy,0,,,,,,,,0,1775050647,error,Could not resolve handle or username @wifistudy,
+@ntvru,1,HTB Media,2.0,,,,,,0,1775050647,ok,,
+@Dhar Mann,0,,,,,,,,0,1775050647,error,Could not resolve handle or username @Dhar Mann,
+@حِرف إبداعية في 5 دقائق,0,,,,,,,,0,1775050647,error,Could not resolve handle or username @حِرف إبداعية في 5 دقائق,
+@KSIOlajidebtHD,1,KSI,17600000.0,United Kingdom,99943.33,3321.53,3532394.4,Entertainment,30,1775050648,ok,,Entertainment
+@kwebbelkop,1,Kwebbelkop,14900000.0,United States,671.07,53.0,44477.7,Entertainment,30,1775050649,ok,,Entertainment
+@RCTI - LAYAR DRAMA INDONESIA,0,,,,,,,,0,1775050648,error,Could not resolve handle or username @RCTI - LAYAR DRAMA INDONESIA,
+@Junya Official Channel,0,,,,,,,,0,1775050648,error,Could not resolve handle or username @Junya Official Channel,
+@makeuplocalypse,1,Mariale,15200000.0,United States,900.23,9.33,33492.83,Lifestyle (sociology),30,1775050649,ok,,Lifestyle
+@ranziscool,1,Ranz Kyle,15200000.0,Philippines,6850.14,190.57,400131.67,Lifestyle (sociology),21,1775050649,ok,,Lifestyle
+@Makiman131,1,Makiman131,16400000.0,Spain,4704.4,153.37,495571.5,Video game culture,30,1775050649,ok,,Tech/Gaming
+@Lachlan,1,Lachlan,15300000.0,Australia,15509.37,107.63,614728.33,Action-adventure game,30,1775050649,ok,,Tech/Gaming
+@IDEIAS INCRÍVEIS,0,,,,,,,,0,1775050648,error,Could not resolve handle or username @IDEIAS INCRÍVEIS,
+@IISuperwomanII,1,Lilly Singh,14200000.0,,2282.3,74.73,75111.4,Film,30,1775050649,ok,,Entertainment
+@TalkingFriends,1,Talking Tom & Friends TV,16200000.0,United States,154.2,0.23,18909.87,Humour,30,1775050649,ok,,Entertainment
+@CanalTaBombando,1,LEGENDA FUNK,14500000.0,Brazil,132.33,5.33,12254.33,Hip hop music,3,1775050650,ok,,Music
+@Planeta das Gêmeas,0,,,,,,,,0,1775050649,error,Could not resolve handle or username @Planeta das Gêmeas,
+@Dave and Ava - Nursery Rhymes and Baby Songs,0,,,,,,,,0,1775050649,error,Could not resolve handle or username @Dave and Ava - Nursery Rhymes and Baby Songs,
+@5-Minute Crafts FAMILY,0,,,,,,,,0,1775050649,error,Could not resolve handle or username @5-Minute Crafts FAMILY,
+@Sony AATH,0,,,,,,,,0,1775050650,error,Could not resolve handle or username @Sony AATH,
+@AMARINTV : อมรินทร์ทีวี,0,,,,,,,,0,1775050650,error,Could not resolve handle or username @AMARINTV : อมรินทร์ทีวี,
+@Super Polina,0,,,,,,,,0,1775050650,error,Could not resolve handle or username @Super Polina,
+@LOKESH GAMER,0,,,,,,,,0,1775050650,error,Could not resolve handle or username @LOKESH GAMER,
+@News24page,1,News 24,26700000.0,India,92.0,12.1,4653.3,Politics,30,1775050651,ok,,Info/Business
+@Niana Guerrero,0,,,,,,,,0,1775050650,error,Could not resolve handle or username @Niana Guerrero,
+@SriBalajiMovies,1,SriBalajiMovies,22900000.0,India,284.23,0.53,42850.57,Entertainment,30,1775050652,ok,,Entertainment
+@Drawblogs,1,Drawblogs,14200000.0,Peru,83.56,7.81,2045.62,Video game culture,16,1775050651,ok,,Tech/Gaming
+@Sidemen,1,Sidemen,23000000.0,United Kingdom,179568.2,5153.67,6733724.7,Entertainment,30,1775050651,ok,,Entertainment
+@zncoficial,1,Zé Neto e Cristiano,16100000.0,Brazil,1021.2,20.67,35032.17,Lifestyle (sociology),30,1775050651,ok,,Lifestyle
+@Super Senya,0,,,,,,,,0,1775050650,error,Could not resolve handle or username @Super Senya,
+@newvolgavideo,1,Volga Video,17900000.0,India,47.13,0.77,6853.8,Film,30,1775050652,ok,,Entertainment
+@rkddigital,1,RKD Studios,27400000.0,India,2717.03,41.07,380470.43,Entertainment,30,1775050652,ok,,Entertainment
+@hejproducao,1,Henrique e Juliano,17400000.0,Brazil,22164.14,412.96,4611849.71,Music of Latin America,28,1775050652,ok,,Music
+@MattyBRaps,1,MattyBRaps,15500000.0,United States,9445.43,82.6,2791466.71,Hip hop music,7,1775050652,ok,,Music
+@collegehumor,1,Dropout,15200000.0,United States,7482.6,256.63,168773.53,Film,30,1775050652,ok,,Entertainment
+@popskids,1,POPS Kids,19900000.0,Vietnam,592.8,0.0,126323.03,Television program,30,1775050652,ok,,Entertainment
+@La Rosa de Guadalupe,0,,,,,,,,0,1775050651,error,Could not resolve handle or username @La Rosa de Guadalupe,
+@حقائق وأسرار,0,,,,,,,,0,1775050652,error,Could not resolve handle or username @حقائق وأسرار,
+@LinusTechTips,1,Linus Tech Tips,16800000.0,Canada,30090.43,2012.57,860831.83,Lifestyle (sociology),30,1775050653,ok,,Lifestyle
+@T3DDYgames,1,T3ddy,19000000.0,Brazil,30301.6,850.4,502276.03,Lifestyle (sociology),30,1775050653,ok,,Lifestyle
+@indiancomedy,1,Shemaroo Comedy,22400000.0,India,94.7,3.13,19217.03,Entertainment,30,1775050654,ok,,Entertainment
+@XpressTV,1,XpressTV,17300000.0,Mexico,25399.3,333.04,2482564.13,Lifestyle (sociology),30,1775050653,ok,,Lifestyle
+@Harsh Beniwal,0,,,,,,,,0,1775050653,error,Could not resolve handle or username @Harsh Beniwal,
+@Like Nastya IDN,0,,,,,,,,0,1775050653,error,Could not resolve handle or username @Like Nastya IDN,
+@bbtvch7,1,Ch7HD,19500000.0,Thailand,20.07,0.37,1188.57,Television program,30,1775050658,ok,,Entertainment
+@chadwildclay,1,Chad Wild Clay,15700000.0,United States,18131.87,2509.43,1816838.13,Entertainment,30,1775050654,ok,,Entertainment
+@iTownGamePlay,1,iTownGamePlay *Terror&Diversión*,15100000.0,Spain,1581.93,101.63,25240.57,Action game,30,1775050654,ok,,Tech/Gaming
+@MartinGarrix,1,Martin Garrix,15200000.0,United States,8781.27,372.6,416826.77,Lifestyle (sociology),30,1775050654,ok,,Lifestyle
+@Canal Nostalgia,0,,,,,,,,0,1775050653,error,Could not resolve handle or username @Canal Nostalgia,
+@With Kids[위드키즈],0,,,,,,,,0,1775050653,error,Could not resolve handle or username @With Kids[위드키즈],
+@theslowmoguys,1,The Slow Mo Guys,15000000.0,United States,41399.55,2170.09,806330.09,Technology,11,1775050654,ok,,Tech/Gaming
+@LEGO,1,LEGO,21500000.0,United Kingdom,86.4,,2957.77,Lifestyle (sociology),30,1775050654,ok,,Lifestyle
+@mkmusicnews,1,MK MUSIC,18700000.0,Brazil,361.2,15.73,10724.73,Christian music,30,1775050656,ok,,Music
+@Daftar Populer,0,,,,,,,,0,1775050654,error,Could not resolve handle or username @Daftar Populer,
+@Mobile Legends: Bang Bang Official,0,,,,,,,,0,1775050654,error,Could not resolve handle or username @Mobile Legends: Bang Bang Official,
+@OfficialTrapCity,1,Trap City,13900000.0,Netherlands,401.5,13.53,10787.0,Hip hop music,30,1775050655,ok,,Music
+@inventonahoratv,1,Invento na Hora,14100000.0,Brazil,26055.63,655.63,271236.77,Lifestyle (sociology),30,1775050655,ok,,Lifestyle
+@And TV,0,,,,,,,,0,1775050654,error,Could not resolve handle or username @And TV,
+@PlayStation,1,PlayStation,16900000.0,United States,2120.1,198.53,67788.0,Action game,30,1775050655,ok,,Tech/Gaming
+@camilaloures,1,Camila Loures,16200000.0,Brazil,10841.1,324.73,206968.8,Lifestyle (sociology),30,1775050656,ok,,Lifestyle
+@Genierock,1,Genierock,17200000.0,Thailand,1770.6,153.87,55374.8,Pop music,30,1775050656,ok,,Music
+@Fede Vigevani,0,,,,,,,,0,1775050655,error,Could not resolve handle or username @Fede Vigevani,
+@It's Mamix,0,,,,,,,,0,1775050655,error,Could not resolve handle or username @It's Mamix,
+@#Refugio Mental,0,,,,,,,,0,1775050656,error,Could not resolve handle or username @#Refugio Mental,
+@Gyan Gamingㅤ,0,,,,,,,,0,1775050656,error,Could not resolve handle or username @Gyan Gamingㅤ,
+@Maha Fun Tv,0,,,,,,,,0,1775050656,error,Could not resolve handle or username @Maha Fun Tv,
+@Johny FamilyShow,0,,,,,,,,0,1775050656,error,Could not resolve handle or username @Johny FamilyShow,
+@Arif muhammad,0,,,,,,,,0,1775050656,error,Could not resolve handle or username @Arif muhammad,
+@AM3NlC,1,AM3NlC,14200000.0,Brazil,13869.8,223.3,176713.17,Lifestyle (sociology),30,1775050658,ok,,Lifestyle
+@GMMTVSPOTLIKE,1,GMMTV OFFICIAL​​,20300000.0,Thailand,6436.73,177.53,131737.57,Film,30,1775050659,ok,,Entertainment
+@NikkieTutorials,1,NikkieTutorials,15000000.0,Netherlands,286317.83,2725.3,6430777.33,Lifestyle (sociology),30,1775050657,ok,,Lifestyle
+@MasterskayaNastroeny,1,Мастерская Настроения,14100000.0,Russia,1430.0,59.53,170584.0,Lifestyle (sociology),30,1775050657,ok,,Lifestyle
+@MRamadanOfficial,1,Mohamed Ramadan I محمد رمضان,16200000.0,Egypt,7316.47,300.33,411391.3,Hip hop music,30,1775050657,ok,,Music
+@F2Freestylers,1,Pro Football Academy – The Next Gen of Ballers!,13900000.0,United Kingdom,560.1,10.27,40479.9,Sport,30,1775050657,ok,,Sports
+@BollywoodClassics,1,Bollywood Classics,22300000.0,,51.63,2.57,6102.4,Music of Asia,30,1775050657,ok,,Music
+@Smile Family Spanish,0,,,,,,,,0,1775050657,error,Could not resolve handle or username @Smile Family Spanish,
+@WWWengie,1,Wengie,13200000.0,United States,1688.78,59.83,57669.72,Entertainment,18,1775050659,ok,,Entertainment
+@thairathonline,0,,,,,,,,0,1775050658,error,Could not resolve handle or username @thairathonline,
+@Sourav Joshi Vlogs,0,,,,,,,,0,1775050658,error,Could not resolve handle or username @Sourav Joshi Vlogs,
+@TeamFilmsBhojpuri,1,Team Films Bhojpuri,17200000.0,India,149.43,6.5,20030.83,Music,30,1775050663,ok,,Music
+@SOMOY TV,0,,,,,,,,0,1775050658,error,Could not resolve handle or username @SOMOY TV,
+@bbchindi,1,BBC News Hindi,21700000.0,,3021.1,194.77,166281.23,Society,30,1775050663,ok,,Info/Business
+@Anasala I أنس و أصالة,0,,,,,,,,0,1775050658,error,Could not resolve handle or username @Anasala I أنس و أصالة,
+@Zach Choi ASMR,0,,,,,,,,0,1775050658,error,Could not resolve handle or username @Zach Choi ASMR,
+@MAIKI021,1,MAIKI021,13800000.0,Brazil,5280.12,251.5,46911.38,Lifestyle (sociology),16,1775050659,ok,,Lifestyle
+@bomberball,1,Bie The Ska,15000000.0,Thailand,3592.87,36.83,396731.87,Video game culture,30,1775050659,ok,,Tech/Gaming
+@Doc Tops,0,,,,,,,,0,1775050659,error,Could not resolve handle or username @Doc Tops,
+@mispastelitosyoutub,1,Mis Pastelitos,18200000.0,Mexico,89380.07,2176.63,3503017.3,Food,30,1775050659,ok,,Lifestyle
+@CH8vdo,1,ช่อง8 : Thai Ch8,17500000.0,Thailand,259.07,61.3,16197.0,Entertainment,30,1775050665,ok,,Entertainment
+@Трум Трум,0,,,,,,,,0,1775050659,error,Could not resolve handle or username @Трум Трум,
+@vetealaversha,1,Darkar Company Studios,14200000.0,Mexico,21890.0,544.0,348304.0,Action game,2,1775050660,ok,,Tech/Gaming
+@ndtvindia,1,NDTV India,25000000.0,India,33.3,0.37,5643.03,Politics,30,1775050663,ok,,Info/Business
+@dangmattsmith,1,DangMattSmith,15200000.0,United States,1179.53,134.0,58305.1,Lifestyle (sociology),30,1775050661,ok,,Lifestyle
+@O Canal do Joãozinho - Little Angel Português,0,,,,,,,,0,1775050660,error,Could not resolve handle or username @O Canal do Joãozinho - Little Angel Português,
+@zeefilmimusic,1,Zee Music Classic,20400000.0,India,294.9,6.43,56775.97,Entertainment,30,1775050661,ok,,Entertainment
+@Kurt Hugo Schneider,0,,,,,,,,0,1775050660,error,Could not resolve handle or username @Kurt Hugo Schneider,
+@AzzyLand,1,AzzyLand,12900000.0,Canada,,,,Entertainment,0,1775050661,ok,,Entertainment
+@TWICE,1,TWICE,19100000.0,,69681.9,917.0,1595472.07,Music,30,1775050661,ok,,Music
+@The World Adventures हिन्दी,0,,,,,,,,0,1775050661,error,Could not resolve handle or username @The World Adventures हिन्दी,
+@NehaKakkarOfficial,1,Neha Kakkar,416.0,,,,,Music of Asia,0,1775050662,ok,,Music
+@Zach King,0,,,,,,,,0,1775050662,error,Could not resolve handle or username @Zach King,
+@Daily Dose Of Internet,0,,,,,,,,0,1775050662,error,Could not resolve handle or username @Daily Dose Of Internet,
+@laharimusic,1,Lahari Music,19100000.0,India,836.77,26.57,62542.0,Film,30,1775050664,ok,,Entertainment
+@TheABSCBNNews,1,ABS-CBN News,19000000.0,Philippines,5.73,0.8,263.33,Society,30,1775050663,ok,,Info/Business
+@CNN,1,CNN,19400000.0,United States,629.4,265.83,37621.9,Society,30,1775050663,ok,,Info/Business
+@NOBRU,1,nobru,156.0,,,,,Sport,0,1775050663,ok,,Sports
+@fcbarcelona,1,FC Barcelona,25500000.0,,7512.6,107.33,168191.33,Sport,30,1775050665,ok,,Sports
+@A2 Motivation {Arvind Arora},0,,,,,,,,0,1775050663,error,Could not resolve handle or username @A2 Motivation {Arvind Arora},
+@crashcourse,1,CrashCourse,17000000.0,United States,3877.9,82.73,72962.77,Knowledge,30,1775050664,ok,,Info/Business
+@UFC,1,UFC,22000000.0,United States,2726.03,311.37,158372.93,Mixed martial arts,30,1775050664,ok,,Sports
+@infobells,0,,,,,,,,0,1775050663,error,Could not resolve handle or username @infobells,
+@pognalishow,1,Дима Масленников  ,19500000.0,United States,230143.9,9282.3,7329392.57,Television program,30,1775050664,ok,,Entertainment
+@TazerCraft,1,TazerCraft,15100000.0,Brazil,,,,Action-adventure game,0,1775050665,ok,,Tech/Gaming
+@GallinaPintadita,1,Gallina Pintadita,15200000.0,,4802.0,0.0,6932674.0,Entertainment,1,1775050664,ok,,Entertainment
+@elcanaldePlimPlim,1,El Payaso Plim Plim,33300000.0,Argentina,,0.0,953259.93,Entertainment,30,1775050665,ok,,Entertainment
+@RosannaPansino,1,Rosanna Pansino,14800000.0,United States,2637.9,54.9,62122.97,Hobby,30,1775050665,ok,,Lifestyle
+@Online Job,0,,,,,,,,0,1775050665,error,Could not resolve handle or username @Online Job,
+@Kuplinov ► Play,0,,,,,,,,0,1775050665,error,Could not resolve handle or username @Kuplinov ► Play,
+@EdisonPts,1,EdisonPts,17200000.0,Russia,24281.73,1155.47,444967.57,Role-playing video game,30,1775050666,ok,,Tech/Gaming
+@MNCTVOfficial,1,HOME MNCTV,210.0,,,,,,0,1775050665,ok,,
+@Totoy kids - Español,0,,,,,,,,0,1775050665,error,Could not resolve handle or username @Totoy kids - Español,
+@The LaBrant Fam,0,,,,,,,,0,1775050665,error,Could not resolve handle or username @The LaBrant Fam,
+@Bizarrap,1,Bizarrap,23000000.0,Argentina,1055236.33,54484.67,41823223.33,Pop music,3,1775050666,ok,,Music
+@Wow Kidz Action,0,,,,,,,,0,1775050665,error,Could not resolve handle or username @Wow Kidz Action,
+@AtlanticVideos,1,Atlantic Records,15900000.0,United States,3801.62,138.48,278406.9,Electronic music,21,1775050666,ok,,Music
+@Blippi Español,0,,,,,,,,0,1775050666,error,Could not resolve handle or username @Blippi Español,
+@CoryxKenshin,1,CoryxKenshin,24200000.0,United States,407799.73,26749.0,8886720.57,Action game,30,1775050666,ok,,Tech/Gaming
+@theRadBrad,1,theRadBrad,13900000.0,United States,17382.13,1022.6,464955.6,Action-adventure game,30,1775050666,ok,,Tech/Gaming
+@mymissanand,1,MyMissAnand,13900000.0,India,5199.27,344.53,625386.3,Entertainment,30,1775050667,ok,,Entertainment
+@Narins Beauty,0,,,,,,,,0,1775050666,error,Could not resolve handle or username @Narins Beauty,
+@TV Ana Emilia,0,,,,,,,,0,1775050666,error,Could not resolve handle or username @TV Ana Emilia,
+@iloveindianmakeup,1,Anaysa,13600000.0,India,2600.4,111.53,302898.87,Film,30,1775050667,ok,,Entertainment
+@Auron,1,Auron,15800000.0,Spain,31848.97,629.23,838365.3,Action game,30,1775050667,ok,,Tech/Gaming
+@Unspeakable,1,Unspeakable,19700000.0,United States,21601.57,1961.87,2392134.63,Entertainment,30,1775050667,ok,,Entertainment
+@narendramodionline,1,NMF News,22800000.0,India,669.6,128.73,24080.43,Politics,30,1775050667,ok,,Info/Business
+@Zig & Sharko,0,,,,,,,,0,1775050667,error,Could not resolve handle or username @Zig & Sharko,
+@The Shiny Peanut,0,,,,,,,,0,1775050667,error,Could not resolve handle or username @The Shiny Peanut,
+@djzoi0,1,Everson Zoio,13300000.0,Brazil,157788.0,11517.0,1153712.0,Entertainment,1,1775050668,ok,,Entertainment
+@Fun For Kids TV - Hindi Rhymes,0,,,,,,,,0,1775050667,error,Could not resolve handle or username @Fun For Kids TV - Hindi Rhymes,
+@50CentMusic,1,50 Cent,18300000.0,,21747.6,2678.5,607958.9,Pop music,10,1775050668,ok,,Music
+@News18 India,0,,,,,,,,0,1775050668,error,Could not resolve handle or username @News18 India,
+@MattSDance,1,Matt Steffanina,15400000.0,United States,8873.97,86.0,879454.93,Lifestyle (sociology),30,1775050668,ok,,Lifestyle
+@SaturdayNightLive,1,Saturday Night Live,17000000.0,United States,43167.77,1184.3,1399049.03,Television program,30,1775050669,ok,,Entertainment
+@MrSuicideSheep,1,MrSuicideSheep,12700000.0,Canada,1305.3,44.77,31207.03,Independent music,30,1775050668,ok,,Music
+@YOLO,1,YOLO,492.0,,,,,,0,1775050668,ok,,
+@MrBeast Shorts,0,,,,,,,,0,1775050668,error,Could not resolve handle or username @MrBeast Shorts,
+@SrtaLynaV,1,Lyna,24200000.0,Argentina,17084.23,877.63,1365979.53,Simulation video game,30,1775050670,ok,,Tech/Gaming
+@MazhavilManorama,1,Mazhavil Manorama,20600000.0,India,12.3,0.4,1230.73,Film,30,1775050669,ok,,Entertainment
+@Desi Gamers,0,,,,,,,,0,1775050668,error,Could not resolve handle or username @Desi Gamers,
+@ChallengeAcceptedInc,1,Aphmau,24700000.0,United States,13279.53,937.77,601831.3,Action game,30,1775050669,ok,,Tech/Gaming
+@The Q,0,,,,,,,,0,1775050669,error,Could not resolve handle or username @The Q,
+@Aadishakti Films,0,,,,,,,,0,1775050669,error,Could not resolve handle or username @Aadishakti Films,
+@O Que Não Dizer Oficial,0,,,,,,,,0,1775050669,error,Could not resolve handle or username @O Que Não Dizer Oficial,
+@skillzaisherebooya,1,Conor Maynard,13700000.0,United States,7497.75,417.0,241197.5,Music,4,1775050670,ok,,Music
+@twentyonepilots,1,twenty one pilots,14200000.0,United States,51921.87,2175.5,2031988.5,Music,30,1775050670,ok,,Music
+@#Refúgio Mental,0,,,,,,,,0,1775050669,error,Could not resolve handle or username @#Refúgio Mental,
+@ABCNews,1,ABC News,19500000.0,United States,700.9,395.61,65789.1,Society,30,1775050670,ok,,Info/Business
+@DALLMYD,1,DALLMYD,13800000.0,United States,6281.78,265.41,227178.52,Hobby,27,1775050670,ok,,Lifestyle
+@PozzitifonShow,1,Поззи,14600000.0,United States,38586.0,5252.0,1289181.0,Video game culture,1,1775050671,ok,,Tech/Gaming
+@1032010814,0,,,,,,,,0,1775050670,error,Could not resolve handle or username @1032010814,
+@typicalgamer,1,Typical Gamer,15900000.0,Canada,1968.3,79.7,74588.43,Role-playing video game,30,1775050670,ok,,Tech/Gaming
+@123 GO! Spanish,0,,,,,,,,0,1775050670,error,Could not resolve handle or username @123 GO! Spanish,
+@Like Nastya VNM,0,,,,,,,,0,1775050670,error,Could not resolve handle or username @Like Nastya VNM,
+@Health Time,0,,,,,,,,0,1775050670,error,Could not resolve handle or username @Health Time,
+@Dangal TV Channel,0,,,,,,,,0,1775050670,error,Could not resolve handle or username @Dangal TV Channel,
+@Wish 107.5,0,,,,,,,,0,1775050670,error,Could not resolve handle or username @Wish 107.5,
+@RedeTVhdBrasil,1,RedeTV,13700000.0,Brazil,94.7,8.23,5460.4,Society,30,1775050671,ok,,Info/Business
+@NishaMadhulika,1,NishaMadhulika,15100000.0,India,3136.6,267.57,222899.37,Food,30,1775050672,ok,,Lifestyle
+@ETV Jabardasth,0,,,,,,,,0,1775050671,error,Could not resolve handle or username @ETV Jabardasth,
+@canalparafernalha,1,Vetor Humor,12700000.0,Brazil,103.2,0.9,6272.13,Film,30,1775050671,ok,,Entertainment
+@Knowledge Tv हिन्दी,0,,,,,,,,0,1775050671,error,Could not resolve handle or username @Knowledge Tv हिन्दी,
+@JDCav24,1,ATHLEAN-X™,14200000.0,United States,11113.53,322.7,387009.57,Physical fitness,30,1775050672,ok,,Sports
+@MusicTalentNow,1,Top Viral Talent,13300000.0,United States,762.83,22.0,72682.87,Entertainment,30,1775050672,ok,,Entertainment
+@Vlad and Niki ARA,0,,,,,,,,0,1775050671,error,Could not resolve handle or username @Vlad and Niki ARA,
+@React,1,REACT,20100000.0,United States,3549.2,213.9,92053.2,Film,30,1775050672,ok,,Entertainment
+@zeetvtelugu,1,Zee Telugu,17800000.0,India,2.87,0.07,76.13,Entertainment,30,1775050673,ok,,Entertainment
+@BUDI01 GAMING,0,,,,,,,,0,1775050672,error,Could not resolve handle or username @BUDI01 GAMING,
+@MstrJames,1,Hacksmith Industries,15400000.0,Canada,10476.2,107.7,208370.97,Technology,30,1775050673,ok,,Tech/Gaming
+@Blossom,0,,,,,,,,0,1775050672,error,Could not resolve handle or username @Blossom,
+@JesseAndMike,1,JesseAndMike,13200000.0,United States,2352.0,542.27,273818.67,Entertainment,15,1775050673,ok,,Entertainment
+@LOUD,1,WatchLOUD,240000.0,,,,,Music,0,1775050673,ok,,Music
+@Hongyu ASMR 홍유,0,,,,,,,,0,1775050672,error,Could not resolve handle or username @Hongyu ASMR 홍유,
+@Taarak Mehta Ka Ooltah Chashmah,0,,,,,,,,0,1775050672,error,Could not resolve handle or username @Taarak Mehta Ka Ooltah Chashmah,
+@htpunjabi,1,Lokdhun Punjabi,14600000.0,India,12170.31,673.17,494368.87,Entertainment,30,1775050673,ok,,Entertainment
+@Piuzinho,1,Piuzinho,12800000.0,Brazil,23554.77,453.27,196659.3,Action-adventure game,30,1775050673,ok,,Tech/Gaming
+@DisneyChannelUK,1,Disney Club UK,13700000.0,United Kingdom,137.07,0.0,32958.83,Entertainment,30,1775050673,ok,,Entertainment
+@Meghan Trainor,0,,,,,,,,0,1775050673,error,Could not resolve handle or username @Meghan Trainor,
+@Juliana Baltar,0,,,,,,,,0,1775050673,error,Could not resolve handle or username @Juliana Baltar,
+@5-Minute Crafts Recycle,0,,,,,,,,0,1775050673,error,Could not resolve handle or username @5-Minute Crafts Recycle,
+@أترو/Atro,0,,,,,,,,0,1775050673,error,Could not resolve handle or username @أترو/Atro,
+@alanalan9635,1,Stokes Twins,138000000.0,United States,492140.93,3009.87,32848924.0,Lifestyle (sociology),30,1775050674,ok,,Lifestyle
+@BBC,1,BBC,15400000.0,United Kingdom,344.97,7.23,11201.73,Film,30,1775050680,ok,,Entertainment
+@AdexeOficial,1,Adexe & Nau,12900000.0,Spain,1990.0,126.37,56382.93,Pop music,30,1775050674,ok,,Music
+@gymvirtual,1,gymvirtual,13700000.0,Spain,1306.03,35.4,39268.8,Health,30,1775050675,ok,,Info/Business
+@einerdtv,1,Ei Nerd,14400000.0,Brazil,12004.13,401.33,142902.27,Film,30,1775050676,ok,,Entertainment
+@Alex Gonzaga Official,0,,,,,,,,0,1775050674,error,Could not resolve handle or username @Alex Gonzaga Official,
+@Gibby :),0,,,,,,,,0,1775050674,error,Could not resolve handle or username @Gibby :),
+@LittleBabyBumEspanol,1,Little Baby Bum en Español,12500000.0,Spain,60.47,0.0,15152.43,Film,30,1775050674,ok,,Entertainment
+@Melon City Show - برنامج ولاية بطيخ,0,,,,,,,,0,1775050674,error,Could not resolve handle or username @Melon City Show - برنامج ولاية بطيخ,
+@Troom Troom PT,0,,,,,,,,0,1775050674,error,Could not resolve handle or username @Troom Troom PT,
+@Jake Fellman,0,,,,,,,,0,1775050674,error,Could not resolve handle or username @Jake Fellman,
+@jazzghost1,1,Jazzghost,23400000.0,,121536.93,8198.67,2721946.93,Role-playing video game,30,1775050676,ok,,Tech/Gaming
+@Like Nastya Stories,0,,,,,,,,0,1775050675,error,Could not resolve handle or username @Like Nastya Stories,
+@Bela Bagunça,0,,,,,,,,0,1775050675,error,Could not resolve handle or username @Bela Bagunça,
+@tseriesregional,1,T-Series Regional,16900000.0,India,226.9,23.7,124926.87,Music,30,1775050678,ok,,Music
+@Brawl Stars,0,,,,,,,,0,1775050675,error,Could not resolve handle or username @Brawl Stars,
+@Crescendo com Luluca,0,,,,,,,,0,1775050675,error,Could not resolve handle or username @Crescendo com Luluca,
+@PowerfulJRE,1,PowerfulJRE,20800000.0,,20576.6,6368.27,1027143.8,Entertainment,30,1775050676,ok,,Entertainment
+@bbcnews,1,BBC News,19600000.0,United Kingdom,652.33,486.26,76493.2,Society,30,1775050676,ok,,Info/Business
+@JustForLaughsTV,1,Just For Laughs Gags,14200000.0,United States,1052.4,23.73,95597.6,Humour,30,1775050678,ok,,Entertainment
+@NORMAN FAIT DES VIDÉOS,0,,,,,,,,0,1775050676,error,Could not resolve handle or username @NORMAN FAIT DES VIDÉOS,
+@GoldClassics,1,Goldmines Premiere,16800000.0,India,58.43,,8224.27,Film,30,1775050677,ok,,Entertainment
+@awakeningrecords,1,Awakening Music,15600000.0,United Kingdom,4933.47,285.8,429010.7,Christian music,30,1775050677,ok,,Music
+@OficialPeppa,1,Peppa Pig em Português Brasil - Canal Oficial,16800000.0,Brazil,57.13,,10738.07,Entertainment,30,1775050678,ok,,Entertainment
+@zeebangla,1,Zee Bangla,21200000.0,India,24.2,0.27,996.67,Film,30,1775050680,ok,,Entertainment
+@MY FAMILY,0,,,,,,,,0,1775050676,error,Could not resolve handle or username @MY FAMILY,
+@Kabita's Kitchen,0,,,,,,,,0,1775050677,error,Could not resolve handle or username @Kabita's Kitchen,
+@KaKa Kids TV - Nursery Rhymes Kids Animated Songs,0,,,,,,,,0,1775050677,error,Could not resolve handle or username @KaKa Kids TV - Nursery Rhymes Kids Animated Songs,
+@EU FICO LOKO,0,,,,,,,,0,1775050677,error,Could not resolve handle or username @EU FICO LOKO,
+@Zeinab Harake,0,,,,,,,,0,1775050678,error,Could not resolve handle or username @Zeinab Harake,
+@OReinho,1,O Reino Infantil,16400000.0,Brazil,149.7,0.0,40551.2,Entertainment,30,1775050679,ok,,Entertainment
+@HZHtube Kids Fun,0,,,,,,,,0,1775050678,error,Could not resolve handle or username @HZHtube Kids Fun,
+@HusamYK,1,Katakit Baby TV,23400000.0,Saudi Arabia,121525.7,0.0,23954199.47,Film,30,1775050679,ok,,Entertainment
+@MrGear,1,Eula. Kestner,43.0,,,,,,0,1775050679,ok,,
+@Migosatl,1,Migos ATL,13100000.0,,,,,Music,0,1775050679,ok,,Music
+@TheDaniRep,1,DaniRep | +6 Vídeos Diarios De GTA 5 Online!,13900000.0,Spain,4156.6,63.37,86195.27,Role-playing video game,30,1775050681,ok,,Tech/Gaming
+@colinfurze,1,colinfurze,13300000.0,United Kingdom,100765.89,4379.0,2969208.68,Hobby,19,1775050684,ok,,Lifestyle
+@Planet Earth INDIA,0,,,,,,,,0,1775050679,error,Could not resolve handle or username @Planet Earth INDIA,
+@karameeshchannel,1,karameeshchannel,17300000.0,Jordan,1668.2,,233821.07,Film,30,1775050680,ok,,Entertainment
+@RayWilliamJohnson,1,Ray William Johnson,18700000.0,United States,12496.97,518.73,336292.87,Society,30,1775050681,ok,,Info/Business
+@Lulu99,1,Lulu99,13000000.0,Colombia,8976.67,451.53,286295.57,Lifestyle (sociology),30,1775050680,ok,,Lifestyle
+@Dear Sir,0,,,,,,,,0,1775050680,error,Could not resolve handle or username @Dear Sir,
+@officialjassrecords,1,Jass Records,14600000.0,India,888.77,31.83,184074.07,Lifestyle (sociology),30,1775050682,ok,,Lifestyle
+@YairAuriazul,1,Yair17,14100000.0,Mexico,36692.1,2302.0,679936.03,Lifestyle (sociology),30,1775050681,ok,,Lifestyle
+@disneyjunior,1,Dis̈̇̃n̈̇̃ë̇̃y J̈̇̃ü̇̃nï̇or̈̇̃,47.0,,,,,,0,1775050680,ok,,
+@ГЛЕНТ,0,,,,,,,,0,1775050681,error,Could not resolve handle or username @ГЛЕНТ,
+@Study IQ education,0,,,,,,,,0,1775050681,error,Could not resolve handle or username @Study IQ education,
+@Más SKabeche,0,,,,,,,,0,1775050681,error,Could not resolve handle or username @Más SKabeche,
+@My Mate Nate,0,,,,,,,,0,1775050681,error,Could not resolve handle or username @My Mate Nate,
+@FrontaL Gaming,0,,,,,,,,0,1775050681,error,Could not resolve handle or username @FrontaL Gaming,
+@Blockbuster Movies,0,,,,,,,,0,1775050681,error,Could not resolve handle or username @Blockbuster Movies,
+@JOJO TV - Hindi Stories,0,,,,,,,,0,1775050681,error,Could not resolve handle or username @JOJO TV - Hindi Stories,
+@AvrilLavigne,1,Avril Lavigne,13500000.0,,45554.5,2493.2,1338819.4,Pop music,10,1775050682,ok,,Music
+@Dani Russo Tv,0,,,,,,,,0,1775050682,error,Could not resolve handle or username @Dani Russo Tv,
+@Wolfoo Channel,0,,,,,,,,0,1775050682,error,Could not resolve handle or username @Wolfoo Channel,
+@MORGENSHTERN,1,Канал продается!,457.0,Russia,,,,,0,1775050682,ok,,
+@rebeccazamolo1,1,Rebecca Zamolo,21600000.0,United States,74889.83,2051.97,6058809.17,Entertainment,30,1775050683,ok,,Entertainment
+@Ice Cream Rolls,0,,,,,,,,0,1775050682,error,Could not resolve handle or username @Ice Cream Rolls,
+@TommyInnit,1,TommyInnit,15000000.0,United Kingdom,22991.17,797.83,283417.33,Lifestyle (sociology),30,1775050683,ok,,Lifestyle
+@Morgz,1,Morgz,12600000.0,United Kingdom,1351.2,116.6,76208.2,Lifestyle (sociology),30,1775050683,ok,,Lifestyle
+@TheInfographicsShow,1,The Infographics Show,15400000.0,United States,4800.87,815.07,223068.03,Society,30,1775050683,ok,,Info/Business
+@1veritasium,1,Veritasium,20500000.0,United States,207732.67,11119.07,7578946.03,Knowledge,30,1775050683,ok,,Info/Business
+@Come Play With Me,0,,,,,,,,0,1775050682,error,Could not resolve handle or username @Come Play With Me,
+@hamaarbhojpuri,1,T-Series Hamaar Bhojpuri,23800000.0,India,8855.47,361.5,530696.9,Music of Asia,30,1775050685,ok,,Music
+@Troom Troom India,0,,,,,,,,0,1775050683,error,Could not resolve handle or username @Troom Troom India,
+@YOLO AVENTURAS,0,,,,,,,,0,1775050683,error,Could not resolve handle or username @YOLO AVENTURAS,
+@TheDodoSite,1,The Dodo,18300000.0,United States,7991.23,301.33,193823.83,Entertainment,30,1775050684,ok,,Entertainment
+@Panda,1,HybridPanda,504000.0,United Kingdom,27.93,1.13,893.63,Action-adventure game,30,1775050684,ok,,Tech/Gaming
+@Troom Troom Indonesia,0,,,,,,,,0,1775050683,error,Could not resolve handle or username @Troom Troom Indonesia,
+@RaptorGamer,1,RaptorGamer,15700000.0,Ecuador,1706.77,94.3,40044.77,Action-adventure game,30,1775050684,ok,,Tech/Gaming
+@CrazyRussianHacker,1,CrazyRussianHacker,12000000.0,United States,7427.13,150.67,574568.9,Technology,30,1775050684,ok,,Tech/Gaming
+@Kluna Tik,0,,,,,,,,0,1775050684,error,Could not resolve handle or username @Kluna Tik,
+@Codiscos,1,Codiscos,17000000.0,Colombia,220.97,5.97,23790.67,Music of Latin America,30,1775050686,ok,,Music
+@Garena Free Fire LATAM,0,,,,,,,,0,1775050684,error,Could not resolve handle or username @Garena Free Fire LATAM,
+@LIV Crime,0,,,,,,,,0,1775050684,error,Could not resolve handle or username @LIV Crime,
+@hoiitsroi,1,Alex Wassabi,11300000.0,United States,1332.9,81.93,30404.97,Entertainment,30,1775050685,ok,,Entertainment
+@Nat and Essie,0,,,,,,,,0,1775050684,error,Could not resolve handle or username @Nat and Essie,
+@thinkmusicindia,1,Think Music India,22200000.0,India,18300.4,527.63,1439324.67,Music of Asia,30,1775050686,ok,,Music
+@The MriDul,0,,,,,,,,0,1775050685,error,Could not resolve handle or username @The MriDul,
+@BanderitaX,1,BanderitaX,20500000.0,Saudi Arabia,60777.33,2757.77,1502076.67,Role-playing video game,30,1775050685,ok,,Tech/Gaming
+@Americanvogue,1,Vogue,16300000.0,United States,18775.67,549.33,347407.97,Entertainment,30,1775050685,ok,,Entertainment
+@luansantanaoficial,1,Luan Santana,13400000.0,United States,2228.2,110.3,92048.27,Music of Latin America,30,1775050686,ok,,Music
+@FIFATV,1,FIFA,24800000.0,Switzerland,993.83,94.3,54643.63,Association football,30,1775050686,ok,,Sports
+@Davie504,1,Davie504,13800000.0,Italy,76276.7,2376.63,1759458.93,Music,30,1775050686,ok,,Music
+@Mor Haryanvi,0,,,,,,,,0,1775050686,error,Could not resolve handle or username @Mor Haryanvi,
+@ExpCaseros,1,ExpCaseros,11200000.0,Spain,1074.0,97.0,65521.0,Lifestyle (sociology),1,1775050687,ok,,Lifestyle
+@TsMadaan,1,TsMadaan,11800000.0,India,214.53,52.8,15724.6,Lifestyle (sociology),30,1775050687,ok,,Lifestyle
+@Koo Koo TV - Hindi,0,,,,,,,,0,1775050686,error,Could not resolve handle or username @Koo Koo TV - Hindi,
+@CHHOTU KI MASTI,0,,,,,,,,0,1775050686,error,Could not resolve handle or username @CHHOTU KI MASTI,
+@Mythpat,1,Mythpat,17000000.0,India,86816.38,11482.15,4419231.62,Action game,13,1775050687,ok,,Tech/Gaming
+@ndtv,1,NDTV,15700000.0,India,85.33,3.7,3653.23,Politics,30,1775050688,ok,,Info/Business
+@Ya - Alisa,0,,,,,,,,0,1775050686,error,Could not resolve handle or username @Ya - Alisa,
+@Coke Studio,0,,,,,,,,0,1775050686,error,Could not resolve handle or username @Coke Studio,
+@DeGoBooM,1,DeGoBooM,23700000.0,Chile,4832.1,280.8,462543.43,Casual game,30,1775050687,ok,,Tech/Gaming
+@htbhakti,1,Sonotek Bhakti,15800000.0,India,353.57,41.0,29189.03,Religion,30,1775050690,ok,,Info/Business
+@MrTimbaVk,1,Timba Vk,13700000.0,Spain,6099.37,343.73,218456.0,Role-playing video game,30,1775050688,ok,,Tech/Gaming
+@Yudist Ardhana,0,,,,,,,,0,1775050687,error,Could not resolve handle or username @Yudist Ardhana,
+@elrubius,1,Rubius Z,14200000.0,Spain,117674.43,3592.6,2403542.07,Role-playing video game,30,1775050688,ok,,Tech/Gaming
+@Trakin Tech,0,,,,,,,,0,1775050687,error,Could not resolve handle or username @Trakin Tech,
+@FelipeViktor,1,LipaoGamer,13800000.0,Brazil,4207.27,134.33,149708.5,Racing video game,30,1775050690,ok,,Tech/Gaming
+@CaptainSparklez,1,CaptainSparklez,11400000.0,United States,9440.08,708.25,164613.83,Action-adventure game,24,1775050688,ok,,Tech/Gaming
+@ماشا و الدب,0,,,,,,,,0,1775050688,error,Could not resolve handle or username @ماشا و الدب,
+@MBCMASR,1,MBC مصر,13600000.0,Egypt,142.33,17.17,14713.93,Entertainment,30,1775050692,ok,,Entertainment
+@eltreceok,1,eltrece,14500000.0,Argentina,108.3,14.8,5238.73,Entertainment,30,1775050691,ok,,Entertainment
+@Infobells Bangla,0,,,,,,,,0,1775050688,error,Could not resolve handle or username @Infobells Bangla,
+@MTV2,1,Wild 'N Out,15300000.0,United States,2595.27,75.03,194509.73,Hip hop music,30,1775050689,ok,,Music
+@DANIEL EL TRAVIESO VIDEOS,0,,,,,,,,0,1775050688,error,Could not resolve handle or username @DANIEL EL TRAVIESO VIDEOS,
+@UnspeakableGaming,1,UnspeakableReacts,11600000.0,United States,3023.53,209.13,239807.37,Entertainment,30,1775050690,ok,,Entertainment
+@luzugames,1,luzugames,11000000.0,Spain,,,,Action-adventure game,0,1775050689,ok,,Tech/Gaming
+@lokdhuntv,1,Wave Music Bhakti ,14000000.0,India,33.37,3.13,4436.27,Music,30,1775050690,ok,,Music
+@gmanews,1,GMA News,17900000.0,Philippines,81.4,13.7,7448.07,Television program,30,1775050693,ok,,Entertainment
+@Sony Music South,0,,,,,,,,0,1775050690,error,Could not resolve handle or username @Sony Music South,
+@VyQwaint,1,Vy Qwaint,12900000.0,United States,21606.83,3301.9,2548480.23,Entertainment,30,1775050691,ok,,Entertainment
+@Wolfoo Family,0,,,,,,,,0,1775050690,error,Could not resolve handle or username @Wolfoo Family,
+@KompasTVNews,1,KOMPASTV,19900000.0,Indonesia,28.1,17.7,2796.5,Society,30,1775050694,ok,,Info/Business
+@MaJa Tv Hindi Stories,0,,,,,,,,0,1775050690,error,Could not resolve handle or username @MaJa Tv Hindi Stories,
+@Hero Movies 2022,0,,,,,,,,0,1775050691,error,Could not resolve handle or username @Hero Movies 2022,
+@Rauw Alejandro,0,,,,,,,,0,1775050691,error,Could not resolve handle or username @Rauw Alejandro,
+@الجانب المُشرق | Bright Side Arabic,0,,,,,,,,0,1775050691,error,Could not resolve handle or username @الجانب المُشرق | Bright Side Arabic,
+@123 GO!,0,,,,,,,,0,1775050691,error,Could not resolve handle or username @123 GO!,
+@TastyCompot,1,Компот,17300000.0,United Arab Emirates,21345.5,1902.43,551994.73,Role-playing video game,30,1775050692,ok,,Tech/Gaming
+@办公室小野 Ms Yeah,0,,,,,,,,0,1775050691,error,Could not resolve handle or username @办公室小野 Ms Yeah,
+@epicfortnite,1,Fortnite,13400000.0,United States,9384.17,336.47,251700.1,Role-playing video game,30,1775050693,ok,,Tech/Gaming
+@Magic Five,0,,,,,,,,0,1775050691,error,Could not resolve handle or username @Magic Five,
+@Biperysusamigos,1,Biper y sus Amigos,15400000.0,United States,6928.48,0.0,1063867.97,Film,30,1775050692,ok,,Entertainment
+@crackrockcandy,1,Maymo,12100000.0,United States,1940.9,77.9,1015923.6,Lifestyle (sociology),20,1775050693,ok,,Lifestyle
+@FirstWeFeast,1,First We Feast,15300000.0,,5057.87,239.57,207385.23,Film,30,1775050692,ok,,Entertainment
+@realannoyingorange,1,Annoying Orange,13700000.0,United States,4210.53,579.63,191253.17,Film,30,1775050694,ok,,Entertainment
+@ElRinconDeGiorgio,1,El Rincón De Giorgio,12300000.0,Spain,80642.92,2329.62,1396707.92,Role-playing video game,13,1775050693,ok,,Tech/Gaming
+@ExplosmEntertainment,1,ExplosmEntertainment,12900000.0,,20525.93,208.57,442312.17,Film,30,1775050694,ok,,Entertainment
+@Jaiden Animations,0,,,,,,,,0,1775050693,error,Could not resolve handle or username @Jaiden Animations,
+@Emily Tube,0,,,,,,,,0,1775050693,error,Could not resolve handle or username @Emily Tube,
+@yogawithadriene,1,Yoga With Adriene,13500000.0,United States,10436.83,465.83,410140.8,Health,30,1775050694,ok,,Info/Business
+@Mo Vlogs,0,,,,,,,,0,1775050693,error,Could not resolve handle or username @Mo Vlogs,
+@Star Casablanca | نجوم الدار البيضاء,0,,,,,,,,0,1775050693,error,Could not resolve handle or username @Star Casablanca | نجوم الدار البيضاء,
+@BBCEarth,1,BBC Earth,14400000.0,United Kingdom,2121.97,120.33,225975.1,Lifestyle (sociology),30,1775050695,ok,,Lifestyle
+@Morphle TV,0,,,,,,,,0,1775050694,error,Could not resolve handle or username @Morphle TV,
+@Free Fire India Official,0,,,,,,,,0,1775050694,error,Could not resolve handle or username @Free Fire India Official,
+@YMWayneCarter,1,Lil Wayne,14300000.0,United States,27356.21,2601.42,1584364.0,Music,24,1775050695,ok,,Music
+@GoldminesAction,0,,,,,,,,0,1775050694,error,Could not resolve handle or username @GoldminesAction,
+@coisadenerd,1,Coisa de Nerd,11100000.0,Brazil,51033.21,788.29,524776.71,Lifestyle (sociology),14,1775050695,ok,,Lifestyle
+@Vlad and Niki ESP,0,,,,,,,,0,1775050694,error,Could not resolve handle or username @Vlad and Niki ESP,
+@Alejo Igoa,0,,,,,,,,0,1775050694,error,Could not resolve handle or username @Alejo Igoa,
+@Simone e Simaria,0,,,,,,,,0,1775050694,error,Could not resolve handle or username @Simone e Simaria,
+@YoungBoy Never Broke Again,0,,,,,,,,0,1775050695,error,Could not resolve handle or username @YoungBoy Never Broke Again,
+@TheViralFeverVideos,1,The Viral Fever,13100000.0,India,658.63,36.67,26130.83,Film,30,1775050696,ok,,Entertainment
+@hawkrecord,1,Single Track Studio,13200000.0,India,1282.17,45.58,193861.96,Hip hop music,24,1775050696,ok,,Music
+@Avocado Couple I Crazy Comics,0,,,,,,,,0,1775050695,error,Could not resolve handle or username @Avocado Couple I Crazy Comics,
+@mirandasings08,1,Miranda Sings,10400000.0,,,,,Entertainment,0,1775050696,ok,,Entertainment
+@watchcut,1,Cut,12300000.0,United States,15873.8,699.17,506385.07,Entertainment,30,1775050696,ok,,Entertainment
+@oyabakatousan,1,せんももあいしーチャンネル,11200000.0,Japan,,0.44,98374.4,Food,30,1775050696,ok,,Lifestyle
+@pocoyotv,1,Pocoyó 🇪🇸 Español - Canal Oficial,15100000.0,Spain,1608.0,0.0,377888.47,Entertainment,30,1775050696,ok,,Entertainment
+@MashaBearUkraine,1,Маша та Ведмідь,18300000.0,Ukraine,620.33,0.0,130562.83,Television program,30,1775050696,ok,,Entertainment
+@chotoonz,1,Chotoonz TV - Funny Cartoons ,11100000.0,United States,54.1,5.29,3971.7,Television program,30,1775050697,ok,,Entertainment
+@Луномосик,0,,,,,,,,0,1775050696,error,Could not resolve handle or username @Луномосик,
+@barbie,1,Barbie,13200000.0,United States,120.4,0.0,13506.97,Film,30,1775050697,ok,,Entertainment
+@Technology Gyan,0,,,,,,,,0,1775050696,error,Could not resolve handle or username @Technology Gyan,
+@TygaTygaTV,1,Tyga,12000000.0,United States,820.75,36.9,30311.7,Pop music,20,1775050697,ok,,Music
+@comedycentral,1,Comedy Central,12500000.0,United States,232.07,8.1,17810.83,Entertainment,30,1775050697,ok,,Entertainment
+@DemolitionRanch,1,DemolitionRanch,11700000.0,United States,,,,Lifestyle (sociology),0,1775050697,ok,,Lifestyle
+@RapGeniusVideo,1,Genius,12300000.0,United States,7683.63,322.27,96103.6,Hip hop music,30,1775050697,ok,,Music
+@WiederDude,1,WiederDude,15300000.0,United States,3207.9,105.07,291212.37,Role-playing video game,30,1775050697,ok,,Tech/Gaming
+@E-MasterSensei,0,,,,,,,,0,1775050697,error,Could not resolve handle or username @E-MasterSensei,
+@CarryisLive,1,CarryisLive,12300000.0,India,20051.3,227.4,409925.87,Role-playing video game,30,1775050698,ok,,Tech/Gaming
+@Juanpa Zurita,0,,,,,,,,0,1775050697,error,Could not resolve handle or username @Juanpa Zurita,
+@BakLol Video,0,,,,,,,,0,1775050697,error,Could not resolve handle or username @BakLol Video,
+@HellomaphieMX,1,HellomaphieMX,11100000.0,Mexico,296.44,13.06,19545.67,Hobby,18,1775050698,ok,,Lifestyle
+@Levinho,1,Levinho,11800000.0,Sweden,3187.1,337.6,116262.03,Action game,30,1775050698,ok,,Tech/Gaming
+@jpgameplayfull,1,JP Plays,11800000.0,Brazil,578.9,20.7,228442.43,Action-adventure game,30,1775050698,ok,,Tech/Gaming
+@Dan Rhodes,0,,,,,,,,0,1775050698,error,Could not resolve handle or username @Dan Rhodes,
+@geonews,1,Geo News,20800000.0,Pakistan,69.03,1.4,3221.23,Society,30,1775050698,ok,,Info/Business
+@ToysPlay,1,ToysPlay,13400000.0,United States,1597.37,,3459101.5,Hobby,30,1775050698,ok,,Lifestyle
+@bharatzkitchen HINDI,0,,,,,,,,0,1775050698,error,Could not resolve handle or username @bharatzkitchen HINDI,
+@Área Secreta,0,,,,,,,,0,1775050698,error,Could not resolve handle or username @Área Secreta,
+@Virgínia Fonseca,0,,,,,,,,0,1775050698,error,Could not resolve handle or username @Virgínia Fonseca,
+@programagalofrito,1,Galo Frito,10900000.0,Brazil,3344.96,150.19,37974.54,Entertainment,26,1775050699,ok,,Entertainment
+@FilmTheorists,1,The Film Theorists,13400000.0,United States,24978.13,922.3,654318.8,Lifestyle (sociology),30,1775050699,ok,,Lifestyle
+@videogyan,1,Videogyan - Nursery Rhymes,13500000.0,India,854.57,0.0,189896.17,Entertainment,30,1775050699,ok,,Entertainment
+@GamesEduUu,1,Games EduUu,12600000.0,Brazil,124943.47,3569.7,1113266.17,Role-playing video game,30,1775050699,ok,,Tech/Gaming
+@MC Divertida,0,,,,,,,,0,1775050699,error,Could not resolve handle or username @MC Divertida,
+@kidstvindia,1,Kids TV India Hindi Nursery Rhymes,20800000.0,India,786.7,0.0,83683.53,Music,30,1775050700,ok,,Music
+@TiempodeSol,1,Duo Tiempo De Sol,14800000.0,,812.83,0.0,132180.33,Lifestyle (sociology),30,1775050700,ok,,Lifestyle
+"@Baby Big Mouth Kids - Sing, Dance, Explore",0,,,,,,,,0,1775050699,error,"Could not resolve handle or username @Baby Big Mouth Kids - Sing, Dance, Explore",
+@Quantum Tech HD,0,,,,,,,,0,1775050699,error,Could not resolve handle or username @Quantum Tech HD,
+@ComedyShortsGamer,1,Deji,12600000.0,,24192.9,1214.9,638722.37,Film,30,1775050700,ok,,Entertainment
+@HikakinTV,1,HikakinTV,19600000.0,,32447.27,1386.87,1993271.73,Lifestyle (sociology),30,1775050700,ok,,Lifestyle
+@storybots,1,Netflix Jr.,25200000.0,,822.13,0.0,150398.73,Film,30,1775050700,ok,,Entertainment
+@GoProCamera,1,GoPro,11300000.0,United States,4352.87,147.4,256945.5,Hobby,30,1775050701,ok,,Lifestyle
+@Slogomanify,1,Slogo,11700000.0,United Kingdom,3740.6,270.73,99227.0,Role-playing video game,30,1775050701,ok,,Tech/Gaming
+@tomiii 11,0,,,,,,,,0,1775050700,error,Could not resolve handle or username @tomiii 11,
+@Narendra Modi,0,,,,,,,,0,1775050700,error,Could not resolve handle or username @Narendra Modi,
+@Dobre Brothers,0,,,,,,,,0,1775050700,error,Could not resolve handle or username @Dobre Brothers,
+@OGGY,1,OGGY,13700000.0,,1044.9,0.0,166763.6,Entertainment,30,1775050701,ok,,Entertainment
+@OYUNCAKOYNUYORUM,0,,,,,,,,0,1775050701,error,Could not resolve handle or username @OYUNCAKOYNUYORUM,
+@Experienced Mojaraba TV,0,,,,,,,,0,1775050701,error,Could not resolve handle or username @Experienced Mojaraba TV,
+@rangeldovine,1,Lucas Rangel,13000000.0,Brazil,49500.7,669.87,1907937.0,Lifestyle (sociology),30,1775050702,ok,,Lifestyle
+@NEXT9NEWS हर खबर आप तक,0,,,,,,,,0,1775050701,error,Could not resolve handle or username @NEXT9NEWS हर खबर आप तक,
+@Jessica Jane,0,,,,,,,,0,1775050701,error,Could not resolve handle or username @Jessica Jane,
+@Ceylin - H Official,0,,,,,,,,0,1775050701,error,Could not resolve handle or username @Ceylin - H Official,
+@stampylonghead,1,stampylonghead,10900000.0,,24476.5,1625.5,313347.0,Action game,2,1775050702,ok,,Tech/Gaming
+@Flamingo,1,Flamingo,14400000.0,United States,62810.03,5090.87,1565190.47,Action-adventure game,30,1775050702,ok,,Tech/Gaming
+@Golemcito Games,0,,,,,,,,0,1775050701,error,Could not resolve handle or username @Golemcito Games,
+@Daniel LaBelle,0,,,,,,,,0,1775050701,error,Could not resolve handle or username @Daniel LaBelle,
+@Vox,1,Vox,12700000.0,United States,1016.93,68.1,43096.07,Politics,30,1775050702,ok,,Info/Business
+@craftingeek,1,Craftingeek*,10500000.0,Mexico,1248.03,13.53,136137.9,Hobby,30,1775050702,ok,,Lifestyle
+@francinyehlke,1,Franciny Ehlke,12100000.0,Brazil,71042.9,1229.53,1577872.63,Lifestyle (sociology),30,1775050703,ok,,Lifestyle
+@BuzzFeedYellow,1,As/Is,10100000.0,United States,,,,Entertainment,0,1775050702,ok,,Entertainment
+@doctruyencotich,1,Kênh Thiếu Nhi - BHMEDIA,14700000.0,Vietnam,225.73,0.0,62490.1,Music,30,1775050704,ok,,Music
+@ChillStepNation,1,Chill Nation,10800000.0,United States,460.5,10.93,21061.03,Pop music,30,1775050703,ok,,Music
+@Acenix,1,Acenix,16700000.0,Spain,15336.2,600.9,813178.97,Role-playing video game,30,1775050703,ok,,Tech/Gaming
+@Taylor RS,0,,,,,,,,0,1775050702,error,Could not resolve handle or username @Taylor RS,
+@pinkfongko,1,핑크퐁 (인기 동요・동화),16400000.0,South Korea,1046.97,0.0,199212.13,Music,30,1775050704,ok,,Music
+@SaraBeautyCorner,1,"SaraBeautyCorner - DIY, Comedy, Makeup, Nail Art",10600000.0,,4986.33,124.33,110787.33,Lifestyle (sociology),3,1775050703,ok,,Lifestyle
+@WarnerBrosPictures,1,Warner Bros.,12800000.0,United States,22886.3,1158.17,2391569.1,Entertainment,30,1775050704,ok,,Entertainment
+@Google,1,Google,14100000.0,,912.1,73.44,82063.1,Lifestyle (sociology),30,1775050703,ok,,Lifestyle
+@redbull,1,Red Bull,27700000.0,Austria,130904.2,959.13,7665041.4,Motorsport,30,1775050704,ok,,Sports
+@LA DIVAZA,0,,,,,,,,0,1775050703,error,Could not resolve handle or username @LA DIVAZA,
+@CJENMMUSIC,1,Stone Music Entertainment,11100000.0,South Korea,839.7,47.8,11960.07,Music of Asia,30,1775050704,ok,,Music
+@telugufilmnagar,1,Telugu Filmnagar,16400000.0,India,54.17,0.5,5661.47,Entertainment,30,1775050708,ok,,Entertainment
+@brancoala,1,Brancoala,13700000.0,Brazil,10573.23,846.7,554828.1,Action game,30,1775050705,ok,,Tech/Gaming
+@Kids smile TV,0,,,,,,,,0,1775050704,error,Could not resolve handle or username @Kids smile TV,
+@soicon295,1,Magnet World,11200000.0,United States,61.67,2.7,8427.43,Lifestyle (sociology),30,1775050705,ok,,Lifestyle
+@Sidhu Moose Wala,0,,,,,,,,0,1775050704,error,Could not resolve handle or username @Sidhu Moose Wala,
+@AlArabiya,1,AlArabiya العربية,19000000.0,United Arab Emirates,49.97,8.37,4215.93,Society,30,1775050708,ok,,Info/Business
+@Troom Troom Arabic,0,,,,,,,,0,1775050705,error,Could not resolve handle or username @Troom Troom Arabic,
+@MeKcanal,1,Matheus e Kauan,11300000.0,Brazil,301.07,18.33,20479.23,Pop music,30,1775050706,ok,,Music
+@DuDuPopTOY,1,DuDuPopTOY,11300000.0,South Korea,,,,Film,0,1775050705,ok,,Entertainment
+@Playing with Rafael,0,,,,,,,,0,1775050705,error,Could not resolve handle or username @Playing with Rafael,
+@Jamuna TV,0,,,,,,,,0,1775050705,error,Could not resolve handle or username @Jamuna TV,
+@Cris Devil Gamer,0,,,,,,,,0,1775050705,error,Could not resolve handle or username @Cris Devil Gamer,
+@prantoniojunior,1,Pastor Antônio Júnior,16000000.0,Brazil,16712.03,2253.67,105916.43,Society,30,1775050706,ok,,Info/Business
+@Pari's Lifestyle,0,,,,,,,,0,1775050705,error,Could not resolve handle or username @Pari's Lifestyle,
+@sbtthenoite,1,The Noite com Danilo Gentili,13600000.0,Brazil,10130.17,357.77,212388.33,Film,30,1775050706,ok,,Entertainment
+@HISHEdotcom,1,How It Should Have Ended,10500000.0,United States,26382.52,1001.14,566319.66,Entertainment,29,1775050706,ok,,Entertainment
+@penguinz0,1,penguinz0,17900000.0,,63230.97,5915.77,1521260.23,Action game,30,1775050706,ok,,Tech/Gaming
+@destinws2,1,SmarterEveryDay,11800000.0,United States,93350.83,10168.67,2686602.83,Technology,6,1775050707,ok,,Tech/Gaming
+@Flowers Comedy,0,,,,,,,,0,1775050706,error,Could not resolve handle or username @Flowers Comedy,
+@lucygerardi43,1,Luli Pampín,21300000.0,Spain,9424.33,0.0,1578109.63,Entertainment,30,1775050707,ok,,Entertainment
+@cbstvdinsideedition,1,Inside Edition,13800000.0,United States,1318.93,284.6,104027.3,Society,30,1775050710,ok,,Info/Business
+@Oum Walid,0,,,,,,,,0,1775050707,error,Could not resolve handle or username @Oum Walid,
+@Lofi Girl,0,,,,,,,,0,1775050707,error,Could not resolve handle or username @Lofi Girl,
+@TwinRoozi 쌍둥이 루지,0,,,,,,,,0,1775050707,error,Could not resolve handle or username @TwinRoozi 쌍둥이 루지,
+@infobellskannada,1,infobells - Kannada,17600000.0,India,1298.43,0.0,243821.53,Entertainment,30,1775050708,ok,,Entertainment
+@Mrwhosetheboss,1,Mrwhosetheboss,22300000.0,United Kingdom,144993.23,3638.1,4913453.93,Technology,30,1775050708,ok,,Tech/Gaming
+@TikTak Draw,0,,,,,,,,0,1775050707,error,Could not resolve handle or username @TikTak Draw,
+@sagahits,1,SagaHits,13800000.0,India,113.8,5.8,11862.33,Entertainment,30,1775050708,ok,,Entertainment
+@Sab kuchh sikho jano,0,,,,,,,,0,1775050708,error,Could not resolve handle or username @Sab kuchh sikho jano,
+@zeetamil,1,Zee Tamil,17700000.0,India,859.27,6.3,34310.7,Film,30,1775050711,ok,,Entertainment
+@Milena Stepanienco - MILENINHA,0,,,,,,,,0,1775050708,error,Could not resolve handle or username @Milena Stepanienco - MILENINHA,
+@Wylsacom,1,Wylsacom,11500000.0,Russia,7891.73,1142.5,339005.13,Lifestyle (sociology),30,1775050709,ok,,Lifestyle
+@TWO SIDE GAMERS,0,,,,,,,,0,1775050708,error,Could not resolve handle or username @TWO SIDE GAMERS,
+@aljazeerachannel,1,AlJazeera Arabic  قناة الجزيرة,23000000.0,Qatar,98.4,10.57,4496.73,Society,30,1775050709,ok,,Info/Business
+@cleanbandit,1,Clean Bandit,10800000.0,,7078.3,149.6,460086.85,Lifestyle (sociology),20,1775050709,ok,,Lifestyle
+@JessicaJulioeBaby,1,Laurinha e Helena - Clubinho da Laura,10800000.0,Brazil,3728.4,262.27,328167.77,Lifestyle (sociology),30,1775050710,ok,,Lifestyle
+@Rawan and Rayan,0,,,,,,,,0,1775050709,error,Could not resolve handle or username @Rawan and Rayan,
+@T-STUDIO,0,,,,,,,,0,1775050709,error,Could not resolve handle or username @T-STUDIO,
+@TV9 Bharatvarsh,0,,,,,,,,0,1775050709,error,Could not resolve handle or username @TV9 Bharatvarsh,
+@AsapSCIENCE,1,AsapSCIENCE,10800000.0,,10475.13,1161.2,253548.8,Lifestyle (sociology),30,1775050710,ok,,Lifestyle
+@Caso Cerrado,0,,,,,,,,0,1775050710,error,Could not resolve handle or username @Caso Cerrado,
+@DalasReview,1,Dalas Review,11000000.0,Spain,8361.53,578.37,159654.37,Politics,30,1775050710,ok,,Info/Business
+@francoescamilla,1,Franco Escamilla,14200000.0,Mexico,2982.63,65.03,101321.93,Film,30,1775050711,ok,,Entertainment
+@Pinkfong en español - Canciones Infantiles,0,,,,,,,,0,1775050710,error,Could not resolve handle or username @Pinkfong en español - Canciones Infantiles,
+@BE AMAZED,0,,,,,,,,0,1775050710,error,Could not resolve handle or username @BE AMAZED,
+@Pen Multiplex,0,,,,,,,,0,1775050710,error,Could not resolve handle or username @Pen Multiplex,
+@0214mex,1,はじめしゃちょー（hajime）,16300000.0,Japan,14895.13,493.9,998503.8,Lifestyle (sociology),30,1775050711,ok,,Lifestyle
+@Republic Bharat,0,,,,,,,,0,1775050710,error,Could not resolve handle or username @Republic Bharat,
+@Captain Watch Hits,0,,,,,,,,0,1775050711,error,Could not resolve handle or username @Captain Watch Hits,
+@Влад и Никита,0,,,,,,,,0,1775050711,error,Could not resolve handle or username @Влад и Никита,
+@Dynamo Gaming,0,,,,,,,,0,1775050711,error,Could not resolve handle or username @Dynamo Gaming,
+@TomorrowlandChannel,1,Tomorrowland,12000000.0,United Kingdom,548.4,80.47,15942.3,Music,30,1775050712,ok,,Music
+@VitalyzdTv,1,VitalyzdTv,10100000.0,United States,,,,Humour,0,1775050711,ok,,Entertainment
+@вДудь,0,,,,,,,,0,1775050711,error,Could not resolve handle or username @вДудь,
+@atv,1,hkatv,28600.0,,,,,Entertainment,0,1775050712,ok,,Entertainment
+@Rachit Rojha,0,,,,,,,,0,1775050711,error,Could not resolve handle or username @Rachit Rojha,
+@ChuChuTV Hindi,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @ChuChuTV Hindi,
+@MTV,1,MTV,11500000.0,United States,7918.7,54.63,189815.67,Pop music,30,1775050713,ok,,Music
+@Hindi Kahaniya,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Hindi Kahaniya,
+@ctctv,1,СТС,13600000.0,Russia,1048.73,72.03,173544.43,Humour,30,1775050714,ok,,Entertainment
+@Luan Palomera,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Luan Palomera,
+@Hindi Fairy Tales,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Hindi Fairy Tales,
+@Hindi Countdown,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Hindi Countdown,
+@Diana and Roma IND,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Diana and Roma IND,
+@Lorrayne Oliveira,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Lorrayne Oliveira,
+@Busy Fun Ltd,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Busy Fun Ltd,
+@Goldmines Housefull,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Goldmines Housefull,
+@RDCGujarati,1,RDC Gujarati,13300000.0,India,136.33,3.43,8586.8,Music of Asia,30,1775050714,ok,,Music
+@Wolfoo's stories,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Wolfoo's stories,
+@Juice WRLD,0,,,,,,,,0,1775050712,error,Could not resolve handle or username @Juice WRLD,
+@jordanmatter,1,Jordan Matter,34900000.0,United States,173489.77,13141.17,15935025.67,Entertainment,30,1775050713,ok,,Entertainment
+@whoisjimmy,1,How Ridiculous,24000000.0,Australia,102124.8,1000.83,9852782.77,Lifestyle (sociology),30,1775050713,ok,,Lifestyle
+@BestCodComedy,1,BCC Gaming,9510000.0,United States,,,,Action game,0,1775050714,ok,,Tech/Gaming
+@familyfunpack,1,Family Fun Pack,10500000.0,United States,797.33,55.73,62939.7,Lifestyle (sociology),30,1775050713,ok,,Lifestyle
+@makebymarimaria,1,Mari Maria,11600000.0,,8239.27,83.2,206331.1,Lifestyle (sociology),30,1775050714,ok,,Lifestyle
+@Toymong tv 토이몽TV,0,,,,,,,,0,1775050714,error,Could not resolve handle or username @Toymong tv 토이몽TV,
+@BERTH-OH,1,BERTH-OH Short,941.0,,128.93,3.43,7538.17,Lifestyle (sociology),30,1775050714,ok,,Lifestyle
+@Comedy Captain,0,,,,,,,,0,1775050714,error,Could not resolve handle or username @Comedy Captain,
+@Joe HaTTab,0,,,,,,,,0,1775050714,error,Could not resolve handle or username @Joe HaTTab,
+@NASAtelevision,1,NASA,12900000.0,,6978.1,,195757.0,Society,30,1775050715,ok,,Info/Business
+@historychannel,1,HISTORY,15200000.0,United States,734.5,55.5,44700.53,Knowledge,30,1775050715,ok,,Info/Business
+@MSA previously My Story Animated,0,,,,,,,,0,1775050714,error,Could not resolve handle or username @MSA previously My Story Animated,
+@Nirahua Music World,0,,,,,,,,0,1775050714,error,Could not resolve handle or username @Nirahua Music World,
+@Nickelodeon,1,Nickelodeon,12700000.0,United States,669.4,0.0,65327.27,Film,30,1775050715,ok,,Entertainment
+@Will Smith,0,,,,,,,,0,1775050715,error,Could not resolve handle or username @Will Smith,
+@Heroine Movies 2022,0,,,,,,,,0,1775050716,error,Could not resolve handle or username @Heroine Movies 2022,
+@WAMIndiaMovies,1,Wamindia Movies,15000000.0,India,3794.6,167.87,487726.13,Entertainment,30,1775050715,ok,,Entertainment
+@shrutiarjunanand,1,Shruti Arjun Anand,10100000.0,India,,,,Lifestyle (sociology),0,1775050715,ok,,Lifestyle
+@barcroftmedia,1,truly,10400000.0,,,364.23,62906.5,Lifestyle (sociology),30,1775050716,ok,,Lifestyle
+@5-Minute Recipes,0,,,,,,,,0,1775050715,error,Could not resolve handle or username @5-Minute Recipes,
+@rathorvideo,1,Rathore Cassettes,16100000.0,India,125.43,4.67,34143.57,Music of Asia,30,1775050717,ok,,Music
+@buzzfeedblue,1,BuzzFeed Multiplayer,9380000.0,United States,,,,Simulation video game,0,1775050716,ok,,Tech/Gaming
+@5-Minute Crafts LIKE,0,,,,,,,,0,1775050715,error,Could not resolve handle or username @5-Minute Crafts LIKE,
+@panicopgm,1,Programa Pânico,10200000.0,Brazil,939.63,23.43,36032.1,Humour,30,1775050717,ok,,Entertainment
+@RUOK FF,0,,,,,,,,0,1775050716,error,Could not resolve handle or username @RUOK FF,
+@htv2channel,1,Vie Channel ,11500000.0,Vietnam,257.57,19.77,5274.07,Pop music,30,1775050719,ok,,Music
+@KiKiDo,0,,,,,,,,0,1775050716,error,Could not resolve handle or username @KiKiDo,
+@MBCkpop,1,MBCkpop,11400000.0,South Korea,409.73,19.1,6897.7,Music,30,1775050717,ok,,Music
+@Receitas de Pai,0,,,,,,,,0,1775050716,error,Could not resolve handle or username @Receitas de Pai,
+@TheSyndicateProject,1,Syndicate,9540000.0,United Kingdom,2038.53,43.33,80089.63,Role-playing video game,30,1775050718,ok,,Tech/Gaming
+@Family Box,0,,,,,,,,0,1775050717,error,Could not resolve handle or username @Family Box,
+@Sơn Tùng M-TP Official,0,,,,,,,,0,1775050717,error,Could not resolve handle or username @Sơn Tùng M-TP Official,
+@Peppa Pig Hindi,0,,,,,,,,0,1775050717,error,Could not resolve handle or username @Peppa Pig Hindi,
+@Vlad and Niki PRT,0,,,,,,,,0,1775050717,error,Could not resolve handle or username @Vlad and Niki PRT,
+@OneRepublic,1,OneRepublic,11200000.0,,1008.13,39.77,34599.27,Pop music,30,1775050718,ok,,Music
+@BBCArabicNews,1,BBC News عربي,13000000.0,United Kingdom,561.97,110.28,37099.83,Politics,30,1775050724,ok,,Info/Business
+@The Daily Show with Trevor Noah,0,,,,,,,,0,1775050717,error,Could not resolve handle or username @The Daily Show with Trevor Noah,
+@Islam Populer,0,,,,,,,,0,1775050717,error,Could not resolve handle or username @Islam Populer,
+@Viki Show,0,,,,,,,,0,1775050718,error,Could not resolve handle or username @Viki Show,
+@Raditya Dika,0,,,,,,,,0,1775050718,error,Could not resolve handle or username @Raditya Dika,
+@mrplotvideos,1,Mundo Bita,14300000.0,Brazil,1587.93,0.0,260691.23,Entertainment,30,1775050719,ok,,Entertainment
+@مصطفى GAME OVER,0,,,,,,,,0,1775050718,error,Could not resolve handle or username @مصطفى GAME OVER,
+@ChennaiExp2013,1,Red Chillies Entertainment,14000000.0,India,2312.2,32.93,89858.87,Film,30,1775050719,ok,,Entertainment
+@MrGustavoParodias,1,Gustavo Paródias,16100000.0,Brazil,1465.83,25.1,81085.93,Humour,30,1775050720,ok,,Entertainment
+@ChuChuTV Español,0,,,,,,,,0,1775050718,error,Could not resolve handle or username @ChuChuTV Español,
+@welovekamikaze,1,welovekamikaze,10200000.0,,342.0,7.0,26931.0,Pop music,1,1775050719,ok,,Music
+@singkingkaraoke,1,Sing King,14400000.0,United Kingdom,112.37,7.23,6412.87,Pop music,30,1775050719,ok,,Music
+@EugenBro,1,Яблочко,10200.0,Russia,,,,Lifestyle (sociology),0,1775050719,ok,,Lifestyle
+@KapilComedyNights,1,Colors Rishtey,20900000.0,,38.53,1.1,933.77,Film,30,1775050722,ok,,Entertainment
+@Larva2011ani,1,Larva TUBA,10500000.0,South Korea,187.07,0.0,18374.13,Music,30,1775050720,ok,,Music
+@Netflix Latinoamérica,0,,,,,,,,0,1775050719,error,Could not resolve handle or username @Netflix Latinoamérica,
+@ThePersica,1,Orkun Işıtmak,12400000.0,Turkey,19278.47,806.03,601796.13,Entertainment,30,1775050721,ok,,Entertainment
+@TeremokTV,1,Теремок ТВ,17700000.0,,359.0,0.0,105440.93,Television program,30,1775050721,ok,,Entertainment
+@Prince Royce,0,,,,,,,,0,1775050720,error,Could not resolve handle or username @Prince Royce,
+@قناة وناسة -  Wanasah TV,0,,,,,,,,0,1775050720,error,Could not resolve handle or username @قناة وناسة -  Wanasah TV,
+@Heidi y Zidane en español,0,,,,,,,,0,1775050720,error,Could not resolve handle or username @Heidi y Zidane en español,
+@SerbianGamesBL2,1,Life Hacks & Experiments,9370000.0,United States,322.8,4.27,84286.57,Lifestyle (sociology),30,1775050721,ok,,Lifestyle
+@mainaCassette,1,Haryanvi Maina,9890000.0,India,29.33,1.33,3791.33,Lifestyle (sociology),30,1775050721,ok,,Lifestyle
+@mamilosmolengas,1,MUSSA,13700000.0,Brazil,11892.47,794.9,655668.37,Music,30,1775050722,ok,,Music
+@sadhguru,1,Sadhguru,12700000.0,India,5133.57,95.37,149021.77,Lifestyle (sociology),30,1775050722,ok,,Lifestyle
+@Sonotek Haryanvi,0,,,,,,,,0,1775050721,error,Could not resolve handle or username @Sonotek Haryanvi,
+@Survival Builder,0,,,,,,,,0,1775050721,error,Could not resolve handle or username @Survival Builder,
+@luisitorey,1,luisitorey,9570000.0,Mexico,959.1,40.07,27140.83,Humour,30,1775050722,ok,,Entertainment
+@Bispo Bruno Leonardo,0,,,,,,,,0,1775050722,error,Could not resolve handle or username @Bispo Bruno Leonardo,
+@bgfilms,1,Binging with Babish,10500000.0,United States,6049.4,259.47,237889.83,Lifestyle (sociology),30,1775050723,ok,,Lifestyle
+@5-Minute Crafts TEENS,0,,,,,,,,0,1775050722,error,Could not resolve handle or username @5-Minute Crafts TEENS,
+@BIBI,1,あ -ちゃん🇨🇵,19.0,,,,,,0,1775050722,ok,,
+@ZarcortGame,1,ZarcortGame,10000000.0,Spain,2218.0,119.37,53164.9,Hip hop music,30,1775050723,ok,,Music
+@DELRECORDS,1,DEL Records,12000000.0,United States,12565.5,131.9,2403560.1,Hip hop music,30,1775050723,ok,,Music
+@ehbeefamily,1,The Bee Family,10300000.0,United States,19654.24,154.76,840493.86,Lifestyle (sociology),29,1775050723,ok,,Lifestyle
+@Eagle Home Entertainments,0,,,,,,,,0,1775050722,error,Could not resolve handle or username @Eagle Home Entertainments,
+@Ben Azelart,0,,,,,,,,0,1775050722,error,Could not resolve handle or username @Ben Azelart,
+@PicaPicaVEVO,1,Pica-Pica Oficial,10800000.0,Spain,397.03,0.0,137731.97,Entertainment,30,1775050723,ok,,Entertainment
+@Talent Recap,0,,,,,,,,0,1775050723,error,Could not resolve handle or username @Talent Recap,
+@lincolnvelasquez,1,Cong TV,12600000.0,Philippines,139862.83,8135.22,3795767.61,Entertainment,18,1775050724,ok,,Entertainment
+@Garena Free Fire Brasil,0,,,,,,,,0,1775050723,error,Could not resolve handle or username @Garena Free Fire Brasil,
+@InquisitorMaster,1,InquisitorMaster,10100000.0,United States,1305.83,35.67,35529.07,Role-playing video game,30,1775050724,ok,,Tech/Gaming
+@Niki and Gabi,0,,,,,,,,0,1775050723,error,Could not resolve handle or username @Niki and Gabi,
+@منوعات الكوميديا العراقية,0,,,,,,,,0,1775050723,error,Could not resolve handle or username @منوعات الكوميديا العراقية,
+@TopMovieClips,0,,,,,,,,0,1775050724,error,Could not resolve handle or username @TopMovieClips,
+@timesmusicindia,1,Times Music,17600000.0,India,106.9,3.83,8238.63,Pop music,30,1775050725,ok,,Music
+@DaBaby,1,DaBaby,11300000.0,United States,12134.8,489.8,526248.2,Music,30,1775050724,ok,,Music
+@Dharma Productions,0,,,,,,,,0,1775050724,error,Could not resolve handle or username @Dharma Productions,
+@IniTalkShow,1,Main Hakim Sendiri,11500000.0,Indonesia,5198.97,16.87,375108.7,Film,30,1775050726,ok,,Entertainment
+@BETO GAMER,0,,,,,,,,0,1775050724,error,Could not resolve handle or username @BETO GAMER,
+@MrStiven Tc,0,,,,,,,,0,1775050724,error,Could not resolve handle or username @MrStiven Tc,
+@NetflixBRA,1,Netflix Brasil,15000000.0,Brazil,1661.97,98.37,27053.43,Entertainment,30,1775050725,ok,,Entertainment
+@JoeyGraceffa,1,Joey Graceffa,9380000.0,United States,3798.17,306.3,63729.8,Pet,30,1775050725,ok,,Lifestyle
+@aanandaaudio,1,Anand Audio,14400000.0,India,1730.1,79.17,138557.77,Film,30,1775050727,ok,,Entertainment
+@sonyliv,1,Sony LIV,25900000.0,India,955.1,60.23,37420.6,Entertainment,30,1775050728,ok,,Entertainment
+@서은이야기[SeoeunStory],0,,,,,,,,0,1775050725,error,Could not resolve handle or username @서은이야기[SeoeunStory],
+@Grandpa Kitchen,0,,,,,,,,0,1775050725,error,Could not resolve handle or username @Grandpa Kitchen,
+@MrMuselk,1,Muselk,8820000.0,Australia,,,,Action game,0,1775050725,ok,,Tech/Gaming
+@JoshDub,1,JoshDub,10100000.0,Australia,10387.41,468.29,345667.0,Role-playing video game,17,1775050726,ok,,Tech/Gaming
+@BrPVPHu3,0,,,,,,,,0,1775050725,error,Could not resolve handle or username @BrPVPHu3,
+@Power Vision,0,,,,,,,,0,1775050726,error,Could not resolve handle or username @Power Vision,
+@N1Noobtubers,1,웃웃TwinsFromRussia,19300000.0,United States,587.43,8.77,92013.73,Entertainment,30,1775050728,ok,,Entertainment
+@bhaktisongs,1,Shemaroo Bhakti,13400000.0,India,100.23,12.2,7356.3,Religion,30,1775050727,ok,,Info/Business
+@The Voice Global,0,,,,,,,,0,1775050726,error,Could not resolve handle or username @The Voice Global,
+@POPSVIETNAM,1,POPS MUSIC,10400000.0,Vietnam,68.47,1.47,9612.57,Pop music,30,1775050729,ok,,Music
+@CRACKS,1,Cracks,6040000.0,Mexico,6634.43,281.5,170903.43,Sport,30,1775050726,ok,,Sports
+@hasanjr11,0,,,,,,,,0,1775050726,error,Could not resolve handle or username @hasanjr11,
+@Adriana Show,0,,,,,,,,0,1775050727,error,Could not resolve handle or username @Adriana Show,
+@Cleo y Cuquin - Canciones infantiles,0,,,,,,,,0,1775050727,error,Could not resolve handle or username @Cleo y Cuquin - Canciones infantiles,
+@efdewe,1,efdewe,10300000.0,Indonesia,933.97,26.1,44351.7,Role-playing video game,30,1775050728,ok,,Tech/Gaming
+@SAS-ASMR,0,,,,,,,,0,1775050727,error,Could not resolve handle or username @SAS-ASMR,
+@fozimozi,1,Fozi Mozi,10900000.0,Palestine,62282.37,13.47,12027473.63,Music,30,1775050728,ok,,Music
+@sonotektv,1,Sonotek Music,11300000.0,India,98530.24,3349.97,12316056.52,Music of Asia,29,1775050728,ok,,Music
+@TeremokSongs,1,Теремок - Песенки для детей,14400000.0,Russia,165.53,0.0,66196.4,Entertainment,30,1775050728,ok,,Entertainment
+@YFrostA,1,FROST,9670000.0,Russia,10187.57,447.53,284350.8,Lifestyle (sociology),30,1775050729,ok,,Lifestyle
+@DreamworksAnimation,1,Universal Kids,10600000.0,United States,505.27,0.0,47819.5,Entertainment,30,1775050729,ok,,Entertainment
+@RSVDO,1,rsfriends,11000000.0,Thailand,,,,Music of Asia,0,1775050729,ok,,Music
+@Classic Mr Bean,0,,,,,,,,0,1775050728,error,Could not resolve handle or username @Classic Mr Bean,
+@LetDa Hyper,0,,,,,,,,0,1775050729,error,Could not resolve handle or username @LetDa Hyper,
+@brunoberti10,0,,,,,,,,0,1775050729,error,Could not resolve handle or username @brunoberti10,
+@Karina Garcia,0,,,,,,,,0,1775050729,error,Could not resolve handle or username @Karina Garcia,
+@Bhojpuri Movies,0,,,,,,,,0,1775050729,error,Could not resolve handle or username @Bhojpuri Movies,
+@Dolly and Friends,0,,,,,,,,0,1775050729,error,Could not resolve handle or username @Dolly and Friends,
+@PlaticaPolinesa,1,PlaticaPolinesia,9100000.0,,,,,Electronic music,0,1775050729,ok,,Music
+@Bessan Ismail - بيسان اسماعيل,0,,,,,,,,0,1775050729,error,Could not resolve handle or username @Bessan Ismail - بيسان اسماعيل,
+@FoxNewsChannel,1,Fox News,15100000.0,United States,3224.47,883.13,120543.6,Television program,30,1775050730,ok,,Entertainment
+@RoosterTeeth,1,Rooster Teeth,8960000.0,United States,9684.0,621.0,175907.0,Entertainment,1,1775050731,ok,,Entertainment
+@Rayito,1,Manuel Diaz,21.0,Spain,0.6,0.2,22.2,Hobby,5,1775050730,ok,,Lifestyle
+@[햄지]Hamzy,0,,,,,,,,0,1775050730,error,Could not resolve handle or username @[햄지]Hamzy,
+@monsta,1,Monsta,19500000.0,Malaysia,3740.9,172.5,142863.33,Entertainment,30,1775050730,ok,,Entertainment
+@Soothing Relaxation,0,,,,,,,,0,1775050730,error,Could not resolve handle or username @Soothing Relaxation,
+@NFL,1,NFL,16300000.0,United States,504.2,50.7,32134.43,Lifestyle (sociology),30,1775050730,ok,,Lifestyle
+@FilterCopy,1,FilterCopy,10700000.0,India,1346.43,65.73,200087.33,Television program,30,1775050730,ok,,Entertainment
+@Thơ Nguyễn,0,,,,,,,,0,1775050730,error,Could not resolve handle or username @Thơ Nguyễn,
+@Troom Troom SELECT,0,,,,,,,,0,1775050730,error,Could not resolve handle or username @Troom Troom SELECT,
+@chetakvideo,1,Chetak,11500000.0,India,71.23,2.1,5514.9,Music of Asia,30,1775050732,ok,,Music
+@Denis,1,Denis Moreno,2760.0,Venezuela,,,,Action game,0,1775050731,ok,,Tech/Gaming
+@cartoonnetworkuk,1,Cartoon Network UK,11700000.0,United Kingdom,235.9,0.0,14796.17,Humour,30,1775050731,ok,,Entertainment
+@Tom Slime,0,,,,,,,,0,1775050731,error,Could not resolve handle or username @Tom Slime,
+@FutParódias,1,FutParódias,11200000.0,Brazil,7253.07,230.73,141759.43,Association football,30,1775050732,ok,,Sports
+@EL GATO,0,,,,,,,,0,1775050731,error,Could not resolve handle or username @EL GATO,
+@CinemaSins,1,CinemaSins,9180000.0,United States,1690.93,125.4,62856.03,Entertainment,30,1775050731,ok,,Entertainment
+@CricketICC,1,ICC,12900000.0,United Arab Emirates,9321.03,227.47,736173.4,Sport,30,1775050732,ok,,Sports
+@BRKsEDU,1,BRKsEDU,9920000.0,Brazil,21918.5,490.77,280292.2,Action game,30,1775050733,ok,,Tech/Gaming
