@@ -38,7 +38,8 @@ def normalizeString(s):
     return s.split(' ') if s else []
 
 
-data = utils.load_csvs_to_dicts("../crude_dataset/kaggle_2022/*")
+data = utils.load_csvs_to_dicts("cleaned_dataset/updated/*")
+print(data)
 
 #Normalisation of handles and name
 handles = [dict(r) for r in data]
