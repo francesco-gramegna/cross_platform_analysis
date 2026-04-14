@@ -2,7 +2,7 @@ import csv
 import glob
 import os
 from typing import List, Dict, Any
-
+import json
 def getShingles(k, s):
     #perform the trick we discussed to avoid to deal with edge cases
     while(len(s) < k):
@@ -13,8 +13,8 @@ def getShingles(k, s):
 
 
 def getJaccardDistance(a,b):
-    a = set(a)
-    b = set(b)
+
+
     if(len(a) == 0 and len(b) == 0):
         return 0
 
@@ -69,13 +69,6 @@ COLUMN_ALIASES = {
     "category_primary": "category_primary",
     "category_unified": "category_unified",
     "subcategory": "subcategory",
-
-    # platform/source/meta
-    "_platform": "platform",
-    "_month": "month",
-    "_year": "year",
-    "_source_file": "source_file",
-    "_is_global": "is_global",
 
     # performance
     "views_avg": "views_avg",

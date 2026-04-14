@@ -45,8 +45,8 @@ print(data)
 handles = [dict(r) for r in data]
 
 for x in handles:
-    x['handle_norm'] = normalizeString(x['handle'])
-    x['name_norm'] = normalizeString(x['name'])
+    x['handle_norm'] = normalizeString(str(x['handle']))
+    x['name_norm'] = normalizeString(str(x['name']))
     x['all_id_norm'] =  x['handle_norm']+x['name_norm']
 
     #shingle it
