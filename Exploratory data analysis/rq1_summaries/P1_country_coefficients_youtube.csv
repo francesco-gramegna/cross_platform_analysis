@@ -1,6 +1,18 @@
 ,coef,pval
-Thailand,-1.4991,0.0004
-Turkey,-1.4544,0.0031
-Indonesia,-1.0553,0.0034
-India,-1.0319,0.0025
-Brazil,-0.6829,0.0484
+Pakistan,-0.9386,0.0053
+Thailand,-0.9371,0.0003
+Turkey,-0.8972,0.0128
+Indonesia,-0.4914,0.0007
+India,-0.4718,0.0
+Spain,-0.1494,0.7044
+Brazil,-0.124,0.2307
+Philippines,-0.0573,0.8174
+United States,0.0,1.0
+United Kingdom,0.1116,0.7217
+Iraq,0.1122,0.7982
+Mexico,0.1641,0.1764
+France,0.1739,0.6583
+Russia,0.27,0.0777
+Colombia,0.3435,0.1669
+Argentina,0.5574,0.095
+Egypt,0.6204,0.4777

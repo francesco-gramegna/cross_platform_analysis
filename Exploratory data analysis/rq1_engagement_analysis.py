@@ -64,7 +64,7 @@ def sig_stars(p):
     if p < 0.05:  return "*"
     return "ns"
 
-def group_country(df, col, min_count=30):
+def group_country(df, col, min_count=10):
     counts = df[col].value_counts()
     keep = counts[counts >= min_count].index
     df = df.copy()
@@ -122,7 +122,7 @@ ols_rows = []
 for plat in ["Instagram","YouTube"]:
     sub = p1[p1["platform"] == plat]
     m = smf.ols(
-        "log_eng ~ log_fol + C(category_unified) + C(audience_country)",
+        "log_eng ~ log_fol + C(category_unified, Treatment('Beauty&Fashion')) + C(audience_country, Treatment('United States'))",
         data=sub).fit()
     ols_rows.append({
         "platform": plat,
@@ -184,7 +184,7 @@ for ax, row in zip(axes, ols_rows):
     ax.set_ylabel("Avg Engagement per Post" if plat=="Instagram" else "", fontsize=11)
 
 fig.suptitle(
-    "Does Follower Count Drive Engagement? (2022)\n"
+    # "Does Follower Count Drive Engagement? (2022)\n"
     "Each dot = one influencer  |  Line = OLS trend  |  β measures the strength",
     fontweight="bold", fontsize=13)
 plt.tight_layout()
@@ -241,7 +241,7 @@ cat_coefs = {}
 for r in ols_rows:
     plat, m = r["platform"], r["model"]
     coefs = {
-        k.replace("C(category_unified)[T.","").rstrip("]"): v
+        k.replace("C(category_unified, Treatment('Beauty&Fashion'))[T.","").rstrip("]"): v
         for k, v in m.params.items() if "category_unified" in k
     }
     cat_coefs[plat] = coefs
@@ -249,6 +249,8 @@ for r in ols_rows:
 coef_df = (pd.DataFrame(cat_coefs)
              .reindex([c for c in CAT_ORDER if c in pd.DataFrame(cat_coefs).index])
              .dropna(how="all").fillna(0))
+# add Beauty&Fashion row explicitly as 0 (it's the baseline)
+coef_df.loc["Beauty&Fashion"] = 0.0
 # sort by Instagram value
 coef_df = coef_df.sort_values("Instagram")
 savecsv(coef_df.round(4), "P1_category_coefficients.csv")
@@ -256,27 +258,34 @@ savecsv(coef_df.round(4), "P1_category_coefficients.csv")
 fig, axes = plt.subplots(1, 2, figsize=(14, 6), sharey=True)
 for ax, plat, color in zip(axes, ["Instagram","YouTube"], [IG_COL, YT_COL]):
     vals  = coef_df[plat]
-    bar_colors = ["#27ae60" if v >= 0 else "#e74c3c" for v in vals]
+    bar_colors = ["#aaaaaa" if idx == "Beauty&Fashion"
+                  else "#27ae60" if v > 0 else "#e74c3c"
+                  for idx, v in vals.items()]
     bars = ax.barh(coef_df.index, vals, color=bar_colors,
                    edgecolor="white", alpha=0.85, height=0.6)
     ax.axvline(0, color="black", linewidth=1.2)
-    for bar, val in zip(bars, vals):
-        xpos = val + 0.005 if val >= 0 else val - 0.005
-        ha   = "left" if val >= 0 else "right"
-        ax.text(xpos, bar.get_y() + bar.get_height()/2,
-                f"{val:+.2f}", va="center", ha=ha, fontsize=9)
+    for bar, (idx, val) in zip(bars, vals.items()):
+        if idx == "Beauty&Fashion":
+            ax.text(0.008, bar.get_y() + bar.get_height()/2,
+                    "0.00  (baseline)", va="center", ha="left", fontsize=9,
+                    color="gray", style="italic")
+        else:
+            xpos = val + 0.005 if val >= 0 else val - 0.005
+            ha   = "left" if val >= 0 else "right"
+            ax.text(xpos, bar.get_y() + bar.get_height()/2,
+                    f"{val:+.2f}", va="center", ha=ha, fontsize=9)
     ax.set_title(plat, fontweight="bold", fontsize=13, color=color)
-    ax.set_xlabel("Effect on log(Engagement)\nvs Entertainment (baseline)", fontsize=10)
+    ax.set_xlabel("Effect on log(Engagement)\nvs Beauty&Fashion (baseline)", fontsize=10)
     ax.axvline(0, color="gray", linewidth=0.8, zorder=0)
 
-# add green/red legend
-legend_els = [mpatches.Patch(facecolor="#27ae60", label="More engagement than Entertainment"),
-              mpatches.Patch(facecolor="#e74c3c", label="Less engagement than Entertainment")]
-fig.legend(handles=legend_els, loc="lower center", ncol=2,
+# legend
+legend_els = [mpatches.Patch(facecolor="#27ae60", label="More engagement than Beauty&Fashion"),
+              mpatches.Patch(facecolor="#e74c3c", label="Less engagement than Beauty&Fashion"),
+              mpatches.Patch(facecolor="#aaaaaa", label="Beauty&Fashion (baseline = 0)")]
+fig.legend(handles=legend_els, loc="lower center", ncol=3,
            fontsize=9, frameon=True, bbox_to_anchor=(0.5, -0.04))
 fig.suptitle(
-    "Does Content Category Drive Engagement? (2022)\n"
-    "Controls: log(followers) + audience country  |  Baseline = Entertainment",
+    "Controls: log(followers) + audience country  |  Baseline = Beauty&Fashion",
     fontweight="bold", fontsize=13)
 plt.tight_layout()
 savefig("P1_3_category_coef_2022.png")
@@ -285,16 +294,18 @@ savefig("P1_3_category_coef_2022.png")
 print("  P1-Fig4: country coefficients …")
 
 def extract_country_coefs(model):
-    """Extract significant country coefficients from OLS model."""
+    """Extract all country coefficients (excl. Other) from OLS model."""
     coefs = {}
     for k, v in model.params.items():
         if "audience_country" not in k:
             continue
-        country = k.replace("C(audience_country)[T.","").rstrip("]")
+        country = k.split("[T.")[1].rstrip("]")
+        if country == "Other":
+            continue
         coefs[country] = {"coef": v, "pval": model.pvalues[k]}
     df = pd.DataFrame(coefs).T
-    df = df[df["pval"] < 0.05]
-    df = df[df.index != "Other"]
+    # add US baseline row explicitly
+    df.loc["United States"] = {"coef": 0.0, "pval": 1.0}
     return df.sort_values("coef")
 
 cc_ig = extract_country_coefs(ols_rows[0]["model"])
@@ -303,40 +314,48 @@ cc_yt = extract_country_coefs(ols_rows[1]["model"])
 savecsv(cc_ig.round(4), "P1_country_coefficients_instagram.csv")
 savecsv(cc_yt.round(4), "P1_country_coefficients_youtube.csv")
 
-# reference country note: statsmodels drops the first alphabetical country
-# all coefficients are relative to that baseline — negative = lower than baseline
-ref_note = ("All values relative to the reference country\n"
-            "(first alphabetically, auto-chosen by regression).\n"
-            "Negative = lower engagement than that baseline.\n"
-            "Positive = higher engagement than that baseline.")
-
-fig, axes = plt.subplots(1, 2, figsize=(18, 7))
-for ax, cc_df, row, plat in zip(axes, [cc_ig, cc_yt], ols_rows, ["Instagram","YouTube"]):
+fig, axes = plt.subplots(1, 2, figsize=(18, 8))
+for ax, cc_df, plat in zip(axes, [cc_ig, cc_yt], ["Instagram","YouTube"]):
     color = PALETTE[plat]
-    bar_colors = ["#27ae60" if v >= 0 else "#e74c3c" for v in cc_df["coef"]]
+    bar_colors = ["#aaaaaa" if idx == "United States"
+                  else "#27ae60" if v > 0 else "#e74c3c"
+                  for idx, v in cc_df["coef"].items()]
     bars = ax.barh(cc_df.index, cc_df["coef"], color=bar_colors,
                    edgecolor="white", alpha=0.88, height=0.65)
     ax.axvline(0, color="black", linewidth=1.2)
 
-    for bar, val in zip(bars, cc_df["coef"]):
-        xpos = val + 0.005 if val >= 0 else val - 0.005
-        ha   = "left" if val >= 0 else "right"
-        ax.text(xpos, bar.get_y() + bar.get_height()/2,
-                f"{val:+.2f}", va="center", ha=ha, fontsize=8.5)
+    for bar, (idx, val) in zip(bars, cc_df["coef"].items()):
+        pval = cc_df.loc[idx, "pval"]
+        star = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else ""
+        if idx == "United States":
+            ax.text(0.005, bar.get_y() + bar.get_height()/2,
+                    "0.00  (baseline)", va="center", ha="left",
+                    fontsize=8.5, color="gray", style="italic")
+        else:
+            xpos = val + 0.005 if val >= 0 else val - 0.005
+            ha   = "left" if val >= 0 else "right"
+            label = f"{val:+.2f} {star}".strip()
+            ax.text(xpos, bar.get_y() + bar.get_height()/2,
+                    label, va="center", ha=ha, fontsize=8.5)
 
     ax.set_title(plat, fontweight="bold", fontsize=13, color=color)
-    ax.set_xlabel("Effect on log(Engagement)  vs reference country", fontsize=10)
+    ax.set_xlabel("Effect on log(Engagement)  vs United States", fontsize=10)
     ax.set_ylabel("Audience Country", fontsize=10)
 
-# shared annotation on right
-axes[1].text(1.02, 0.98, ref_note,
+# legend
+legend_els = [mpatches.Patch(facecolor="#27ae60", label="Higher engagement than US"),
+              mpatches.Patch(facecolor="#e74c3c", label="Lower engagement than US"),
+              mpatches.Patch(facecolor="#aaaaaa", label="United States (baseline = 0)")]
+fig.legend(handles=legend_els, loc="lower center", ncol=3,
+           fontsize=9, frameon=True, bbox_to_anchor=(0.5, -0.02))
+axes[1].text(1.02, 0.98,
+             "* p<0.05  ** p<0.01  *** p<0.001\n(no star = not significant)",
              transform=axes[1].transAxes, ha="left", va="top", fontsize=8.5,
              bbox=dict(boxstyle="round,pad=0.5", facecolor="lightyellow",
                        edgecolor="gray", alpha=0.9))
-
 fig.suptitle(
     "Does Audience Country Affect Engagement? (2022)\n"
-    "Significant countries only (p < 0.05)  |  Controls: log(followers) + content category",
+    "Baseline = United States  |  Controls: log(followers) + content category",
     fontweight="bold", fontsize=13)
 plt.tight_layout()
 savefig("P1_4_country_coef_2022.png")
@@ -395,8 +414,7 @@ for ax, (plat, sub), row in zip(axes, data3, uncont_rows):
     ax.plot(xs, row["model"].predict(pd.DataFrame({"log_fol": xs})),
             color="black", linewidth=2.5)
     fmt_log_axis(ax, "y")
-    ax.set_xticks([5,6,7,8,9])
-    ax.set_xticklabels(["100K","1M","10M","100M","1B"], fontsize=8)
+    fmt_log_axis(ax, "x")
 
     ctrl_note = ("No controls\n(no category/country data)"
                  if plat == "TikTok" else "Uncontrolled\n(for comparison)")
@@ -660,7 +678,7 @@ for yr in ["2022","2026"]:
     sub = panel_clean.rename(columns={
         f"log_eng_{yr}":"log_eng", f"log_fol_{yr}":"log_fol"})
     m = smf.ols(
-        "log_eng ~ log_fol + C(category_unified) + C(audience_country)",
+        "log_eng ~ log_fol + C(category_unified, Treatment('Beauty&Fashion')) + C(audience_country, Treatment('United States'))",
         data=sub).fit()
     p3_rows.append({"year":yr, "beta":round(m.params["log_fol"],4),
                     "pval":round(m.pvalues["log_fol"],4),
@@ -720,7 +738,7 @@ print("  P3-Fig3: category coefficients panel …")
 cat_p3 = {}
 for r in p3_rows:
     yr, m = r["year"], r["model"]
-    coefs = {k.replace("C(category_unified)[T.","").rstrip("]"): v
+    coefs = {k.replace("C(category_unified, Treatment('Beauty&Fashion'))[T.","").rstrip("]"): v
              for k, v in m.params.items() if "category_unified" in k}
     cat_p3[yr] = coefs
 
@@ -746,15 +764,15 @@ for i, (cat, row) in enumerate(cp3_df.iterrows()):
 
 ax.axvline(0, color="black", linewidth=1.2)
 ax.set_yticks(y); ax.set_yticklabels(cp3_df.index, fontsize=10)
-ax.set_xlabel("Effect on log(Engagement) vs Entertainment (baseline)", fontsize=10)
+ax.set_xlabel("Effect on log(Engagement) vs Beauty&Fashion (baseline)", fontsize=10)
 ax.set_title(
     "YouTube: Category Effect on Engagement — 2022 vs 2026\n"
-    "Same 302 creators  |  Controls: log(subscribers) + audience country\n"
-    "All values negative = all categories underperform Entertainment",
+    "Same 406 creators  |  Controls: log(subscribers) + audience country\n"
+    "All values relative to Beauty&Fashion (baseline = 0)",
     fontweight="bold", fontsize=12)
 ax.legend(title="Year", fontsize=9)
 ax.text(0.99, 0.02,
-        "Tech&Gaming = least penalty (closest to Entertainment)\n"
+        "Tech&Gaming = closest to Beauty&Fashion\n"
         "Knowledge&Info = most penalised in both years",
         transform=ax.transAxes, ha="right", va="bottom",
         fontsize=8.5, color="gray", style="italic")

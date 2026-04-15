@@ -1,10 +1,21 @@
 ,coef,pval
-Colombia,-0.2901,0.0183
-Turkey,-0.2729,0.0047
-Russia,-0.2679,0.0044
-Brazil,-0.2616,0.0002
-United Kingdom,-0.2598,0.0054
-United States,-0.2427,0.0003
-Spain,-0.2349,0.0065
-India,-0.2096,0.0029
-Mexico,-0.2041,0.0125
+Egypt,-0.4441,0.0009
+Iraq,-0.2609,0.0218
+Pakistan,-0.1352,0.6081
+Philippines,-0.0574,0.6141
+Colombia,-0.0458,0.6625
+Thailand,-0.0412,0.7567
+Turkey,-0.031,0.6716
+Russia,-0.0253,0.7168
+Brazil,-0.019,0.547
+United Kingdom,-0.0082,0.9074
+United States,0.0,1.0
+Spain,0.0122,0.8433
+Italy,0.0278,0.7362
+Iran,0.0304,0.7049
+India,0.0311,0.3446
+Mexico,0.0402,0.4515
+Indonesia,0.1324,0.0001
+Argentina,0.2455,0.0002
+France,0.2903,0.0583
+South Korea,0.4075,0.0
