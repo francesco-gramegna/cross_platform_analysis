@@ -1,584 +1,584 @@
-exists,followers,audience_country,avg_likes,avg_comments,avg_views,category,number_videos_last_year,processed_at_unix,status,error,category_primary,category_unified,subcategory,_platform,_year,handle,name
-1,311000000.0,India,11219.77,309.3,593456.13,Entertainment,30,1775050592,ok,,Entertainment,Entertainment,,YouTube,2026,@tseries,T-Series
-1,200000000.0,United States,10525.2,0.0,2354663.77,Film,30,1775050593,ok,,Film,Entertainment,,YouTube,2026,@checkgate,Cocomelon - Nursery Rhymes
-1,189000000.0,India,50.87,2.57,7726.93,Music of Asia,30,1775050595,ok,,Music of Asia,Music,,YouTube,2026,@setindia,SET India
-1,110000000.0,Japan,185737.41,9231.59,3174221.5,Lifestyle (sociology),22,1775050592,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@PewDiePie,PewDiePie
-1,474000000.0,United States,2602490.5,51044.33,198598032.8,Film,30,1775050593,ok,,Film,Entertainment,,YouTube,2026,@MrBeast6000,MrBeast
-1,112000000.0,,4629.27,125.93,193300.97,Sport,30,1775050593,ok,,Sport,Sports,,YouTube,2026,@WWEFanNation,WWE
-1,122000000.0,India,935.07,20.0,73270.1,Pop music,30,1775050594,ok,,Pop music,Music,,YouTube,2026,@zeemusiccompany,Zee Music Company
-1,77200000.0,Canada,51849.53,2541.4,5363515.5,Soul music,30,1775050594,ok,,Soul music,Music,,YouTube,2026,@kidrauhl,Justin Bieber
-1,109000000.0,India,530.03,7.1,56669.0,Film,30,1775050594,ok,,Film,Entertainment,,YouTube,2026,@GoldminesTelefilms,Goldmines
-1,68100000.0,Brazil,245.6,9.17,12594.73,Electronic music,30,1775050594,ok,,Electronic music,Music,,YouTube,2026,@CanalKondZilla,Canal KondZilla
-1,83400000.0,,280325.43,11939.17,1752352.13,Music of Asia,30,1775050594,ok,,Music of Asia,Music,,YouTube,2026,@BANGTANTV,BANGTANTV
-1,105000000.0,India,356.5,8.73,22970.53,Entertainment,30,1775050597,ok,,Entertainment,Entertainment,,YouTube,2026,@sabtv,Sony SAB
-1,80500000.0,South Korea,374933.17,45396.13,4652750.5,Pop music,30,1775050594,ok,,Pop music,Music,,YouTube,2026,@ibighit,HYBE LABELS
-1,97500000.0,India,15.1,0.3,742.23,Film,30,1775050596,ok,,Film,Entertainment,,YouTube,2026,@zeetv,Zee TV
-1,74400000.0,India,280.13,8.87,29275.43,Film,30,1775050596,ok,,Film,Entertainment,,YouTube,2026,@filmigaane,Shemaroo Filmi Gaane
-1,61800000.0,United States,72589.53,1517.0,5510589.63,Lifestyle (sociology),30,1775050595,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@corycotton,Dude Perfect
-1,84400000.0,United States,2516.23,0.0,768784.4,Music,30,1775050595,ok,,Music,Music,,YouTube,2026,@SmartBooksMedia,Baby Shark - Pinkfong Kids’ Songs & Stories
-1,58400000.0,United States,7644.63,306.43,354127.77,Hip hop music,30,1775050595,ok,,Hip hop music,Music,,YouTube,2026,@Marshmello,Marshmello
-1,69800000.0,India,810.43,38.1,215119.87,Music of Asia,30,1775050598,ok,,Music of Asia,Music,,YouTube,2026,@BHOJPURIWAVE,Wave Music
-1,82000000.0,India,1.37,0.03,52.1,Film,30,1775050598,ok,,Film,Entertainment,,YouTube,2026,@colorstv,Colors TV
-1,74900000.0,India,122.63,2.43,19140.67,Society,30,1775050596,ok,,Society,Lifestyle,,YouTube,2026,@aajtaktv,Aaj Tak
-1,70500000.0,India,16090.43,2341.33,287780.87,Pop music,30,1775050598,ok,,Pop music,Music,,YouTube,2026,@sonymusicindiaSME,Sony Music India
-1,81000000.0,India,1307.13,19.13,217771.3,Film,30,1775050598,ok,,Film,Entertainment,,YouTube,2026,@tipsmusic,Tips Official
-1,71000000.0,Argentina,2184.53,0.0,573820.13,Film,30,1775050597,ok,,Film,Entertainment,,YouTube,2026,@ReinoMariaElenaWalsh,El Reino Infantil
-1,61900000.0,United States,6966.87,0.0,4918082.37,Entertainment,30,1775050597,ok,,Entertainment,Entertainment,,YouTube,2026,@LooLooKids,LooLoo Kids - Nursery Rhymes and Children's Songs
-1,81800000.0,India,475.53,37.23,33430.7,Religion,30,1775050599,ok,,Religion,Lifestyle,,YouTube,2026,@tseriesbhakti,T-Series Bhakti Sagar
-1,55100000.0,Chile,129910.53,2799.33,3691241.5,Role-playing video game,30,1775050598,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@JuegaGerman,JuegaGerman
-1,71600000.0,India,3681.53,29.27,250700.9,Music,30,1775050599,ok,,Music,Music,,YouTube,2026,@yrf,YRF
-1,47800000.0,Brazil,18524.03,376.37,225167.27,Film,30,1775050599,ok,,Film,Entertainment,,YouTube,2026,@felipeneto,Felipe Neto
-1,44600000.0,Brazil,2362.03,30.47,49852.27,Film,30,1775050599,ok,,Film,Entertainment,,YouTube,2026,@whinderssonnunes,whinderssonnunes
-1,46800000.0,United States,14348.23,1430.87,487573.13,Entertainment,30,1775050599,ok,,Entertainment,Entertainment,,YouTube,2026,@KatyPerryMusic,Katy Perry
-1,47100000.0,Brazil,24824.67,565.6,533484.93,Entertainment,30,1775050599,ok,,Entertainment,Entertainment,,YouTube,2026,@vcsabiavideos,Você Sabia?
-1,72200000.0,India,8966.63,0.0,1125740.9,Music of Asia,30,1775050599,ok,,Music of Asia,Music,,YouTube,2026,@infobellshindirhymes,Infobells - Hindi
-1,47400000.0,Norway,6218.8,288.7,178671.5,Electronic music,30,1775050600,ok,,Electronic music,Music,,YouTube,2026,@DjWalkzz,Alan Walker
-1,59700000.0,,5348.43,71.4,679190.6,Music of Asia,30,1775050600,ok,,Music of Asia,Music,,YouTube,2026,@sonymusicindiaVEVO,SonyMusicIndiaVEVO
-1,48300000.0,India,708.27,13.13,83642.9,Pop music,30,1775050600,ok,,Pop music,Music,,YouTube,2026,@speedrecordss,Speed Records
-1,18.0,,,,,,0,1775050600,ok,,,NA,,YouTube,2026,@A4,Ari Power
-1,54700000.0,Philippines,7.83,0.4,411.73,Entertainment,30,1775050601,ok,,Entertainment,Entertainment,,YouTube,2026,@ABSCBNOnline,ABS-CBN Entertainment
-1,57000000.0,United Arab Emirates,585.17,0.0,113650.93,Entertainment,30,1775050600,ok,,Entertainment,Entertainment,,YouTube,2026,@getmovies,Get Movies
-1,45700000.0,Mexico,132346.23,3571.4,9864385.57,Tourism,30,1775050601,ok,,Tourism,Lifestyle,,YouTube,2026,@LuisitoComunicaa,Luisito Comunica
-1,41700000.0,United States,705.7,0.0,168273.53,Entertainment,30,1775050600,ok,,Entertainment,Entertainment,,YouTube,2026,@LittleBabyBum,Little Baby Bum - Nursery Rhymes & Kids Songs
-1,38000000.0,United States,272.83,,20577.3,Television program,30,1775050601,ok,,Television program,Entertainment,,YouTube,2026,@TheEllenShow,TheEllenShow
-1,59900000.0,Russia,9456.97,,2109975.93,Television program,30,1775050601,ok,,Television program,Entertainment,,YouTube,2026,@MashaMedvedTV,Маша и Медведь
-1,42900000.0,Brazil,6956.23,160.73,498155.07,Pop music,30,1775050602,ok,,Pop music,Music,,YouTube,2026,@gr6explode,GR6 EXPLODE
-1,53400000.0,Brazil,4378.43,96.13,311298.67,Entertainment,30,1775050601,ok,,Entertainment,Entertainment,,YouTube,2026,@luccasneto,LUCCAS NETO
-1,53000000.0,India,970.17,8.47,61201.5,Film,30,1775050603,ok,,Film,Entertainment,,YouTube,2026,@venus,Ishtar Music
-1,61500000.0,India,191.53,6.13,26869.4,Film,30,1775050603,ok,,Film,Entertainment,,YouTube,2026,@ShemarooEnt,Shemaroo
-1,41300000.0,United States,90981.31,4937.62,8929736.31,Lifestyle (sociology),16,1775050602,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@DaddyYankeeOFFTV,Daddy Yankee
-1,43600000.0,Thailand,34.87,1.73,1483.0,Lifestyle (sociology),30,1775050604,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@WorkpointOfficial,WorkpointOfficial
-1,46100000.0,Canada,3567.9,0.0,5848172.03,Film,30,1775050603,ok,,Film,Entertainment,,YouTube,2026,@SuperSimpleSongs,Super Simple Songs - Kids Songs
-1,35200000.0,Colombia,7020.83,255.07,518257.0,Hip hop music,30,1775050603,ok,,Hip hop music,Music,,YouTube,2026,@JbalvinTube,J Balvin
-1,44500000.0,Thailand,47.33,2.23,1302.8,Film,30,1775050605,ok,,Film,Entertainment,,YouTube,2026,@gmmonetv,ช่อง one31
-1,34700000.0,,14879.7,196.77,233186.97,Action game,30,1775050604,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@vegetta777,VEGETTA777
-1,45000000.0,United States,2977.1,207.67,264937.14,Entertainment,30,1775050604,ok,,Entertainment,Entertainment,,YouTube,2026,@YouTube,YouTube
-1,38500000.0,United States,77970.7,3685.8,1726194.1,Action game,30,1775050604,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@markiplierGAME,Markiplier
-1,50400000.0,India,22.33,0.17,2334.63,Society,30,1775050606,ok,,Society,Lifestyle,,YouTube,2026,@abpnewstv,ABP NEWS
-1,34300000.0,United Kingdom,3734.73,361.47,152900.27,Electronic music,30,1775050604,ok,,Electronic music,Music,,YouTube,2026,@NoCopyrightSounds,NoCopyrightSounds
-1,46900000.0,India,1572.77,28.37,277394.07,Entertainment,30,1775050605,ok,,Entertainment,Entertainment,,YouTube,2026,@UltraHindi,Ultra Bollywood
-1,40900000.0,India,393.1,13.0,17064.87,Music of Asia,30,1775050607,ok,,Music of Asia,Music,,YouTube,2026,@tseriesapnapunjab,T-Series Apna Punjab
-1,35000000.0,United States,9825.2,720.77,394672.23,Film,30,1775050606,ok,,Film,Entertainment,,YouTube,2026,@SSSniperWolf,SSSniperWolf
-1,58200000.0,Spain,38048.6,2177.17,1577360.97,Action game,30,1775050606,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@Mikecrack,Mikecrack
-1,36700000.0,Thailand,213.57,5.07,15580.8,Film,30,1775050610,ok,,Film,Entertainment,,YouTube,2026,@tv3official,Ch3Thailand
-1,47100000.0,,50.07,1.47,482176.77,Humour,30,1775050606,ok,,Humour,Entertainment,,YouTube,2026,@sonypalindia,Sony PAL
-1,30200000.0,United States,842.17,32.13,34277.9,Electronic music,30,1775050607,ok,,Electronic music,Music,,YouTube,2026,@AllTrapNation,Trap Nation
-1,50400000.0,India,50.93,1.27,1931.27,Politics,30,1775050607,ok,,Politics,Knowledge&Info,,YouTube,2026,@IndiaTV,IndiaTV
-1,45500000.0,Argentina,3515.33,0.0,624775.23,Music,30,1775050607,ok,,Music,Music,,YouTube,2026,@cancionesdelagranja,La Granja de Zenón
-1,35700000.0,India,73.63,2.03,10547.87,Entertainment,30,1775050608,ok,,Entertainment,Entertainment,,YouTube,2026,@erosentertainment,Eros Universe
-1,33600000.0,,94109.4,10519.73,5288003.8,Electronic music,30,1775050607,ok,,Electronic music,Music,,YouTube,2026,@SMTOWN,SMTOWN
-1,35700000.0,,455.63,10.93,34232.73,Television program,30,1775050607,ok,,Television program,Entertainment,,YouTube,2026,@MrBean,Mr Bean
-1,39000000.0,Brazil,,,,Film,0,1775050608,ok,,Film,Entertainment,,YouTube,2026,@juptube,Galinha Pintadinha
-1,34200000.0,Brazil,8593.83,184.37,211778.2,Lifestyle (sociology),30,1775050609,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@rezendeevil,rezendeevil
-1,26.0,,,,,,0,1775050608,ok,,,NA,,YouTube,2026,@AH,Ahh
-1,32000000.0,Netherlands,418.17,9.67,25942.03,Pop music,30,1775050609,ok,,Pop music,Music,,YouTube,2026,@SpinninRec,Spinnin' Records
-1,33900000.0,United States,2889.9,96.57,66517.2,Entertainment,30,1775050609,ok,,Entertainment,Entertainment,,YouTube,2026,@latenight,The Tonight Show Starring Jimmy Fallon
-1,52200000.0,India,1042.6,31.73,95992.5,Film,30,1775050609,ok,,Film,Entertainment,,YouTube,2026,@tseriesoldisgold,T-Series Bollywood Classics
-1,41000000.0,India,44.07,2.7,6938.37,Entertainment,30,1775050609,ok,,Entertainment,Entertainment,,YouTube,2026,@rajshri,Rajshri
-1,72300000.0,Pakistan,22.8,0.4,1638.1,Television program,30,1775050610,ok,,Television program,Entertainment,,YouTube,2026,@harpalgeo,HAR PAL GEO
-1,38900000.0,United States,2641.6,0.0,124670.9,Film,30,1775050609,ok,,Film,Entertainment,,YouTube,2026,@DisneyMusicVEVO,DisneyMusicVEVO
-1,32400000.0,,532.1,19.0,29684.93,Electronic music,30,1775050610,ok,,Electronic music,Music,,YouTube,2026,@UltraRecords,Ultra Records
-1,31200000.0,Ireland,77436.3,4439.5,1816286.53,Action-adventure game,30,1775050610,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@jacksepticeye,jacksepticeye
-1,39500000.0,Canada,139497.56,6773.11,7734564.0,Pop music,9,1775050610,ok,,Pop music,Music,,YouTube,2026,@xoxxxoooxo,The Weeknd
-1,28200000.0,,,,,Film,0,1775050610,ok,,Film,Entertainment,,YouTube,2026,@TheLateLateShow,The Late Late Show with James Corden
-1,33200000.0,United States,4257.77,108.3,143659.4,Music,30,1775050611,ok,,Music,Music,,YouTube,2026,@ImagineDragons,ImagineDragons
-1,33300000.0,United States,1025.7,43.1,160539.37,Film,30,1775050611,ok,,Film,Entertainment,,YouTube,2026,@TalkingTomCat,Talking Tom
-1,33500000.0,,,,39696.33,Society,30,1775050611,ok,,Society,Lifestyle,,YouTube,2026,@toyoraljanahtv,قناة طيور الجنة | toyoraljanahtv
-1,43400000.0,United Kingdom,2735.1,,833611.63,Film,30,1775050611,ok,,Film,Entertainment,,YouTube,2026,@theofficialpeppa,Peppa Pig - Official Channel
-1,38800000.0,India,860.47,21.43,70410.53,Music,30,1775050612,ok,,Music,Music,,YouTube,2026,@WWRBhojpuri,Worldwide Records Bhojpuri
-1,61300000.0,India,5898.27,82.43,803964.87,Pop music,30,1775050612,ok,,Pop music,Music,,YouTube,2026,@SongsOfIndianCinema,Saregama Music
-1,43100000.0,Argentina,26280.57,471.73,682167.47,Role-playing video game,30,1775050612,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@TheDonato,TheDonato
-1,41000000.0,Philippines,59.6,2.7,3210.77,Film,30,1775050614,ok,,Film,Entertainment,,YouTube,2026,@GMANETWORK,GMA Network
-1,35900000.0,India,4985.57,0.0,762410.83,Entertainment,30,1775050612,ok,,Entertainment,Entertainment,,YouTube,2026,@infobellstamil,infobells - Tamil
-1,29200000.0,United Kingdom,25161.1,1744.87,659021.0,Action game,30,1775050612,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@TheDiamondMinecart,DanTDM
-1,30300000.0,United States,1142.13,140.03,28239.5,Pop music,30,1775050612,ok,,Pop music,Music,,YouTube,2026,@taylorgangent,Wiz Khalifa
-1,27700000.0,United States,2394.53,168.7,176385.03,Pop music,30,1775050613,ok,,Pop music,Music,,YouTube,2026,@WorldStarHipHopTV,WORLDSTARHIPHOP
-1,26000000.0,United States,26483.87,653.2,602216.9,Role-playing video game,30,1775050613,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@VanossGaming,VanossGaming
-1,28700000.0,,32025.83,221.53,514105.73,Film,30,1775050613,ok,,Film,Entertainment,,YouTube,2026,@enchufetv,enchufetv
-1,37200000.0,India,3762.03,0.0,723764.6,Music,30,1775050613,ok,,Music,Music,,YouTube,2026,@infobellstelugu,infobells - Telugu
-1,27300000.0,,18145.97,482.23,507114.23,Lifestyle (sociology),30,1775050613,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@LosPolinesios,LosPolinesios
-1,50200000.0,Ireland,,0.23,103046.57,Television program,30,1775050615,ok,,Television program,Entertainment,,YouTube,2026,@PowerKids,PowerKids TV
-1,30900000.0,Colombia,1171.3,0.0,212858.37,Film,30,1775050614,ok,,Film,Entertainment,,YouTube,2026,@toycantando,toycantando
-1,27100000.0,United States,23449.0,383.93,447937.13,Television program,30,1775050615,ok,,Television program,Entertainment,,YouTube,2026,@smosh,Smosh
-1,31200000.0,Brazil,78262.6,2288.8,1092049.83,Lifestyle (sociology),30,1775050615,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@xSkyHeLLxx,Renato Garcia
-1,48800000.0,Kuwait,233224.23,8738.4,8289145.07,Film,30,1775050615,ok,,Film,Entertainment,,YouTube,2026,@AboFlah,AboFlah
-1,41900000.0,India,23.0,0.57,1553.9,Politics,30,1775050616,ok,,Politics,Knowledge&Info,,YouTube,2026,@zeenews,Zee News
-1,25900000.0,Canada,615.13,112.87,28029.8,Television program,30,1775050615,ok,,Television program,Entertainment,,YouTube,2026,@WatchMojo,WatchMojo.com
-1,37100000.0,United States,7544.73,401.03,351605.57,Entertainment,30,1775050616,ok,,Entertainment,Entertainment,,YouTube,2026,@TwiNboTzVids,Lucas and Marcus
-1,31800000.0,,34731.83,2002.47,951114.4,Pop music,30,1775050616,ok,,Pop music,Music,,YouTube,2026,@jypentertainment,JYP Entertainment
-1,27700000.0,United States,4441.47,211.37,555487.0,Electronic music,30,1775050616,ok,,Electronic music,Music,,YouTube,2026,@davidguettavevo,David Guetta
-1,35200000.0,United States,610.97,0.0,138147.47,Television program,30,1775050617,ok,,Television program,Entertainment,,YouTube,2026,@nickelodeonjuniorfr,Nick Jr.
-1,97.0,,,,,Pop music,0,1775050616,ok,,Pop music,Music,,YouTube,2026,@ZHC,zhc
-1,36500000.0,India,215.73,1.97,19003.37,Music of Asia,30,1775050619,ok,,Music of Asia,Music,,YouTube,2026,@adityamusic,Aditya Music
-1,33100000.0,United States,16188.27,831.6,616276.47,Music of Asia,30,1775050617,ok,,Music of Asia,Music,,YouTube,2026,@NewOnNetflix,Netflix
-1,29600000.0,United States,1839.03,0.0,360693.07,Television program,30,1775050617,ok,,Television program,Entertainment,,YouTube,2026,@SesameStreet,Sesame Street
-1,23400000.0,United Kingdom,3789.43,180.5,177413.1,Role-playing video game,30,1775050618,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@JellyYT,Jelly
-1,28400000.0,United Kingdom,13579.27,673.36,662980.91,Pop music,11,1775050618,ok,,Pop music,Music,,YouTube,2026,@ColdplayVEVO,Coldplay
-1,28800000.0,Brazil,2064.37,52.48,179993.67,Entertainment,30,1775050619,ok,,Entertainment,Entertainment,,YouTube,2026,@mildicasdemulher,Valentina Pontes ofc
-1,24100000.0,Argentina,84803.9,5017.77,1348507.73,Society,30,1775050619,ok,,Society,Lifestyle,,YouTube,2026,@DrossRotzank,DrossRotzank
-1,38300000.0,India,233.57,2.23,19252.27,Entertainment,30,1775050621,ok,,Entertainment,Entertainment,,YouTube,2026,@adityacinema,Aditya Movies
-1,23000000.0,United States,1135.87,45.73,39876.7,Music,30,1775050619,ok,,Music,Music,,YouTube,2026,@THECHAINSMOKERS,The Chainsmokers
-1,27000000.0,Turkey,210.8,54.45,33783.83,Pop music,30,1775050622,ok,,Pop music,Music,,YouTube,2026,@netdmuzikk,netd müzik
-1,25900000.0,Thailand,87.73,3.1,7054.1,Pop music,30,1775050620,ok,,Pop music,Music,,YouTube,2026,@gmmgrammyofficial,GMM GRAMMY OFFICIAL
-1,23500000.0,Saudi Arabia,6644.43,200.03,1087880.43,Lifestyle (sociology),30,1775050620,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@mmoshaya,mmoshaya
-1,27600000.0,India,189.53,2.7,29832.97,Film,30,1775050620,ok,,Film,Entertainment,,YouTube,2026,@VenusMovies,Venus Movies
-1,2.0,,,,,,0,1775050620,ok,,,NA,,YouTube,2026,@WHBBP,White Hill Production
-1,27300000.0,United States,695.93,28.27,30563.27,Society,30,1775050621,ok,,Society,Lifestyle,,YouTube,2026,@TEDtalksDirector,TED
-1,28900000.0,United States,63413.67,7707.87,2879614.9,Lifestyle (sociology),30,1775050621,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@oRugrat,FaZe Rug
-1,30900000.0,United States,32432.97,434.43,1235556.7,Music,30,1775050621,ok,,Music,Music,,YouTube,2026,@AmericasGotTalent,America's Got Talent
-1,21300000.0,Brazil,36809.47,259.0,546373.13,Entertainment,30,1775050621,ok,,Entertainment,Entertainment,,YouTube,2026,@CanalCanalha,Canal Canalha
-1,26900000.0,India,65.2,11.57,6269.87,Music of Asia,30,1775050624,ok,,Music of Asia,Music,,YouTube,2026,@hamaarbhojiwood,Wave Music Bhojpuri
-1,30800000.0,United Kingdom,1783.93,,689056.1,Television program,30,1775050621,ok,,Television program,Entertainment,,YouTube,2026,@PeppaLatinoAmericano,Peppa Pig Español Latino - Canal Oficial
-1,39200000.0,India,928.63,12.63,126384.77,Film,30,1775050623,ok,,Film,Entertainment,,YouTube,2026,@shemaroomovies,Shemaroo Movies
-1,25200000.0,United States,50167.52,3827.48,4127578.7,Action game,23,1775050622,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@FGTeeV,FGTeeV
-1,19700000.0,United States,635.7,29.53,33269.23,Entertainment,30,1775050622,ok,,Entertainment,Entertainment,,YouTube,2026,@BuzzFeedVideo,BuzzFeedVideo
-1,25300000.0,United States,16191.77,993.2,703434.33,Casual game,30,1775050623,ok,,Casual game,Tech&Gaming,Gaming,YouTube,2026,@SSundee,SSundee
-1,20200000.0,Brazil,22314.0,1205.0,291298.0,Action-adventure game,1,1775050624,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@AuthenticGames,AuthenticGames
-1,20100000.0,United States,3549.2,213.9,92050.4,Film,30,1775050623,ok,,Film,Entertainment,,YouTube,2026,@TheFineBros,REACT
-1,20000000.0,,132.37,3.3,8965.97,Pop music,30,1775050623,ok,,Pop music,Music,,YouTube,2026,@VEVO,Vevo
-1,30400000.0,Argentina,1706.0,0.0,423765.77,Television program,30,1775050624,ok,,Television program,Entertainment,,YouTube,2026,@DisneyChannelLA,Disney Jr. Latinoamérica
-1,30400000.0,,89.93,1.13,12346.77,Entertainment,30,1775050624,ok,,Entertainment,Entertainment,,YouTube,2026,@goldmineshindi,Goldmines Movies
-1,29900000.0,India,9043.43,314.8,1394381.37,Entertainment,30,1775050624,ok,,Entertainment,Entertainment,,YouTube,2026,@PenIndiaPvtLimited,Pen Movies
-1,19500000.0,Germany,300.37,11.77,131834.0,Lifestyle (sociology),30,1775050624,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@HaerteTest,HaerteTest
-1,21300000.0,Italy,82755.44,4456.25,4028678.81,Hobby,16,1775050625,ok,,Hobby,Lifestyle,,YouTube,2026,@SlivkiChanel,SlivkiShow
-1,23300000.0,Australia,437115.08,5691.0,17425225.42,Action game,12,1775050625,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@LazarBeam,LazarBeam
-1,25900000.0,United States,850.8,37.7,67211.77,Film,30,1775050625,ok,,Film,Entertainment,,YouTube,2026,@NationalGeographic,National Geographic
-1,22500000.0,United States,4103.8,189.6,102853.57,Music,30,1775050625,ok,,Music,Music,,YouTube,2026,@BeckyGOfficial,Becky G
-1,35200000.0,Indonesia,793.97,102.9,22457.3,Film,30,1775050628,ok,,Film,Entertainment,,YouTube,2026,@NewAFI2013,Indosiar
-1,20300000.0,United States,27124.43,228.43,1064647.23,Humour,30,1775050626,ok,,Humour,Entertainment,,YouTube,2026,@rossbollinger,Pencilmation
-1,53900000.0,Pakistan,43.27,0.53,3847.53,Television program,30,1775050628,ok,,Television program,Entertainment,,YouTube,2026,@HumNetwork,HUM TV
-1,17300000.0,United States,31049.97,1279.17,5060456.27,Action game,30,1775050625,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@PrestonPlayz,PrestonPlayz
-1,22300000.0,,396.33,36.7,6577.43,Entertainment,30,1775050626,ok,,Entertainment,Entertainment,,YouTube,2026,@Mnet,Mnet K-POP
-1,23100000.0,United States,23915.6,1087.72,1231437.12,Pop music,25,1775050626,ok,,Pop music,Music,,YouTube,2026,@CharliesVlogs,Charlie Puth
-1,24000000.0,United States,69927.5,2711.36,3551283.71,Hip hop music,14,1775050626,ok,,Hip hop music,Music,,YouTube,2026,@GooodLifeFilms,Lyrical Lemonade
-1,27000000.0,Saudi Arabia,8394.3,280.87,2235636.3,Music of Asia,30,1775050629,ok,,Music of Asia,Music,,YouTube,2026,@RotanaAudio,Rotana
-1,56300000.0,India,82.2,1.77,3713.3,Film,30,1775050629,ok,,Film,Entertainment,,YouTube,2026,@starplus,StarPlus
-1,29600000.0,Jordan,,,218492.57,Entertainment,30,1775050627,ok,,Entertainment,Entertainment,,YouTube,2026,@toyorbabytv,toyorbabytv
-1,21900000.0,,3637.37,142.73,142956.17,Lifestyle (sociology),30,1775050628,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@gordonramsay,Gordon Ramsay
-1,21400000.0,,1332.17,27.0,80351.07,Performing arts,30,1775050628,ok,,Performing arts,Entertainment,,YouTube,2026,@gottalentglobal,Got Talent Global
-1,27100000.0,Mexico,236.7,13.43,13155.57,Film,30,1775050631,ok,,Film,Entertainment,,YouTube,2026,@TelenovelaTelevisa,Tlnovelas
-1,25700000.0,United States,40358.47,4004.37,1863744.47,Film,30,1775050629,ok,,Film,Entertainment,,YouTube,2026,@Infinite,Infinite
-1,21100000.0,India,884.83,9.53,19960.83,Knowledge,30,1775050629,ok,,Knowledge,Knowledge&Info,,YouTube,2026,@MrVivekBindra,Dr. Vivek Bindra: Motivational Speaker
-1,18500000.0,Spain,10594.8,198.77,239081.53,Food,30,1775050630,ok,,Food,Lifestyle,,YouTube,2026,@TheWillyrex,TheWillyrex
-1,31900000.0,India,2807.2,66.37,360009.47,Film,30,1775050629,ok,,Film,Entertainment,,YouTube,2026,@UltraMovieParlour,Ultra Movie Parlour
-1,22800000.0,Brazil,,250.37,101455.8,Society,30,1775050629,ok,,Society,Lifestyle,,YouTube,2026,@fatosdesconhecidos,Fatos Desconhecidos
-1,45800000.0,Brazil,34431.73,1081.6,1827087.57,Entertainment,30,1775050630,ok,,Entertainment,Entertainment,,YouTube,2026,@TheEnaldinhO,Enaldinho
-1,21800000.0,,7901.83,331.27,2070099.6,Role-playing video game,30,1775050630,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@OfficialClashOfClans,Clash of Clans
-1,22000000.0,United States,28621.83,1408.6,1008603.07,Film,30,1775050630,ok,,Film,Entertainment,,YouTube,2026,@JimmyKimmelLive,Jimmy Kimmel Live
-1,22500000.0,United States,3049.7,111.13,146343.8,Film,30,1775050632,ok,,Film,Entertainment,,YouTube,2026,@MARVEL,Marvel Entertainment
-1,22400000.0,Brazil,11197.2,497.9,443832.37,Action game,30,1775050631,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@RobinHoodGamer1,Robin Hood Gamer
-1,24000000.0,United States,1385.27,117.9,77492.27,Sport,30,1775050631,ok,,Sport,Sports,,YouTube,2026,@NBA,NBA
-1,25200000.0,Germany,100029.03,2814.73,2196201.77,Health,30,1775050631,ok,,Health,Knowledge&Info,,YouTube,2026,@Kurzgesagt,Kurzgesagt – In a Nutshell
-1,182.0,,,,,Pop music,0,1775050631,ok,,Pop music,Music,,YouTube,2026,@CKN,cKn
-1,27900000.0,Philippines,58.37,4.67,3142.67,Film,30,1775050633,ok,,Film,Entertainment,,YouTube,2026,@gmapublicaffairs,GMA Public Affairs
-1,25200000.0,Indonesia,9764.93,1054.87,529610.33,Film,30,1775050632,ok,,Film,Entertainment,,YouTube,2026,@corbuzierprediction,Deddy Corbuzier
-1,20900000.0,India,1932.07,122.2,128497.3,Music of Asia,30,1775050633,ok,,Music of Asia,Music,,YouTube,2026,@sonotekvideo,Sonotek
-1,22200000.0,India,354.13,0.0,50453.77,Humour,30,1775050633,ok,,Humour,Entertainment,,YouTube,2026,@greengoldtv,Green Gold TV - Official Channel
-1,21500000.0,Brazil,3455.9,0.0,272830.1,Lifestyle (sociology),30,1775050633,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@turmadamonicaTV,Turma da Mônica
-1,19200000.0,Brazil,414.23,6.97,37672.13,Performing arts,30,1775050633,ok,,Performing arts,Entertainment,,YouTube,2026,@DanielSaboya,Dan-Sa / Daniel Saboya
-1,21200000.0,United Kingdom,6265.13,503.7,268687.73,Entertainment,30,1775050633,ok,,Entertainment,Entertainment,,YouTube,2026,@BritainsGotTalent09,Britain's Got Talent
-1,20500000.0,South Korea,56.67,3.9,815.1,Television program,30,1775050633,ok,,Television program,Entertainment,,YouTube,2026,@kbsworld,KBS WORLD TV
-1,20700000.0,United States,227312.35,4295.13,4919144.26,Film,23,1775050633,ok,,Film,Entertainment,,YouTube,2026,@TheOdd1sOut,TheOdd1sOut
-1,22800000.0,,1045.27,0.0,196563.6,Entertainment,30,1775050634,ok,,Entertainment,Entertainment,,YouTube,2026,@PinkPanther,Official Pink Panther
-1,21200000.0,India,176001.6,1238.8,3660630.37,Society,30,1775050634,ok,,Society,Lifestyle,,YouTube,2026,@FactTechz,FactTechz
-1,19700000.0,Spain,34610.1,550.27,692382.1,Video game culture,30,1775050635,ok,,Video game culture,Tech&Gaming,Gaming,YouTube,2026,@TheGrefg,TheGrefg
-1,17800000.0,,142.6,,233789.3,Music,30,1775050634,ok,,Music,Music,,YouTube,2026,@SockeyeMedia,MGC Playhouse
-1,19700000.0,United Kingdom,6990.97,141.07,399866.63,Action-adventure game,30,1775050635,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@Matroix,Ali-A
-1,19600000.0,United States,27918.77,1337.97,786945.27,Film,30,1775050635,ok,,Film,Entertainment,,YouTube,2026,@rhettandlink2,Good Mythical Morning
-1,21400000.0,United States,1406.03,232.13,71573.17,Simulation video game,30,1775050635,ok,,Simulation video game,Tech&Gaming,Gaming,YouTube,2026,@CookieSwirlC,CookieSwirlC
-1,22300000.0,Spain,32778.0,2543.33,1873064.67,Action game,3,1775050635,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@ElTrollino,ElTrollino
-1,16400000.0,United States,359.1,327.4,71027.5,Music,30,1775050635,ok,,Music,Music,,YouTube,2026,@EeOneGuy,EeOneGuy
-1,29800000.0,United States,515.4,,851868.5,Entertainment,30,1775050636,ok,,Entertainment,Entertainment,,YouTube,2026,@TheElenaYa,Diana and Roma EN
-1,25300000.0,Indonesia,21938.37,1794.83,673674.5,Action game,30,1775050635,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@MiawAug,MiawAug
-1,20400000.0,,941.8,39.93,145872.17,Music of Asia,30,1775050636,ok,,Music of Asia,Music,,YouTube,2026,@rsiammusic,RsiamMusic : อาร์สยาม
-1,20600000.0,United States,5578.6,193.83,287282.33,Electronic music,30,1775050636,ok,,Electronic music,Music,,YouTube,2026,@farrukotv,Farruko
-1,19400000.0,Russia,102627.48,4082.2,1806918.36,Action-adventure game,25,1775050636,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@dj47maryn,Marmok
-1,19000000.0,Brazil,16358.3,343.83,311732.83,Film,30,1775050636,ok,,Film,Entertainment,,YouTube,2026,@portadosfundos,Porta dos Fundos
-1,17200000.0,Spain,11071.53,118.97,227161.8,Action-adventure game,30,1775050638,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@Willyrex,Willyrex
-1,22800000.0,Indonesia,544.53,46.1,17410.17,Television program,30,1775050641,ok,,Television program,Entertainment,,YouTube,2026,@SCTVIndonesia,Surya Citra Televisi (SCTV)
-1,18900000.0,,6525.0,323.57,455848.03,Music of Latin America,30,1775050637,ok,,Music of Latin America,Music,,YouTube,2026,@SebastianYatra,Sebastián Yatra
-1,20400000.0,Ukraine,11927.83,1032.6,943572.57,Lifestyle (sociology),30,1775050637,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@ThePoznavatel,Познаватель
-1,20100000.0,Argentina,25829.67,328.4,568770.83,Role-playing video game,30,1775050637,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@RobleisIUTU,RobleisIUTU
-1,16400000.0,Spain,58.93,,9097.33,Entertainment,30,1775050639,ok,,Entertainment,Entertainment,,YouTube,2026,@kidstvsongs,Doggy Doggy Cartoons
-1,20000000.0,France,121549.23,1750.1,3062870.5,Television program,30,1775050638,ok,,Television program,Entertainment,,YouTube,2026,@aMOODIEsqueezie,SQUEEZIE
-1,18400000.0,Iraq,2650.97,174.4,422894.1,Music,30,1775050639,ok,,Music,Music,,YouTube,2026,@musicalrmastv,الـريماس - Al-Remas
-1,22100000.0,Thailand,258.6,13.77,35880.97,Music of Asia,30,1775050640,ok,,Music of Asia,Music,,YouTube,2026,@grammygoldofficia,GRAMMY GOLD OFFICIAL
-1,19800000.0,United States,465.77,85.87,20902.17,Role-playing video game,30,1775050639,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@IGNentertainment,IGN
-1,22500000.0,United States,10812.9,510.23,294453.9,Health,30,1775050639,ok,,Health,Knowledge&Info,,YouTube,2026,@TEDEducation,TED-Ed
-1,41900000.0,,3354.03,34.7,160113.13,Entertainment,30,1775050640,ok,,Entertainment,Entertainment,,YouTube,2026,@JasonDerulo,Jason Derulo
-1,16800000.0,Mexico,7700.37,89.03,162120.2,Entertainment,30,1775050640,ok,,Entertainment,Entertainment,,YouTube,2026,@jquintanac5,DeToxoMoroxo
-1,42000000.0,United States,3457.53,301.93,385585.1,Role-playing video game,30,1775050641,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@LankyBox,LankyBox
-1,23400000.0,India,117.83,1.5,6385.77,Entertainment,30,1775050642,ok,,Entertainment,Entertainment,,YouTube,2026,@etvteluguindia,etvteluguindia
-1,25500000.0,Saudi Arabia,12144.5,655.27,384343.9,Action-adventure game,30,1775050641,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@ArabGamesNetwork,شبكة العاب العرب | Arab Games Network
-1,30400000.0,Spain,10808.3,856.67,578784.5,Action-adventure game,30,1775050641,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@invictorgs3,invictor
-1,28300000.0,India,452.23,16.33,15884.17,Film,30,1775050644,ok,,Film,Entertainment,,YouTube,2026,@STARVIJAY,Vijay Television
-1,18300000.0,Russia,191488.29,8486.71,4235357.0,Action-adventure game,14,1775050641,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@TheBrianMaps,TheBrianMaps
-1,18200000.0,,7460.57,422.13,1015681.27,Electronic music,30,1775050642,ok,,Electronic music,Music,,YouTube,2026,@AnittaOficial,Anitta
-1,15600000.0,United States,18517.0,2701.0,532629.0,Lifestyle (sociology),1,1775050642,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@jeffreestar,jeffreestar
-1,20100000.0,Brazil,33159.63,569.1,513441.73,Hobby,30,1775050643,ok,,Hobby,Lifestyle,,YouTube,2026,@iberethenorio,Manual do Mundo
-1,16400000.0,Mexico,5207.38,212.29,104715.71,Lifestyle (sociology),14,1775050642,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@Antrax,Antrax
-1,21500000.0,Thailand,6765.0,564.2,342622.37,Action game,30,1775050643,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@zbingzbing,zbing z.
-1,16500000.0,United Kingdom,3501.87,131.0,85248.93,Electronic music,30,1775050644,ok,,Electronic music,Music,,YouTube,2026,@littlemixmusic,Little Mix
-1,17000000.0,United States,1551.9,51.43,80544.57,Music,30,1775050643,ok,,Music,Music,,YouTube,2026,@boyceavenue,Boyce Avenue
-1,17500000.0,United States,3552.7,198.97,324617.23,Entertainment,30,1775050644,ok,,Entertainment,Entertainment,,YouTube,2026,@failarmy,FailArmy
-1,20600000.0,United States,17158.43,,2775223.5,Technology,30,1775050644,ok,,Technology,Tech&Gaming,Tech,YouTube,2026,@Apple,Apple
-1,15500000.0,United States,91.79,8.32,4728.21,Music,19,1775050644,ok,,Music,Music,,YouTube,2026,@DopeLyrics,DopeLyrics
-1,18900000.0,United Kingdom,4809.47,172.8,141980.53,Entertainment,30,1775050644,ok,,Entertainment,Entertainment,,YouTube,2026,@queenofficial,Queen Official
-1,16100000.0,United States,735.1,75.73,43511.47,Entertainment,30,1775050645,ok,,Entertainment,Entertainment,,YouTube,2026,@movieclipsTRAILERS,Rotten Tomatoes Trailers
-1,19600000.0,United States,41581.7,1153.1,1285741.97,Action-adventure game,30,1775050645,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@MatthewPatrick13,The Game Theorists
-1,25800000.0,Malaysia,1029.43,4.03,85957.07,Television program,30,1775050645,ok,,Television program,Entertainment,,YouTube,2026,@lescopaque,Les' Copaque Production
-1,18600000.0,Indonesia,56.33,6.33,3377.1,Television program,30,1775050645,ok,,Television program,Entertainment,,YouTube,2026,@TRANSTVofficial,TRANS TV Official
-1,23000000.0,,697.03,19.07,59497.0,Film,30,1775050646,ok,,Film,Entertainment,,YouTube,2026,@SonyMusicSouthVEVO,SonyMusicSouthVEVO
-1,15100000.0,United States,,,,Film,0,1775050645,ok,,Film,Entertainment,,YouTube,2026,@RomanAtwoodVlogs,Roman Atwood Vlogs
-1,20900000.0,United States,151911.43,7286.63,4656142.63,Lifestyle (sociology),30,1775050645,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@marquesbrownlee,Marques Brownlee
-1,19100000.0,United States,3246.47,454.63,171056.63,Entertainment,30,1775050646,ok,,Entertainment,Entertainment,,YouTube,2026,@vice,VICE
-1,32200000.0,United States,3937.4,217.47,414327.73,Hip hop music,30,1775050647,ok,,Hip hop music,Music,,YouTube,2026,@monstafluffmusicTV,7clouds
-1,17500000.0,United States,1358.4,120.4,47151.3,Electronic music,30,1775050646,ok,,Electronic music,Music,,YouTube,2026,@JenniferLopez,Jennifer Lopez
-1,16400000.0,United States,51045.75,1061.4,1362307.6,Food,20,1775050647,ok,,Food,Lifestyle,,YouTube,2026,@MegatoadStonie,Matt Stonie
-1,16900000.0,Brazil,401.0,13.37,14815.77,Electronic music,30,1775050648,ok,,Electronic music,Music,,YouTube,2026,@portalfitdance,FitDance
-1,14700000.0,United States,96.4,7.33,6675.3,Entertainment,30,1775050647,ok,,Entertainment,Entertainment,,YouTube,2026,@TheRichest,TheRichest
-1,20600000.0,,5657.23,348.53,594516.07,Pop music,30,1775050648,ok,,Pop music,Music,,YouTube,2026,@popchartbusters,Pop Chartbusters
-1,20600000.0,Brazil,1821.57,0.0,330788.47,Lifestyle (sociology),30,1775050648,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@OGatoGalactico,Gato Galactico
-1,2.0,,,,,,0,1775050647,ok,,,NA,,YouTube,2026,@ntvru,HTB Media
-1,17600000.0,United Kingdom,99943.33,3321.53,3532394.4,Entertainment,30,1775050648,ok,,Entertainment,Entertainment,,YouTube,2026,@KSIOlajidebtHD,KSI
-1,14900000.0,United States,671.07,53.0,44477.7,Entertainment,30,1775050649,ok,,Entertainment,Entertainment,,YouTube,2026,@kwebbelkop,Kwebbelkop
-1,15200000.0,United States,900.23,9.33,33492.83,Lifestyle (sociology),30,1775050649,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@makeuplocalypse,Mariale
-1,15200000.0,Philippines,6850.14,190.57,400131.67,Lifestyle (sociology),21,1775050649,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@ranziscool,Ranz Kyle
-1,16400000.0,Spain,4704.4,153.37,495571.5,Video game culture,30,1775050649,ok,,Video game culture,Tech&Gaming,Gaming,YouTube,2026,@Makiman131,Makiman131
-1,15300000.0,Australia,15509.37,107.63,614728.33,Action-adventure game,30,1775050649,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@Lachlan,Lachlan
-1,14200000.0,,2282.3,74.73,75111.4,Film,30,1775050649,ok,,Film,Entertainment,,YouTube,2026,@IISuperwomanII,Lilly Singh
-1,16200000.0,United States,154.2,0.23,18909.87,Humour,30,1775050649,ok,,Humour,Entertainment,,YouTube,2026,@TalkingFriends,Talking Tom & Friends TV
-1,14500000.0,Brazil,132.33,5.33,12254.33,Hip hop music,3,1775050650,ok,,Hip hop music,Music,,YouTube,2026,@CanalTaBombando,LEGENDA FUNK
-1,26700000.0,India,92.0,12.1,4653.3,Politics,30,1775050651,ok,,Politics,Knowledge&Info,,YouTube,2026,@News24page,News 24
-1,22900000.0,India,284.23,0.53,42850.57,Entertainment,30,1775050652,ok,,Entertainment,Entertainment,,YouTube,2026,@SriBalajiMovies,SriBalajiMovies
-1,14200000.0,Peru,83.56,7.81,2045.62,Video game culture,16,1775050651,ok,,Video game culture,Tech&Gaming,Gaming,YouTube,2026,@Drawblogs,Drawblogs
-1,23000000.0,United Kingdom,179568.2,5153.67,6733724.7,Entertainment,30,1775050651,ok,,Entertainment,Entertainment,,YouTube,2026,@Sidemen,Sidemen
-1,16100000.0,Brazil,1021.2,20.67,35032.17,Lifestyle (sociology),30,1775050651,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@zncoficial,Zé Neto e Cristiano
-1,17900000.0,India,47.13,0.77,6853.8,Film,30,1775050652,ok,,Film,Entertainment,,YouTube,2026,@newvolgavideo,Volga Video
-1,27400000.0,India,2717.03,41.07,380470.43,Entertainment,30,1775050652,ok,,Entertainment,Entertainment,,YouTube,2026,@rkddigital,RKD Studios
-1,17400000.0,Brazil,22164.14,412.96,4611849.71,Music of Latin America,28,1775050652,ok,,Music of Latin America,Music,,YouTube,2026,@hejproducao,Henrique e Juliano
-1,15500000.0,United States,9445.43,82.6,2791466.71,Hip hop music,7,1775050652,ok,,Hip hop music,Music,,YouTube,2026,@MattyBRaps,MattyBRaps
-1,15200000.0,United States,7482.6,256.63,168773.53,Film,30,1775050652,ok,,Film,Entertainment,,YouTube,2026,@collegehumor,Dropout
-1,19900000.0,Vietnam,592.8,0.0,126323.03,Television program,30,1775050652,ok,,Television program,Entertainment,,YouTube,2026,@popskids,POPS Kids
-1,16800000.0,Canada,30090.43,2012.57,860831.83,Lifestyle (sociology),30,1775050653,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@LinusTechTips,Linus Tech Tips
-1,19000000.0,Brazil,30301.6,850.4,502276.03,Lifestyle (sociology),30,1775050653,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@T3DDYgames,T3ddy
-1,22400000.0,India,94.7,3.13,19217.03,Entertainment,30,1775050654,ok,,Entertainment,Entertainment,,YouTube,2026,@indiancomedy,Shemaroo Comedy
-1,17300000.0,Mexico,25399.3,333.04,2482564.13,Lifestyle (sociology),30,1775050653,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@XpressTV,XpressTV
-1,19500000.0,Thailand,20.07,0.37,1188.57,Television program,30,1775050658,ok,,Television program,Entertainment,,YouTube,2026,@bbtvch7,Ch7HD
-1,15700000.0,United States,18131.87,2509.43,1816838.13,Entertainment,30,1775050654,ok,,Entertainment,Entertainment,,YouTube,2026,@chadwildclay,Chad Wild Clay
-1,15100000.0,Spain,1581.93,101.63,25240.57,Action game,30,1775050654,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@iTownGamePlay,iTownGamePlay *Terror&Diversión*
-1,15200000.0,United States,8781.27,372.6,416826.77,Lifestyle (sociology),30,1775050654,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@MartinGarrix,Martin Garrix
-1,15000000.0,United States,41399.55,2170.09,806330.09,Technology,11,1775050654,ok,,Technology,Tech&Gaming,Tech,YouTube,2026,@theslowmoguys,The Slow Mo Guys
-1,21500000.0,United Kingdom,86.4,,2957.77,Lifestyle (sociology),30,1775050654,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@LEGO,LEGO
-1,18700000.0,Brazil,361.2,15.73,10724.73,Christian music,30,1775050656,ok,,Christian music,Music,,YouTube,2026,@mkmusicnews,MK MUSIC
-1,13900000.0,Netherlands,401.5,13.53,10787.0,Hip hop music,30,1775050655,ok,,Hip hop music,Music,,YouTube,2026,@OfficialTrapCity,Trap City
-1,14100000.0,Brazil,26055.63,655.63,271236.77,Lifestyle (sociology),30,1775050655,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@inventonahoratv,Invento na Hora
-1,16900000.0,United States,2120.1,198.53,67788.0,Action game,30,1775050655,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@PlayStation,PlayStation
-1,16200000.0,Brazil,10841.1,324.73,206968.8,Lifestyle (sociology),30,1775050656,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@camilaloures,Camila Loures
-1,17200000.0,Thailand,1770.6,153.87,55374.8,Pop music,30,1775050656,ok,,Pop music,Music,,YouTube,2026,@Genierock,Genierock
-1,14200000.0,Brazil,13869.8,223.3,176713.17,Lifestyle (sociology),30,1775050658,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@AM3NlC,AM3NlC
-1,20300000.0,Thailand,6436.73,177.53,131737.57,Film,30,1775050659,ok,,Film,Entertainment,,YouTube,2026,@GMMTVSPOTLIKE,GMMTV OFFICIAL​​
-1,15000000.0,Netherlands,286317.83,2725.3,6430777.33,Lifestyle (sociology),30,1775050657,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@NikkieTutorials,NikkieTutorials
-1,14100000.0,Russia,1430.0,59.53,170584.0,Lifestyle (sociology),30,1775050657,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@MasterskayaNastroeny,Мастерская Настроения
-1,16200000.0,Egypt,7316.47,300.33,411391.3,Hip hop music,30,1775050657,ok,,Hip hop music,Music,,YouTube,2026,@MRamadanOfficial,Mohamed Ramadan I محمد رمضان
-1,13900000.0,United Kingdom,560.1,10.27,40479.9,Sport,30,1775050657,ok,,Sport,Sports,,YouTube,2026,@F2Freestylers,Pro Football Academy – The Next Gen of Ballers!
-1,22300000.0,,51.63,2.57,6102.4,Music of Asia,30,1775050657,ok,,Music of Asia,Music,,YouTube,2026,@BollywoodClassics,Bollywood Classics
-1,13200000.0,United States,1688.78,59.83,57669.72,Entertainment,18,1775050659,ok,,Entertainment,Entertainment,,YouTube,2026,@WWWengie,Wengie
-1,17200000.0,India,149.43,6.5,20030.83,Music,30,1775050663,ok,,Music,Music,,YouTube,2026,@TeamFilmsBhojpuri,Team Films Bhojpuri
-1,21700000.0,,3021.1,194.77,166281.23,Society,30,1775050663,ok,,Society,Lifestyle,,YouTube,2026,@bbchindi,BBC News Hindi
-1,13800000.0,Brazil,5280.12,251.5,46911.38,Lifestyle (sociology),16,1775050659,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@MAIKI021,MAIKI021
-1,15000000.0,Thailand,3592.87,36.83,396731.87,Video game culture,30,1775050659,ok,,Video game culture,Tech&Gaming,Gaming,YouTube,2026,@bomberball,Bie The Ska
-1,18200000.0,Mexico,89380.07,2176.63,3503017.3,Food,30,1775050659,ok,,Food,Lifestyle,,YouTube,2026,@mispastelitosyoutub,Mis Pastelitos
-1,17500000.0,Thailand,259.07,61.3,16197.0,Entertainment,30,1775050665,ok,,Entertainment,Entertainment,,YouTube,2026,@CH8vdo,ช่อง8 : Thai Ch8
-1,14200000.0,Mexico,21890.0,544.0,348304.0,Action game,2,1775050660,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@vetealaversha,Darkar Company Studios
-1,25000000.0,India,33.3,0.37,5643.03,Politics,30,1775050663,ok,,Politics,Knowledge&Info,,YouTube,2026,@ndtvindia,NDTV India
-1,15200000.0,United States,1179.53,134.0,58305.1,Lifestyle (sociology),30,1775050661,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@dangmattsmith,DangMattSmith
-1,20400000.0,India,294.9,6.43,56775.97,Entertainment,30,1775050661,ok,,Entertainment,Entertainment,,YouTube,2026,@zeefilmimusic,Zee Music Classic
-1,12900000.0,Canada,,,,Entertainment,0,1775050661,ok,,Entertainment,Entertainment,,YouTube,2026,@AzzyLand,AzzyLand
-1,19100000.0,,69681.9,917.0,1595472.07,Music,30,1775050661,ok,,Music,Music,,YouTube,2026,@TWICE,TWICE
-1,416.0,,,,,Music of Asia,0,1775050662,ok,,Music of Asia,Music,,YouTube,2026,@NehaKakkarOfficial,Neha Kakkar
-1,19100000.0,India,836.77,26.57,62542.0,Film,30,1775050664,ok,,Film,Entertainment,,YouTube,2026,@laharimusic,Lahari Music
-1,19000000.0,Philippines,5.73,0.8,263.33,Society,30,1775050663,ok,,Society,Lifestyle,,YouTube,2026,@TheABSCBNNews,ABS-CBN News
-1,19400000.0,United States,629.4,265.83,37621.9,Society,30,1775050663,ok,,Society,Lifestyle,,YouTube,2026,@CNN,CNN
-1,156.0,,,,,Sport,0,1775050663,ok,,Sport,Sports,,YouTube,2026,@NOBRU,nobru
-1,25500000.0,,7512.6,107.33,168191.33,Sport,30,1775050665,ok,,Sport,Sports,,YouTube,2026,@fcbarcelona,FC Barcelona
-1,17000000.0,United States,3877.9,82.73,72962.77,Knowledge,30,1775050664,ok,,Knowledge,Knowledge&Info,,YouTube,2026,@crashcourse,CrashCourse
-1,22000000.0,United States,2726.03,311.37,158372.93,Mixed martial arts,30,1775050664,ok,,Mixed martial arts,Sports,,YouTube,2026,@UFC,UFC
-1,19500000.0,United States,230143.9,9282.3,7329392.57,Television program,30,1775050664,ok,,Television program,Entertainment,,YouTube,2026,@pognalishow,Дима Масленников  
-1,15100000.0,Brazil,,,,Action-adventure game,0,1775050665,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@TazerCraft,TazerCraft
-1,15200000.0,,4802.0,0.0,6932674.0,Entertainment,1,1775050664,ok,,Entertainment,Entertainment,,YouTube,2026,@GallinaPintadita,Gallina Pintadita
-1,33300000.0,Argentina,,0.0,953259.93,Entertainment,30,1775050665,ok,,Entertainment,Entertainment,,YouTube,2026,@elcanaldePlimPlim,El Payaso Plim Plim
-1,14800000.0,United States,2637.9,54.9,62122.97,Hobby,30,1775050665,ok,,Hobby,Lifestyle,,YouTube,2026,@RosannaPansino,Rosanna Pansino
-1,17200000.0,Russia,24281.73,1155.47,444967.57,Role-playing video game,30,1775050666,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@EdisonPts,EdisonPts
-1,210.0,,,,,,0,1775050665,ok,,,NA,,YouTube,2026,@MNCTVOfficial,HOME MNCTV
-1,23000000.0,Argentina,1055236.33,54484.67,41823223.33,Pop music,3,1775050666,ok,,Pop music,Music,,YouTube,2026,@Bizarrap,Bizarrap
-1,15900000.0,United States,3801.62,138.48,278406.9,Electronic music,21,1775050666,ok,,Electronic music,Music,,YouTube,2026,@AtlanticVideos,Atlantic Records
-1,24200000.0,United States,407799.73,26749.0,8886720.57,Action game,30,1775050666,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@CoryxKenshin,CoryxKenshin
-1,13900000.0,United States,17382.13,1022.6,464955.6,Action-adventure game,30,1775050666,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@theRadBrad,theRadBrad
-1,13900000.0,India,5199.27,344.53,625386.3,Entertainment,30,1775050667,ok,,Entertainment,Entertainment,,YouTube,2026,@mymissanand,MyMissAnand
-1,13600000.0,India,2600.4,111.53,302898.87,Film,30,1775050667,ok,,Film,Entertainment,,YouTube,2026,@iloveindianmakeup,Anaysa
-1,15800000.0,Spain,31848.97,629.23,838365.3,Action game,30,1775050667,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@Auron,Auron
-1,19700000.0,United States,21601.57,1961.87,2392134.63,Entertainment,30,1775050667,ok,,Entertainment,Entertainment,,YouTube,2026,@Unspeakable,Unspeakable
-1,22800000.0,India,669.6,128.73,24080.43,Politics,30,1775050667,ok,,Politics,Knowledge&Info,,YouTube,2026,@narendramodionline,NMF News
-1,13300000.0,Brazil,157788.0,11517.0,1153712.0,Entertainment,1,1775050668,ok,,Entertainment,Entertainment,,YouTube,2026,@djzoi0,Everson Zoio
-1,18300000.0,,21747.6,2678.5,607958.9,Pop music,10,1775050668,ok,,Pop music,Music,,YouTube,2026,@50CentMusic,50 Cent
-1,15400000.0,United States,8873.97,86.0,879454.93,Lifestyle (sociology),30,1775050668,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@MattSDance,Matt Steffanina
-1,17000000.0,United States,43167.77,1184.3,1399049.03,Television program,30,1775050669,ok,,Television program,Entertainment,,YouTube,2026,@SaturdayNightLive,Saturday Night Live
-1,12700000.0,Canada,1305.3,44.77,31207.03,Independent music,30,1775050668,ok,,Independent music,Music,,YouTube,2026,@MrSuicideSheep,MrSuicideSheep
-1,492.0,,,,,,0,1775050668,ok,,,NA,,YouTube,2026,@YOLO,YOLO
-1,24200000.0,Argentina,17084.23,877.63,1365979.53,Simulation video game,30,1775050670,ok,,Simulation video game,Tech&Gaming,Gaming,YouTube,2026,@SrtaLynaV,Lyna
-1,20600000.0,India,12.3,0.4,1230.73,Film,30,1775050669,ok,,Film,Entertainment,,YouTube,2026,@MazhavilManorama,Mazhavil Manorama
-1,24700000.0,United States,13279.53,937.77,601831.3,Action game,30,1775050669,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@ChallengeAcceptedInc,Aphmau
-1,13700000.0,United States,7497.75,417.0,241197.5,Music,4,1775050670,ok,,Music,Music,,YouTube,2026,@skillzaisherebooya,Conor Maynard
-1,14200000.0,United States,51921.87,2175.5,2031988.5,Music,30,1775050670,ok,,Music,Music,,YouTube,2026,@twentyonepilots,twenty one pilots
-1,19500000.0,United States,700.9,395.61,65789.1,Society,30,1775050670,ok,,Society,Lifestyle,,YouTube,2026,@ABCNews,ABC News
-1,13800000.0,United States,6281.78,265.41,227178.52,Hobby,27,1775050670,ok,,Hobby,Lifestyle,,YouTube,2026,@DALLMYD,DALLMYD
-1,14600000.0,United States,38586.0,5252.0,1289181.0,Video game culture,1,1775050671,ok,,Video game culture,Tech&Gaming,Gaming,YouTube,2026,@PozzitifonShow,Поззи
-1,15900000.0,Canada,1968.3,79.7,74588.43,Role-playing video game,30,1775050670,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@typicalgamer,Typical Gamer
-1,13700000.0,Brazil,94.7,8.23,5460.4,Society,30,1775050671,ok,,Society,Lifestyle,,YouTube,2026,@RedeTVhdBrasil,RedeTV
-1,15100000.0,India,3136.6,267.57,222899.37,Food,30,1775050672,ok,,Food,Lifestyle,,YouTube,2026,@NishaMadhulika,NishaMadhulika
-1,12700000.0,Brazil,103.2,0.9,6272.13,Film,30,1775050671,ok,,Film,Entertainment,,YouTube,2026,@canalparafernalha,Vetor Humor
-1,14200000.0,United States,11113.53,322.7,387009.57,Physical fitness,30,1775050672,ok,,Physical fitness,Sports,,YouTube,2026,@JDCav24,ATHLEAN-X™
-1,13300000.0,United States,762.83,22.0,72682.87,Entertainment,30,1775050672,ok,,Entertainment,Entertainment,,YouTube,2026,@MusicTalentNow,Top Viral Talent
-1,20100000.0,United States,3549.2,213.9,92053.2,Film,30,1775050672,ok,,Film,Entertainment,,YouTube,2026,@React,REACT
-1,17800000.0,India,2.87,0.07,76.13,Entertainment,30,1775050673,ok,,Entertainment,Entertainment,,YouTube,2026,@zeetvtelugu,Zee Telugu
-1,15400000.0,Canada,10476.2,107.7,208370.97,Technology,30,1775050673,ok,,Technology,Tech&Gaming,Tech,YouTube,2026,@MstrJames,Hacksmith Industries
-1,13200000.0,United States,2352.0,542.27,273818.67,Entertainment,15,1775050673,ok,,Entertainment,Entertainment,,YouTube,2026,@JesseAndMike,JesseAndMike
-1,240000.0,,,,,Music,0,1775050673,ok,,Music,Music,,YouTube,2026,@LOUD,WatchLOUD
-1,14600000.0,India,12170.31,673.17,494368.87,Entertainment,30,1775050673,ok,,Entertainment,Entertainment,,YouTube,2026,@htpunjabi,Lokdhun Punjabi
-1,12800000.0,Brazil,23554.77,453.27,196659.3,Action-adventure game,30,1775050673,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@Piuzinho,Piuzinho
-1,13700000.0,United Kingdom,137.07,0.0,32958.83,Entertainment,30,1775050673,ok,,Entertainment,Entertainment,,YouTube,2026,@DisneyChannelUK,Disney Club UK
-1,138000000.0,United States,492140.93,3009.87,32848924.0,Lifestyle (sociology),30,1775050674,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@alanalan9635,Stokes Twins
-1,15400000.0,United Kingdom,344.97,7.23,11201.73,Film,30,1775050680,ok,,Film,Entertainment,,YouTube,2026,@BBC,BBC
-1,12900000.0,Spain,1990.0,126.37,56382.93,Pop music,30,1775050674,ok,,Pop music,Music,,YouTube,2026,@AdexeOficial,Adexe & Nau
-1,13700000.0,Spain,1306.03,35.4,39268.8,Health,30,1775050675,ok,,Health,Knowledge&Info,,YouTube,2026,@gymvirtual,gymvirtual
-1,14400000.0,Brazil,12004.13,401.33,142902.27,Film,30,1775050676,ok,,Film,Entertainment,,YouTube,2026,@einerdtv,Ei Nerd
-1,12500000.0,Spain,60.47,0.0,15152.43,Film,30,1775050674,ok,,Film,Entertainment,,YouTube,2026,@LittleBabyBumEspanol,Little Baby Bum en Español
-1,23400000.0,,121536.93,8198.67,2721946.93,Role-playing video game,30,1775050676,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@jazzghost1,Jazzghost
-1,16900000.0,India,226.9,23.7,124926.87,Music,30,1775050678,ok,,Music,Music,,YouTube,2026,@tseriesregional,T-Series Regional
-1,20800000.0,,20576.6,6368.27,1027143.8,Entertainment,30,1775050676,ok,,Entertainment,Entertainment,,YouTube,2026,@PowerfulJRE,PowerfulJRE
-1,19600000.0,United Kingdom,652.33,486.26,76493.2,Society,30,1775050676,ok,,Society,Lifestyle,,YouTube,2026,@bbcnews,BBC News
-1,14200000.0,United States,1052.4,23.73,95597.6,Humour,30,1775050678,ok,,Humour,Entertainment,,YouTube,2026,@JustForLaughsTV,Just For Laughs Gags
-1,16800000.0,India,58.43,,8224.27,Film,30,1775050677,ok,,Film,Entertainment,,YouTube,2026,@GoldClassics,Goldmines Premiere
-1,15600000.0,United Kingdom,4933.47,285.8,429010.7,Christian music,30,1775050677,ok,,Christian music,Music,,YouTube,2026,@awakeningrecords,Awakening Music
-1,16800000.0,Brazil,57.13,,10738.07,Entertainment,30,1775050678,ok,,Entertainment,Entertainment,,YouTube,2026,@OficialPeppa,Peppa Pig em Português Brasil - Canal Oficial
-1,21200000.0,India,24.2,0.27,996.67,Film,30,1775050680,ok,,Film,Entertainment,,YouTube,2026,@zeebangla,Zee Bangla
-1,16400000.0,Brazil,149.7,0.0,40551.2,Entertainment,30,1775050679,ok,,Entertainment,Entertainment,,YouTube,2026,@OReinho,O Reino Infantil
-1,23400000.0,Saudi Arabia,121525.7,0.0,23954199.47,Film,30,1775050679,ok,,Film,Entertainment,,YouTube,2026,@HusamYK,Katakit Baby TV
-1,43.0,,,,,,0,1775050679,ok,,,NA,,YouTube,2026,@MrGear,Eula. Kestner
-1,13100000.0,,,,,Music,0,1775050679,ok,,Music,Music,,YouTube,2026,@Migosatl,Migos ATL
-1,13900000.0,Spain,4156.6,63.37,86195.27,Role-playing video game,30,1775050681,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@TheDaniRep,DaniRep | +6 Vídeos Diarios De GTA 5 Online!
-1,13300000.0,United Kingdom,100765.89,4379.0,2969208.68,Hobby,19,1775050684,ok,,Hobby,Lifestyle,,YouTube,2026,@colinfurze,colinfurze
-1,17300000.0,Jordan,1668.2,,233821.07,Film,30,1775050680,ok,,Film,Entertainment,,YouTube,2026,@karameeshchannel,karameeshchannel
-1,18700000.0,United States,12496.97,518.73,336292.87,Society,30,1775050681,ok,,Society,Lifestyle,,YouTube,2026,@RayWilliamJohnson,Ray William Johnson
-1,13000000.0,Colombia,8976.67,451.53,286295.57,Lifestyle (sociology),30,1775050680,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@Lulu99,Lulu99
-1,14600000.0,India,888.77,31.83,184074.07,Lifestyle (sociology),30,1775050682,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@officialjassrecords,Jass Records
-1,14100000.0,Mexico,36692.1,2302.0,679936.03,Lifestyle (sociology),30,1775050681,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@YairAuriazul,Yair17
-1,47.0,,,,,,0,1775050680,ok,,,NA,,YouTube,2026,@disneyjunior,Dis̈̇̃n̈̇̃ë̇̃y J̈̇̃ü̇̃nï̇or̈̇̃
-1,13500000.0,,45554.5,2493.2,1338819.4,Pop music,10,1775050682,ok,,Pop music,Music,,YouTube,2026,@AvrilLavigne,Avril Lavigne
-1,457.0,Russia,,,,,0,1775050682,ok,,,NA,,YouTube,2026,@MORGENSHTERN,Канал продается!
-1,21600000.0,United States,74889.83,2051.97,6058809.17,Entertainment,30,1775050683,ok,,Entertainment,Entertainment,,YouTube,2026,@rebeccazamolo1,Rebecca Zamolo
-1,15000000.0,United Kingdom,22991.17,797.83,283417.33,Lifestyle (sociology),30,1775050683,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@TommyInnit,TommyInnit
-1,12600000.0,United Kingdom,1351.2,116.6,76208.2,Lifestyle (sociology),30,1775050683,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@Morgz,Morgz
-1,15400000.0,United States,4800.87,815.07,223068.03,Society,30,1775050683,ok,,Society,Lifestyle,,YouTube,2026,@TheInfographicsShow,The Infographics Show
-1,20500000.0,United States,207732.67,11119.07,7578946.03,Knowledge,30,1775050683,ok,,Knowledge,Knowledge&Info,,YouTube,2026,@1veritasium,Veritasium
-1,23800000.0,India,8855.47,361.5,530696.9,Music of Asia,30,1775050685,ok,,Music of Asia,Music,,YouTube,2026,@hamaarbhojpuri,T-Series Hamaar Bhojpuri
-1,18300000.0,United States,7991.23,301.33,193823.83,Entertainment,30,1775050684,ok,,Entertainment,Entertainment,,YouTube,2026,@TheDodoSite,The Dodo
-1,504000.0,United Kingdom,27.93,1.13,893.63,Action-adventure game,30,1775050684,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@Panda,HybridPanda
-1,15700000.0,Ecuador,1706.77,94.3,40044.77,Action-adventure game,30,1775050684,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@RaptorGamer,RaptorGamer
-1,12000000.0,United States,7427.13,150.67,574568.9,Technology,30,1775050684,ok,,Technology,Tech&Gaming,Tech,YouTube,2026,@CrazyRussianHacker,CrazyRussianHacker
-1,17000000.0,Colombia,220.97,5.97,23790.67,Music of Latin America,30,1775050686,ok,,Music of Latin America,Music,,YouTube,2026,@Codiscos,Codiscos
-1,11300000.0,United States,1332.9,81.93,30404.97,Entertainment,30,1775050685,ok,,Entertainment,Entertainment,,YouTube,2026,@hoiitsroi,Alex Wassabi
-1,22200000.0,India,18300.4,527.63,1439324.67,Music of Asia,30,1775050686,ok,,Music of Asia,Music,,YouTube,2026,@thinkmusicindia,Think Music India
-1,20500000.0,Saudi Arabia,60777.33,2757.77,1502076.67,Role-playing video game,30,1775050685,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@BanderitaX,BanderitaX
-1,16300000.0,United States,18775.67,549.33,347407.97,Entertainment,30,1775050685,ok,,Entertainment,Entertainment,,YouTube,2026,@Americanvogue,Vogue
-1,13400000.0,United States,2228.2,110.3,92048.27,Music of Latin America,30,1775050686,ok,,Music of Latin America,Music,,YouTube,2026,@luansantanaoficial,Luan Santana
-1,24800000.0,Switzerland,993.83,94.3,54643.63,Association football,30,1775050686,ok,,Association football,Sports,,YouTube,2026,@FIFATV,FIFA
-1,13800000.0,Italy,76276.7,2376.63,1759458.93,Music,30,1775050686,ok,,Music,Music,,YouTube,2026,@Davie504,Davie504
-1,11200000.0,Spain,1074.0,97.0,65521.0,Lifestyle (sociology),1,1775050687,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@ExpCaseros,ExpCaseros
-1,11800000.0,India,214.53,52.8,15724.6,Lifestyle (sociology),30,1775050687,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@TsMadaan,TsMadaan
-1,17000000.0,India,86816.38,11482.15,4419231.62,Action game,13,1775050687,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@Mythpat,Mythpat
-1,15700000.0,India,85.33,3.7,3653.23,Politics,30,1775050688,ok,,Politics,Knowledge&Info,,YouTube,2026,@ndtv,NDTV
-1,23700000.0,Chile,4832.1,280.8,462543.43,Casual game,30,1775050687,ok,,Casual game,Tech&Gaming,Gaming,YouTube,2026,@DeGoBooM,DeGoBooM
-1,15800000.0,India,353.57,41.0,29189.03,Religion,30,1775050690,ok,,Religion,Lifestyle,,YouTube,2026,@htbhakti,Sonotek Bhakti
-1,13700000.0,Spain,6099.37,343.73,218456.0,Role-playing video game,30,1775050688,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@MrTimbaVk,Timba Vk
-1,14200000.0,Spain,117674.43,3592.6,2403542.07,Role-playing video game,30,1775050688,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@elrubius,Rubius Z
-1,13800000.0,Brazil,4207.27,134.33,149708.5,Racing video game,30,1775050690,ok,,Racing video game,Tech&Gaming,Gaming,YouTube,2026,@FelipeViktor,LipaoGamer
-1,11400000.0,United States,9440.08,708.25,164613.83,Action-adventure game,24,1775050688,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@CaptainSparklez,CaptainSparklez
-1,13600000.0,Egypt,142.33,17.17,14713.93,Entertainment,30,1775050692,ok,,Entertainment,Entertainment,,YouTube,2026,@MBCMASR,MBC مصر
-1,14500000.0,Argentina,108.3,14.8,5238.73,Entertainment,30,1775050691,ok,,Entertainment,Entertainment,,YouTube,2026,@eltreceok,eltrece
-1,15300000.0,United States,2595.27,75.03,194509.73,Hip hop music,30,1775050689,ok,,Hip hop music,Music,,YouTube,2026,@MTV2,Wild 'N Out
-1,11600000.0,United States,3023.53,209.13,239807.37,Entertainment,30,1775050690,ok,,Entertainment,Entertainment,,YouTube,2026,@UnspeakableGaming,UnspeakableReacts
-1,11000000.0,Spain,,,,Action-adventure game,0,1775050689,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@luzugames,luzugames
-1,14000000.0,India,33.37,3.13,4436.27,Music,30,1775050690,ok,,Music,Music,,YouTube,2026,@lokdhuntv,Wave Music Bhakti 
-1,17900000.0,Philippines,81.4,13.7,7448.07,Television program,30,1775050693,ok,,Television program,Entertainment,,YouTube,2026,@gmanews,GMA News
-1,12900000.0,United States,21606.83,3301.9,2548480.23,Entertainment,30,1775050691,ok,,Entertainment,Entertainment,,YouTube,2026,@VyQwaint,Vy Qwaint
-1,19900000.0,Indonesia,28.1,17.7,2796.5,Society,30,1775050694,ok,,Society,Lifestyle,,YouTube,2026,@KompasTVNews,KOMPASTV
-1,17300000.0,United Arab Emirates,21345.5,1902.43,551994.73,Role-playing video game,30,1775050692,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@TastyCompot,Компот
-1,13400000.0,United States,9384.17,336.47,251700.1,Role-playing video game,30,1775050693,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@epicfortnite,Fortnite
-1,15400000.0,United States,6928.48,0.0,1063867.97,Film,30,1775050692,ok,,Film,Entertainment,,YouTube,2026,@Biperysusamigos,Biper y sus Amigos
-1,12100000.0,United States,1940.9,77.9,1015923.6,Lifestyle (sociology),20,1775050693,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@crackrockcandy,Maymo
-1,15300000.0,,5057.87,239.57,207385.23,Film,30,1775050692,ok,,Film,Entertainment,,YouTube,2026,@FirstWeFeast,First We Feast
-1,13700000.0,United States,4210.53,579.63,191253.17,Film,30,1775050694,ok,,Film,Entertainment,,YouTube,2026,@realannoyingorange,Annoying Orange
-1,12300000.0,Spain,80642.92,2329.62,1396707.92,Role-playing video game,13,1775050693,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@ElRinconDeGiorgio,El Rincón De Giorgio
-1,12900000.0,,20525.93,208.57,442312.17,Film,30,1775050694,ok,,Film,Entertainment,,YouTube,2026,@ExplosmEntertainment,ExplosmEntertainment
-1,13500000.0,United States,10436.83,465.83,410140.8,Health,30,1775050694,ok,,Health,Knowledge&Info,,YouTube,2026,@yogawithadriene,Yoga With Adriene
-1,14400000.0,United Kingdom,2121.97,120.33,225975.1,Lifestyle (sociology),30,1775050695,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@BBCEarth,BBC Earth
-1,14300000.0,United States,27356.21,2601.42,1584364.0,Music,24,1775050695,ok,,Music,Music,,YouTube,2026,@YMWayneCarter,Lil Wayne
-1,11100000.0,Brazil,51033.21,788.29,524776.71,Lifestyle (sociology),14,1775050695,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@coisadenerd,Coisa de Nerd
-1,13100000.0,India,658.63,36.67,26130.83,Film,30,1775050696,ok,,Film,Entertainment,,YouTube,2026,@TheViralFeverVideos,The Viral Fever
-1,13200000.0,India,1282.17,45.58,193861.96,Hip hop music,24,1775050696,ok,,Hip hop music,Music,,YouTube,2026,@hawkrecord,Single Track Studio
-1,10400000.0,,,,,Entertainment,0,1775050696,ok,,Entertainment,Entertainment,,YouTube,2026,@mirandasings08,Miranda Sings
-1,12300000.0,United States,15873.8,699.17,506385.07,Entertainment,30,1775050696,ok,,Entertainment,Entertainment,,YouTube,2026,@watchcut,Cut
-1,11200000.0,Japan,,0.44,98374.4,Food,30,1775050696,ok,,Food,Lifestyle,,YouTube,2026,@oyabakatousan,せんももあいしーチャンネル
-1,15100000.0,Spain,1608.0,0.0,377888.47,Entertainment,30,1775050696,ok,,Entertainment,Entertainment,,YouTube,2026,@pocoyotv,Pocoyó 🇪🇸 Español - Canal Oficial
-1,18300000.0,Ukraine,620.33,0.0,130562.83,Television program,30,1775050696,ok,,Television program,Entertainment,,YouTube,2026,@MashaBearUkraine,Маша та Ведмідь
-1,11100000.0,United States,54.1,5.29,3971.7,Television program,30,1775050697,ok,,Television program,Entertainment,,YouTube,2026,@chotoonz,Chotoonz TV - Funny Cartoons 
-1,13200000.0,United States,120.4,0.0,13506.97,Film,30,1775050697,ok,,Film,Entertainment,,YouTube,2026,@barbie,Barbie
-1,12000000.0,United States,820.75,36.9,30311.7,Pop music,20,1775050697,ok,,Pop music,Music,,YouTube,2026,@TygaTygaTV,Tyga
-1,12500000.0,United States,232.07,8.1,17810.83,Entertainment,30,1775050697,ok,,Entertainment,Entertainment,,YouTube,2026,@comedycentral,Comedy Central
-1,11700000.0,United States,,,,Lifestyle (sociology),0,1775050697,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@DemolitionRanch,DemolitionRanch
-1,12300000.0,United States,7683.63,322.27,96103.6,Hip hop music,30,1775050697,ok,,Hip hop music,Music,,YouTube,2026,@RapGeniusVideo,Genius
-1,15300000.0,United States,3207.9,105.07,291212.37,Role-playing video game,30,1775050697,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@WiederDude,WiederDude
-1,12300000.0,India,20051.3,227.4,409925.87,Role-playing video game,30,1775050698,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@CarryisLive,CarryisLive
-1,11100000.0,Mexico,296.44,13.06,19545.67,Hobby,18,1775050698,ok,,Hobby,Lifestyle,,YouTube,2026,@HellomaphieMX,HellomaphieMX
-1,11800000.0,Sweden,3187.1,337.6,116262.03,Action game,30,1775050698,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@Levinho,Levinho
-1,11800000.0,Brazil,578.9,20.7,228442.43,Action-adventure game,30,1775050698,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@jpgameplayfull,JP Plays
-1,20800000.0,Pakistan,69.03,1.4,3221.23,Society,30,1775050698,ok,,Society,Lifestyle,,YouTube,2026,@geonews,Geo News
-1,13400000.0,United States,1597.37,,3459101.5,Hobby,30,1775050698,ok,,Hobby,Lifestyle,,YouTube,2026,@ToysPlay,ToysPlay
-1,10900000.0,Brazil,3344.96,150.19,37974.54,Entertainment,26,1775050699,ok,,Entertainment,Entertainment,,YouTube,2026,@programagalofrito,Galo Frito
-1,13400000.0,United States,24978.13,922.3,654318.8,Lifestyle (sociology),30,1775050699,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@FilmTheorists,The Film Theorists
-1,13500000.0,India,854.57,0.0,189896.17,Entertainment,30,1775050699,ok,,Entertainment,Entertainment,,YouTube,2026,@videogyan,Videogyan - Nursery Rhymes
-1,12600000.0,Brazil,124943.47,3569.7,1113266.17,Role-playing video game,30,1775050699,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@GamesEduUu,Games EduUu
-1,20800000.0,India,786.7,0.0,83683.53,Music,30,1775050700,ok,,Music,Music,,YouTube,2026,@kidstvindia,Kids TV India Hindi Nursery Rhymes
-1,14800000.0,,812.83,0.0,132180.33,Lifestyle (sociology),30,1775050700,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@TiempodeSol,Duo Tiempo De Sol
-1,12600000.0,,24192.9,1214.9,638722.37,Film,30,1775050700,ok,,Film,Entertainment,,YouTube,2026,@ComedyShortsGamer,Deji
-1,19600000.0,,32447.27,1386.87,1993271.73,Lifestyle (sociology),30,1775050700,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@HikakinTV,HikakinTV
-1,25200000.0,,822.13,0.0,150398.73,Film,30,1775050700,ok,,Film,Entertainment,,YouTube,2026,@storybots,Netflix Jr.
-1,11300000.0,United States,4352.87,147.4,256945.5,Hobby,30,1775050701,ok,,Hobby,Lifestyle,,YouTube,2026,@GoProCamera,GoPro
-1,11700000.0,United Kingdom,3740.6,270.73,99227.0,Role-playing video game,30,1775050701,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@Slogomanify,Slogo
-1,13700000.0,,1044.9,0.0,166763.6,Entertainment,30,1775050701,ok,,Entertainment,Entertainment,,YouTube,2026,@OGGY,OGGY
-1,13000000.0,Brazil,49500.7,669.87,1907937.0,Lifestyle (sociology),30,1775050702,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@rangeldovine,Lucas Rangel
-1,10900000.0,,24476.5,1625.5,313347.0,Action game,2,1775050702,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@stampylonghead,stampylonghead
-1,14400000.0,United States,62810.03,5090.87,1565190.47,Action-adventure game,30,1775050702,ok,,Action-adventure game,Tech&Gaming,Gaming,YouTube,2026,@Flamingo,Flamingo
-1,12700000.0,United States,1016.93,68.1,43096.07,Politics,30,1775050702,ok,,Politics,Knowledge&Info,,YouTube,2026,@Vox,Vox
-1,10500000.0,Mexico,1248.03,13.53,136137.9,Hobby,30,1775050702,ok,,Hobby,Lifestyle,,YouTube,2026,@craftingeek,Craftingeek*
-1,12100000.0,Brazil,71042.9,1229.53,1577872.63,Lifestyle (sociology),30,1775050703,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@francinyehlke,Franciny Ehlke
-1,10100000.0,United States,,,,Entertainment,0,1775050702,ok,,Entertainment,Entertainment,,YouTube,2026,@BuzzFeedYellow,As/Is
-1,14700000.0,Vietnam,225.73,0.0,62490.1,Music,30,1775050704,ok,,Music,Music,,YouTube,2026,@doctruyencotich,Kênh Thiếu Nhi - BHMEDIA
-1,10800000.0,United States,460.5,10.93,21061.03,Pop music,30,1775050703,ok,,Pop music,Music,,YouTube,2026,@ChillStepNation,Chill Nation
-1,16700000.0,Spain,15336.2,600.9,813178.97,Role-playing video game,30,1775050703,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@Acenix,Acenix
-1,16400000.0,South Korea,1046.97,0.0,199212.13,Music,30,1775050704,ok,,Music,Music,,YouTube,2026,@pinkfongko,핑크퐁 (인기 동요・동화)
-1,10600000.0,,4986.33,124.33,110787.33,Lifestyle (sociology),3,1775050703,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@SaraBeautyCorner,"SaraBeautyCorner - DIY, Comedy, Makeup, Nail Art"
-1,12800000.0,United States,22886.3,1158.17,2391569.1,Entertainment,30,1775050704,ok,,Entertainment,Entertainment,,YouTube,2026,@WarnerBrosPictures,Warner Bros.
-1,14100000.0,,912.1,73.44,82063.1,Lifestyle (sociology),30,1775050703,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@Google,Google
-1,27700000.0,Austria,130904.2,959.13,7665041.4,Motorsport,30,1775050704,ok,,Motorsport,Sports,,YouTube,2026,@redbull,Red Bull
-1,11100000.0,South Korea,839.7,47.8,11960.07,Music of Asia,30,1775050704,ok,,Music of Asia,Music,,YouTube,2026,@CJENMMUSIC,Stone Music Entertainment
-1,16400000.0,India,54.17,0.5,5661.47,Entertainment,30,1775050708,ok,,Entertainment,Entertainment,,YouTube,2026,@telugufilmnagar,Telugu Filmnagar
-1,13700000.0,Brazil,10573.23,846.7,554828.1,Action game,30,1775050705,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@brancoala,Brancoala
-1,11200000.0,United States,61.67,2.7,8427.43,Lifestyle (sociology),30,1775050705,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@soicon295,Magnet World
-1,19000000.0,United Arab Emirates,49.97,8.37,4215.93,Society,30,1775050708,ok,,Society,Lifestyle,,YouTube,2026,@AlArabiya,AlArabiya العربية
-1,11300000.0,Brazil,301.07,18.33,20479.23,Pop music,30,1775050706,ok,,Pop music,Music,,YouTube,2026,@MeKcanal,Matheus e Kauan
-1,11300000.0,South Korea,,,,Film,0,1775050705,ok,,Film,Entertainment,,YouTube,2026,@DuDuPopTOY,DuDuPopTOY
-1,16000000.0,Brazil,16712.03,2253.67,105916.43,Society,30,1775050706,ok,,Society,Lifestyle,,YouTube,2026,@prantoniojunior,Pastor Antônio Júnior
-1,13600000.0,Brazil,10130.17,357.77,212388.33,Film,30,1775050706,ok,,Film,Entertainment,,YouTube,2026,@sbtthenoite,The Noite com Danilo Gentili
-1,10500000.0,United States,26382.52,1001.14,566319.66,Entertainment,29,1775050706,ok,,Entertainment,Entertainment,,YouTube,2026,@HISHEdotcom,How It Should Have Ended
-1,17900000.0,,63230.97,5915.77,1521260.23,Action game,30,1775050706,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@penguinz0,penguinz0
-1,11800000.0,United States,93350.83,10168.67,2686602.83,Technology,6,1775050707,ok,,Technology,Tech&Gaming,Tech,YouTube,2026,@destinws2,SmarterEveryDay
-1,21300000.0,Spain,9424.33,0.0,1578109.63,Entertainment,30,1775050707,ok,,Entertainment,Entertainment,,YouTube,2026,@lucygerardi43,Luli Pampín
-1,13800000.0,United States,1318.93,284.6,104027.3,Society,30,1775050710,ok,,Society,Lifestyle,,YouTube,2026,@cbstvdinsideedition,Inside Edition
-1,17600000.0,India,1298.43,0.0,243821.53,Entertainment,30,1775050708,ok,,Entertainment,Entertainment,,YouTube,2026,@infobellskannada,infobells - Kannada
-1,22300000.0,United Kingdom,144993.23,3638.1,4913453.93,Technology,30,1775050708,ok,,Technology,Tech&Gaming,Tech,YouTube,2026,@Mrwhosetheboss,Mrwhosetheboss
-1,13800000.0,India,113.8,5.8,11862.33,Entertainment,30,1775050708,ok,,Entertainment,Entertainment,,YouTube,2026,@sagahits,SagaHits
-1,17700000.0,India,859.27,6.3,34310.7,Film,30,1775050711,ok,,Film,Entertainment,,YouTube,2026,@zeetamil,Zee Tamil
-1,11500000.0,Russia,7891.73,1142.5,339005.13,Lifestyle (sociology),30,1775050709,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@Wylsacom,Wylsacom
-1,23000000.0,Qatar,98.4,10.57,4496.73,Society,30,1775050709,ok,,Society,Lifestyle,,YouTube,2026,@aljazeerachannel,AlJazeera Arabic  قناة الجزيرة
-1,10800000.0,,7078.3,149.6,460086.85,Lifestyle (sociology),20,1775050709,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@cleanbandit,Clean Bandit
-1,10800000.0,Brazil,3728.4,262.27,328167.77,Lifestyle (sociology),30,1775050710,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@JessicaJulioeBaby,Laurinha e Helena - Clubinho da Laura
-1,10800000.0,,10475.13,1161.2,253548.8,Lifestyle (sociology),30,1775050710,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@AsapSCIENCE,AsapSCIENCE
-1,11000000.0,Spain,8361.53,578.37,159654.37,Politics,30,1775050710,ok,,Politics,Knowledge&Info,,YouTube,2026,@DalasReview,Dalas Review
-1,14200000.0,Mexico,2982.63,65.03,101321.93,Film,30,1775050711,ok,,Film,Entertainment,,YouTube,2026,@francoescamilla,Franco Escamilla
-1,16300000.0,Japan,14895.13,493.9,998503.8,Lifestyle (sociology),30,1775050711,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@0214mex,はじめしゃちょー（hajime）
-1,12000000.0,United Kingdom,548.4,80.47,15942.3,Music,30,1775050712,ok,,Music,Music,,YouTube,2026,@TomorrowlandChannel,Tomorrowland
-1,10100000.0,United States,,,,Humour,0,1775050711,ok,,Humour,Entertainment,,YouTube,2026,@VitalyzdTv,VitalyzdTv
-1,28600.0,,,,,Entertainment,0,1775050712,ok,,Entertainment,Entertainment,,YouTube,2026,@atv,hkatv
-1,11500000.0,United States,7918.7,54.63,189815.67,Pop music,30,1775050713,ok,,Pop music,Music,,YouTube,2026,@MTV,MTV
-1,13600000.0,Russia,1048.73,72.03,173544.43,Humour,30,1775050714,ok,,Humour,Entertainment,,YouTube,2026,@ctctv,СТС
-1,13300000.0,India,136.33,3.43,8586.8,Music of Asia,30,1775050714,ok,,Music of Asia,Music,,YouTube,2026,@RDCGujarati,RDC Gujarati
-1,34900000.0,United States,173489.77,13141.17,15935025.67,Entertainment,30,1775050713,ok,,Entertainment,Entertainment,,YouTube,2026,@jordanmatter,Jordan Matter
-1,24000000.0,Australia,102124.8,1000.83,9852782.77,Lifestyle (sociology),30,1775050713,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@whoisjimmy,How Ridiculous
-1,9510000.0,United States,,,,Action game,0,1775050714,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@BestCodComedy,BCC Gaming
-1,10500000.0,United States,797.33,55.73,62939.7,Lifestyle (sociology),30,1775050713,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@familyfunpack,Family Fun Pack
-1,11600000.0,,8239.27,83.2,206331.1,Lifestyle (sociology),30,1775050714,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@makebymarimaria,Mari Maria
-1,941.0,,128.93,3.43,7538.17,Lifestyle (sociology),30,1775050714,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@BERTH-OH,BERTH-OH Short
-1,12900000.0,,6978.1,,195757.0,Society,30,1775050715,ok,,Society,Lifestyle,,YouTube,2026,@NASAtelevision,NASA
-1,15200000.0,United States,734.5,55.5,44700.53,Knowledge,30,1775050715,ok,,Knowledge,Knowledge&Info,,YouTube,2026,@historychannel,HISTORY
-1,12700000.0,United States,669.4,0.0,65327.27,Film,30,1775050715,ok,,Film,Entertainment,,YouTube,2026,@Nickelodeon,Nickelodeon
-1,15000000.0,India,3794.6,167.87,487726.13,Entertainment,30,1775050715,ok,,Entertainment,Entertainment,,YouTube,2026,@WAMIndiaMovies,Wamindia Movies
-1,10100000.0,India,,,,Lifestyle (sociology),0,1775050715,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@shrutiarjunanand,Shruti Arjun Anand
-1,10400000.0,,,364.23,62906.5,Lifestyle (sociology),30,1775050716,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@barcroftmedia,truly
-1,16100000.0,India,125.43,4.67,34143.57,Music of Asia,30,1775050717,ok,,Music of Asia,Music,,YouTube,2026,@rathorvideo,Rathore Cassettes
-1,9380000.0,United States,,,,Simulation video game,0,1775050716,ok,,Simulation video game,Tech&Gaming,Gaming,YouTube,2026,@buzzfeedblue,BuzzFeed Multiplayer
-1,10200000.0,Brazil,939.63,23.43,36032.1,Humour,30,1775050717,ok,,Humour,Entertainment,,YouTube,2026,@panicopgm,Programa Pânico
-1,11500000.0,Vietnam,257.57,19.77,5274.07,Pop music,30,1775050719,ok,,Pop music,Music,,YouTube,2026,@htv2channel,Vie Channel 
-1,11400000.0,South Korea,409.73,19.1,6897.7,Music,30,1775050717,ok,,Music,Music,,YouTube,2026,@MBCkpop,MBCkpop
-1,9540000.0,United Kingdom,2038.53,43.33,80089.63,Role-playing video game,30,1775050718,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@TheSyndicateProject,Syndicate
-1,11200000.0,,1008.13,39.77,34599.27,Pop music,30,1775050718,ok,,Pop music,Music,,YouTube,2026,@OneRepublic,OneRepublic
-1,13000000.0,United Kingdom,561.97,110.28,37099.83,Politics,30,1775050724,ok,,Politics,Knowledge&Info,,YouTube,2026,@BBCArabicNews,BBC News عربي
-1,14300000.0,Brazil,1587.93,0.0,260691.23,Entertainment,30,1775050719,ok,,Entertainment,Entertainment,,YouTube,2026,@mrplotvideos,Mundo Bita
-1,14000000.0,India,2312.2,32.93,89858.87,Film,30,1775050719,ok,,Film,Entertainment,,YouTube,2026,@ChennaiExp2013,Red Chillies Entertainment
-1,16100000.0,Brazil,1465.83,25.1,81085.93,Humour,30,1775050720,ok,,Humour,Entertainment,,YouTube,2026,@MrGustavoParodias,Gustavo Paródias
-1,10200000.0,,342.0,7.0,26931.0,Pop music,1,1775050719,ok,,Pop music,Music,,YouTube,2026,@welovekamikaze,welovekamikaze
-1,14400000.0,United Kingdom,112.37,7.23,6412.87,Pop music,30,1775050719,ok,,Pop music,Music,,YouTube,2026,@singkingkaraoke,Sing King
-1,10200.0,Russia,,,,Lifestyle (sociology),0,1775050719,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@EugenBro,Яблочко
-1,20900000.0,,38.53,1.1,933.77,Film,30,1775050722,ok,,Film,Entertainment,,YouTube,2026,@KapilComedyNights,Colors Rishtey
-1,10500000.0,South Korea,187.07,0.0,18374.13,Music,30,1775050720,ok,,Music,Music,,YouTube,2026,@Larva2011ani,Larva TUBA
-1,12400000.0,Turkey,19278.47,806.03,601796.13,Entertainment,30,1775050721,ok,,Entertainment,Entertainment,,YouTube,2026,@ThePersica,Orkun Işıtmak
-1,17700000.0,,359.0,0.0,105440.93,Television program,30,1775050721,ok,,Television program,Entertainment,,YouTube,2026,@TeremokTV,Теремок ТВ
-1,9370000.0,United States,322.8,4.27,84286.57,Lifestyle (sociology),30,1775050721,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@SerbianGamesBL2,Life Hacks & Experiments
-1,9890000.0,India,29.33,1.33,3791.33,Lifestyle (sociology),30,1775050721,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@mainaCassette,Haryanvi Maina
-1,13700000.0,Brazil,11892.47,794.9,655668.37,Music,30,1775050722,ok,,Music,Music,,YouTube,2026,@mamilosmolengas,MUSSA
-1,12700000.0,India,5133.57,95.37,149021.77,Lifestyle (sociology),30,1775050722,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@sadhguru,Sadhguru
-1,9570000.0,Mexico,959.1,40.07,27140.83,Humour,30,1775050722,ok,,Humour,Entertainment,,YouTube,2026,@luisitorey,luisitorey
-1,10500000.0,United States,6049.4,259.47,237889.83,Lifestyle (sociology),30,1775050723,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@bgfilms,Binging with Babish
-1,19.0,,,,,,0,1775050722,ok,,,NA,,YouTube,2026,@BIBI,あ -ちゃん🇨🇵
-1,10000000.0,Spain,2218.0,119.37,53164.9,Hip hop music,30,1775050723,ok,,Hip hop music,Music,,YouTube,2026,@ZarcortGame,ZarcortGame
-1,12000000.0,United States,12565.5,131.9,2403560.1,Hip hop music,30,1775050723,ok,,Hip hop music,Music,,YouTube,2026,@DELRECORDS,DEL Records
-1,10300000.0,United States,19654.24,154.76,840493.86,Lifestyle (sociology),29,1775050723,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@ehbeefamily,The Bee Family
-1,10800000.0,Spain,397.03,0.0,137731.97,Entertainment,30,1775050723,ok,,Entertainment,Entertainment,,YouTube,2026,@PicaPicaVEVO,Pica-Pica Oficial
-1,12600000.0,Philippines,139862.83,8135.22,3795767.61,Entertainment,18,1775050724,ok,,Entertainment,Entertainment,,YouTube,2026,@lincolnvelasquez,Cong TV
-1,10100000.0,United States,1305.83,35.67,35529.07,Role-playing video game,30,1775050724,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@InquisitorMaster,InquisitorMaster
-1,17600000.0,India,106.9,3.83,8238.63,Pop music,30,1775050725,ok,,Pop music,Music,,YouTube,2026,@timesmusicindia,Times Music
-1,11300000.0,United States,12134.8,489.8,526248.2,Music,30,1775050724,ok,,Music,Music,,YouTube,2026,@DaBaby,DaBaby
-1,11500000.0,Indonesia,5198.97,16.87,375108.7,Film,30,1775050726,ok,,Film,Entertainment,,YouTube,2026,@IniTalkShow,Main Hakim Sendiri
-1,15000000.0,Brazil,1661.97,98.37,27053.43,Entertainment,30,1775050725,ok,,Entertainment,Entertainment,,YouTube,2026,@NetflixBRA,Netflix Brasil
-1,9380000.0,United States,3798.17,306.3,63729.8,Pet,30,1775050725,ok,,Pet,Lifestyle,,YouTube,2026,@JoeyGraceffa,Joey Graceffa
-1,14400000.0,India,1730.1,79.17,138557.77,Film,30,1775050727,ok,,Film,Entertainment,,YouTube,2026,@aanandaaudio,Anand Audio
-1,25900000.0,India,955.1,60.23,37420.6,Entertainment,30,1775050728,ok,,Entertainment,Entertainment,,YouTube,2026,@sonyliv,Sony LIV
-1,8820000.0,Australia,,,,Action game,0,1775050725,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@MrMuselk,Muselk
-1,10100000.0,Australia,10387.41,468.29,345667.0,Role-playing video game,17,1775050726,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@JoshDub,JoshDub
-1,19300000.0,United States,587.43,8.77,92013.73,Entertainment,30,1775050728,ok,,Entertainment,Entertainment,,YouTube,2026,@N1Noobtubers,웃웃TwinsFromRussia
-1,13400000.0,India,100.23,12.2,7356.3,Religion,30,1775050727,ok,,Religion,Lifestyle,,YouTube,2026,@bhaktisongs,Shemaroo Bhakti
-1,10400000.0,Vietnam,68.47,1.47,9612.57,Pop music,30,1775050729,ok,,Pop music,Music,,YouTube,2026,@POPSVIETNAM,POPS MUSIC
-1,6040000.0,Mexico,6634.43,281.5,170903.43,Sport,30,1775050726,ok,,Sport,Sports,,YouTube,2026,@CRACKS,Cracks
-1,10300000.0,Indonesia,933.97,26.1,44351.7,Role-playing video game,30,1775050728,ok,,Role-playing video game,Tech&Gaming,Gaming,YouTube,2026,@efdewe,efdewe
-1,10900000.0,Palestine,62282.37,13.47,12027473.63,Music,30,1775050728,ok,,Music,Music,,YouTube,2026,@fozimozi,Fozi Mozi
-1,11300000.0,India,98530.24,3349.97,12316056.52,Music of Asia,29,1775050728,ok,,Music of Asia,Music,,YouTube,2026,@sonotektv,Sonotek Music
-1,14400000.0,Russia,165.53,0.0,66196.4,Entertainment,30,1775050728,ok,,Entertainment,Entertainment,,YouTube,2026,@TeremokSongs,Теремок - Песенки для детей
-1,9670000.0,Russia,10187.57,447.53,284350.8,Lifestyle (sociology),30,1775050729,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@YFrostA,FROST
-1,10600000.0,United States,505.27,0.0,47819.5,Entertainment,30,1775050729,ok,,Entertainment,Entertainment,,YouTube,2026,@DreamworksAnimation,Universal Kids
-1,11000000.0,Thailand,,,,Music of Asia,0,1775050729,ok,,Music of Asia,Music,,YouTube,2026,@RSVDO,rsfriends
-1,9100000.0,,,,,Electronic music,0,1775050729,ok,,Electronic music,Music,,YouTube,2026,@PlaticaPolinesa,PlaticaPolinesia
-1,15100000.0,United States,3224.47,883.13,120543.6,Television program,30,1775050730,ok,,Television program,Entertainment,,YouTube,2026,@FoxNewsChannel,Fox News
-1,8960000.0,United States,9684.0,621.0,175907.0,Entertainment,1,1775050731,ok,,Entertainment,Entertainment,,YouTube,2026,@RoosterTeeth,Rooster Teeth
-1,21.0,Spain,0.6,0.2,22.2,Hobby,5,1775050730,ok,,Hobby,Lifestyle,,YouTube,2026,@Rayito,Manuel Diaz
-1,19500000.0,Malaysia,3740.9,172.5,142863.33,Entertainment,30,1775050730,ok,,Entertainment,Entertainment,,YouTube,2026,@monsta,Monsta
-1,16300000.0,United States,504.2,50.7,32134.43,Lifestyle (sociology),30,1775050730,ok,,Lifestyle (sociology),Lifestyle,,YouTube,2026,@NFL,NFL
-1,10700000.0,India,1346.43,65.73,200087.33,Television program,30,1775050730,ok,,Television program,Entertainment,,YouTube,2026,@FilterCopy,FilterCopy
-1,11500000.0,India,71.23,2.1,5514.9,Music of Asia,30,1775050732,ok,,Music of Asia,Music,,YouTube,2026,@chetakvideo,Chetak
-1,2760.0,Venezuela,,,,Action game,0,1775050731,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@Denis,Denis Moreno
-1,11700000.0,United Kingdom,235.9,0.0,14796.17,Humour,30,1775050731,ok,,Humour,Entertainment,,YouTube,2026,@cartoonnetworkuk,Cartoon Network UK
-1,11200000.0,Brazil,7253.07,230.73,141759.43,Association football,30,1775050732,ok,,Association football,Sports,,YouTube,2026,@FutParódias,FutParódias
-1,9180000.0,United States,1690.93,125.4,62856.03,Entertainment,30,1775050731,ok,,Entertainment,Entertainment,,YouTube,2026,@CinemaSins,CinemaSins
-1,12900000.0,United Arab Emirates,9321.03,227.47,736173.4,Sport,30,1775050732,ok,,Sport,Sports,,YouTube,2026,@CricketICC,ICC
-1,9920000.0,Brazil,21918.5,490.77,280292.2,Action game,30,1775050733,ok,,Action game,Tech&Gaming,Gaming,YouTube,2026,@BRKsEDU,BRKsEDU
+year,platform,month,handle,name,rank,followers,audience_country,category_unified,er_pct,engagement_avg,likes_avg,comments_avg,views_avg,shares_avg,potential_reach,number_videos_last_year
+2026,YouTube,,tseries,T-Series,,311000000.0,India,Entertainment,0.003707096463022508,,11219.77,309.3,593456.13,,,30
+2026,YouTube,,checkgate,Cocomelon - Nursery Rhymes,,200000000.0,United States,Entertainment,0.0052626,,10525.2,0.0,2354663.77,,,30
+2026,YouTube,,setindia,SET India,,189000000.0,India,Music,2.827513227513227e-05,,50.87,2.57,7726.93,,,30
+2026,YouTube,,PewDiePie,PewDiePie,,110000000.0,Japan,Lifestyle,0.17724454545454546,,185737.41,9231.59,3174221.5,,,22
+2026,YouTube,,MrBeast6000,MrBeast,,474000000.0,United States,Entertainment,0.5598174746835444,,2602490.5,51044.33,198598032.8,,,30
+2026,YouTube,,WWEFanNation,WWE,,112000000.0,,Sports,0.004245714285714287,,4629.27,125.93,193300.97,,,30
+2026,YouTube,,zeemusiccompany,Zee Music Company,,122000000.0,India,Music,0.0007828442622950821,,935.07,20.0,73270.1,,,30
+2026,YouTube,,kidrauhl,Justin Bieber,,77200000.0,Canada,Music,0.0704545725388601,,51849.53,2541.4,5363515.5,,,30
+2026,YouTube,,GoldminesTelefilms,Goldmines,,109000000.0,India,Entertainment,0.0004927798165137615,,530.03,7.1,56669.0,,,30
+2026,YouTube,,CanalKondZilla,Canal KondZilla,,68100000.0,Brazil,Music,0.0003741116005873715,,245.6,9.17,12594.73,,,30
+2026,YouTube,,BANGTANTV,BANGTANTV,,83400000.0,,Music,0.35043717026378896,,280325.43,11939.17,1752352.13,,,30
+2026,YouTube,,sabtv,Sony SAB,,105000000.0,India,Entertainment,0.00034783809523809524,,356.5,8.73,22970.53,,,30
+2026,YouTube,,ibighit,HYBE LABELS,,80500000.0,South Korea,Music,0.522148198757764,,374933.17,45396.13,4652750.5,,,30
+2026,YouTube,,zeetv,Zee TV,,97500000.0,India,Entertainment,1.5794871794871795e-05,,15.1,0.3,742.23,,,30
+2026,YouTube,,filmigaane,Shemaroo Filmi Gaane,,74400000.0,India,Entertainment,0.00038844086021505374,,280.13,8.87,29275.43,,,30
+2026,YouTube,,corycotton,Dude Perfect,,61800000.0,United States,Lifestyle,0.11991347896440128,,72589.53,1517.0,5510589.63,,,30
+2026,YouTube,,SmartBooksMedia,Baby Shark - Pinkfong Kids’ Songs & Stories,,84400000.0,United States,Music,0.002981315165876777,,2516.23,0.0,768784.4,,,30
+2026,YouTube,,Marshmello,Marshmello,,58400000.0,United States,Music,0.01361482876712329,,7644.63,306.43,354127.77,,,30
+2026,YouTube,,BHOJPURIWAVE,Wave Music,,69800000.0,India,Music,0.0012156590257879655,,810.43,38.1,215119.87,,,30
+2026,YouTube,,colorstv,Colors TV,,82000000.0,India,Entertainment,1.707317073170732e-06,,1.37,0.03,52.1,,,30
+2026,YouTube,,aajtaktv,Aaj Tak,,74900000.0,India,Lifestyle,0.00016696929238985315,,122.63,2.43,19140.67,,,30
+2026,YouTube,,sonymusicindiaSME,Sony Music India,,70500000.0,India,Music,0.02614434042553192,,16090.43,2341.33,287780.87,,,30
+2026,YouTube,,tipsmusic,Tips Official,,81000000.0,India,Entertainment,0.0016373580246913583,,1307.13,19.13,217771.3,,,30
+2026,YouTube,,ReinoMariaElenaWalsh,El Reino Infantil,,71000000.0,Argentina,Entertainment,0.0030768028169014085,,2184.53,0.0,573820.13,,,30
+2026,YouTube,,LooLooKids,LooLoo Kids - Nursery Rhymes and Children's Songs,,61900000.0,United States,Entertainment,0.011255040387722133,,6966.87,0.0,4918082.37,,,30
+2026,YouTube,,tseriesbhakti,T-Series Bhakti Sagar,,81800000.0,India,Lifestyle,0.0006268459657701712,,475.53,37.23,33430.7,,,30
+2026,YouTube,,JuegaGerman,JuegaGerman,,55100000.0,Chile,Tech&Gaming,0.24085274047186933,,129910.53,2799.33,3691241.5,,,30
+2026,YouTube,,yrf,YRF,,71600000.0,India,Music,0.00518268156424581,,3681.53,29.27,250700.9,,,30
+2026,YouTube,,felipeneto,Felipe Neto,,47800000.0,Brazil,Entertainment,0.03954058577405857,,18524.03,376.37,225167.27,,,30
+2026,YouTube,,whinderssonnunes,whinderssonnunes,,44600000.0,Brazil,Entertainment,0.005364349775784753,,2362.03,30.47,49852.27,,,30
+2026,YouTube,,KatyPerryMusic,Katy Perry,,46800000.0,United States,Entertainment,0.03371602564102564,,14348.23,1430.87,487573.13,,,30
+2026,YouTube,,vcsabiavideos,Você Sabia?,,47100000.0,Brazil,Entertainment,0.05390715498938428,,24824.67,565.6,533484.93,,,30
+2026,YouTube,,infobellshindirhymes,Infobells - Hindi,,72200000.0,India,Music,0.012419155124653738,,8966.63,0.0,1125740.9,,,30
+2026,YouTube,,DjWalkzz,Alan Walker,,47400000.0,Norway,Music,0.013728902953586499,,6218.8,288.7,178671.5,,,30
+2026,YouTube,,sonymusicindiaVEVO,SonyMusicIndiaVEVO,,59700000.0,,Music,0.009078442211055276,,5348.43,71.4,679190.6,,,30
+2026,YouTube,,speedrecordss,Speed Records,,48300000.0,India,Music,0.0014935817805383023,,708.27,13.13,83642.9,,,30
+2026,YouTube,,A4,Ari Power,,18.0,,,0.0,,,,,,,0
+2026,YouTube,,ABSCBNOnline,ABS-CBN Entertainment,,54700000.0,Philippines,Entertainment,1.5045703839122487e-05,,7.83,0.4,411.73,,,30
+2026,YouTube,,getmovies,Get Movies,,57000000.0,United Arab Emirates,Entertainment,0.0010266140350877193,,585.17,0.0,113650.93,,,30
+2026,YouTube,,LuisitoComunicaa,Luisito Comunica,,45700000.0,Mexico,Lifestyle,0.2974127571115974,,132346.23,3571.4,9864385.57,,,30
+2026,YouTube,,LittleBabyBum,Little Baby Bum - Nursery Rhymes & Kids Songs,,41700000.0,United States,Entertainment,0.001692326139088729,,705.7,0.0,168273.53,,,30
+2026,YouTube,,TheEllenShow,TheEllenShow,,38000000.0,United States,Entertainment,0.0007179736842105263,,272.83,,20577.3,,,30
+2026,YouTube,,MashaMedvedTV,Маша и Медведь,,59900000.0,Russia,Entertainment,0.01578792988313856,,9456.97,,2109975.93,,,30
+2026,YouTube,,gr6explode,GR6 EXPLODE,,42900000.0,Brazil,Music,0.016589650349650348,,6956.23,160.73,498155.07,,,30
+2026,YouTube,,luccasneto,LUCCAS NETO,,53400000.0,Brazil,Entertainment,0.00837932584269663,,4378.43,96.13,311298.67,,,30
+2026,YouTube,,venus,Ishtar Music,,53000000.0,India,Entertainment,0.0018464905660377359,,970.17,8.47,61201.5,,,30
+2026,YouTube,,ShemarooEnt,Shemaroo,,61500000.0,India,Entertainment,0.00032139837398373984,,191.53,6.13,26869.4,,,30
+2026,YouTube,,DaddyYankeeOFFTV,Daddy Yankee,,41300000.0,United States,Lifestyle,0.23224922518159807,,90981.31,4937.62,8929736.31,,,16
+2026,YouTube,,WorkpointOfficial,WorkpointOfficial,,43600000.0,Thailand,Lifestyle,8.394495412844035e-05,,34.87,1.73,1483.0,,,30
+2026,YouTube,,SuperSimpleSongs,Super Simple Songs - Kids Songs,,46100000.0,Canada,Entertainment,0.007739479392624729,,3567.9,0.0,5848172.03,,,30
+2026,YouTube,,JbalvinTube,J Balvin,,35200000.0,Colombia,Music,0.02067017045454545,,7020.83,255.07,518257.0,,,30
+2026,YouTube,,gmmonetv,ช่อง one31,,44500000.0,Thailand,Entertainment,0.00011137078651685394,,47.33,2.23,1302.8,,,30
+2026,YouTube,,vegetta777,VEGETTA777,,34700000.0,,Tech&Gaming,0.04344804034582133,,14879.7,196.77,233186.97,,,30
+2026,YouTube,,YouTube,YouTube,,45000000.0,United States,Entertainment,0.007077266666666666,,2977.1,207.67,264937.14,,,30
+2026,YouTube,,markiplierGAME,Markiplier,,38500000.0,United States,Tech&Gaming,0.2120948051948052,,77970.7,3685.8,1726194.1,,,30
+2026,YouTube,,abpnewstv,ABP NEWS,,50400000.0,India,Lifestyle,4.464285714285714e-05,,22.33,0.17,2334.63,,,30
+2026,YouTube,,NoCopyrightSounds,NoCopyrightSounds,,34300000.0,United Kingdom,Music,0.011942274052478132,,3734.73,361.47,152900.27,,,30
+2026,YouTube,,UltraHindi,Ultra Bollywood,,46900000.0,India,Entertainment,0.0034139445628997866,,1572.77,28.37,277394.07,,,30
+2026,YouTube,,tseriesapnapunjab,T-Series Apna Punjab,,40900000.0,India,Music,0.0009929095354523228,,393.1,13.0,17064.87,,,30
+2026,YouTube,,SSSniperWolf,SSSniperWolf,,35000000.0,United States,Entertainment,0.030131342857142862,,9825.2,720.77,394672.23,,,30
+2026,YouTube,,Mikecrack,Mikecrack,,58200000.0,Spain,Tech&Gaming,0.06911644329896906,,38048.6,2177.17,1577360.97,,,30
+2026,YouTube,,tv3official,Ch3Thailand,,36700000.0,Thailand,Entertainment,0.0005957493188010899,,213.57,5.07,15580.8,,,30
+2026,YouTube,,sonypalindia,Sony PAL,,47100000.0,,Entertainment,0.00010942675159235669,,50.07,1.47,482176.77,,,30
+2026,YouTube,,AllTrapNation,Trap Nation,,30200000.0,United States,Music,0.002895033112582781,,842.17,32.13,34277.9,,,30
+2026,YouTube,,IndiaTV,IndiaTV,,50400000.0,India,Knowledge&Info,0.00010357142857142859,,50.93,1.27,1931.27,,,30
+2026,YouTube,,cancionesdelagranja,La Granja de Zenón,,45500000.0,Argentina,Music,0.007726,,3515.33,0.0,624775.23,,,30
+2026,YouTube,,erosentertainment,Eros Universe,,35700000.0,India,Entertainment,0.0002119327731092437,,73.63,2.03,10547.87,,,30
+2026,YouTube,,SMTOWN,SMTOWN,,33600000.0,,Music,0.3113962202380952,,94109.4,10519.73,5288003.8,,,30
+2026,YouTube,,MrBean,Mr Bean,,35700000.0,,Entertainment,0.0013068907563025208,,455.63,10.93,34232.73,,,30
+2026,YouTube,,juptube,Galinha Pintadinha,,39000000.0,Brazil,Entertainment,0.0,,,,,,,0
+2026,YouTube,,rezendeevil,rezendeevil,,34200000.0,Brazil,Lifestyle,0.025667251461988304,,8593.83,184.37,211778.2,,,30
+2026,YouTube,,AH,Ahh,,26.0,,,0.0,,,,,,,0
+2026,YouTube,,SpinninRec,Spinnin' Records,,32000000.0,Netherlands,Music,0.001337,,418.17,9.67,25942.03,,,30
+2026,YouTube,,latenight,The Tonight Show Starring Jimmy Fallon,,33900000.0,United States,Entertainment,0.008809646017699116,,2889.9,96.57,66517.2,,,30
+2026,YouTube,,tseriesoldisgold,T-Series Bollywood Classics,,52200000.0,India,Entertainment,0.002058103448275862,,1042.6,31.73,95992.5,,,30
+2026,YouTube,,rajshri,Rajshri,,41000000.0,India,Entertainment,0.00011407317073170733,,44.07,2.7,6938.37,,,30
+2026,YouTube,,harpalgeo,HAR PAL GEO,,72300000.0,Pakistan,Entertainment,3.208852005532503e-05,,22.8,0.4,1638.1,,,30
+2026,YouTube,,DisneyMusicVEVO,DisneyMusicVEVO,,38900000.0,United States,Entertainment,0.006790745501285347,,2641.6,0.0,124670.9,,,30
+2026,YouTube,,UltraRecords,Ultra Records,,32400000.0,,Music,0.001700925925925926,,532.1,19.0,29684.93,,,30
+2026,YouTube,,jacksepticeye,jacksepticeye,,31200000.0,Ireland,Tech&Gaming,0.2624224358974359,,77436.3,4439.5,1816286.53,,,30
+2026,YouTube,,xoxxxoooxo,The Weeknd,,39500000.0,Canada,Music,0.37030549367088605,,139497.56,6773.11,7734564.0,,,9
+2026,YouTube,,TheLateLateShow,The Late Late Show with James Corden,,28200000.0,,Entertainment,0.0,,,,,,,0
+2026,YouTube,,ImagineDragons,ImagineDragons,,33200000.0,United States,Music,0.01315081325301205,,4257.77,108.3,143659.4,,,30
+2026,YouTube,,TalkingTomCat,Talking Tom,,33300000.0,United States,Entertainment,0.0032096096096096093,,1025.7,43.1,160539.37,,,30
+2026,YouTube,,toyoraljanahtv,قناة طيور الجنة | toyoraljanahtv,,33500000.0,,Lifestyle,0.0,,,,39696.33,,,30
+2026,YouTube,,theofficialpeppa,Peppa Pig - Official Channel,,43400000.0,United Kingdom,Entertainment,0.006302073732718893,,2735.1,,833611.63,,,30
+2026,YouTube,,WWRBhojpuri,Worldwide Records Bhojpuri,,38800000.0,India,Music,0.002272938144329897,,860.47,21.43,70410.53,,,30
+2026,YouTube,,SongsOfIndianCinema,Saregama Music,,61300000.0,India,Music,0.009756443719412726,,5898.27,82.43,803964.87,,,30
+2026,YouTube,,TheDonato,TheDonato,,43100000.0,Argentina,Tech&Gaming,0.06207030162412994,,26280.57,471.73,682167.47,,,30
+2026,YouTube,,GMANETWORK,GMA Network,,41000000.0,Philippines,Entertainment,0.00015195121951219512,,59.6,2.7,3210.77,,,30
+2026,YouTube,,infobellstamil,infobells - Tamil,,35900000.0,India,Entertainment,0.013887381615598885,,4985.57,0.0,762410.83,,,30
+2026,YouTube,,TheDiamondMinecart,DanTDM,,29200000.0,United Kingdom,Tech&Gaming,0.09214373287671232,,25161.1,1744.87,659021.0,,,30
+2026,YouTube,,taylorgangent,Wiz Khalifa,,30300000.0,United States,Music,0.004231551155115512,,1142.13,140.03,28239.5,,,30
+2026,YouTube,,WorldStarHipHopTV,WORLDSTARHIPHOP,,27700000.0,United States,Music,0.009253537906137185,,2394.53,168.7,176385.03,,,30
+2026,YouTube,,VanossGaming,VanossGaming,,26000000.0,United States,Tech&Gaming,0.10437334615384615,,26483.87,653.2,602216.9,,,30
+2026,YouTube,,enchufetv,enchufetv,,28700000.0,,Entertainment,0.11236013937282231,,32025.83,221.53,514105.73,,,30
+2026,YouTube,,infobellstelugu,infobells - Telugu,,37200000.0,India,Music,0.010112983870967741,,3762.03,0.0,723764.6,,,30
+2026,YouTube,,LosPolinesios,LosPolinesios,,27300000.0,,Lifestyle,0.06823516483516484,,18145.97,482.23,507114.23,,,30
+2026,YouTube,,PowerKids,PowerKids TV,,50200000.0,Ireland,Entertainment,4.5816733067729086e-07,,,0.23,103046.57,,,30
+2026,YouTube,,toycantando,toycantando,,30900000.0,Colombia,Entertainment,0.0037906148867313917,,1171.3,0.0,212858.37,,,30
+2026,YouTube,,smosh,Smosh,,27100000.0,United States,Entertainment,0.08794439114391145,,23449.0,383.93,447937.13,,,30
+2026,YouTube,,xSkyHeLLxx,Renato Garcia,,31200000.0,Brazil,Lifestyle,0.2581775641025641,,78262.6,2288.8,1092049.83,,,30
+2026,YouTube,,AboFlah,AboFlah,,48800000.0,Kuwait,Entertainment,0.49582506147540983,,233224.23,8738.4,8289145.07,,,30
+2026,YouTube,,zeenews,Zee News,,41900000.0,India,Knowledge&Info,5.6252983293556085e-05,,23.0,0.57,1553.9,,,30
+2026,YouTube,,WatchMojo,WatchMojo.com,,25900000.0,Canada,Entertainment,0.002810810810810811,,615.13,112.87,28029.8,,,30
+2026,YouTube,,TwiNboTzVids,Lucas and Marcus,,37100000.0,United States,Entertainment,0.021417142857142853,,7544.73,401.03,351605.57,,,30
+2026,YouTube,,jypentertainment,JYP Entertainment,,31800000.0,,Music,0.11551666666666667,,34731.83,2002.47,951114.4,,,30
+2026,YouTube,,davidguettavevo,David Guetta,,27700000.0,United States,Music,0.01679725631768953,,4441.47,211.37,555487.0,,,30
+2026,YouTube,,nickelodeonjuniorfr,Nick Jr.,,35200000.0,United States,Entertainment,0.0017357102272727274,,610.97,0.0,138147.47,,,30
+2026,YouTube,,ZHC,zhc,,97.0,,Music,0.0,,,,,,,0
+2026,YouTube,,adityamusic,Aditya Music,,36500000.0,India,Music,0.0005964383561643836,,215.73,1.97,19003.37,,,30
+2026,YouTube,,NewOnNetflix,Netflix,,33100000.0,United States,Music,0.05141954682779456,,16188.27,831.6,616276.47,,,30
+2026,YouTube,,SesameStreet,Sesame Street,,29600000.0,United States,Entertainment,0.006212939189189189,,1839.03,0.0,360693.07,,,30
+2026,YouTube,,JellyYT,Jelly,,23400000.0,United Kingdom,Tech&Gaming,0.01696551282051282,,3789.43,180.5,177413.1,,,30
+2026,YouTube,,ColdplayVEVO,Coldplay,,28400000.0,United Kingdom,Music,0.050185316901408455,,13579.27,673.36,662980.91,,,11
+2026,YouTube,,mildicasdemulher,Valentina Pontes ofc,,28800000.0,Brazil,Entertainment,0.007350173611111111,,2064.37,52.48,179993.67,,,30
+2026,YouTube,,DrossRotzank,DrossRotzank,,24100000.0,Argentina,Lifestyle,0.3727040248962656,,84803.9,5017.77,1348507.73,,,30
+2026,YouTube,,adityacinema,Aditya Movies,,38300000.0,India,Entertainment,0.0006156657963446474,,233.57,2.23,19252.27,,,30
+2026,YouTube,,THECHAINSMOKERS,The Chainsmokers,,23000000.0,United States,Music,0.005137391304347825,,1135.87,45.73,39876.7,,,30
+2026,YouTube,,netdmuzikk,netd müzik,,27000000.0,Turkey,Music,0.0009824074074074073,,210.8,54.45,33783.83,,,30
+2026,YouTube,,gmmgrammyofficial,GMM GRAMMY OFFICIAL,,25900000.0,Thailand,Music,0.00035069498069498065,,87.73,3.1,7054.1,,,30
+2026,YouTube,,mmoshaya,mmoshaya,,23500000.0,Saudi Arabia,Lifestyle,0.029125361702127657,,6644.43,200.03,1087880.43,,,30
+2026,YouTube,,VenusMovies,Venus Movies,,27600000.0,India,Entertainment,0.0006964855072463768,,189.53,2.7,29832.97,,,30
+2026,YouTube,,WHBBP,White Hill Production,,2.0,,,0.0,,,,,,,0
+2026,YouTube,,TEDtalksDirector,TED,,27300000.0,United States,Lifestyle,0.0026527472527472524,,695.93,28.27,30563.27,,,30
+2026,YouTube,,oRugrat,FaZe Rug,,28900000.0,United States,Lifestyle,0.24609529411764702,,63413.67,7707.87,2879614.9,,,30
+2026,YouTube,,AmericasGotTalent,America's Got Talent,,30900000.0,United States,Music,0.10636699029126213,,32432.97,434.43,1235556.7,,,30
+2026,YouTube,,CanalCanalha,Canal Canalha,,21300000.0,Brazil,Entertainment,0.17403037558685447,,36809.47,259.0,546373.13,,,30
+2026,YouTube,,hamaarbhojiwood,Wave Music Bhojpuri,,26900000.0,India,Music,0.00028539033457249076,,65.2,11.57,6269.87,,,30
+2026,YouTube,,PeppaLatinoAmericano,Peppa Pig Español Latino - Canal Oficial,,30800000.0,United Kingdom,Entertainment,0.00579198051948052,,1783.93,,689056.1,,,30
+2026,YouTube,,shemaroomovies,Shemaroo Movies,,39200000.0,India,Entertainment,0.002401173469387755,,928.63,12.63,126384.77,,,30
+2026,YouTube,,FGTeeV,FGTeeV,,25200000.0,United States,Tech&Gaming,0.21426587301587302,,50167.52,3827.48,4127578.7,,,23
+2026,YouTube,,BuzzFeedVideo,BuzzFeedVideo,,19700000.0,United States,Entertainment,0.003376802030456853,,635.7,29.53,33269.23,,,30
+2026,YouTube,,SSundee,SSundee,,25300000.0,United States,Tech&Gaming,0.06792478260869565,,16191.77,993.2,703434.33,,,30
+2026,YouTube,,AuthenticGames,AuthenticGames,,20200000.0,Brazil,Tech&Gaming,0.11643069306930692,,22314.0,1205.0,291298.0,,,1
+2026,YouTube,,TheFineBros,REACT,,20100000.0,United States,Entertainment,0.018721890547263684,,3549.2,213.9,92050.4,,,30
+2026,YouTube,,VEVO,Vevo,,20000000.0,,Music,0.0006783500000000001,,132.37,3.3,8965.97,,,30
+2026,YouTube,,DisneyChannelLA,Disney Jr. Latinoamérica,,30400000.0,Argentina,Entertainment,0.005611842105263157,,1706.0,0.0,423765.77,,,30
+2026,YouTube,,goldmineshindi,Goldmines Movies,,30400000.0,,Entertainment,0.00029953947368421054,,89.93,1.13,12346.77,,,30
+2026,YouTube,,PenIndiaPvtLimited,Pen Movies,,29900000.0,India,Entertainment,0.03129842809364548,,9043.43,314.8,1394381.37,,,30
+2026,YouTube,,HaerteTest,HaerteTest,,19500000.0,Germany,Lifestyle,0.0016007179487179488,,300.37,11.77,131834.0,,,30
+2026,YouTube,,SlivkiChanel,SlivkiShow,,21300000.0,Italy,Lifestyle,0.40944455399061036,,82755.44,4456.25,4028678.81,,,16
+2026,YouTube,,LazarBeam,LazarBeam,,23300000.0,Australia,Tech&Gaming,1.9004552789699571,,437115.08,5691.0,17425225.42,,,12
+2026,YouTube,,NationalGeographic,National Geographic,,25900000.0,United States,Entertainment,0.0034305019305019306,,850.8,37.7,67211.77,,,30
+2026,YouTube,,BeckyGOfficial,Becky G,,22500000.0,United States,Music,0.01908177777777778,,4103.8,189.6,102853.57,,,30
+2026,YouTube,,NewAFI2013,Indosiar,,35200000.0,Indonesia,Entertainment,0.0025479261363636364,,793.97,102.9,22457.3,,,30
+2026,YouTube,,rossbollinger,Pencilmation,,20300000.0,United States,Entertainment,0.1347431527093596,,27124.43,228.43,1064647.23,,,30
+2026,YouTube,,HumNetwork,HUM TV,,53900000.0,Pakistan,Entertainment,8.126159554730984e-05,,43.27,0.53,3847.53,,,30
+2026,YouTube,,PrestonPlayz,PrestonPlayz,,17300000.0,United States,Tech&Gaming,0.1868736416184971,,31049.97,1279.17,5060456.27,,,30
+2026,YouTube,,Mnet,Mnet K-POP,,22300000.0,,Entertainment,0.0019418385650224214,,396.33,36.7,6577.43,,,30
+2026,YouTube,,CharliesVlogs,Charlie Puth,,23100000.0,United States,Music,0.10823948051948051,,23915.6,1087.72,1231437.12,,,25
+2026,YouTube,,GooodLifeFilms,Lyrical Lemonade,,24000000.0,United States,Music,0.30266191666666664,,69927.5,2711.36,3551283.71,,,14
+2026,YouTube,,RotanaAudio,Rotana,,27000000.0,Saudi Arabia,Music,0.03213025925925926,,8394.3,280.87,2235636.3,,,30
+2026,YouTube,,starplus,StarPlus,,56300000.0,India,Entertainment,0.00014914742451154527,,82.2,1.77,3713.3,,,30
+2026,YouTube,,toyorbabytv,toyorbabytv,,29600000.0,Jordan,Entertainment,0.0,,,,218492.57,,,30
+2026,YouTube,,gordonramsay,Gordon Ramsay,,21900000.0,,Lifestyle,0.017260730593607304,,3637.37,142.73,142956.17,,,30
+2026,YouTube,,gottalentglobal,Got Talent Global,,21400000.0,,Entertainment,0.006351261682242991,,1332.17,27.0,80351.07,,,30
+2026,YouTube,,TelenovelaTelevisa,Tlnovelas,,27100000.0,Mexico,Entertainment,0.0009229889298892988,,236.7,13.43,13155.57,,,30
+2026,YouTube,,Infinite,Infinite,,25700000.0,United States,Entertainment,0.17261805447470818,,40358.47,4004.37,1863744.47,,,30
+2026,YouTube,,MrVivekBindra,Dr. Vivek Bindra: Motivational Speaker,,21100000.0,India,Knowledge&Info,0.0042386729857819905,,884.83,9.53,19960.83,,,30
+2026,YouTube,,TheWillyrex,TheWillyrex,,18500000.0,Spain,Lifestyle,0.058343621621621614,,10594.8,198.77,239081.53,,,30
+2026,YouTube,,UltraMovieParlour,Ultra Movie Parlour,,31900000.0,India,Entertainment,0.009008056426332288,,2807.2,66.37,360009.47,,,30
+2026,YouTube,,fatosdesconhecidos,Fatos Desconhecidos,,22800000.0,Brazil,Lifestyle,0.0010981140350877193,,,250.37,101455.8,,,30
+2026,YouTube,,TheEnaldinhO,Enaldinho,,45800000.0,Brazil,Entertainment,0.07754002183406114,,34431.73,1081.6,1827087.57,,,30
+2026,YouTube,,OfficialClashOfClans,Clash of Clans,,21800000.0,,Tech&Gaming,0.0377665137614679,,7901.83,331.27,2070099.6,,,30
+2026,YouTube,,JimmyKimmelLive,Jimmy Kimmel Live,,22000000.0,United States,Entertainment,0.13650195454545455,,28621.83,1408.6,1008603.07,,,30
+2026,YouTube,,MARVEL,Marvel Entertainment,,22500000.0,United States,Entertainment,0.014048133333333332,,3049.7,111.13,146343.8,,,30
+2026,YouTube,,RobinHoodGamer1,Robin Hood Gamer,,22400000.0,Brazil,Tech&Gaming,0.05221026785714286,,11197.2,497.9,443832.37,,,30
+2026,YouTube,,NBA,NBA,,24000000.0,United States,Sports,0.006263208333333333,,1385.27,117.9,77492.27,,,30
+2026,YouTube,,Kurzgesagt,Kurzgesagt – In a Nutshell,,25200000.0,Germany,Knowledge&Info,0.4081101587301587,,100029.03,2814.73,2196201.77,,,30
+2026,YouTube,,CKN,cKn,,182.0,,Music,0.0,,,,,,,0
+2026,YouTube,,gmapublicaffairs,GMA Public Affairs,,27900000.0,Philippines,Entertainment,0.00022594982078853046,,58.37,4.67,3142.67,,,30
+2026,YouTube,,corbuzierprediction,Deddy Corbuzier,,25200000.0,Indonesia,Entertainment,0.042935714285714285,,9764.93,1054.87,529610.33,,,30
+2026,YouTube,,sonotekvideo,Sonotek,,20900000.0,India,Music,0.009829043062200957,,1932.07,122.2,128497.3,,,30
+2026,YouTube,,greengoldtv,Green Gold TV - Official Channel,,22200000.0,India,Entertainment,0.0015951801801801803,,354.13,0.0,50453.77,,,30
+2026,YouTube,,turmadamonicaTV,Turma da Mônica,,21500000.0,Brazil,Lifestyle,0.016073953488372095,,3455.9,0.0,272830.1,,,30
+2026,YouTube,,DanielSaboya,Dan-Sa / Daniel Saboya,,19200000.0,Brazil,Entertainment,0.00219375,,414.23,6.97,37672.13,,,30
+2026,YouTube,,BritainsGotTalent09,Britain's Got Talent,,21200000.0,United Kingdom,Entertainment,0.031928443396226414,,6265.13,503.7,268687.73,,,30
+2026,YouTube,,kbsworld,KBS WORLD TV,,20500000.0,South Korea,Entertainment,0.00029546341463414634,,56.67,3.9,815.1,,,30
+2026,YouTube,,TheOdd1sOut,TheOdd1sOut,,20700000.0,United States,Entertainment,1.1188767149758454,,227312.35,4295.13,4919144.26,,,23
+2026,YouTube,,PinkPanther,Official Pink Panther,,22800000.0,,Entertainment,0.004584517543859649,,1045.27,0.0,196563.6,,,30
+2026,YouTube,,FactTechz,FactTechz,,21200000.0,India,Lifestyle,0.8360396226415094,,176001.6,1238.8,3660630.37,,,30
+2026,YouTube,,TheGrefg,TheGrefg,,19700000.0,Spain,Tech&Gaming,0.17847903553299488,,34610.1,550.27,692382.1,,,30
+2026,YouTube,,SockeyeMedia,MGC Playhouse,,17800000.0,,Music,0.000801123595505618,,142.6,,233789.3,,,30
+2026,YouTube,,Matroix,Ali-A,,19700000.0,United Kingdom,Tech&Gaming,0.03620324873096446,,6990.97,141.07,399866.63,,,30
+2026,YouTube,,rhettandlink2,Good Mythical Morning,,19600000.0,United States,Entertainment,0.14926908163265307,,27918.77,1337.97,786945.27,,,30
+2026,YouTube,,CookieSwirlC,CookieSwirlC,,21400000.0,United States,Tech&Gaming,0.007654953271028036,,1406.03,232.13,71573.17,,,30
+2026,YouTube,,ElTrollino,ElTrollino,,22300000.0,Spain,Tech&Gaming,0.15839161434977578,,32778.0,2543.33,1873064.67,,,3
+2026,YouTube,,EeOneGuy,EeOneGuy,,16400000.0,United States,Music,0.004185975609756098,,359.1,327.4,71027.5,,,30
+2026,YouTube,,TheElenaYa,Diana and Roma EN,,29800000.0,United States,Entertainment,0.0017295302013422818,,515.4,,851868.5,,,30
+2026,YouTube,,MiawAug,MiawAug,,25300000.0,Indonesia,Tech&Gaming,0.09380711462450592,,21938.37,1794.83,673674.5,,,30
+2026,YouTube,,rsiammusic,RsiamMusic : อาร์สยาม,,20400000.0,,Music,0.004812401960784313,,941.8,39.93,145872.17,,,30
+2026,YouTube,,farrukotv,Farruko,,20600000.0,United States,Music,0.028021504854368936,,5578.6,193.83,287282.33,,,30
+2026,YouTube,,dj47maryn,Marmok,,19400000.0,Russia,Tech&Gaming,0.5500498969072165,,102627.48,4082.2,1806918.36,,,25
+2026,YouTube,,portadosfundos,Porta dos Fundos,,19000000.0,Brazil,Entertainment,0.08790594736842107,,16358.3,343.83,311732.83,,,30
+2026,YouTube,,Willyrex,Willyrex,,17200000.0,Spain,Tech&Gaming,0.0650610465116279,,11071.53,118.97,227161.8,,,30
+2026,YouTube,,SCTVIndonesia,Surya Citra Televisi (SCTV),,22800000.0,Indonesia,Entertainment,0.002590482456140351,,544.53,46.1,17410.17,,,30
+2026,YouTube,,SebastianYatra,Sebastián Yatra,,18900000.0,,Music,0.036235820105820105,,6525.0,323.57,455848.03,,,30
+2026,YouTube,,ThePoznavatel,Познаватель,,20400000.0,Ukraine,Lifestyle,0.06353151960784315,,11927.83,1032.6,943572.57,,,30
+2026,YouTube,,RobleisIUTU,RobleisIUTU,,20100000.0,Argentina,Tech&Gaming,0.13013965174129352,,25829.67,328.4,568770.83,,,30
+2026,YouTube,,kidstvsongs,Doggy Doggy Cartoons,,16400000.0,Spain,Entertainment,0.0003593292682926829,,58.93,,9097.33,,,30
+2026,YouTube,,aMOODIEsqueezie,SQUEEZIE,,20000000.0,France,Entertainment,0.61649665,,121549.23,1750.1,3062870.5,,,30
+2026,YouTube,,musicalrmastv,الـريماس - Al-Remas,,18400000.0,Iraq,Music,0.015355271739130434,,2650.97,174.4,422894.1,,,30
+2026,YouTube,,grammygoldofficia,GRAMMY GOLD OFFICIAL,,22100000.0,Thailand,Music,0.0012324434389140273,,258.6,13.77,35880.97,,,30
+2026,YouTube,,IGNentertainment,IGN,,19800000.0,United States,Tech&Gaming,0.002786060606060606,,465.77,85.87,20902.17,,,30
+2026,YouTube,,TEDEducation,TED-Ed,,22500000.0,United States,Knowledge&Info,0.05032502222222222,,10812.9,510.23,294453.9,,,30
+2026,YouTube,,JasonDerulo,Jason Derulo,,41900000.0,,Entertainment,0.008087661097852028,,3354.03,34.7,160113.13,,,30
+2026,YouTube,,jquintanac5,DeToxoMoroxo,,16800000.0,Mexico,Entertainment,0.046365476190476186,,7700.37,89.03,162120.2,,,30
+2026,YouTube,,LankyBox,LankyBox,,42000000.0,United States,Tech&Gaming,0.008951095238095239,,3457.53,301.93,385585.1,,,30
+2026,YouTube,,etvteluguindia,etvteluguindia,,23400000.0,India,Entertainment,0.000509957264957265,,117.83,1.5,6385.77,,,30
+2026,YouTube,,ArabGamesNetwork,شبكة العاب العرب | Arab Games Network,,25500000.0,Saudi Arabia,Tech&Gaming,0.05019517647058823,,12144.5,655.27,384343.9,,,30
+2026,YouTube,,invictorgs3,invictor,,30400000.0,Spain,Tech&Gaming,0.03837161184210526,,10808.3,856.67,578784.5,,,30
+2026,YouTube,,STARVIJAY,Vijay Television,,28300000.0,India,Entertainment,0.0016556890459363959,,452.23,16.33,15884.17,,,30
+2026,YouTube,,TheBrianMaps,TheBrianMaps,,18300000.0,Russia,Tech&Gaming,1.09275956284153,,191488.29,8486.71,4235357.0,,,14
+2026,YouTube,,AnittaOficial,Anitta,,18200000.0,,Music,0.04331153846153846,,7460.57,422.13,1015681.27,,,30
+2026,YouTube,,jeffreestar,jeffreestar,,15600000.0,United States,Lifestyle,0.13601282051282051,,18517.0,2701.0,532629.0,,,1
+2026,YouTube,,iberethenorio,Manual do Mundo,,20100000.0,Brazil,Lifestyle,0.1678046268656716,,33159.63,569.1,513441.73,,,30
+2026,YouTube,,Antrax,Antrax,,16400000.0,Mexico,Lifestyle,0.033046768292682924,,5207.38,212.29,104715.71,,,14
+2026,YouTube,,zbingzbing,zbing z.,,21500000.0,Thailand,Tech&Gaming,0.03408930232558139,,6765.0,564.2,342622.37,,,30
+2026,YouTube,,littlemixmusic,Little Mix,,16500000.0,United Kingdom,Music,0.02201739393939394,,3501.87,131.0,85248.93,,,30
+2026,YouTube,,boyceavenue,Boyce Avenue,,17000000.0,United States,Music,0.009431352941176472,,1551.9,51.43,80544.57,,,30
+2026,YouTube,,failarmy,FailArmy,,17500000.0,United States,Entertainment,0.021438114285714283,,3552.7,198.97,324617.23,,,30
+2026,YouTube,,Apple,Apple,,20600000.0,United States,Tech&Gaming,0.0832933495145631,,17158.43,,2775223.5,,,30
+2026,YouTube,,DopeLyrics,DopeLyrics,,15500000.0,United States,Music,0.0006458709677419356,,91.79,8.32,4728.21,,,19
+2026,YouTube,,queenofficial,Queen Official,,18900000.0,United Kingdom,Entertainment,0.026361216931216937,,4809.47,172.8,141980.53,,,30
+2026,YouTube,,movieclipsTRAILERS,Rotten Tomatoes Trailers,,16100000.0,United States,Entertainment,0.005036211180124224,,735.1,75.73,43511.47,,,30
+2026,YouTube,,MatthewPatrick13,The Game Theorists,,19600000.0,United States,Tech&Gaming,0.218034693877551,,41581.7,1153.1,1285741.97,,,30
+2026,YouTube,,lescopaque,Les' Copaque Production,,25800000.0,Malaysia,Entertainment,0.004005658914728682,,1029.43,4.03,85957.07,,,30
+2026,YouTube,,TRANSTVofficial,TRANS TV Official,,18600000.0,Indonesia,Entertainment,0.00033688172043010747,,56.33,6.33,3377.1,,,30
+2026,YouTube,,SonyMusicSouthVEVO,SonyMusicSouthVEVO,,23000000.0,,Entertainment,0.0031134782608695654,,697.03,19.07,59497.0,,,30
+2026,YouTube,,RomanAtwoodVlogs,Roman Atwood Vlogs,,15100000.0,United States,Entertainment,0.0,,,,,,,0
+2026,YouTube,,marquesbrownlee,Marques Brownlee,,20900000.0,United States,Lifestyle,0.7617132057416267,,151911.43,7286.63,4656142.63,,,30
+2026,YouTube,,vice,VICE,,19100000.0,United States,Entertainment,0.01937748691099476,,3246.47,454.63,171056.63,,,30
+2026,YouTube,,monstafluffmusicTV,7clouds,,32200000.0,United States,Music,0.012903322981366459,,3937.4,217.47,414327.73,,,30
+2026,YouTube,,JenniferLopez,Jennifer Lopez,,17500000.0,United States,Music,0.008450285714285716,,1358.4,120.4,47151.3,,,30
+2026,YouTube,,MegatoadStonie,Matt Stonie,,16400000.0,United States,Lifestyle,0.3177265243902439,,51045.75,1061.4,1362307.6,,,20
+2026,YouTube,,portalfitdance,FitDance,,16900000.0,Brazil,Music,0.0024518934911242603,,401.0,13.37,14815.77,,,30
+2026,YouTube,,TheRichest,TheRichest,,14700000.0,United States,Entertainment,0.0007056462585034014,,96.4,7.33,6675.3,,,30
+2026,YouTube,,popchartbusters,Pop Chartbusters,,20600000.0,,Music,0.029154174757281548,,5657.23,348.53,594516.07,,,30
+2026,YouTube,,OGatoGalactico,Gato Galactico,,20600000.0,Brazil,Lifestyle,0.00884257281553398,,1821.57,0.0,330788.47,,,30
+2026,YouTube,,ntvru,HTB Media,,2.0,,,0.0,,,,,,,0
+2026,YouTube,,KSIOlajidebtHD,KSI,,17600000.0,United Kingdom,Entertainment,0.586732159090909,,99943.33,3321.53,3532394.4,,,30
+2026,YouTube,,kwebbelkop,Kwebbelkop,,14900000.0,United States,Entertainment,0.004859530201342282,,671.07,53.0,44477.7,,,30
+2026,YouTube,,makeuplocalypse,Mariale,,15200000.0,United States,Lifestyle,0.005983947368421053,,900.23,9.33,33492.83,,,30
+2026,YouTube,,ranziscool,Ranz Kyle,,15200000.0,Philippines,Lifestyle,0.04632046052631579,,6850.14,190.57,400131.67,,,21
+2026,YouTube,,Makiman131,Makiman131,,16400000.0,Spain,Tech&Gaming,0.0296205487804878,,4704.4,153.37,495571.5,,,30
+2026,YouTube,,Lachlan,Lachlan,,15300000.0,Australia,Tech&Gaming,0.10207189542483659,,15509.37,107.63,614728.33,,,30
+2026,YouTube,,IISuperwomanII,Lilly Singh,,14200000.0,,Entertainment,0.01659880281690141,,2282.3,74.73,75111.4,,,30
+2026,YouTube,,TalkingFriends,Talking Tom & Friends TV,,16200000.0,United States,Entertainment,0.0009532716049382716,,154.2,0.23,18909.87,,,30
+2026,YouTube,,CanalTaBombando,LEGENDA FUNK,,14500000.0,Brazil,Music,0.0009493793103448277,,132.33,5.33,12254.33,,,3
+2026,YouTube,,News24page,News 24,,26700000.0,India,Knowledge&Info,0.0003898876404494382,,92.0,12.1,4653.3,,,30
+2026,YouTube,,SriBalajiMovies,SriBalajiMovies,,22900000.0,India,Entertainment,0.0012434934497816594,,284.23,0.53,42850.57,,,30
+2026,YouTube,,Drawblogs,Drawblogs,,14200000.0,Peru,Tech&Gaming,0.0006434507042253521,,83.56,7.81,2045.62,,,16
+2026,YouTube,,Sidemen,Sidemen,,23000000.0,United Kingdom,Entertainment,0.8031385652173915,,179568.2,5153.67,6733724.7,,,30
+2026,YouTube,,zncoficial,Zé Neto e Cristiano,,16100000.0,Brazil,Lifestyle,0.006471242236024846,,1021.2,20.67,35032.17,,,30
+2026,YouTube,,newvolgavideo,Volga Video,,17900000.0,India,Entertainment,0.0002675977653631285,,47.13,0.77,6853.8,,,30
+2026,YouTube,,rkddigital,RKD Studios,,27400000.0,India,Entertainment,0.010066058394160585,,2717.03,41.07,380470.43,,,30
+2026,YouTube,,hejproducao,Henrique e Juliano,,17400000.0,Brazil,Music,0.12975344827586205,,22164.14,412.96,4611849.71,,,28
+2026,YouTube,,MattyBRaps,MattyBRaps,,15500000.0,United States,Music,0.06147116129032259,,9445.43,82.6,2791466.71,,,7
+2026,YouTube,,collegehumor,Dropout,,15200000.0,United States,Entertainment,0.050915986842105264,,7482.6,256.63,168773.53,,,30
+2026,YouTube,,popskids,POPS Kids,,19900000.0,Vietnam,Entertainment,0.0029788944723618087,,592.8,0.0,126323.03,,,30
+2026,YouTube,,LinusTechTips,Linus Tech Tips,,16800000.0,Canada,Lifestyle,0.1910892857142857,,30090.43,2012.57,860831.83,,,30
+2026,YouTube,,T3DDYgames,T3ddy,,19000000.0,Brazil,Lifestyle,0.1639578947368421,,30301.6,850.4,502276.03,,,30
+2026,YouTube,,indiancomedy,Shemaroo Comedy,,22400000.0,India,Entertainment,0.0004367410714285714,,94.7,3.13,19217.03,,,30
+2026,YouTube,,XpressTV,XpressTV,,17300000.0,Mexico,Lifestyle,0.14874184971098264,,25399.3,333.04,2482564.13,,,30
+2026,YouTube,,bbtvch7,Ch7HD,,19500000.0,Thailand,Entertainment,0.00010482051282051282,,20.07,0.37,1188.57,,,30
+2026,YouTube,,chadwildclay,Chad Wild Clay,,15700000.0,United States,Entertainment,0.13147324840764332,,18131.87,2509.43,1816838.13,,,30
+2026,YouTube,,iTownGamePlay,iTownGamePlay *Terror&Diversión*,,15100000.0,Spain,Tech&Gaming,0.011149403973509935,,1581.93,101.63,25240.57,,,30
+2026,YouTube,,MartinGarrix,Martin Garrix,,15200000.0,United States,Lifestyle,0.060222828947368426,,8781.27,372.6,416826.77,,,30
+2026,YouTube,,theslowmoguys,The Slow Mo Guys,,15000000.0,United States,Tech&Gaming,0.29046426666666664,,41399.55,2170.09,806330.09,,,11
+2026,YouTube,,LEGO,LEGO,,21500000.0,United Kingdom,Lifestyle,0.00040186046511627913,,86.4,,2957.77,,,30
+2026,YouTube,,mkmusicnews,MK MUSIC,,18700000.0,Brazil,Music,0.0020156684491978607,,361.2,15.73,10724.73,,,30
+2026,YouTube,,OfficialTrapCity,Trap City,,13900000.0,Netherlands,Music,0.002985827338129496,,401.5,13.53,10787.0,,,30
+2026,YouTube,,inventonahoratv,Invento na Hora,,14100000.0,Brazil,Lifestyle,0.18944156028368797,,26055.63,655.63,271236.77,,,30
+2026,YouTube,,PlayStation,PlayStation,,16900000.0,United States,Tech&Gaming,0.013719704142011836,,2120.1,198.53,67788.0,,,30
+2026,YouTube,,camilaloures,Camila Loures,,16200000.0,Brazil,Lifestyle,0.06892487654320988,,10841.1,324.73,206968.8,,,30
+2026,YouTube,,Genierock,Genierock,,17200000.0,Thailand,Music,0.011188779069767441,,1770.6,153.87,55374.8,,,30
+2026,YouTube,,AM3NlC,AM3NlC,,14200000.0,Brazil,Lifestyle,0.09924718309859154,,13869.8,223.3,176713.17,,,30
+2026,YouTube,,GMMTVSPOTLIKE,GMMTV OFFICIAL​​,,20300000.0,Thailand,Entertainment,0.032582561576354675,,6436.73,177.53,131737.57,,,30
+2026,YouTube,,NikkieTutorials,NikkieTutorials,,15000000.0,Netherlands,Lifestyle,1.9269542,,286317.83,2725.3,6430777.33,,,30
+2026,YouTube,,MasterskayaNastroeny,Мастерская Настроения,,14100000.0,Russia,Lifestyle,0.01056404255319149,,1430.0,59.53,170584.0,,,30
+2026,YouTube,,MRamadanOfficial,Mohamed Ramadan I محمد رمضان,,16200000.0,Egypt,Music,0.047017283950617286,,7316.47,300.33,411391.3,,,30
+2026,YouTube,,F2Freestylers,Pro Football Academy – The Next Gen of Ballers!,,13900000.0,United Kingdom,Sports,0.004103381294964029,,560.1,10.27,40479.9,,,30
+2026,YouTube,,BollywoodClassics,Bollywood Classics,,22300000.0,,Music,0.0002430493273542601,,51.63,2.57,6102.4,,,30
+2026,YouTube,,WWWengie,Wengie,,13200000.0,United States,Entertainment,0.013247045454545454,,1688.78,59.83,57669.72,,,18
+2026,YouTube,,TeamFilmsBhojpuri,Team Films Bhojpuri,,17200000.0,India,Music,0.0009065697674418606,,149.43,6.5,20030.83,,,30
+2026,YouTube,,bbchindi,BBC News Hindi,,21700000.0,,Lifestyle,0.014819677419354837,,3021.1,194.77,166281.23,,,30
+2026,YouTube,,MAIKI021,MAIKI021,,13800000.0,Brazil,Lifestyle,0.040084202898550726,,5280.12,251.5,46911.38,,,16
+2026,YouTube,,bomberball,Bie The Ska,,15000000.0,Thailand,Tech&Gaming,0.024197999999999997,,3592.87,36.83,396731.87,,,30
+2026,YouTube,,mispastelitosyoutub,Mis Pastelitos,,18200000.0,Mexico,Lifestyle,0.5030587912087913,,89380.07,2176.63,3503017.3,,,30
+2026,YouTube,,CH8vdo,ช่อง8 : Thai Ch8,,17500000.0,Thailand,Entertainment,0.0018306857142857142,,259.07,61.3,16197.0,,,30
+2026,YouTube,,vetealaversha,Darkar Company Studios,,14200000.0,Mexico,Tech&Gaming,0.15798591549295776,,21890.0,544.0,348304.0,,,2
+2026,YouTube,,ndtvindia,NDTV India,,25000000.0,India,Knowledge&Info,0.00013467999999999998,,33.3,0.37,5643.03,,,30
+2026,YouTube,,dangmattsmith,DangMattSmith,,15200000.0,United States,Lifestyle,0.008641644736842105,,1179.53,134.0,58305.1,,,30
+2026,YouTube,,zeefilmimusic,Zee Music Classic,,20400000.0,India,Entertainment,0.0014771078431372547,,294.9,6.43,56775.97,,,30
+2026,YouTube,,AzzyLand,AzzyLand,,12900000.0,Canada,Entertainment,0.0,,,,,,,0
+2026,YouTube,,TWICE,TWICE,,19100000.0,,Music,0.36962774869109943,,69681.9,917.0,1595472.07,,,30
+2026,YouTube,,NehaKakkarOfficial,Neha Kakkar,,416.0,,Music,0.0,,,,,,,0
+2026,YouTube,,laharimusic,Lahari Music,,19100000.0,India,Entertainment,0.004520104712041885,,836.77,26.57,62542.0,,,30
+2026,YouTube,,TheABSCBNNews,ABS-CBN News,,19000000.0,Philippines,Lifestyle,3.436842105263158e-05,,5.73,0.8,263.33,,,30
+2026,YouTube,,CNN,CNN,,19400000.0,United States,Lifestyle,0.004614587628865979,,629.4,265.83,37621.9,,,30
+2026,YouTube,,NOBRU,nobru,,156.0,,Sports,0.0,,,,,,,0
+2026,YouTube,,fcbarcelona,FC Barcelona,,25500000.0,,Sports,0.029882078431372548,,7512.6,107.33,168191.33,,,30
+2026,YouTube,,crashcourse,CrashCourse,,17000000.0,United States,Knowledge&Info,0.023297823529411767,,3877.9,82.73,72962.77,,,30
+2026,YouTube,,UFC,UFC,,22000000.0,United States,Sports,0.013806363636363636,,2726.03,311.37,158372.93,,,30
+2026,YouTube,,pognalishow,Дима Масленников  ,,19500000.0,United States,Entertainment,1.2278266666666666,,230143.9,9282.3,7329392.57,,,30
+2026,YouTube,,TazerCraft,TazerCraft,,15100000.0,Brazil,Tech&Gaming,0.0,,,,,,,0
+2026,YouTube,,GallinaPintadita,Gallina Pintadita,,15200000.0,,Entertainment,0.031592105263157894,,4802.0,0.0,6932674.0,,,1
+2026,YouTube,,elcanaldePlimPlim,El Payaso Plim Plim,,33300000.0,Argentina,Entertainment,0.0,,,0.0,953259.93,,,30
+2026,YouTube,,RosannaPansino,Rosanna Pansino,,14800000.0,United States,Lifestyle,0.018194594594594597,,2637.9,54.9,62122.97,,,30
+2026,YouTube,,EdisonPts,EdisonPts,,17200000.0,Russia,Tech&Gaming,0.14789069767441862,,24281.73,1155.47,444967.57,,,30
+2026,YouTube,,MNCTVOfficial,HOME MNCTV,,210.0,,,0.0,,,,,,,0
+2026,YouTube,,Bizarrap,Bizarrap,,23000000.0,Argentina,Music,4.824873913043478,,1055236.33,54484.67,41823223.33,,,3
+2026,YouTube,,AtlanticVideos,Atlantic Records,,15900000.0,United States,Music,0.024780503144654086,,3801.62,138.48,278406.9,,,21
+2026,YouTube,,CoryxKenshin,CoryxKenshin,,24200000.0,United States,Tech&Gaming,1.795655909090909,,407799.73,26749.0,8886720.57,,,30
+2026,YouTube,,theRadBrad,theRadBrad,,13900000.0,United States,Tech&Gaming,0.13240812949640288,,17382.13,1022.6,464955.6,,,30
+2026,YouTube,,mymissanand,MyMissAnand,,13900000.0,India,Entertainment,0.03988345323741007,,5199.27,344.53,625386.3,,,30
+2026,YouTube,,iloveindianmakeup,Anaysa,,13600000.0,India,Entertainment,0.019940661764705884,,2600.4,111.53,302898.87,,,30
+2026,YouTube,,Auron,Auron,,15800000.0,Spain,Tech&Gaming,0.2055582278481013,,31848.97,629.23,838365.3,,,30
+2026,YouTube,,Unspeakable,Unspeakable,,19700000.0,United States,Entertainment,0.11961137055837563,,21601.57,1961.87,2392134.63,,,30
+2026,YouTube,,narendramodionline,NMF News,,22800000.0,India,Knowledge&Info,0.0035014473684210528,,669.6,128.73,24080.43,,,30
+2026,YouTube,,djzoi0,Everson Zoio,,13300000.0,Brazil,Entertainment,1.27296992481203,,157788.0,11517.0,1153712.0,,,1
+2026,YouTube,,50CentMusic,50 Cent,,18300000.0,,Music,0.13347595628415299,,21747.6,2678.5,607958.9,,,10
+2026,YouTube,,MattSDance,Matt Steffanina,,15400000.0,United States,Lifestyle,0.05818162337662338,,8873.97,86.0,879454.93,,,30
+2026,YouTube,,SaturdayNightLive,Saturday Night Live,,17000000.0,United States,Entertainment,0.2608945294117647,,43167.77,1184.3,1399049.03,,,30
+2026,YouTube,,MrSuicideSheep,MrSuicideSheep,,12700000.0,Canada,Music,0.010630472440944881,,1305.3,44.77,31207.03,,,30
+2026,YouTube,,YOLO,YOLO,,492.0,,,0.0,,,,,,,0
+2026,YouTube,,SrtaLynaV,Lyna,,24200000.0,Argentina,Tech&Gaming,0.07422256198347107,,17084.23,877.63,1365979.53,,,30
+2026,YouTube,,MazhavilManorama,Mazhavil Manorama,,20600000.0,India,Entertainment,6.16504854368932e-05,,12.3,0.4,1230.73,,,30
+2026,YouTube,,ChallengeAcceptedInc,Aphmau,,24700000.0,United States,Tech&Gaming,0.05755991902834009,,13279.53,937.77,601831.3,,,30
+2026,YouTube,,skillzaisherebooya,Conor Maynard,,13700000.0,United States,Music,0.05777189781021898,,7497.75,417.0,241197.5,,,4
+2026,YouTube,,twentyonepilots,twenty one pilots,,14200000.0,United States,Music,0.3809673943661972,,51921.87,2175.5,2031988.5,,,30
+2026,YouTube,,ABCNews,ABC News,,19500000.0,United States,Lifestyle,0.005623128205128205,,700.9,395.61,65789.1,,,30
+2026,YouTube,,DALLMYD,DALLMYD,,13800000.0,United States,Lifestyle,0.04744340579710145,,6281.78,265.41,227178.52,,,27
+2026,YouTube,,PozzitifonShow,Поззи,,14600000.0,United States,Tech&Gaming,0.30026027397260274,,38586.0,5252.0,1289181.0,,,1
+2026,YouTube,,typicalgamer,Typical Gamer,,15900000.0,Canada,Tech&Gaming,0.012880503144654089,,1968.3,79.7,74588.43,,,30
+2026,YouTube,,RedeTVhdBrasil,RedeTV,,13700000.0,Brazil,Lifestyle,0.0007513138686131388,,94.7,8.23,5460.4,,,30
+2026,YouTube,,NishaMadhulika,NishaMadhulika,,15100000.0,India,Lifestyle,0.022544172185430464,,3136.6,267.57,222899.37,,,30
+2026,YouTube,,canalparafernalha,Vetor Humor,,12700000.0,Brazil,Entertainment,0.0008196850393700788,,103.2,0.9,6272.13,,,30
+2026,YouTube,,JDCav24,ATHLEAN-X™,,14200000.0,United States,Sports,0.0805368309859155,,11113.53,322.7,387009.57,,,30
+2026,YouTube,,MusicTalentNow,Top Viral Talent,,13300000.0,United States,Entertainment,0.005900977443609023,,762.83,22.0,72682.87,,,30
+2026,YouTube,,React,REACT,,20100000.0,United States,Entertainment,0.018721890547263684,,3549.2,213.9,92053.2,,,30
+2026,YouTube,,zeetvtelugu,Zee Telugu,,17800000.0,India,Entertainment,1.651685393258427e-05,,2.87,0.07,76.13,,,30
+2026,YouTube,,MstrJames,Hacksmith Industries,,15400000.0,Canada,Tech&Gaming,0.06872662337662339,,10476.2,107.7,208370.97,,,30
+2026,YouTube,,JesseAndMike,JesseAndMike,,13200000.0,United States,Entertainment,0.02192628787878788,,2352.0,542.27,273818.67,,,15
+2026,YouTube,,LOUD,WatchLOUD,,240000.0,,Music,0.0,,,,,,,0
+2026,YouTube,,htpunjabi,Lokdhun Punjabi,,14600000.0,India,Entertainment,0.0879690410958904,,12170.31,673.17,494368.87,,,30
+2026,YouTube,,Piuzinho,Piuzinho,,12800000.0,Brazil,Tech&Gaming,0.1875628125,,23554.77,453.27,196659.3,,,30
+2026,YouTube,,DisneyChannelUK,Disney Club UK,,13700000.0,United Kingdom,Entertainment,0.0010005109489051095,,137.07,0.0,32958.83,,,30
+2026,YouTube,,alanalan9635,Stokes Twins,,138000000.0,United States,Lifestyle,0.3588049275362319,,492140.93,3009.87,32848924.0,,,30
+2026,YouTube,,BBC,BBC,,15400000.0,United Kingdom,Entertainment,0.0022870129870129876,,344.97,7.23,11201.73,,,30
+2026,YouTube,,AdexeOficial,Adexe & Nau,,12900000.0,Spain,Music,0.01640596899224806,,1990.0,126.37,56382.93,,,30
+2026,YouTube,,gymvirtual,gymvirtual,,13700000.0,Spain,Knowledge&Info,0.0097914598540146,,1306.03,35.4,39268.8,,,30
+2026,YouTube,,einerdtv,Ei Nerd,,14400000.0,Brazil,Entertainment,0.08614902777777778,,12004.13,401.33,142902.27,,,30
+2026,YouTube,,LittleBabyBumEspanol,Little Baby Bum en Español,,12500000.0,Spain,Entertainment,0.00048376,,60.47,0.0,15152.43,,,30
+2026,YouTube,,jazzghost1,Jazzghost,,23400000.0,,Tech&Gaming,0.554425641025641,,121536.93,8198.67,2721946.93,,,30
+2026,YouTube,,tseriesregional,T-Series Regional,,16900000.0,India,Music,0.0014828402366863906,,226.9,23.7,124926.87,,,30
+2026,YouTube,,PowerfulJRE,PowerfulJRE,,20800000.0,,Entertainment,0.12954264423076922,,20576.6,6368.27,1027143.8,,,30
+2026,YouTube,,bbcnews,BBC News,,19600000.0,United Kingdom,Lifestyle,0.005809132653061225,,652.33,486.26,76493.2,,,30
+2026,YouTube,,JustForLaughsTV,Just For Laughs Gags,,14200000.0,United States,Entertainment,0.007578380281690142,,1052.4,23.73,95597.6,,,30
+2026,YouTube,,GoldClassics,Goldmines Premiere,,16800000.0,India,Entertainment,0.00034779761904761905,,58.43,,8224.27,,,30
+2026,YouTube,,awakeningrecords,Awakening Music,,15600000.0,United Kingdom,Music,0.033456858974358974,,4933.47,285.8,429010.7,,,30
+2026,YouTube,,OficialPeppa,Peppa Pig em Português Brasil - Canal Oficial,,16800000.0,Brazil,Entertainment,0.00034005952380952384,,57.13,,10738.07,,,30
+2026,YouTube,,zeebangla,Zee Bangla,,21200000.0,India,Entertainment,0.00011542452830188679,,24.2,0.27,996.67,,,30
+2026,YouTube,,OReinho,O Reino Infantil,,16400000.0,Brazil,Entertainment,0.0009128048780487804,,149.7,0.0,40551.2,,,30
+2026,YouTube,,HusamYK,Katakit Baby TV,,23400000.0,Saudi Arabia,Entertainment,0.5193405982905983,,121525.7,0.0,23954199.47,,,30
+2026,YouTube,,MrGear,Eula. Kestner,,43.0,,,0.0,,,,,,,0
+2026,YouTube,,Migosatl,Migos ATL,,13100000.0,,Music,0.0,,,,,,,0
+2026,YouTube,,TheDaniRep,DaniRep | +6 Vídeos Diarios De GTA 5 Online!,,13900000.0,Spain,Tech&Gaming,0.030359496402877703,,4156.6,63.37,86195.27,,,30
+2026,YouTube,,colinfurze,colinfurze,,13300000.0,United Kingdom,Lifestyle,0.790563082706767,,100765.89,4379.0,2969208.68,,,19
+2026,YouTube,,karameeshchannel,karameeshchannel,,17300000.0,Jordan,Entertainment,0.009642774566473989,,1668.2,,233821.07,,,30
+2026,YouTube,,RayWilliamJohnson,Ray William Johnson,,18700000.0,United States,Lifestyle,0.06960267379679144,,12496.97,518.73,336292.87,,,30
+2026,YouTube,,Lulu99,Lulu99,,13000000.0,Colombia,Lifestyle,0.0725246153846154,,8976.67,451.53,286295.57,,,30
+2026,YouTube,,officialjassrecords,Jass Records,,14600000.0,India,Lifestyle,0.006305479452054794,,888.77,31.83,184074.07,,,30
+2026,YouTube,,YairAuriazul,Yair17,,14100000.0,Mexico,Lifestyle,0.2765539007092198,,36692.1,2302.0,679936.03,,,30
+2026,YouTube,,disneyjunior,Dis̈̇̃n̈̇̃ë̇̃y J̈̇̃ü̇̃nï̇or̈̇̃,,47.0,,,0.0,,,,,,,0
+2026,YouTube,,AvrilLavigne,Avril Lavigne,,13500000.0,,Music,0.35590888888888883,,45554.5,2493.2,1338819.4,,,10
+2026,YouTube,,MORGENSHTERN,Канал продается!,,457.0,Russia,,0.0,,,,,,,0
+2026,YouTube,,rebeccazamolo1,Rebecca Zamolo,,21600000.0,United States,Entertainment,0.356212037037037,,74889.83,2051.97,6058809.17,,,30
+2026,YouTube,,TommyInnit,TommyInnit,,15000000.0,United Kingdom,Lifestyle,0.15859333333333334,,22991.17,797.83,283417.33,,,30
+2026,YouTube,,Morgz,Morgz,,12600000.0,United Kingdom,Lifestyle,0.011649206349206348,,1351.2,116.6,76208.2,,,30
+2026,YouTube,,TheInfographicsShow,The Infographics Show,,15400000.0,United States,Lifestyle,0.03646714285714286,,4800.87,815.07,223068.03,,,30
+2026,YouTube,,1veritasium,Veritasium,,20500000.0,United States,Knowledge&Info,1.0675694634146342,,207732.67,11119.07,7578946.03,,,30
+2026,YouTube,,hamaarbhojpuri,T-Series Hamaar Bhojpuri,,23800000.0,India,Music,0.03872676470588235,,8855.47,361.5,530696.9,,,30
+2026,YouTube,,TheDodoSite,The Dodo,,18300000.0,United States,Entertainment,0.045314535519125676,,7991.23,301.33,193823.83,,,30
+2026,YouTube,,Panda,HybridPanda,,504000.0,United Kingdom,Tech&Gaming,0.005765873015873016,,27.93,1.13,893.63,,,30
+2026,YouTube,,RaptorGamer,RaptorGamer,,15700000.0,Ecuador,Tech&Gaming,0.011471783439490445,,1706.77,94.3,40044.77,,,30
+2026,YouTube,,CrazyRussianHacker,CrazyRussianHacker,,12000000.0,United States,Tech&Gaming,0.06314833333333333,,7427.13,150.67,574568.9,,,30
+2026,YouTube,,Codiscos,Codiscos,,17000000.0,Colombia,Music,0.0013349411764705882,,220.97,5.97,23790.67,,,30
+2026,YouTube,,hoiitsroi,Alex Wassabi,,11300000.0,United States,Entertainment,0.01252061946902655,,1332.9,81.93,30404.97,,,30
+2026,YouTube,,thinkmusicindia,Think Music India,,22200000.0,India,Music,0.08481094594594596,,18300.4,527.63,1439324.67,,,30
+2026,YouTube,,BanderitaX,BanderitaX,,20500000.0,Saudi Arabia,Tech&Gaming,0.3099273170731707,,60777.33,2757.77,1502076.67,,,30
+2026,YouTube,,Americanvogue,Vogue,,16300000.0,United States,Entertainment,0.11855828220858895,,18775.67,549.33,347407.97,,,30
+2026,YouTube,,luansantanaoficial,Luan Santana,,13400000.0,United States,Music,0.017451492537313432,,2228.2,110.3,92048.27,,,30
+2026,YouTube,,FIFATV,FIFA,,24800000.0,Switzerland,Sports,0.004387620967741936,,993.83,94.3,54643.63,,,30
+2026,YouTube,,Davie504,Davie504,,13800000.0,Italy,Music,0.5699516666666667,,76276.7,2376.63,1759458.93,,,30
+2026,YouTube,,ExpCaseros,ExpCaseros,,11200000.0,Spain,Lifestyle,0.010455357142857143,,1074.0,97.0,65521.0,,,1
+2026,YouTube,,TsMadaan,TsMadaan,,11800000.0,India,Lifestyle,0.002265508474576271,,214.53,52.8,15724.6,,,30
+2026,YouTube,,Mythpat,Mythpat,,17000000.0,India,Tech&Gaming,0.5782266470588235,,86816.38,11482.15,4419231.62,,,13
+2026,YouTube,,ndtv,NDTV,,15700000.0,India,Knowledge&Info,0.0005670700636942676,,85.33,3.7,3653.23,,,30
+2026,YouTube,,DeGoBooM,DeGoBooM,,23700000.0,Chile,Tech&Gaming,0.02157341772151899,,4832.1,280.8,462543.43,,,30
+2026,YouTube,,htbhakti,Sonotek Bhakti,,15800000.0,India,Lifestyle,0.002497278481012658,,353.57,41.0,29189.03,,,30
+2026,YouTube,,MrTimbaVk,Timba Vk,,13700000.0,Spain,Tech&Gaming,0.04702992700729927,,6099.37,343.73,218456.0,,,30
+2026,YouTube,,elrubius,Rubius Z,,14200000.0,Spain,Tech&Gaming,0.8539931690140844,,117674.43,3592.6,2403542.07,,,30
+2026,YouTube,,FelipeViktor,LipaoGamer,,13800000.0,Brazil,Tech&Gaming,0.031460869565217396,,4207.27,134.33,149708.5,,,30
+2026,YouTube,,CaptainSparklez,CaptainSparklez,,11400000.0,United States,Tech&Gaming,0.08902043859649122,,9440.08,708.25,164613.83,,,24
+2026,YouTube,,MBCMASR,MBC مصر,,13600000.0,Egypt,Entertainment,0.001172794117647059,,142.33,17.17,14713.93,,,30
+2026,YouTube,,eltreceok,eltrece,,14500000.0,Argentina,Entertainment,0.0008489655172413793,,108.3,14.8,5238.73,,,30
+2026,YouTube,,MTV2,Wild 'N Out,,15300000.0,United States,Music,0.017452941176470588,,2595.27,75.03,194509.73,,,30
+2026,YouTube,,UnspeakableGaming,UnspeakableReacts,,11600000.0,United States,Entertainment,0.02786775862068966,,3023.53,209.13,239807.37,,,30
+2026,YouTube,,luzugames,luzugames,,11000000.0,Spain,Tech&Gaming,0.0,,,,,,,0
+2026,YouTube,,lokdhuntv,Wave Music Bhakti ,,14000000.0,India,Music,0.0002607142857142857,,33.37,3.13,4436.27,,,30
+2026,YouTube,,gmanews,GMA News,,17900000.0,Philippines,Entertainment,0.0005312849162011174,,81.4,13.7,7448.07,,,30
+2026,YouTube,,VyQwaint,Vy Qwaint,,12900000.0,United States,Entertainment,0.19309093023255816,,21606.83,3301.9,2548480.23,,,30
+2026,YouTube,,KompasTVNews,KOMPASTV,,19900000.0,Indonesia,Lifestyle,0.00023015075376884423,,28.1,17.7,2796.5,,,30
+2026,YouTube,,TastyCompot,Компот,,17300000.0,United Arab Emirates,Tech&Gaming,0.13438109826589595,,21345.5,1902.43,551994.73,,,30
+2026,YouTube,,epicfortnite,Fortnite,,13400000.0,United States,Tech&Gaming,0.0725420895522388,,9384.17,336.47,251700.1,,,30
+2026,YouTube,,Biperysusamigos,Biper y sus Amigos,,15400000.0,United States,Entertainment,0.04499012987012987,,6928.48,0.0,1063867.97,,,30
+2026,YouTube,,crackrockcandy,Maymo,,12100000.0,United States,Lifestyle,0.01668429752066116,,1940.9,77.9,1015923.6,,,20
+2026,YouTube,,FirstWeFeast,First We Feast,,15300000.0,,Entertainment,0.0346237908496732,,5057.87,239.57,207385.23,,,30
+2026,YouTube,,realannoyingorange,Annoying Orange,,13700000.0,United States,Entertainment,0.034964671532846714,,4210.53,579.63,191253.17,,,30
+2026,YouTube,,ElRinconDeGiorgio,El Rincón De Giorgio,,12300000.0,Spain,Tech&Gaming,0.6745734959349593,,80642.92,2329.62,1396707.92,,,13
+2026,YouTube,,ExplosmEntertainment,ExplosmEntertainment,,12900000.0,,Entertainment,0.16073255813953488,,20525.93,208.57,442312.17,,,30
+2026,YouTube,,yogawithadriene,Yoga With Adriene,,13500000.0,United States,Knowledge&Info,0.08076044444444444,,10436.83,465.83,410140.8,,,30
+2026,YouTube,,BBCEarth,BBC Earth,,14400000.0,United Kingdom,Lifestyle,0.015571527777777776,,2121.97,120.33,225975.1,,,30
+2026,YouTube,,YMWayneCarter,Lil Wayne,,14300000.0,United States,Music,0.20949391608391607,,27356.21,2601.42,1584364.0,,,24
+2026,YouTube,,coisadenerd,Coisa de Nerd,,11100000.0,Brazil,Lifestyle,0.4668603603603603,,51033.21,788.29,524776.71,,,14
+2026,YouTube,,TheViralFeverVideos,The Viral Fever,,13100000.0,India,Entertainment,0.005307633587786259,,658.63,36.67,26130.83,,,30
+2026,YouTube,,hawkrecord,Single Track Studio,,13200000.0,India,Music,0.010058712121212121,,1282.17,45.58,193861.96,,,24
+2026,YouTube,,mirandasings08,Miranda Sings,,10400000.0,,Entertainment,0.0,,,,,,,0
+2026,YouTube,,watchcut,Cut,,12300000.0,United States,Entertainment,0.13473959349593495,,15873.8,699.17,506385.07,,,30
+2026,YouTube,,oyabakatousan,せんももあいしーチャンネル,,11200000.0,Japan,Lifestyle,3.928571428571429e-06,,,0.44,98374.4,,,30
+2026,YouTube,,pocoyotv,Pocoyó 🇪🇸 Español - Canal Oficial,,15100000.0,Spain,Entertainment,0.010649006622516556,,1608.0,0.0,377888.47,,,30
+2026,YouTube,,MashaBearUkraine,Маша та Ведмідь,,18300000.0,Ukraine,Entertainment,0.0033897814207650276,,620.33,0.0,130562.83,,,30
+2026,YouTube,,chotoonz,Chotoonz TV - Funny Cartoons ,,11100000.0,United States,Entertainment,0.0005350450450450451,,54.1,5.29,3971.7,,,30
+2026,YouTube,,barbie,Barbie,,13200000.0,United States,Entertainment,0.0009121212121212122,,120.4,0.0,13506.97,,,30
+2026,YouTube,,TygaTygaTV,Tyga,,12000000.0,United States,Music,0.007147083333333333,,820.75,36.9,30311.7,,,20
+2026,YouTube,,comedycentral,Comedy Central,,12500000.0,United States,Entertainment,0.0019213599999999998,,232.07,8.1,17810.83,,,30
+2026,YouTube,,DemolitionRanch,DemolitionRanch,,11700000.0,United States,Lifestyle,0.0,,,,,,,0
+2026,YouTube,,RapGeniusVideo,Genius,,12300000.0,United States,Music,0.06508861788617885,,7683.63,322.27,96103.6,,,30
+2026,YouTube,,WiederDude,WiederDude,,15300000.0,United States,Tech&Gaming,0.02165339869281046,,3207.9,105.07,291212.37,,,30
+2026,YouTube,,CarryisLive,CarryisLive,,12300000.0,India,Tech&Gaming,0.16486747967479676,,20051.3,227.4,409925.87,,,30
+2026,YouTube,,HellomaphieMX,HellomaphieMX,,11100000.0,Mexico,Lifestyle,0.002788288288288288,,296.44,13.06,19545.67,,,18
+2026,YouTube,,Levinho,Levinho,,11800000.0,Sweden,Tech&Gaming,0.029870338983050845,,3187.1,337.6,116262.03,,,30
+2026,YouTube,,jpgameplayfull,JP Plays,,11800000.0,Brazil,Tech&Gaming,0.00508135593220339,,578.9,20.7,228442.43,,,30
+2026,YouTube,,geonews,Geo News,,20800000.0,Pakistan,Lifestyle,0.00033860576923076927,,69.03,1.4,3221.23,,,30
+2026,YouTube,,ToysPlay,ToysPlay,,13400000.0,United States,Lifestyle,0.011920671641791045,,1597.37,,3459101.5,,,30
+2026,YouTube,,programagalofrito,Galo Frito,,10900000.0,Brazil,Entertainment,0.032065596330275226,,3344.96,150.19,37974.54,,,26
+2026,YouTube,,FilmTheorists,The Film Theorists,,13400000.0,United States,Lifestyle,0.1932867910447761,,24978.13,922.3,654318.8,,,30
+2026,YouTube,,videogyan,Videogyan - Nursery Rhymes,,13500000.0,India,Entertainment,0.006330148148148148,,854.57,0.0,189896.17,,,30
+2026,YouTube,,GamesEduUu,Games EduUu,,12600000.0,Brazil,Tech&Gaming,1.0199457936507936,,124943.47,3569.7,1113266.17,,,30
+2026,YouTube,,kidstvindia,Kids TV India Hindi Nursery Rhymes,,20800000.0,India,Music,0.0037822115384615385,,786.7,0.0,83683.53,,,30
+2026,YouTube,,TiempodeSol,Duo Tiempo De Sol,,14800000.0,,Lifestyle,0.005492094594594594,,812.83,0.0,132180.33,,,30
+2026,YouTube,,ComedyShortsGamer,Deji,,12600000.0,,Entertainment,0.20164920634920636,,24192.9,1214.9,638722.37,,,30
+2026,YouTube,,HikakinTV,HikakinTV,,19600000.0,,Lifestyle,0.1726231632653061,,32447.27,1386.87,1993271.73,,,30
+2026,YouTube,,storybots,Netflix Jr.,,25200000.0,,Entertainment,0.003262420634920635,,822.13,0.0,150398.73,,,30
+2026,YouTube,,GoProCamera,GoPro,,11300000.0,United States,Lifestyle,0.03982539823008849,,4352.87,147.4,256945.5,,,30
+2026,YouTube,,Slogomanify,Slogo,,11700000.0,United Kingdom,Tech&Gaming,0.034284871794871795,,3740.6,270.73,99227.0,,,30
+2026,YouTube,,OGGY,OGGY,,13700000.0,,Entertainment,0.007627007299270074,,1044.9,0.0,166763.6,,,30
+2026,YouTube,,rangeldovine,Lucas Rangel,,13000000.0,Brazil,Lifestyle,0.3859274615384615,,49500.7,669.87,1907937.0,,,30
+2026,YouTube,,stampylonghead,stampylonghead,,10900000.0,,Tech&Gaming,0.23946788990825688,,24476.5,1625.5,313347.0,,,2
+2026,YouTube,,Flamingo,Flamingo,,14400000.0,United States,Tech&Gaming,0.47153402777777775,,62810.03,5090.87,1565190.47,,,30
+2026,YouTube,,Vox,Vox,,12700000.0,United States,Knowledge&Info,0.008543543307086614,,1016.93,68.1,43096.07,,,30
+2026,YouTube,,craftingeek,Craftingeek*,,10500000.0,Mexico,Lifestyle,0.012014857142857143,,1248.03,13.53,136137.9,,,30
+2026,YouTube,,francinyehlke,Franciny Ehlke,,12100000.0,Brazil,Lifestyle,0.5972928099173552,,71042.9,1229.53,1577872.63,,,30
+2026,YouTube,,BuzzFeedYellow,As/Is,,10100000.0,United States,Entertainment,0.0,,,,,,,0
+2026,YouTube,,doctruyencotich,Kênh Thiếu Nhi - BHMEDIA,,14700000.0,Vietnam,Music,0.001535578231292517,,225.73,0.0,62490.1,,,30
+2026,YouTube,,ChillStepNation,Chill Nation,,10800000.0,United States,Music,0.004365092592592593,,460.5,10.93,21061.03,,,30
+2026,YouTube,,Acenix,Acenix,,16700000.0,Spain,Tech&Gaming,0.09543173652694611,,15336.2,600.9,813178.97,,,30
+2026,YouTube,,pinkfongko,핑크퐁 (인기 동요・동화),,16400000.0,South Korea,Music,0.006383963414634146,,1046.97,0.0,199212.13,,,30
+2026,YouTube,,SaraBeautyCorner,"SaraBeautyCorner - DIY, Comedy, Makeup, Nail Art",,10600000.0,,Lifestyle,0.04821377358490566,,4986.33,124.33,110787.33,,,3
+2026,YouTube,,WarnerBrosPictures,Warner Bros.,,12800000.0,United States,Entertainment,0.187847421875,,22886.3,1158.17,2391569.1,,,30
+2026,YouTube,,Google,Google,,14100000.0,,Lifestyle,0.006989645390070923,,912.1,73.44,82063.1,,,30
+2026,YouTube,,redbull,Red Bull,,27700000.0,Austria,Sports,0.47604090252707576,,130904.2,959.13,7665041.4,,,30
+2026,YouTube,,CJENMMUSIC,Stone Music Entertainment,,11100000.0,South Korea,Music,0.007995495495495495,,839.7,47.8,11960.07,,,30
+2026,YouTube,,telugufilmnagar,Telugu Filmnagar,,16400000.0,India,Entertainment,0.0003333536585365854,,54.17,0.5,5661.47,,,30
+2026,YouTube,,brancoala,Brancoala,,13700000.0,Brazil,Tech&Gaming,0.08335715328467154,,10573.23,846.7,554828.1,,,30
+2026,YouTube,,soicon295,Magnet World,,11200000.0,United States,Lifestyle,0.0005747321428571429,,61.67,2.7,8427.43,,,30
+2026,YouTube,,AlArabiya,AlArabiya العربية,,19000000.0,United Arab Emirates,Lifestyle,0.0003070526315789474,,49.97,8.37,4215.93,,,30
+2026,YouTube,,MeKcanal,Matheus e Kauan,,11300000.0,Brazil,Music,0.0028265486725663714,,301.07,18.33,20479.23,,,30
+2026,YouTube,,DuDuPopTOY,DuDuPopTOY,,11300000.0,South Korea,Entertainment,0.0,,,,,,,0
+2026,YouTube,,prantoniojunior,Pastor Antônio Júnior,,16000000.0,Brazil,Lifestyle,0.11853562499999999,,16712.03,2253.67,105916.43,,,30
+2026,YouTube,,sbtthenoite,The Noite com Danilo Gentili,,13600000.0,Brazil,Entertainment,0.07711720588235295,,10130.17,357.77,212388.33,,,30
+2026,YouTube,,HISHEdotcom,How It Should Have Ended,,10500000.0,United States,Entertainment,0.26079676190476186,,26382.52,1001.14,566319.66,,,29
+2026,YouTube,,penguinz0,penguinz0,,17900000.0,,Tech&Gaming,0.3862946368715084,,63230.97,5915.77,1521260.23,,,30
+2026,YouTube,,destinws2,SmarterEveryDay,,11800000.0,United States,Tech&Gaming,0.8772838983050847,,93350.83,10168.67,2686602.83,,,6
+2026,YouTube,,lucygerardi43,Luli Pampín,,21300000.0,Spain,Entertainment,0.04424568075117371,,9424.33,0.0,1578109.63,,,30
+2026,YouTube,,cbstvdinsideedition,Inside Edition,,13800000.0,United States,Lifestyle,0.011619782608695653,,1318.93,284.6,104027.3,,,30
+2026,YouTube,,infobellskannada,infobells - Kannada,,17600000.0,India,Entertainment,0.007377443181818183,,1298.43,0.0,243821.53,,,30
+2026,YouTube,,Mrwhosetheboss,Mrwhosetheboss,,22300000.0,United Kingdom,Tech&Gaming,0.666508206278027,,144993.23,3638.1,4913453.93,,,30
+2026,YouTube,,sagahits,SagaHits,,13800000.0,India,Entertainment,0.0008666666666666666,,113.8,5.8,11862.33,,,30
+2026,YouTube,,zeetamil,Zee Tamil,,17700000.0,India,Entertainment,0.004890225988700565,,859.27,6.3,34310.7,,,30
+2026,YouTube,,Wylsacom,Wylsacom,,11500000.0,Russia,Lifestyle,0.07855852173913043,,7891.73,1142.5,339005.13,,,30
+2026,YouTube,,aljazeerachannel,AlJazeera Arabic  قناة الجزيرة,,23000000.0,Qatar,Lifestyle,0.00047378260869565216,,98.4,10.57,4496.73,,,30
+2026,YouTube,,cleanbandit,Clean Bandit,,10800000.0,,Lifestyle,0.066925,,7078.3,149.6,460086.85,,,20
+2026,YouTube,,JessicaJulioeBaby,Laurinha e Helena - Clubinho da Laura,,10800000.0,Brazil,Lifestyle,0.03695064814814815,,3728.4,262.27,328167.77,,,30
+2026,YouTube,,AsapSCIENCE,AsapSCIENCE,,10800000.0,,Lifestyle,0.1077437962962963,,10475.13,1161.2,253548.8,,,30
+2026,YouTube,,DalasReview,Dalas Review,,11000000.0,Spain,Knowledge&Info,0.0812718181818182,,8361.53,578.37,159654.37,,,30
+2026,YouTube,,francoescamilla,Franco Escamilla,,14200000.0,Mexico,Entertainment,0.021462394366197186,,2982.63,65.03,101321.93,,,30
+2026,YouTube,,0214mex,はじめしゃちょー（hajime）,,16300000.0,Japan,Lifestyle,0.09441122699386502,,14895.13,493.9,998503.8,,,30
+2026,YouTube,,TomorrowlandChannel,Tomorrowland,,12000000.0,United Kingdom,Music,0.005240583333333333,,548.4,80.47,15942.3,,,30
+2026,YouTube,,VitalyzdTv,VitalyzdTv,,10100000.0,United States,Entertainment,0.0,,,,,,,0
+2026,YouTube,,atv,hkatv,,28600.0,,Entertainment,0.0,,,,,,,0
+2026,YouTube,,MTV,MTV,,11500000.0,United States,Music,0.06933330434782609,,7918.7,54.63,189815.67,,,30
+2026,YouTube,,ctctv,СТС,,13600000.0,Russia,Entertainment,0.008240882352941176,,1048.73,72.03,173544.43,,,30
+2026,YouTube,,RDCGujarati,RDC Gujarati,,13300000.0,India,Music,0.001050827067669173,,136.33,3.43,8586.8,,,30
+2026,YouTube,,jordanmatter,Jordan Matter,,34900000.0,United States,Entertainment,0.5347591404011461,,173489.77,13141.17,15935025.67,,,30
+2026,YouTube,,whoisjimmy,How Ridiculous,,24000000.0,Australia,Lifestyle,0.42969012500000003,,102124.8,1000.83,9852782.77,,,30
+2026,YouTube,,BestCodComedy,BCC Gaming,,9510000.0,United States,Tech&Gaming,0.0,,,,,,,0
+2026,YouTube,,familyfunpack,Family Fun Pack,,10500000.0,United States,Lifestyle,0.008124380952380952,,797.33,55.73,62939.7,,,30
+2026,YouTube,,makebymarimaria,Mari Maria,,11600000.0,,Lifestyle,0.07174543103448278,,8239.27,83.2,206331.1,,,30
+2026,YouTube,,BERTH-OH,BERTH-OH Short,,941.0,,Lifestyle,14.065887353878853,,128.93,3.43,7538.17,,,30
+2026,YouTube,,NASAtelevision,NASA,,12900000.0,,Lifestyle,0.05409379844961241,,6978.1,,195757.0,,,30
+2026,YouTube,,historychannel,HISTORY,,15200000.0,United States,Knowledge&Info,0.005197368421052631,,734.5,55.5,44700.53,,,30
+2026,YouTube,,Nickelodeon,Nickelodeon,,12700000.0,United States,Entertainment,0.005270866141732283,,669.4,0.0,65327.27,,,30
+2026,YouTube,,WAMIndiaMovies,Wamindia Movies,,15000000.0,India,Entertainment,0.026416466666666666,,3794.6,167.87,487726.13,,,30
+2026,YouTube,,shrutiarjunanand,Shruti Arjun Anand,,10100000.0,India,Lifestyle,0.0,,,,,,,0
+2026,YouTube,,barcroftmedia,truly,,10400000.0,,Lifestyle,0.0035022115384615387,,,364.23,62906.5,,,30
+2026,YouTube,,rathorvideo,Rathore Cassettes,,16100000.0,India,Music,0.0008080745341614906,,125.43,4.67,34143.57,,,30
+2026,YouTube,,buzzfeedblue,BuzzFeed Multiplayer,,9380000.0,United States,Tech&Gaming,0.0,,,,,,,0
+2026,YouTube,,panicopgm,Programa Pânico,,10200000.0,Brazil,Entertainment,0.009441764705882353,,939.63,23.43,36032.1,,,30
+2026,YouTube,,htv2channel,Vie Channel ,,11500000.0,Vietnam,Music,0.002411652173913043,,257.57,19.77,5274.07,,,30
+2026,YouTube,,MBCkpop,MBCkpop,,11400000.0,South Korea,Music,0.0037616666666666666,,409.73,19.1,6897.7,,,30
+2026,YouTube,,TheSyndicateProject,Syndicate,,9540000.0,United Kingdom,Tech&Gaming,0.021822431865828093,,2038.53,43.33,80089.63,,,30
+2026,YouTube,,OneRepublic,OneRepublic,,11200000.0,,Music,0.00935625,,1008.13,39.77,34599.27,,,30
+2026,YouTube,,BBCArabicNews,BBC News عربي,,13000000.0,United Kingdom,Knowledge&Info,0.005171153846153846,,561.97,110.28,37099.83,,,30
+2026,YouTube,,mrplotvideos,Mundo Bita,,14300000.0,Brazil,Entertainment,0.011104405594405595,,1587.93,0.0,260691.23,,,30
+2026,YouTube,,ChennaiExp2013,Red Chillies Entertainment,,14000000.0,India,Entertainment,0.01675092857142857,,2312.2,32.93,89858.87,,,30
+2026,YouTube,,MrGustavoParodias,Gustavo Paródias,,16100000.0,Brazil,Entertainment,0.009260434782608695,,1465.83,25.1,81085.93,,,30
+2026,YouTube,,welovekamikaze,welovekamikaze,,10200000.0,,Music,0.0034215686274509808,,342.0,7.0,26931.0,,,1
+2026,YouTube,,singkingkaraoke,Sing King,,14400000.0,United Kingdom,Music,0.0008305555555555556,,112.37,7.23,6412.87,,,30
+2026,YouTube,,EugenBro,Яблочко,,10200.0,Russia,Lifestyle,0.0,,,,,,,0
+2026,YouTube,,KapilComedyNights,Colors Rishtey,,20900000.0,,Entertainment,0.00018961722488038279,,38.53,1.1,933.77,,,30
+2026,YouTube,,Larva2011ani,Larva TUBA,,10500000.0,South Korea,Music,0.0017816190476190475,,187.07,0.0,18374.13,,,30
+2026,YouTube,,ThePersica,Orkun Işıtmak,,12400000.0,Turkey,Entertainment,0.16197177419354838,,19278.47,806.03,601796.13,,,30
+2026,YouTube,,TeremokTV,Теремок ТВ,,17700000.0,,Entertainment,0.0020282485875706214,,359.0,0.0,105440.93,,,30
+2026,YouTube,,SerbianGamesBL2,Life Hacks & Experiments,,9370000.0,United States,Lifestyle,0.0034906083244397013,,322.8,4.27,84286.57,,,30
+2026,YouTube,,mainaCassette,Haryanvi Maina,,9890000.0,India,Lifestyle,0.00031001011122345796,,29.33,1.33,3791.33,,,30
+2026,YouTube,,mamilosmolengas,MUSSA,,13700000.0,Brazil,Music,0.0926085401459854,,11892.47,794.9,655668.37,,,30
+2026,YouTube,,sadhguru,Sadhguru,,12700000.0,India,Lifestyle,0.04117275590551181,,5133.57,95.37,149021.77,,,30
+2026,YouTube,,luisitorey,luisitorey,,9570000.0,Mexico,Entertainment,0.010440647857889238,,959.1,40.07,27140.83,,,30
+2026,YouTube,,bgfilms,Binging with Babish,,10500000.0,United States,Lifestyle,0.060084476190476195,,6049.4,259.47,237889.83,,,30
+2026,YouTube,,BIBI,あ -ちゃん🇨🇵,,19.0,,,0.0,,,,,,,0
+2026,YouTube,,ZarcortGame,ZarcortGame,,10000000.0,Spain,Music,0.0233737,,2218.0,119.37,53164.9,,,30
+2026,YouTube,,DELRECORDS,DEL Records,,12000000.0,United States,Music,0.10581166666666665,,12565.5,131.9,2403560.1,,,30
+2026,YouTube,,ehbeefamily,The Bee Family,,10300000.0,United States,Lifestyle,0.19232038834951456,,19654.24,154.76,840493.86,,,29
+2026,YouTube,,PicaPicaVEVO,Pica-Pica Oficial,,10800000.0,Spain,Entertainment,0.0036762037037037037,,397.03,0.0,137731.97,,,30
+2026,YouTube,,lincolnvelasquez,Cong TV,,12600000.0,Philippines,Entertainment,1.1745876984126984,,139862.83,8135.22,3795767.61,,,18
+2026,YouTube,,InquisitorMaster,InquisitorMaster,,10100000.0,United States,Tech&Gaming,0.013282178217821782,,1305.83,35.67,35529.07,,,30
+2026,YouTube,,timesmusicindia,Times Music,,17600000.0,India,Music,0.0006291477272727273,,106.9,3.83,8238.63,,,30
+2026,YouTube,,DaBaby,DaBaby,,11300000.0,United States,Music,0.1117221238938053,,12134.8,489.8,526248.2,,,30
+2026,YouTube,,IniTalkShow,Main Hakim Sendiri,,11500000.0,Indonesia,Entertainment,0.045355130434782606,,5198.97,16.87,375108.7,,,30
+2026,YouTube,,NetflixBRA,Netflix Brasil,,15000000.0,Brazil,Entertainment,0.0117356,,1661.97,98.37,27053.43,,,30
+2026,YouTube,,JoeyGraceffa,Joey Graceffa,,9380000.0,United States,Lifestyle,0.04375767590618337,,3798.17,306.3,63729.8,,,30
+2026,YouTube,,aanandaaudio,Anand Audio,,14400000.0,India,Entertainment,0.012564375000000001,,1730.1,79.17,138557.77,,,30
+2026,YouTube,,sonyliv,Sony LIV,,25900000.0,India,Entertainment,0.003920193050193051,,955.1,60.23,37420.6,,,30
+2026,YouTube,,MrMuselk,Muselk,,8820000.0,Australia,Tech&Gaming,0.0,,,,,,,0
+2026,YouTube,,JoshDub,JoshDub,,10100000.0,Australia,Tech&Gaming,0.10748217821782179,,10387.41,468.29,345667.0,,,17
+2026,YouTube,,N1Noobtubers,웃웃TwinsFromRussia,,19300000.0,United States,Entertainment,0.0030891191709844557,,587.43,8.77,92013.73,,,30
+2026,YouTube,,bhaktisongs,Shemaroo Bhakti,,13400000.0,India,Lifestyle,0.0008390298507462686,,100.23,12.2,7356.3,,,30
+2026,YouTube,,POPSVIETNAM,POPS MUSIC,,10400000.0,Vietnam,Music,0.0006725,,68.47,1.47,9612.57,,,30
+2026,YouTube,,CRACKS,Cracks,,6040000.0,Mexico,Sports,0.1145021523178808,,6634.43,281.5,170903.43,,,30
+2026,YouTube,,efdewe,efdewe,,10300000.0,Indonesia,Tech&Gaming,0.00932106796116505,,933.97,26.1,44351.7,,,30
+2026,YouTube,,fozimozi,Fozi Mozi,,10900000.0,Palestine,Music,0.5715214678899082,,62282.37,13.47,12027473.63,,,30
+2026,YouTube,,sonotektv,Sonotek Music,,11300000.0,India,Music,0.9015947787610621,,98530.24,3349.97,12316056.52,,,29
+2026,YouTube,,TeremokSongs,Теремок - Песенки для детей,,14400000.0,Russia,Entertainment,0.001149513888888889,,165.53,0.0,66196.4,,,30
+2026,YouTube,,YFrostA,FROST,,9670000.0,Russia,Lifestyle,0.10998035160289556,,10187.57,447.53,284350.8,,,30
+2026,YouTube,,DreamworksAnimation,Universal Kids,,10600000.0,United States,Entertainment,0.004766698113207547,,505.27,0.0,47819.5,,,30
+2026,YouTube,,RSVDO,rsfriends,,11000000.0,Thailand,Music,0.0,,,,,,,0
+2026,YouTube,,PlaticaPolinesa,PlaticaPolinesia,,9100000.0,,Music,0.0,,,,,,,0
+2026,YouTube,,FoxNewsChannel,Fox News,,15100000.0,United States,Entertainment,0.027202649006622514,,3224.47,883.13,120543.6,,,30
+2026,YouTube,,RoosterTeeth,Rooster Teeth,,8960000.0,United States,Entertainment,0.11501116071428572,,9684.0,621.0,175907.0,,,1
+2026,YouTube,,Rayito,Manuel Diaz,,21.0,Spain,Lifestyle,3.8095238095238098,,0.6,0.2,22.2,,,5
+2026,YouTube,,monsta,Monsta,,19500000.0,Malaysia,Entertainment,0.02006871794871795,,3740.9,172.5,142863.33,,,30
+2026,YouTube,,NFL,NFL,,16300000.0,United States,Lifestyle,0.0034042944785276073,,504.2,50.7,32134.43,,,30
+2026,YouTube,,FilterCopy,FilterCopy,,10700000.0,India,Entertainment,0.013197757009345796,,1346.43,65.73,200087.33,,,30
+2026,YouTube,,chetakvideo,Chetak,,11500000.0,India,Music,0.0006376521739130434,,71.23,2.1,5514.9,,,30
+2026,YouTube,,Denis,Denis Moreno,,2760.0,Venezuela,Tech&Gaming,0.0,,,,,,,0
+2026,YouTube,,cartoonnetworkuk,Cartoon Network UK,,11700000.0,United Kingdom,Entertainment,0.0020162393162393164,,235.9,0.0,14796.17,,,30
+2026,YouTube,,FutParódias,FutParódias,,11200000.0,Brazil,Sports,0.06681964285714284,,7253.07,230.73,141759.43,,,30
+2026,YouTube,,CinemaSins,CinemaSins,,9180000.0,United States,Entertainment,0.019785729847494552,,1690.93,125.4,62856.03,,,30
+2026,YouTube,,CricketICC,ICC,,12900000.0,United Arab Emirates,Sports,0.07401937984496124,,9321.03,227.47,736173.4,,,30
+2026,YouTube,,BRKsEDU,BRKsEDU,,9920000.0,Brazil,Tech&Gaming,0.2258998991935484,,21918.5,490.77,280292.2,,,30
