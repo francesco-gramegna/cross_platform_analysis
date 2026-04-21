@@ -1,0 +1,347 @@
+file,platform,country,raw_topic,count
+tiktok_data_indonesia.csv,tiktok,indonesia,Забавление и музика,16
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى,7
+instagram_data_brazil.csv,instagram,brazil,ورزش فوتبال,6
+youtube_data_norway.csv,youtube,norway,موسيقى,6
+youtube_data_czechia.csv,youtube,czechia,موسیقی,6
+instagram_data_romania.csv,instagram,romania,فن,5
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی موسیقی خواننده,4
+tiktok_data_poland.csv,tiktok,poland,Moda i pribor,4
+tiktok_data_sweden.csv,tiktok,sweden,Skönhet och personlig vård,3
+tiktok_data_belgium.csv,tiktok,belgium,Kunst und Handwerk,3
+tiktok_data_belgium.csv,tiktok,belgium,Romantik und Hochzeit,3
+tiktok_data_indonesia.csv,tiktok,indonesia,Красота и грижа за себе си,3
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی موسیقی,3
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Moda e Acessórios,3
+instagram_data_romania.csv,instagram,romania,تعليم تحسين المهارات,3
+youtube_data_united-kingdom.csv,youtube,united-kingdom,भिडियो गेमिङ,2
+tiktok_data_belgium.csv,tiktok,belgium,Mode und Accessoires,2
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Atores,2
+youtube_data_united-kingdom.csv,youtube,united-kingdom,प्रसिद्धि,2
+tiktok_data_sweden.csv,tiktok,sweden,Romantik och bröllop,2
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Negócios e Finanças,2
+instagram_data_romania.csv,instagram,romania,أخبار,2
+tiktok_data_poland.csv,tiktok,poland,Ljepota i briga za sebe,2
+tiktok_data_poland.csv,tiktok,poland,Predstavljanje proizvoda,2
+instagram_data_romania.csv,instagram,romania,طعام,2
+tiktok_data_sweden.csv,tiktok,sweden,Familj,2
+tiktok_data_sweden.csv,tiktok,sweden,Roligt,2
+tiktok_data_poland.csv,tiktok,poland,Umjetnost i zanati,2
+tiktok_data_poland.csv,tiktok,poland,Obrazovanje,2
+tiktok_data_poland.csv,tiktok,poland,Hrana,2
+tiktok_data_poland.csv,tiktok,poland,Smišno,2
+tiktok_data_poland.csv,tiktok,poland,Umjetnost,2
+tiktok_data_indonesia.csv,tiktok,indonesia,Образование,2
+tiktok_data_indonesia.csv,tiktok,indonesia,Игри,2
+youtube_data_norway.csv,youtube,norway,ألعاب فيديو,2
+youtube_data_finland.csv,youtube,finland,音樂,2
+instagram_data_finland.csv,instagram,finland,Ice Hockey,2
+tiktok_data_indonesia.csv,tiktok,indonesia,Пътувания,2
+youtube_data_czechia.csv,youtube,czechia,مشہور شخصیت موسیقی,2
+youtube_data_czechia.csv,youtube,czechia,ویڈیو گیمنگ,2
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی خواننده موسیقی,2
+instagram_data_brazil.csv,instagram,brazil,تناسب اندام و سلامتی مدلسازی,2
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی,2
+tiktok_data_belgium.csv,tiktok,belgium,Fotografie,1
+tiktok_data_belgium.csv,tiktok,belgium,Lustig,1
+tiktok_data_belgium.csv,tiktok,belgium,Lustig Familie,1
+tiktok_data_belgium.csv,tiktok,belgium,Mode und Accessoires Reisen,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Família Vlogger,1
+instagram_data_brazil.csv,instagram,brazil,هنر سرگرمی و موسیقی موسیقی خواننده,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Muusika Rock Laulja,1
+instagram_data_austria.csv,instagram,austria,Rap,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Pere Meelelahutus ja muusika Lapsevanemlus Muusika,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Näitlejad Muusika,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Toit Ilutooted ja enesehooldus Näitlejad,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Näitlemine ja draama,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Näitlejad,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Romantika ja pulmad Kunst ja käsitöö Korvpall,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Jogos de Vídeo,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Beleza e Cuidados Pessoais Moda e Acessórios,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Beleza e Cuidados Pessoais Moda e Acessórios Educação de Produtos Modelagem,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Celebridade,1
+instagram_data_brazil.csv,instagram,brazil,بازیگری و درام مد و لوازم جانبی مشهور بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مجری تلویزیونی بازیگران موسیقی,1
+instagram_data_brazil.csv,instagram,brazil,بازیگری و درام زندگی بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,خانواده زیبایی و مراقبت از خود سرگرمی و موسیقی مدلسازی,1
+instagram_data_brazil.csv,instagram,brazil,هنر برنامه های تلویزیونی موسیقی بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی موسیقی زندگی خواننده,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بازیگری و درام اتومبیل مجری تلویزیونی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی هنرمند,1
+instagram_data_brazil.csv,instagram,brazil,بازیگری و درام مشهور تجسم,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی موسیقی خواننده ترانه سرا,1
+tiktok_data_belgium.csv,tiktok,belgium,Bildung,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Blogueiro Criadores e Celebridades,1
+instagram_data_brazil.csv,instagram,brazil,هنر مشهور زندگی بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بازاریابی و تبلیغات,1
+instagram_data_brazil.csv,instagram,brazil,مشهور بازیگران مشاهیر طراحی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی زندگی,1
+instagram_data_brazil.csv,instagram,brazil,مد و لوازم جانبی ویدئوبلاگ نویس,1
+instagram_data_brazil.csv,instagram,brazil,ورزش تجارت و امور مالی فوتبال,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مشاهیر فیلم، موسیقی و کتاب حیوانات و خانمانی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مشهور بازیگران مدلسازی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی رقص سلامتی و تناسب اندام موها و زیبایی,1
+instagram_data_brazil.csv,instagram,brazil,زیبایی و مراقبت از خود مشاهیر حیوانات و خانمانی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بازیگران مشاهیر فیلم، موسیقی و کتاب,1
+instagram_data_brazil.csv,instagram,brazil,مد و لوازم جانبی خانواده مدلسازی مشاهیر,1
+instagram_data_brazil.csv,instagram,brazil,مد بازیگران هنر,1
+instagram_data_brazil.csv,instagram,brazil,هنر زندگی بازیگران مشاهیر,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی تجارت و امور مالی مشهور,1
+instagram_data_brazil.csv,instagram,brazil,هنر خواننده بازیگران موسیقی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی تجارت و امور مالی ویدئوبلاگ نویس طنز,1
+instagram_data_brazil.csv,instagram,brazil,آموزش ارتقای مهارت ها مشهور مشاهیر,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بازاریابی و تبلیغات مدلسازی,1
+instagram_data_brazil.csv,instagram,brazil,هنر خواننده زندگی,1
+instagram_data_brazil.csv,instagram,brazil,بسیار خنده دار بازیگران مشاهیر حیوانات و خانمانی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی روزنامه نگاران شخصیت عمومی,1
+instagram_data_brazil.csv,instagram,brazil,مد و لوازم جانبی طنز مشاهیر حیوانات و خانمانی,1
+instagram_data_brazil.csv,instagram,brazil,اتومبیل و سایر خودروها ورزش مرور اینترنتی بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی موسیقی خواننده مشاهیر,1
+instagram_data_brazil.csv,instagram,brazil,بسیار خنده دار,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی مجری تلویزیونی برنامه های تلویزیونی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی خواننده,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,سیاست,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی ترانه سرا,1
+instagram_data_brazil.csv,instagram,brazil,خانواده سرگرمی و موسیقی مشهور مدلسازی,1
+instagram_data_hong-kong.csv,instagram,hong-kong,Shopping,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی خواننده مشاهیر سلامتی و تناسب اندام,1
+instagram_data_brazil.csv,instagram,brazil,بازیگری و درام مشهور بازیگران سلامتی و تناسب اندام,1
+instagram_data_brazil.csv,instagram,brazil,بازیگران مشاهیر مد موها و زیبایی,1
+instagram_data_brazil.csv,instagram,brazil,بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مد و لوازم جانبی مشهور موسیقی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مجری تلویزیونی,1
+instagram_data_brazil.csv,instagram,brazil,بازیگری و درام مشهور موسیقی طنز,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مد و لوازم جانبی خواننده بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,ورزش,1
+instagram_data_brazil.csv,instagram,brazil,آموزش مالیات,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بازی های ویدئویی بازاریابی و تبلیغات بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی ویدئوبلاگ نویس,1
+youtube_data_czechia.csv,youtube,czechia,مشہور شخصیت پالتو جانوروں,1
+instagram_data_brazil.csv,instagram,brazil,تناسب اندام و سلامتی سرگرمی و موسیقی مدلسازی,1
+instagram_data_brazil.csv,instagram,brazil,مد و لوازم جانبی زیبایی و مراقبت از خود بازاریابی و تبلیغات زندگی,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Анимация и косплей,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Забавление и музика Новини,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Новини,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Спорт,1
+youtube_data_czechia.csv,youtube,czechia,مارکیٹنگ اور اشتہار موسیقی,1
+youtube_data_czechia.csv,youtube,czechia,فٹنس خبریں,1
+youtube_data_czechia.csv,youtube,czechia,مشہور شخصیت,1
+youtube_data_czechia.csv,youtube,czechia,موسیقی مشہور شخصیت,1
+youtube_data_czechia.csv,youtube,czechia,سفر,1
+youtube_data_egypt.csv,youtube,egypt,Chakula na Vinywaji,1
+youtube_data_egypt.csv,youtube,egypt,Vitabu,1
+youtube_data_egypt.csv,youtube,egypt,Masoko na Utangazaji,1
+youtube_data_egypt.csv,youtube,egypt,Muziki,1
+youtube_data_finland.csv,youtube,finland,電子遊戲,1
+youtube_data_finland.csv,youtube,finland,藝術,1
+youtube_data_finland.csv,youtube,finland,健身,1
+instagram_data_kuwait.csv,instagram,kuwait,Guns,1
+youtube_data_mexico.csv,youtube,mexico,Careers,1
+youtube_data_morocco.csv,youtube,morocco,இசை,1
+youtube_data_morocco.csv,youtube,morocco,Careers கொள்முதல்,1
+youtube_data_morocco.csv,youtube,morocco,இசை பிரபலங்கள்,1
+youtube_data_norway.csv,youtube,norway,مشهور,1
+instagram_data_paraguay.csv,instagram,paraguay,Shopping,1
+tiktok_data_paraguay.csv,tiktok,paraguay,שחקנות ודרמה,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Забавление и музика Careers,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Храна,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Актьорство и драма Забавление и музика,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Забавно,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Автомобили и превозни средства,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Мода и аксесоари,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Продуктови представяния,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Образование Фитнес и здраве,1
+instagram_data_brazil.csv,instagram,brazil,هنر بازیگری و درام مد و لوازم جانبی سرگرمی و موسیقی,1
+instagram_data_brazil.csv,instagram,brazil,بازیگری و درام موسیقی خواننده,1
+instagram_data_brazil.csv,instagram,brazil,هنر زیبایی و مراقبت از خود مد و لوازم جانبی هنرهای تجربی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی عشق و ازدواج خواننده,1
+tiktok_data_poland.csv,tiktok,poland,Kućni ljubimci,1
+tiktok_data_poland.csv,tiktok,poland,Moda i pribor Uradi sam i savjeti za život,1
+tiktok_data_poland.csv,tiktok,poland,Priroda Životinje Fotografija,1
+tiktok_data_poland.csv,tiktok,poland,Obrazovanje Usavršavanje,1
+tiktok_data_poland.csv,tiktok,poland,Moda i pribor Dom i vrt,1
+tiktok_data_poland.csv,tiktok,poland,Životinje Smišno,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Образование Повишаване на квалификацията,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Бизнес и финанси Храни и напитки,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Образование Бизнес и финанси,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Забавление и музика Образование,1
+tiktok_data_indonesia.csv,tiktok,indonesia,Актьорство и драма Знаменитост,1
+instagram_data_italy.csv,instagram,italy,Quotes,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى الأزياء والإكسسوارات الأعمال والتمويل تمثيل,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى التسويق والإعلان موسيقى,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات الترفيه والموسيقى التسويق والإعلان فنان,1
+instagram_data_romania.csv,instagram,romania,التمثيل والدراما الأزياء والإكسسوارات تمثيل,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مشهور خواننده بازیگران,1
+instagram_data_brazil.csv,instagram,brazil,موسیقی خواننده راک,1
+instagram_data_brazil.csv,instagram,brazil,مد و لوازم جانبی مدلسازی مشاهیر طنز,1
+instagram_data_brazil.csv,instagram,brazil,فوتبال,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی زندگی و جامعه فوتبال,1
+instagram_data_brazil.csv,instagram,brazil,مشهور بازیگران مشاهیر طنز,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی باند مشاهیر حیوانات و خانمانی,1
+instagram_data_brazil.csv,instagram,brazil,زیبایی و مراقبت از خود تجارت و امور مالی موسیقی زندگی,1
+instagram_data_brazil.csv,instagram,brazil,زندگی و جامعه مدلسازی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی مشهور بازیگران کمدی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بسیار خنده دار مشهور کمدی,1
+instagram_data_brazil.csv,instagram,brazil,سرگرمی و موسیقی بازیگران هنرمند,1
+instagram_data_romania.csv,instagram,romania,اللياقة البدنية والصحة,1
+instagram_data_romania.csv,instagram,romania,فن ممثلين,1
+instagram_data_romania.csv,instagram,romania,فن موسيقى فنان,1
+instagram_data_romania.csv,instagram,romania,تعليم أمهات,1
+instagram_data_romania.csv,instagram,romania,الفنون والحرف اليدوية الترفيه والموسيقى ممثلين,1
+instagram_data_romania.csv,instagram,romania,سفر,1
+instagram_data_romania.csv,instagram,romania,التمثيل والدراما طعام مشهور أمهات,1
+instagram_data_romania.csv,instagram,romania,تعليم الحياة والمجتمع,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات,1
+instagram_data_romania.csv,instagram,romania,تعليم السيارات ممثلين,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات الفنون والحرف اليدوية الترفيه والموسيقى تمثيل,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات الترفيه والموسيقى مشاهير,1
+instagram_data_romania.csv,instagram,romania,الأعمال والتمويل التمويل الشخصي,1
+instagram_data_romania.csv,instagram,romania,رياضة تنس تمثيل,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى الأسرة موسيقى,1
+instagram_data_romania.csv,instagram,romania,موسيقى,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى الأسرة الطعام والشراب,1
+instagram_data_romania.csv,instagram,romania,السيارات,1
+instagram_data_romania.csv,instagram,romania,تمويل مشهور كرة قدم مشاهير,1
+instagram_data_romania.csv,instagram,romania,الفنون والحرف اليدوية موسيقى مغني تمثيل,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى الفنون والحرف اليدوية ممثلين تمثيل,1
+instagram_data_romania.csv,instagram,romania,فن جمال,1
+instagram_data_romania.csv,instagram,romania,التمثيل والدراما الأسرة تعليم مشهور,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات الفنون والحرف اليدوية الترفيه والموسيقى الأعمال والتمويل,1
+instagram_data_romania.csv,instagram,romania,تعليم تحسين المهارات تمثيل مشاهير,1
+instagram_data_romania.csv,instagram,romania,التمثيل والدراما موسيقى مشهور ممثلين,1
+instagram_data_romania.csv,instagram,romania,أمهات,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى الأزياء والإكسسوارات موسيقى,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات تربية الأطفال تمثيل,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى موسيقى منتجون ترفيه,1
+instagram_data_romania.csv,instagram,romania,تعليم تحسين المهارات نمط الحياة,1
+instagram_data_romania.csv,instagram,romania,الفنون والحرف اليدوية الأزياء والإكسسوارات موسيقى تمثيل,1
+instagram_data_romania.csv,instagram,romania,التمثيل والدراما تعليم مشهور التسويق والإعلان,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى رومانسية وزفاف,1
+instagram_data_romania.csv,instagram,romania,الأسرة تمثيل,1
+instagram_data_romania.csv,instagram,romania,مضحك تعليم ممثلين نمط الحياة,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى مضحك التسويق والإعلان ممثلين,1
+instagram_data_romania.csv,instagram,romania,صحافيين,1
+instagram_data_romania.csv,instagram,romania,جمال,1
+instagram_data_romania.csv,instagram,romania,رياضة مغني موسيقى,1
+instagram_data_romania.csv,instagram,romania,الفنون والحرف اليدوية,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى Musicians موسيقى,1
+instagram_data_romania.csv,instagram,romania,التمثيل والدراما الترفيه والموسيقى مشهور,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى التسويق والإعلان,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات نمط الحياة,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى ممثلين,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى رقص مخرج رقص,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى تحسين المهارات مشهور,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات الفنون والحرف اليدوية عرض المنتج,1
+instagram_data_romania.csv,instagram,romania,تمثيل,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى الألعاب ألعاب فيديو,1
+youtube_data_romania.csv,youtube,romania,Shopping,1
+instagram_data_russia.csv,instagram,russia,Video Blogger,1
+youtube_data_saudi-arabia.csv,youtube,saudi-arabia,Careers,1
+instagram_data_singapore.csv,instagram,singapore,Careers,1
+instagram_data_romania.csv,instagram,romania,التمثيل والدراما مشهور,1
+instagram_data_romania.csv,instagram,romania,الأعمال والتمويل,1
+instagram_data_romania.csv,instagram,romania,السيارات والمركبات,1
+instagram_data_romania.csv,instagram,romania,أزياء,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات التمثيل والدراما مشهور ممثلين,1
+instagram_data_romania.csv,instagram,romania,الجمال والعناية الذاتية الأعمال والتمويل تمثيل مشاهير,1
+instagram_data_romania.csv,instagram,romania,مشهور,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى مغني موسيقى تأليف الأغاني,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى مشهور ممثلين,1
+youtube_data_south-korea.csv,youtube,south-korea,Careers,1
+tiktok_data_sweden.csv,tiktok,sweden,Mode och accessoarer,1
+tiktok_data_sweden.csv,tiktok,sweden,Datorspel,1
+tiktok_data_sweden.csv,tiktok,sweden,Djur Datorspel,1
+tiktok_data_sweden.csv,tiktok,sweden,Konst och hantverk Hem och trädgård,1
+tiktok_data_sweden.csv,tiktok,sweden,Skönhet och personlig vård Mode och accessoarer,1
+tiktok_data_sweden.csv,tiktok,sweden,Skönhet,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى طعام موسيقى تمثيل,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات عرض المنتج,1
+instagram_data_romania.csv,instagram,romania,الأزياء والإكسسوارات تربية الأطفال أمهات فنان,1
+instagram_data_romania.csv,instagram,romania,فن موسيقى,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى مضحك موسيقى,1
+instagram_data_romania.csv,instagram,romania,الأسرة تدريب تدريب,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى الأزياء والإكسسوارات,1
+instagram_data_romania.csv,instagram,romania,الترفيه والموسيقى التمثيل والدراما الأزياء والإكسسوارات مشهور,1
+instagram_data_romania.csv,instagram,romania,فن الترفيه والموسيقى موسيقى تمثيل,1
+tiktok_data_sweden.csv,tiktok,sweden,Mode och accessoarer Skönhet och personlig vård,1
+tiktok_data_sweden.csv,tiktok,sweden,Natur,1
+tiktok_data_sweden.csv,tiktok,sweden,Resor,1
+tiktok_data_sweden.csv,tiktok,sweden,Fotografering,1
+youtube_data_switzerland.csv,youtube,switzerland,Careers,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Beleza e Cuidados Pessoais Blogueiro Criadores e Celebridades,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Educação Família Modelagem,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Artes e Artesanato Cantor,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Moda e Acessórios Celebridade Atores,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Automóveis e Veículos Empreendedor Negócios,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Política Fundador Empreendedor,1
+youtube_data_slovakia.csv,youtube,slovakia,Automobile Éducation,1
+youtube_data_slovakia.csv,youtube,slovakia,Musique,1
+youtube_data_slovakia.csv,youtube,slovakia,Jeux Vidéo,1
+youtube_data_slovakia.csv,youtube,slovakia,Photographie,1
+instagram_data_south-korea.csv,instagram,south-korea,Movies,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Arte,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Automóveis e Veículos Negócios e Finanças Estilo Estilo de Vida,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Arte Cantor,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Beleza e Cuidados Pessoais Viagem Negócios e Finanças Celebridades,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Crianças,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Viagem Educação Aperfeiçoamento de Habilidades Modelagem,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Beleza e Cuidados Pessoais Moda e Acessórios Negócios e Finanças,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Viagem Comida Comida e Bebida,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Negócios e Finanças Finanças Empreendedor Modelagem,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Música Automotivo Modelagem Carros & Motos,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Artes e Artesanato,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Moda e Acessórios Educação,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Moda e Acessórios Negócios e Finanças Estilo de Vida Celebridades,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Negócios e Finanças Música Finanças,1
+tiktok_data_sweden.csv,tiktok,sweden,Husdjur,1
+tiktok_data_sweden.csv,tiktok,sweden,Utbildning Uppgradering av färdigheter,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Viagem,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Moda e Acessórios Estilo de Vida Estilo Cabelo & Beleza,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Família Comida Estilo de Vida,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Näitlejad Näitleja,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Vida e Sociedade Política,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Viagem Fotografia Celebridade Natureza & Ar Livre,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Viagem Estilo de Vida,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Moda e Acessórios Fotografia Educação de Produtos Aperfeiçoamento de Habilidades,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Esportes Eventos Futebol,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Beleza e Cuidados Pessoais Negócios e Finanças Atores Modelagem,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Modelagem Moda,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Automóveis e Veículos Automotivo Negócios e Finanças Casa e Jardim,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Viagem Celebridade Eventos Retratos,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Política,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Beleza e Cuidados Pessoais Estilo,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Livros Estilo de Vida,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Elustiil,1
+tiktok_data_belgium.csv,tiktok,belgium,Essen und Trinken Mode,1
+tiktok_data_belgium.csv,tiktok,belgium,Reisen,1
+tiktok_data_belgium.csv,tiktok,belgium,Tiere Haustiere,1
+tiktok_data_belgium.csv,tiktok,belgium,Schönheit und Selbstpflege,1
+tiktok_data_belgium.csv,tiktok,belgium,Prominenter,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Kuulsus Ajakirjanikud,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Muusika Modellindus Laulja,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Lapsevanemlus Laulja,1
+youtube_data_united-kingdom.csv,youtube,united-kingdom,Música,1
+youtube_data_united-kingdom.csv,youtube,united-kingdom,Celebridad,1
+youtube_data_united-kingdom.csv,youtube,united-kingdom,सङ्गीत,1
+youtube_data_united-kingdom.csv,youtube,united-kingdom,यात्रा,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Jalgpall,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Estilo de Vida,1
+instagram_data_united-arab-emirates.csv,instagram,united-arab-emirates,Música Modelagem Cantor,1
+instagram_data_brazil.csv,instagram,brazil,زیبایی و مراقبت از خود استایلینگ هنرمند,1
+instagram_data_brazil.csv,instagram,brazil,مد مدلسازی,1
+instagram_data_brazil.csv,instagram,brazil,طنز,1
+instagram_data_brazil.csv,instagram,brazil,هنر بازیگران,1
+tiktok_data_belgium.csv,tiktok,belgium,Videospiel,1
+instagram_data_brazil.csv,instagram,brazil,ورزش فوتبال ورزشکار,1
+instagram_data_brazil.csv,instagram,brazil,ورزش اتومبیل فوتبال,1
+instagram_data_brazil.csv,instagram,brazil,موسیقی خواننده ترانه سرا موسیقی دان,1
+youtube_data_united-kingdom.csv,youtube,united-kingdom,समाचारहरू,1
+instagram_data_afghanistan.csv,instagram,afghanistan,Shopping,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Muusika,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Lõbus Elu ja ühiskond Kuulsus,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Modellindus,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Romantika ja pulmad Lapsevanemlus Telejuht,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Pere Kodu ja aed Kuulsus,1
+instagram_data_united-kingdom.csv,instagram,united-kingdom,Meelelahutus ja muusika Lõbus Elustiil Kuulsused,1

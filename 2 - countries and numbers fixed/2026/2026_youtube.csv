@@ -1,0 +1,999 @@
+handle_youtube,exists,name_youtube,followers,avg_likes,avg_comments,avg_views,category,number_videos_last_year,processed_at_unix,status,error,category_unified,category_status,_platform,_year,audience_country
+@tseries,1,T-Series,311000000.0,11219.77,309.3,593456.13,Entertainment,30,1775050592,ok,,Entertainment,MAPPED,youtube,2026,India
+@checkgate,1,Cocomelon - Nursery Rhymes,200000000.0,10525.2,0.0,2354663.77,Film,30,1775050593,ok,,Entertainment,MAPPED,youtube,2026,United States
+@setindia,1,SET India,189000000.0,50.87,2.57,7726.93,Music of Asia,30,1775050595,ok,,Music,MAPPED,youtube,2026,India
+@PewDiePie,1,PewDiePie,110000000.0,185737.41,9231.59,3174221.5,Lifestyle (sociology),22,1775050592,ok,,Lifestyle,MAPPED,youtube,2026,Japan
+@MrBeast6000,1,MrBeast,474000000.0,2602490.5,51044.33,198598032.8,Film,30,1775050593,ok,,Entertainment,MAPPED,youtube,2026,United States
+@✿ Kids Diana Show,0,,,,,,,0,1775050592,error,Could not resolve handle or username @✿ Kids Diana Show,,,youtube,2026,
+@Like Nastya,0,,,,,,,0,1775050592,error,Could not resolve handle or username @Like Nastya,,,youtube,2026,
+@WWEFanNation,1,WWE,112000000.0,4629.27,125.93,193300.97,Sport,30,1775050593,ok,,Sports,MAPPED,youtube,2026,
+@zeemusiccompany,1,Zee Music Company,122000000.0,935.07,20.0,73270.1,Pop music,30,1775050594,ok,,Music,MAPPED,youtube,2026,India
+@Vlad and Niki,0,,,,,,,0,1775050592,error,Could not resolve handle or username @Vlad and Niki,,,youtube,2026,
+@5-Minute Crafts,0,,,,,,,0,1775050593,error,Could not resolve handle or username @5-Minute Crafts,,,youtube,2026,
+@kidrauhl,1,Justin Bieber,77200000.0,51849.53,2541.4,5363515.5,Soul music,30,1775050594,ok,,Music,MAPPED,youtube,2026,Canada
+@GoldminesTelefilms,1,Goldmines,109000000.0,530.03,7.1,56669.0,Film,30,1775050594,ok,,Entertainment,MAPPED,youtube,2026,India
+@CanalKondZilla,1,Canal KondZilla,68100000.0,245.6,9.17,12594.73,Electronic music,30,1775050594,ok,,Music,MAPPED,youtube,2026,Brazil
+@BANGTANTV,1,BANGTANTV,83400000.0,280325.43,11939.17,1752352.13,Music of Asia,30,1775050594,ok,,Music,MAPPED,youtube,2026,
+@sabtv,1,Sony SAB,105000000.0,356.5,8.73,22970.53,Entertainment,30,1775050597,ok,,Entertainment,MAPPED,youtube,2026,India
+@ibighit,1,HYBE LABELS,80500000.0,374933.17,45396.13,4652750.5,Pop music,30,1775050594,ok,,Music,MAPPED,youtube,2026,South Korea
+@zeetv,1,Zee TV,97500000.0,15.1,0.3,742.23,Film,30,1775050596,ok,,Entertainment,MAPPED,youtube,2026,India
+@filmigaane,1,Shemaroo Filmi Gaane,74400000.0,280.13,8.87,29275.43,Film,30,1775050596,ok,,Entertainment,MAPPED,youtube,2026,India
+@corycotton,1,Dude Perfect,61800000.0,72589.53,1517.0,5510589.63,Lifestyle (sociology),30,1775050595,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@SmartBooksMedia,1,Baby Shark - Pinkfong Kids’ Songs & Stories,84400000.0,2516.23,0.0,768784.4,Music,30,1775050595,ok,,Music,MAPPED,youtube,2026,United States
+@ChuChu TV Nursery Rhymes & Kids Songs,0,,,,,,,0,1775050595,error,Could not resolve handle or username @ChuChu TV Nursery Rhymes & Kids Songs,,,youtube,2026,
+@Marshmello,1,Marshmello,58400000.0,7644.63,306.43,354127.77,Hip hop music,30,1775050595,ok,,Music,MAPPED,youtube,2026,United States
+@BHOJPURIWAVE,1,Wave Music,69800000.0,810.43,38.1,215119.87,Music of Asia,30,1775050598,ok,,Music,MAPPED,youtube,2026,India
+@colorstv,1,Colors TV,82000000.0,1.37,0.03,52.1,Film,30,1775050598,ok,,Entertainment,MAPPED,youtube,2026,India
+@aajtaktv,1,Aaj Tak,74900000.0,122.63,2.43,19140.67,Society,30,1775050596,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@sonymusicindiaSME,1,Sony Music India,70500000.0,16090.43,2341.33,287780.87,Pop music,30,1775050598,ok,,Music,MAPPED,youtube,2026,India
+@tipsmusic,1,Tips Official,81000000.0,1307.13,19.13,217771.3,Film,30,1775050598,ok,,Entertainment,MAPPED,youtube,2026,India
+@ReinoMariaElenaWalsh,1,El Reino Infantil,71000000.0,2184.53,0.0,573820.13,Film,30,1775050597,ok,,Entertainment,MAPPED,youtube,2026,Argentina
+@LooLooKids,1,LooLoo Kids - Nursery Rhymes and Children's Songs,61900000.0,6966.87,0.0,4918082.37,Entertainment,30,1775050597,ok,,Entertainment,MAPPED,youtube,2026,United States
+@tseriesbhakti,1,T-Series Bhakti Sagar,81800000.0,475.53,37.23,33430.7,Religion,30,1775050599,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@Badabun,0,,,,,,,0,1775050597,error,Could not resolve handle or username @Badabun,,,youtube,2026,
+@JuegaGerman,1,JuegaGerman,55100000.0,129910.53,2799.33,3691241.5,Role-playing video game,30,1775050598,ok,,Tech&Gaming,MAPPED,youtube,2026,Chile
+@yrf,1,YRF,71600000.0,3681.53,29.27,250700.9,Music,30,1775050599,ok,,Music,MAPPED,youtube,2026,India
+@Billie Eilish,0,,,,,,,0,1775050598,error,Could not resolve handle or username @Billie Eilish,,,youtube,2026,
+@felipeneto,1,Felipe Neto,47800000.0,18524.03,376.37,225167.27,Film,30,1775050599,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@whinderssonnunes,1,whinderssonnunes,44600000.0,2362.03,30.47,49852.27,Film,30,1775050599,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@BRIGHT SIDE,0,,,,,,,0,1775050598,error,Could not resolve handle or username @BRIGHT SIDE,,,youtube,2026,
+@KatyPerryMusic,1,Katy Perry,46800000.0,14348.23,1430.87,487573.13,Entertainment,30,1775050599,ok,,Entertainment,MAPPED,youtube,2026,United States
+@vcsabiavideos,1,Você Sabia?,47100000.0,24824.67,565.6,533484.93,Entertainment,30,1775050599,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@infobellshindirhymes,1,Infobells - Hindi,72200000.0,8966.63,0.0,1125740.9,Music of Asia,30,1775050599,ok,,Music,MAPPED,youtube,2026,India
+@DjWalkzz,1,Alan Walker,47400000.0,6218.8,288.7,178671.5,Electronic music,30,1775050600,ok,,Music,MAPPED,youtube,2026,Norway
+@sonymusicindiaVEVO,1,SonyMusicIndiaVEVO,59700000.0,5348.43,71.4,679190.6,Music of Asia,30,1775050600,ok,,Music,MAPPED,youtube,2026,
+@Like Nastya Show,0,,,,,,,0,1775050599,error,Could not resolve handle or username @Like Nastya Show,,,youtube,2026,
+@speedrecordss,1,Speed Records,48300000.0,708.27,13.13,83642.9,Pop music,30,1775050600,ok,,Music,MAPPED,youtube,2026,India
+@A4,1,Ari Power,18.0,,,,,0,1775050600,ok,,,,youtube,2026,
+@ABSCBNOnline,1,ABS-CBN Entertainment,54700000.0,7.83,0.4,411.73,Entertainment,30,1775050601,ok,,Entertainment,MAPPED,youtube,2026,Philippines
+@getmovies,1,Get Movies,57000000.0,585.17,0.0,113650.93,Entertainment,30,1775050600,ok,,Entertainment,MAPPED,youtube,2026,United Arab Emirates
+@LuisitoComunicaa,1,Luisito Comunica,45700000.0,132346.23,3571.4,9864385.57,Tourism,30,1775050601,ok,,Lifestyle,MAPPED,youtube,2026,Mexico
+@LittleBabyBum,1,Little Baby Bum - Nursery Rhymes & Kids Songs,41700000.0,705.7,0.0,168273.53,Entertainment,30,1775050600,ok,,Entertainment,MAPPED,youtube,2026,United States
+@TheEllenShow,1,TheEllenShow,38000000.0,272.83,,20577.3,Television program,30,1775050601,ok,,Entertainment,MAPPED,youtube,2026,United States
+@MashaMedvedTV,1,Маша и Медведь,59900000.0,9456.97,,2109975.93,Television program,30,1775050601,ok,,Entertainment,MAPPED,youtube,2026,Russia
+@gr6explode,1,GR6 EXPLODE,42900000.0,6956.23,160.73,498155.07,Pop music,30,1775050602,ok,,Music,MAPPED,youtube,2026,Brazil
+@luccasneto,1,LUCCAS NETO,53400000.0,4378.43,96.13,311298.67,Entertainment,30,1775050601,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@venus,1,Ishtar Music,53000000.0,970.17,8.47,61201.5,Film,30,1775050603,ok,,Entertainment,MAPPED,youtube,2026,India
+@Kimberly Loaiza,0,,,,,,,0,1775050601,error,Could not resolve handle or username @Kimberly Loaiza,,,youtube,2026,
+@ShemarooEnt,1,Shemaroo,61500000.0,191.53,6.13,26869.4,Film,30,1775050603,ok,,Entertainment,MAPPED,youtube,2026,India
+@DaddyYankeeOFFTV,1,Daddy Yankee,41300000.0,90981.31,4937.62,8929736.31,Lifestyle (sociology),16,1775050602,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Voot Kids,0,,,,,,,0,1775050601,error,Could not resolve handle or username @Voot Kids,,,youtube,2026,
+@WorkpointOfficial,1,WorkpointOfficial,43600000.0,34.87,1.73,1483.0,Lifestyle (sociology),30,1775050604,ok,,Lifestyle,MAPPED,youtube,2026,Thailand
+@Toys and Colors,0,,,,,,,0,1775050602,error,Could not resolve handle or username @Toys and Colors,,,youtube,2026,
+@shfa,0,,,,,,,0,1775050602,error,Could not resolve handle or username @shfa,,,youtube,2026,
+@shfa2 - شفا,0,,,,,,,0,1775050602,error,Could not resolve handle or username @shfa2 - شفا,,,youtube,2026,
+@SuperSimpleSongs,1,Super Simple Songs - Kids Songs,46100000.0,3567.9,0.0,5848172.03,Film,30,1775050603,ok,,Entertainment,MAPPED,youtube,2026,Canada
+@Jkk Entertainment,0,,,,,,,0,1775050602,error,Could not resolve handle or username @Jkk Entertainment,,,youtube,2026,
+@JbalvinTube,1,J Balvin,35200000.0,7020.83,255.07,518257.0,Hip hop music,30,1775050603,ok,,Music,MAPPED,youtube,2026,Colombia
+@gmmonetv,1,ช่อง one31,44500000.0,47.33,2.23,1302.8,Film,30,1775050605,ok,,Entertainment,MAPPED,youtube,2026,Thailand
+@vegetta777,1,VEGETTA777,34700000.0,14879.7,196.77,233186.97,Action game,30,1775050604,ok,,Tech&Gaming,MAPPED,youtube,2026,
+@Masha and The Bear,0,,,,,,,0,1775050603,error,Could not resolve handle or username @Masha and The Bear,,,youtube,2026,
+@YouTube,1,YouTube,45000000.0,2977.1,207.67,264937.14,Entertainment,30,1775050604,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Goldmines Gaane Sune Ansune,0,,,,,,,0,1775050603,error,Could not resolve handle or username @Goldmines Gaane Sune Ansune,,,youtube,2026,
+@markiplierGAME,1,Markiplier,38500000.0,77970.7,3685.8,1726194.1,Action game,30,1775050604,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Like Nastya ESP,0,,,,,,,0,1775050603,error,Could not resolve handle or username @Like Nastya ESP,,,youtube,2026,
+@Ryan's World,0,,,,,,,0,1775050604,error,Could not resolve handle or username @Ryan's World,,,youtube,2026,
+@abpnewstv,1,ABP NEWS,50400000.0,22.33,0.17,2334.63,Society,30,1775050606,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@NoCopyrightSounds,1,NoCopyrightSounds,34300000.0,3734.73,361.47,152900.27,Electronic music,30,1775050604,ok,,Music,MAPPED,youtube,2026,United Kingdom
+@Desi Music Factory,0,,,,,,,0,1775050604,error,Could not resolve handle or username @Desi Music Factory,,,youtube,2026,
+@Geet MP3,0,,,,,,,0,1775050604,error,Could not resolve handle or username @Geet MP3,,,youtube,2026,
+@Total Gaming,0,,,,,,,0,1775050605,error,Could not resolve handle or username @Total Gaming,,,youtube,2026,
+@Maria Clara & JP,0,,,,,,,0,1775050604,error,Could not resolve handle or username @Maria Clara & JP,,,youtube,2026,
+@UltraHindi,1,Ultra Bollywood,46900000.0,1572.77,28.37,277394.07,Entertainment,30,1775050605,ok,,Entertainment,MAPPED,youtube,2026,India
+@tseriesapnapunjab,1,T-Series Apna Punjab,40900000.0,393.1,13.0,17064.87,Music of Asia,30,1775050607,ok,,Music,MAPPED,youtube,2026,India
+@SSSniperWolf,1,SSSniperWolf,35000000.0,9825.2,720.77,394672.23,Film,30,1775050606,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Mikecrack,1,Mikecrack,58200000.0,38048.6,2177.17,1577360.97,Action game,30,1775050606,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@GENIAL,0,,,,,,,0,1775050605,error,Could not resolve handle or username @GENIAL,,,youtube,2026,
+@KHANDESHI MOVIES,0,,,,,,,0,1775050605,error,Could not resolve handle or username @KHANDESHI MOVIES,,,youtube,2026,
+@tv3official,1,Ch3Thailand,36700000.0,213.57,5.07,15580.8,Film,30,1775050610,ok,,Entertainment,MAPPED,youtube,2026,Thailand
+@Luis Fonsi,0,,,,,,,0,1775050606,error,Could not resolve handle or username @Luis Fonsi,,,youtube,2026,
+@sonypalindia,1,Sony PAL,47100000.0,50.07,1.47,482176.77,Humour,30,1775050606,ok,,Entertainment,MAPPED,youtube,2026,
+@AllTrapNation,1,Trap Nation,30200000.0,842.17,32.13,34277.9,Electronic music,30,1775050607,ok,,Music,MAPPED,youtube,2026,United States
+@IndiaTV,1,IndiaTV,50400000.0,50.93,1.27,1931.27,Politics,30,1775050607,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@cancionesdelagranja,1,La Granja de Zenón,45500000.0,3515.33,0.0,624775.23,Music,30,1775050607,ok,,Music,MAPPED,youtube,2026,Argentina
+@erosentertainment,1,Eros Universe,35700000.0,73.63,2.03,10547.87,Entertainment,30,1775050608,ok,,Entertainment,MAPPED,youtube,2026,India
+@SMTOWN,1,SMTOWN,33600000.0,94109.4,10519.73,5288003.8,Electronic music,30,1775050607,ok,,Music,MAPPED,youtube,2026,
+@MrBean,1,Mr Bean,35700000.0,455.63,10.93,34232.73,Television program,30,1775050607,ok,,Entertainment,MAPPED,youtube,2026,
+@juptube,1,Galinha Pintadinha,39000000.0,,,,Film,0,1775050608,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@Ricis Official,0,,,,,,,0,1775050607,error,Could not resolve handle or username @Ricis Official,,,youtube,2026,
+@rezendeevil,1,rezendeevil,34200000.0,8593.83,184.37,211778.2,Lifestyle (sociology),30,1775050609,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@AH,1,Ahh,26.0,,,,,0,1775050608,ok,,,,youtube,2026,
+@SpinninRec,1,Spinnin' Records,32000000.0,418.17,9.67,25942.03,Pop music,30,1775050609,ok,,Music,MAPPED,youtube,2026,Netherlands
+@latenight,1,The Tonight Show Starring Jimmy Fallon,33900000.0,2889.9,96.57,66517.2,Entertainment,30,1775050609,ok,,Entertainment,MAPPED,youtube,2026,United States
+@tseriesoldisgold,1,T-Series Bollywood Classics,52200000.0,1042.6,31.73,95992.5,Film,30,1775050609,ok,,Entertainment,MAPPED,youtube,2026,India
+@rajshri,1,Rajshri,41000000.0,44.07,2.7,6938.37,Entertainment,30,1775050609,ok,,Entertainment,MAPPED,youtube,2026,India
+@harpalgeo,1,HAR PAL GEO,72300000.0,22.8,0.4,1638.1,Television program,30,1775050610,ok,,Entertainment,MAPPED,youtube,2026,Pakistan
+@DisneyMusicVEVO,1,DisneyMusicVEVO,38900000.0,2641.6,0.0,124670.9,Film,30,1775050609,ok,,Entertainment,MAPPED,youtube,2026,United States
+@UltraRecords,1,Ultra Records,32400000.0,532.1,19.0,29684.93,Electronic music,30,1775050610,ok,,Music,MAPPED,youtube,2026,
+@jacksepticeye,1,jacksepticeye,31200000.0,77436.3,4439.5,1816286.53,Action-adventure game,30,1775050610,ok,,Tech&Gaming,MAPPED,youtube,2026,Ireland
+@BabyBus - Kids Songs and Cartoons,0,,,,,,,0,1775050610,error,Could not resolve handle or username @BabyBus - Kids Songs and Cartoons,,,youtube,2026,
+@xoxxxoooxo,1,The Weeknd,39500000.0,139497.56,6773.11,7734564.0,Pop music,9,1775050610,ok,,Music,MAPPED,youtube,2026,Canada
+@TheLateLateShow,1,The Late Late Show with James Corden,28200000.0,,,,Film,0,1775050610,ok,,Entertainment,MAPPED,youtube,2026,
+@ImagineDragons,1,ImagineDragons,33200000.0,4257.77,108.3,143659.4,Music,30,1775050611,ok,,Music,MAPPED,youtube,2026,United States
+@TalkingTomCat,1,Talking Tom,33300000.0,1025.7,43.1,160539.37,Film,30,1775050611,ok,,Entertainment,MAPPED,youtube,2026,United States
+@toyoraljanahtv,1,قناة طيور الجنة | toyoraljanahtv,33500000.0,,,39696.33,Society,30,1775050611,ok,,Knowledge&Info,MAPPED,youtube,2026,
+@theofficialpeppa,1,Peppa Pig - Official Channel,43400000.0,2735.1,,833611.63,Film,30,1775050611,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@Little Angel: Nursery Rhymes & Kids Songs,0,,,,,,,0,1775050610,error,Could not resolve handle or username @Little Angel: Nursery Rhymes & Kids Songs,,,youtube,2026,
+@ARY Digital,0,,,,,,,0,1775050611,error,Could not resolve handle or username @ARY Digital,,,youtube,2026,
+@WWRBhojpuri,1,Worldwide Records Bhojpuri,38800000.0,860.47,21.43,70410.53,Music,30,1775050612,ok,,Music,MAPPED,youtube,2026,India
+@SongsOfIndianCinema,1,Saregama Music,61300000.0,5898.27,82.43,803964.87,Pop music,30,1775050612,ok,,Music,MAPPED,youtube,2026,India
+@MrBeast Gaming,0,,,,,,,0,1775050611,error,Could not resolve handle or username @MrBeast Gaming,,,youtube,2026,
+@Wow Kidz,0,,,,,,,0,1775050611,error,Could not resolve handle or username @Wow Kidz,,,youtube,2026,
+@TheDonato,1,TheDonato,43100000.0,26280.57,471.73,682167.47,Role-playing video game,30,1775050612,ok,,Tech&Gaming,MAPPED,youtube,2026,Argentina
+@GMANETWORK,1,GMA Network,41000000.0,59.6,2.7,3210.77,Film,30,1775050614,ok,,Entertainment,MAPPED,youtube,2026,Philippines
+@infobellstamil,1,infobells - Tamil,35900000.0,4985.57,0.0,762410.83,Entertainment,30,1775050612,ok,,Entertainment,MAPPED,youtube,2026,India
+@TheDiamondMinecart,1,DanTDM,29200000.0,25161.1,1744.87,659021.0,Action game,30,1775050612,ok,,Tech&Gaming,MAPPED,youtube,2026,United Kingdom
+@taylorgangent,1,Wiz Khalifa,30300000.0,1142.13,140.03,28239.5,Pop music,30,1775050612,ok,,Music,MAPPED,youtube,2026,United States
+@Bounce Patrol - Kids Songs,0,,,,,,,0,1775050612,error,Could not resolve handle or username @Bounce Patrol - Kids Songs,,,youtube,2026,
+@WorldStarHipHopTV,1,WORLDSTARHIPHOP,27700000.0,2394.53,168.7,176385.03,Pop music,30,1775050613,ok,,Music,MAPPED,youtube,2026,United States
+@VanossGaming,1,VanossGaming,26000000.0,26483.87,653.2,602216.9,Role-playing video game,30,1775050613,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@enchufetv,1,enchufetv,28700000.0,32025.83,221.53,514105.73,Film,30,1775050613,ok,,Entertainment,MAPPED,youtube,2026,
+@infobellstelugu,1,infobells - Telugu,37200000.0,3762.03,0.0,723764.6,Music,30,1775050613,ok,,Music,MAPPED,youtube,2026,India
+@LosPolinesios,1,LosPolinesios,27300000.0,18145.97,482.23,507114.23,Lifestyle (sociology),30,1775050613,ok,,Lifestyle,MAPPED,youtube,2026,
+@PowerKids,1,PowerKids TV,50200000.0,,0.23,103046.57,Television program,30,1775050615,ok,,Entertainment,MAPPED,youtube,2026,Ireland
+@Techno Gamerz,0,,,,,,,0,1775050613,error,Could not resolve handle or username @Techno Gamerz,,,youtube,2026,
+@1MILLION Dance Studio,0,,,,,,,0,1775050613,error,Could not resolve handle or username @1MILLION Dance Studio,,,youtube,2026,
+@toycantando,1,toycantando,30900000.0,1171.3,0.0,212858.37,Film,30,1775050614,ok,,Entertainment,MAPPED,youtube,2026,Colombia
+@smosh,1,Smosh,27100000.0,23449.0,383.93,447937.13,Television program,30,1775050615,ok,,Entertainment,MAPPED,youtube,2026,United States
+@xSkyHeLLxx,1,Renato Garcia,31200000.0,78262.6,2288.8,1092049.83,Lifestyle (sociology),30,1775050615,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@AboFlah,1,AboFlah,48800000.0,233224.23,8738.4,8289145.07,Film,30,1775050615,ok,,Entertainment,MAPPED,youtube,2026,Kuwait
+@zeenews,1,Zee News,41900000.0,23.0,0.57,1553.9,Politics,30,1775050616,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@Diana and Roma ESP,0,,,,,,,0,1775050614,error,Could not resolve handle or username @Diana and Roma ESP,,,youtube,2026,
+@WatchMojo,1,WatchMojo.com,25900000.0,615.13,112.87,28029.8,Television program,30,1775050615,ok,,Entertainment,MAPPED,youtube,2026,Canada
+@Super JoJo - Nursery Rhymes & Kids Songs,0,,,,,,,0,1775050614,error,Could not resolve handle or username @Super JoJo - Nursery Rhymes & Kids Songs,,,youtube,2026,
+@Genevieve's Playhouse - Learning Videos for Kids,0,,,,,,,0,1775050614,error,Could not resolve handle or username @Genevieve's Playhouse - Learning Videos for Kids,,,youtube,2026,
+@Jess No Limit,0,,,,,,,0,1775050615,error,Could not resolve handle or username @Jess No Limit,,,youtube,2026,
+@TwiNboTzVids,1,Lucas and Marcus,37100000.0,7544.73,401.03,351605.57,Entertainment,30,1775050616,ok,,Entertainment,MAPPED,youtube,2026,United States
+@MR. INDIAN HACKER,0,,,,,,,0,1775050615,error,Could not resolve handle or username @MR. INDIAN HACKER,,,youtube,2026,
+@jypentertainment,1,JYP Entertainment,31800000.0,34731.83,2002.47,951114.4,Pop music,30,1775050616,ok,,Music,MAPPED,youtube,2026,
+@Las Ratitas,0,,,,,,,0,1775050615,error,Could not resolve handle or username @Las Ratitas,,,youtube,2026,
+@James Charles,0,,,,,,,0,1775050615,error,Could not resolve handle or username @James Charles,,,youtube,2026,
+@davidguettavevo,1,David Guetta,27700000.0,4441.47,211.37,555487.0,Electronic music,30,1775050616,ok,,Music,MAPPED,youtube,2026,United States
+@nickelodeonjuniorfr,1,Nick Jr.,35200000.0,610.97,0.0,138147.47,Television program,30,1775050617,ok,,Entertainment,MAPPED,youtube,2026,United States
+@व्लाद और निकिता,0,,,,,,,0,1775050616,error,Could not resolve handle or username @व्लाद और निकिता,,,youtube,2026,
+@ZHC,1,zhc,97.0,,,,Pop music,0,1775050616,ok,,Music,MAPPED,youtube,2026,
+@adityamusic,1,Aditya Music,36500000.0,215.73,1.97,19003.37,Music of Asia,30,1775050619,ok,,Music,MAPPED,youtube,2026,India
+@Logan Paul,0,,,,,,,0,1775050616,error,Could not resolve handle or username @Logan Paul,,,youtube,2026,
+@Rans Entertainment,0,,,,,,,0,1775050616,error,Could not resolve handle or username @Rans Entertainment,,,youtube,2026,
+@NewOnNetflix,1,Netflix,33100000.0,16188.27,831.6,616276.47,Music of Asia,30,1775050617,ok,,Music,MAPPED,youtube,2026,United States
+@Chloe Ting,0,,,,,,,0,1775050617,error,Could not resolve handle or username @Chloe Ting,,,youtube,2026,
+@Troom Troom,0,,,,,,,0,1775050617,error,Could not resolve handle or username @Troom Troom,,,youtube,2026,
+@Masha y el Oso,0,,,,,,,0,1775050617,error,Could not resolve handle or username @Masha y el Oso,,,youtube,2026,
+@Raffy Tulfo in Action,0,,,,,,,0,1775050617,error,Could not resolve handle or username @Raffy Tulfo in Action,,,youtube,2026,
+@SesameStreet,1,Sesame Street,29600000.0,1839.03,0.0,360693.07,Television program,30,1775050617,ok,,Entertainment,MAPPED,youtube,2026,United States
+@JellyYT,1,Jelly,23400000.0,3789.43,180.5,177413.1,Role-playing video game,30,1775050618,ok,,Tech&Gaming,MAPPED,youtube,2026,United Kingdom
+@ColdplayVEVO,1,Coldplay,28400000.0,13579.27,673.36,662980.91,Pop music,11,1775050618,ok,,Music,MAPPED,youtube,2026,United Kingdom
+@Diana and Roma HIN,0,,,,,,,0,1775050617,error,Could not resolve handle or username @Diana and Roma HIN,,,youtube,2026,
+@Mister Max,0,,,,,,,0,1775050617,error,Could not resolve handle or username @Mister Max,,,youtube,2026,
+@mildicasdemulher,1,Valentina Pontes ofc,28800000.0,2064.37,52.48,179993.67,Entertainment,30,1775050619,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@Vlad và Nikita,0,,,,,,,0,1775050618,error,Could not resolve handle or username @Vlad và Nikita,,,youtube,2026,
+@DrossRotzank,1,DrossRotzank,24100000.0,84803.9,5017.77,1348507.73,Society,30,1775050619,ok,,Knowledge&Info,MAPPED,youtube,2026,Argentina
+@Sandeep Maheshwari,0,,,,,,,0,1775050618,error,Could not resolve handle or username @Sandeep Maheshwari,,,youtube,2026,
+@ABP NEWS HINDI,0,,,,,,,0,1775050618,error,Could not resolve handle or username @ABP NEWS HINDI,,,youtube,2026,
+@adityacinema,1,Aditya Movies,38300000.0,233.57,2.23,19252.27,Entertainment,30,1775050621,ok,,Entertainment,MAPPED,youtube,2026,India
+@Goldmines Dishoom,0,,,,,,,0,1775050618,error,Could not resolve handle or username @Goldmines Dishoom,,,youtube,2026,
+@THECHAINSMOKERS,1,The Chainsmokers,23000000.0,1135.87,45.73,39876.7,Music,30,1775050619,ok,,Music,MAPPED,youtube,2026,United States
+@netdmuzikk,1,netd müzik,27000000.0,210.8,54.45,33783.83,Pop music,30,1775050622,ok,,Music,MAPPED,youtube,2026,Turkey
+@Technical Guruji,0,,,,,,,0,1775050618,error,Could not resolve handle or username @Technical Guruji,,,youtube,2026,
+@Smile Family,0,,,,,,,0,1775050618,error,Could not resolve handle or username @Smile Family,,,youtube,2026,
+@gmmgrammyofficial,1,GMM GRAMMY OFFICIAL,25900000.0,87.73,3.1,7054.1,Pop music,30,1775050620,ok,,Music,MAPPED,youtube,2026,Thailand
+@Anuel AA,0,,,,,,,0,1775050619,error,Could not resolve handle or username @Anuel AA,,,youtube,2026,
+@mmoshaya,1,mmoshaya,23500000.0,6644.43,200.03,1087880.43,Lifestyle (sociology),30,1775050620,ok,,Lifestyle,MAPPED,youtube,2026,Saudi Arabia
+@Miss Katy,0,,,,,,,0,1775050619,error,Could not resolve handle or username @Miss Katy,,,youtube,2026,
+@VenusMovies,1,Venus Movies,27600000.0,189.53,2.7,29832.97,Film,30,1775050620,ok,,Entertainment,MAPPED,youtube,2026,India
+@Like Nastya AE,0,,,,,,,0,1775050619,error,Could not resolve handle or username @Like Nastya AE,,,youtube,2026,
+@Frost Diamond,0,,,,,,,0,1775050619,error,Could not resolve handle or username @Frost Diamond,,,youtube,2026,
+@Tasty,0,,,,,,,0,1775050620,error,Could not resolve handle or username @Tasty,,,youtube,2026,
+@WHBBP,1,White Hill Production,2.0,,,,,0,1775050620,ok,,,,youtube,2026,
+@TEDtalksDirector,1,TED,27300000.0,695.93,28.27,30563.27,Society,30,1775050621,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@WB Kids,0,,,,,,,0,1775050620,error,Could not resolve handle or username @WB Kids,,,youtube,2026,
+@oRugrat,1,FaZe Rug,28900000.0,63413.67,7707.87,2879614.9,Lifestyle (sociology),30,1775050621,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@5-Minute Crafts DIY,0,,,,,,,0,1775050620,error,Could not resolve handle or username @5-Minute Crafts DIY,,,youtube,2026,
+@AmericasGotTalent,1,America's Got Talent,30900000.0,32432.97,434.43,1235556.7,Music,30,1775050621,ok,,Music,MAPPED,youtube,2026,United States
+@CanalCanalha,1,Canal Canalha,21300000.0,36809.47,259.0,546373.13,Entertainment,30,1775050621,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@hamaarbhojiwood,1,Wave Music Bhojpuri,26900000.0,65.2,11.57,6269.87,Music of Asia,30,1775050624,ok,,Music,MAPPED,youtube,2026,India
+@PeppaLatinoAmericano,1,Peppa Pig Español Latino - Canal Oficial,30800000.0,1783.93,,689056.1,Television program,30,1775050621,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@shemaroomovies,1,Shemaroo Movies,39200000.0,928.63,12.63,126384.77,Film,30,1775050623,ok,,Entertainment,MAPPED,youtube,2026,India
+@BabyBus - Canciones Infantiles & Cuentos,0,,,,,,,0,1775050621,error,Could not resolve handle or username @BabyBus - Canciones Infantiles & Cuentos,,,youtube,2026,
+@Goldmines Bollywood,0,,,,,,,0,1775050621,error,Could not resolve handle or username @Goldmines Bollywood,,,youtube,2026,
+@Diana and Roma ARA,0,,,,,,,0,1775050622,error,Could not resolve handle or username @Diana and Roma ARA,,,youtube,2026,
+@The Lallantop,0,,,,,,,0,1775050622,error,Could not resolve handle or username @The Lallantop,,,youtube,2026,
+@FGTeeV,1,FGTeeV,25200000.0,50167.52,3827.48,4127578.7,Action game,23,1775050622,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@BuzzFeedVideo,1,BuzzFeedVideo,19700000.0,635.7,29.53,33269.23,Entertainment,30,1775050622,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Baim Paula,0,,,,,,,0,1775050622,error,Could not resolve handle or username @Baim Paula,,,youtube,2026,
+@SSundee,1,SSundee,25300000.0,16191.77,993.2,703434.33,Casual game,30,1775050623,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Like Nastya PRT,0,,,,,,,0,1775050622,error,Could not resolve handle or username @Like Nastya PRT,,,youtube,2026,
+@AuthenticGames,1,AuthenticGames,20200000.0,22314.0,1205.0,291298.0,Action-adventure game,1,1775050624,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@TheFineBros,1,REACT,20100000.0,3549.2,213.9,92050.4,Film,30,1775050623,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Crazy XYZ,0,,,,,,,0,1775050623,error,Could not resolve handle or username @Crazy XYZ,,,youtube,2026,
+@VEVO,1,Vevo,20000000.0,132.37,3.3,8965.97,Pop music,30,1775050623,ok,,Music,MAPPED,youtube,2026,
+@DisneyChannelLA,1,Disney Jr. Latinoamérica,30400000.0,1706.0,0.0,423765.77,Television program,30,1775050624,ok,,Entertainment,MAPPED,youtube,2026,Argentina
+@goldmineshindi,1,Goldmines Movies,30400000.0,89.93,1.13,12346.77,Entertainment,30,1775050624,ok,,Entertainment,MAPPED,youtube,2026,
+@PenIndiaPvtLimited,1,Pen Movies,29900000.0,9043.43,314.8,1394381.37,Entertainment,30,1775050624,ok,,Entertainment,MAPPED,youtube,2026,India
+@HaerteTest,1,HaerteTest,19500000.0,300.37,11.77,131834.0,Lifestyle (sociology),30,1775050624,ok,,Lifestyle,MAPPED,youtube,2026,Germany
+@SlivkiChanel,1,SlivkiShow,21300000.0,82755.44,4456.25,4028678.81,Hobby,16,1775050625,ok,,Lifestyle,MAPPED,youtube,2026,Italy
+@5-Minute Crafts PLAY,0,,,,,,,0,1775050624,error,Could not resolve handle or username @5-Minute Crafts PLAY,,,youtube,2026,
+@LazarBeam,1,LazarBeam,23300000.0,437115.08,5691.0,17425225.42,Action game,12,1775050625,ok,,Tech&Gaming,MAPPED,youtube,2026,Australia
+@Kids TV - Nursery Rhymes And Baby Songs,0,,,,,,,0,1775050624,error,Could not resolve handle or username @Kids TV - Nursery Rhymes And Baby Songs,,,youtube,2026,
+@NationalGeographic,1,National Geographic,25900000.0,850.8,37.7,67211.77,Film,30,1775050625,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Brave Wilderness,0,,,,,,,0,1775050624,error,Could not resolve handle or username @Brave Wilderness,,,youtube,2026,
+@BeckyGOfficial,1,Becky G,22500000.0,4103.8,189.6,102853.57,Music,30,1775050625,ok,,Music,MAPPED,youtube,2026,United States
+@Goldmines Cineplex,0,,,,,,,0,1775050625,error,Could not resolve handle or username @Goldmines Cineplex,,,youtube,2026,
+@NewAFI2013,1,Indosiar,35200000.0,793.97,102.9,22457.3,Film,30,1775050628,ok,,Entertainment,MAPPED,youtube,2026,Indonesia
+@rossbollinger,1,Pencilmation,20300000.0,27124.43,228.43,1064647.23,Humour,30,1775050626,ok,,Entertainment,MAPPED,youtube,2026,United States
+@HumNetwork,1,HUM TV,53900000.0,43.27,0.53,3847.53,Television program,30,1775050628,ok,,Entertainment,MAPPED,youtube,2026,Pakistan
+@PrestonPlayz,1,PrestonPlayz,17300000.0,31049.97,1279.17,5060456.27,Action game,30,1775050625,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Mnet,1,Mnet K-POP,22300000.0,396.33,36.7,6577.43,Entertainment,30,1775050626,ok,,Entertainment,MAPPED,youtube,2026,
+@CharliesVlogs,1,Charlie Puth,23100000.0,23915.6,1087.72,1231437.12,Pop music,25,1775050626,ok,,Music,MAPPED,youtube,2026,United States
+@Totoy kids - Português,0,,,,,,,0,1775050626,error,Could not resolve handle or username @Totoy kids - Português,,,youtube,2026,
+@GooodLifeFilms,1,Lyrical Lemonade,24000000.0,69927.5,2711.36,3551283.71,Hip hop music,14,1775050626,ok,,Music,MAPPED,youtube,2026,United States
+@RotanaAudio,1,Rotana,27000000.0,8394.3,280.87,2235636.3,Music of Asia,30,1775050629,ok,,Music,MAPPED,youtube,2026,Saudi Arabia
+@Crafty Panda,0,,,,,,,0,1775050626,error,Could not resolve handle or username @Crafty Panda,,,youtube,2026,
+@Noor Stars,0,,,,,,,0,1775050626,error,Could not resolve handle or username @Noor Stars,,,youtube,2026,
+@DLS News,0,,,,,,,0,1775050626,error,Could not resolve handle or username @DLS News,,,youtube,2026,
+@Troom Troom Es,0,,,,,,,0,1775050626,error,Could not resolve handle or username @Troom Troom Es,,,youtube,2026,
+@starplus,1,StarPlus,56300000.0,82.2,1.77,3713.3,Film,30,1775050629,ok,,Entertainment,MAPPED,youtube,2026,India
+@The ACE Family,0,,,,,,,0,1775050627,error,Could not resolve handle or username @The ACE Family,,,youtube,2026,
+@toyorbabytv,1,toyorbabytv,29600000.0,,,218492.57,Entertainment,30,1775050627,ok,,Entertainment,MAPPED,youtube,2026,Jordan
+@gordonramsay,1,Gordon Ramsay,21900000.0,3637.37,142.73,142956.17,Lifestyle (sociology),30,1775050628,ok,,Lifestyle,MAPPED,youtube,2026,
+@gottalentglobal,1,Got Talent Global,21400000.0,1332.17,27.0,80351.07,Performing arts,30,1775050628,ok,,Entertainment,MAPPED,youtube,2026,
+@TelenovelaTelevisa,1,Tlnovelas,27100000.0,236.7,13.43,13155.57,Film,30,1775050631,ok,,Entertainment,MAPPED,youtube,2026,Mexico
+@Infinite,1,Infinite,25700000.0,40358.47,4004.37,1863744.47,Film,30,1775050629,ok,,Entertainment,MAPPED,youtube,2026,United States
+@MrVivekBindra,1,Dr. Vivek Bindra: Motivational Speaker,21100000.0,884.83,9.53,19960.83,Knowledge,30,1775050629,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@TheWillyrex,1,TheWillyrex,18500000.0,10594.8,198.77,239081.53,Food,30,1775050630,ok,,Lifestyle,MAPPED,youtube,2026,Spain
+@UltraMovieParlour,1,Ultra Movie Parlour,31900000.0,2807.2,66.37,360009.47,Film,30,1775050629,ok,,Entertainment,MAPPED,youtube,2026,India
+@fatosdesconhecidos,1,Fatos Desconhecidos,22800000.0,,250.37,101455.8,Society,30,1775050629,ok,,Knowledge&Info,MAPPED,youtube,2026,Brazil
+@TheEnaldinhO,1,Enaldinho,45800000.0,34431.73,1081.6,1827087.57,Entertainment,30,1775050630,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@Vlad and Niki Arabic,0,,,,,,,0,1775050629,error,Could not resolve handle or username @Vlad and Niki Arabic,,,youtube,2026,
+@OfficialClashOfClans,1,Clash of Clans,21800000.0,7901.83,331.27,2070099.6,Role-playing video game,30,1775050630,ok,,Tech&Gaming,MAPPED,youtube,2026,
+@JimmyKimmelLive,1,Jimmy Kimmel Live,22000000.0,28621.83,1408.6,1008603.07,Film,30,1775050630,ok,,Entertainment,MAPPED,youtube,2026,United States
+@MARVEL,1,Marvel Entertainment,22500000.0,3049.7,111.13,146343.8,Film,30,1775050632,ok,,Entertainment,MAPPED,youtube,2026,United States
+@RobinHoodGamer1,1,Robin Hood Gamer,22400000.0,11197.2,497.9,443832.37,Action game,30,1775050631,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@Unbox Therapy,0,,,,,,,0,1775050630,error,Could not resolve handle or username @Unbox Therapy,,,youtube,2026,
+@NBA,1,NBA,24000000.0,1385.27,117.9,77492.27,Sport,30,1775050631,ok,,Sports,MAPPED,youtube,2026,United States
+@Kurzgesagt,1,Kurzgesagt – In a Nutshell,25200000.0,100029.03,2814.73,2196201.77,Health,30,1775050631,ok,,Knowledge&Info,MAPPED,youtube,2026,Germany
+@TRT Originals Urdu,0,,,,,,,0,1775050630,error,Could not resolve handle or username @TRT Originals Urdu,,,youtube,2026,
+@CKN,1,cKn,182.0,,,,Pop music,0,1775050631,ok,,Music,MAPPED,youtube,2026,
+@gmapublicaffairs,1,GMA Public Affairs,27900000.0,58.37,4.67,3142.67,Film,30,1775050633,ok,,Entertainment,MAPPED,youtube,2026,Philippines
+@corbuzierprediction,1,Deddy Corbuzier,25200000.0,9764.93,1054.87,529610.33,Film,30,1775050632,ok,,Entertainment,MAPPED,youtube,2026,Indonesia
+@Eva Bravo Play,0,,,,,,,0,1775050631,error,Could not resolve handle or username @Eva Bravo Play,,,youtube,2026,
+@★ Kids Roma Show,0,,,,,,,0,1775050631,error,Could not resolve handle or username @★ Kids Roma Show,,,youtube,2026,
+@shfa show India,0,,,,,,,0,1775050631,error,Could not resolve handle or username @shfa show India,,,youtube,2026,
+@Мирошка ТВ,0,,,,,,,0,1775050631,error,Could not resolve handle or username @Мирошка ТВ,,,youtube,2026,
+@sonotekvideo,1,Sonotek,20900000.0,1932.07,122.2,128497.3,Music of Asia,30,1775050633,ok,,Music,MAPPED,youtube,2026,India
+@greengoldtv,1,Green Gold TV - Official Channel,22200000.0,354.13,0.0,50453.77,Humour,30,1775050633,ok,,Entertainment,MAPPED,youtube,2026,India
+@Kinder Spielzeug Kanal,0,,,,,,,0,1775050632,error,Could not resolve handle or username @Kinder Spielzeug Kanal,,,youtube,2026,
+@GEN HALILINTAR,0,,,,,,,0,1775050632,error,Could not resolve handle or username @GEN HALILINTAR,,,youtube,2026,
+@INCRÍVEL,0,,,,,,,0,1775050632,error,Could not resolve handle or username @INCRÍVEL,,,youtube,2026,
+@turmadamonicaTV,1,Turma da Mônica,21500000.0,3455.9,0.0,272830.1,Lifestyle (sociology),30,1775050633,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@DanielSaboya,1,Dan-Sa / Daniel Saboya,19200000.0,414.23,6.97,37672.13,Performing arts,30,1775050633,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@BritainsGotTalent09,1,Britain's Got Talent,21200000.0,6265.13,503.7,268687.73,Entertainment,30,1775050633,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@kbsworld,1,KBS WORLD TV,20500000.0,56.67,3.9,815.1,Television program,30,1775050633,ok,,Entertainment,MAPPED,youtube,2026,South Korea
+@TheOdd1sOut,1,TheOdd1sOut,20700000.0,227312.35,4295.13,4919144.26,Film,23,1775050633,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Ninja Kidz TV,0,,,,,,,0,1775050633,error,Could not resolve handle or username @Ninja Kidz TV,,,youtube,2026,
+@Brent Rivera,0,,,,,,,0,1775050633,error,Could not resolve handle or username @Brent Rivera,,,youtube,2026,
+@PinkPanther,1,Official Pink Panther,22800000.0,1045.27,0.0,196563.6,Entertainment,30,1775050634,ok,,Entertainment,MAPPED,youtube,2026,
+@FactTechz,1,FactTechz,21200000.0,176001.6,1238.8,3660630.37,Society,30,1775050634,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@Like Nastya Vlog,0,,,,,,,0,1775050633,error,Could not resolve handle or username @Like Nastya Vlog,,,youtube,2026,
+@TheGrefg,1,TheGrefg,19700000.0,34610.1,550.27,692382.1,Video game culture,30,1775050635,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@SockeyeMedia,1,MGC Playhouse,17800000.0,142.6,,233789.3,Music,30,1775050634,ok,,Music,MAPPED,youtube,2026,
+@Matroix,1,Ali-A,19700000.0,6990.97,141.07,399866.63,Action-adventure game,30,1775050635,ok,,Tech&Gaming,MAPPED,youtube,2026,United Kingdom
+@HiMan,0,,,,,,,0,1775050634,error,Could not resolve handle or username @HiMan,,,youtube,2026,
+@rhettandlink2,1,Good Mythical Morning,19600000.0,27918.77,1337.97,786945.27,Film,30,1775050635,ok,,Entertainment,MAPPED,youtube,2026,United States
+@CookieSwirlC,1,CookieSwirlC,21400000.0,1406.03,232.13,71573.17,Simulation video game,30,1775050635,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@ElTrollino,1,ElTrollino,22300000.0,32778.0,2543.33,1873064.67,Action game,3,1775050635,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@Naisa Alifia Yuriza (N.A.Y),0,,,,,,,0,1775050634,error,Could not resolve handle or username @Naisa Alifia Yuriza (N.A.Y),,,youtube,2026,
+@EeOneGuy,1,EeOneGuy,16400000.0,359.1,327.4,71027.5,Music,30,1775050635,ok,,Music,MAPPED,youtube,2026,United States
+@Stubborn Facts,0,,,,,,,0,1775050635,error,Could not resolve handle or username @Stubborn Facts,,,youtube,2026,
+@TheElenaYa,1,Diana and Roma EN,29800000.0,515.4,,851868.5,Entertainment,30,1775050636,ok,,Entertainment,MAPPED,youtube,2026,United States
+@MiawAug,1,MiawAug,25300000.0,21938.37,1794.83,673674.5,Action game,30,1775050635,ok,,Tech&Gaming,MAPPED,youtube,2026,Indonesia
+@rsiammusic,1,RsiamMusic : อาร์สยาม,20400000.0,941.8,39.93,145872.17,Music of Asia,30,1775050636,ok,,Music,MAPPED,youtube,2026,
+@Emiway Bantai,0,,,,,,,0,1775050635,error,Could not resolve handle or username @Emiway Bantai,,,youtube,2026,
+@Netflix India,0,,,,,,,0,1775050635,error,Could not resolve handle or username @Netflix India,,,youtube,2026,
+@farrukotv,1,Farruko,20600000.0,5578.6,193.83,287282.33,Electronic music,30,1775050636,ok,,Music,MAPPED,youtube,2026,United States
+@dj47maryn,1,Marmok,19400000.0,102627.48,4082.2,1806918.36,Action-adventure game,25,1775050636,ok,,Tech&Gaming,MAPPED,youtube,2026,Russia
+@portadosfundos,1,Porta dos Fundos,19000000.0,16358.3,343.83,311732.83,Film,30,1775050636,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@BabyBus - Cerita & Lagu Anak-anak,0,,,,,,,0,1775050636,error,Could not resolve handle or username @BabyBus - Cerita & Lagu Anak-anak,,,youtube,2026,
+@Willyrex,1,Willyrex,17200000.0,11071.53,118.97,227161.8,Action-adventure game,30,1775050638,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@SCTVIndonesia,1,Surya Citra Televisi (SCTV),22800000.0,544.53,46.1,17410.17,Television program,30,1775050641,ok,,Entertainment,MAPPED,youtube,2026,Indonesia
+@SebastianYatra,1,Sebastián Yatra,18900000.0,6525.0,323.57,455848.03,Music of Latin America,30,1775050637,ok,,Music,MAPPED,youtube,2026,
+@Little Angel Español - Canciones Infantiles,0,,,,,,,0,1775050636,error,Could not resolve handle or username @Little Angel Español - Canciones Infantiles,,,youtube,2026,
+@ThePoznavatel,1,Познаватель,20400000.0,11927.83,1032.6,943572.57,Lifestyle (sociology),30,1775050637,ok,,Lifestyle,MAPPED,youtube,2026,Ukraine
+@A_S Gaming,0,,,,,,,0,1775050637,error,Could not resolve handle or username @A_S Gaming,,,youtube,2026,
+@RobleisIUTU,1,RobleisIUTU,20100000.0,25829.67,328.4,568770.83,Role-playing video game,30,1775050637,ok,,Tech&Gaming,MAPPED,youtube,2026,Argentina
+@Guava Juice,0,,,,,,,0,1775050637,error,Could not resolve handle or username @Guava Juice,,,youtube,2026,
+@D Billions,0,,,,,,,0,1775050637,error,Could not resolve handle or username @D Billions,,,youtube,2026,
+@kidstvsongs,1,Doggy Doggy Cartoons,16400000.0,58.93,,9097.33,Entertainment,30,1775050639,ok,,Entertainment,MAPPED,youtube,2026,Spain
+@aMOODIEsqueezie,1,SQUEEZIE,20000000.0,121549.23,1750.1,3062870.5,Television program,30,1775050638,ok,,Entertainment,MAPPED,youtube,2026,France
+@Vania Mania Kids,0,,,,,,,0,1775050637,error,Could not resolve handle or username @Vania Mania Kids,,,youtube,2026,
+@Heidi & Zidane बच्चों की कहानियाँ,0,,,,,,,0,1775050637,error,Could not resolve handle or username @Heidi & Zidane बच्चों की कहानियाँ,,,youtube,2026,
+@The Royalty Family,0,,,,,,,0,1775050638,error,Could not resolve handle or username @The Royalty Family,,,youtube,2026,
+@musicalrmastv,1,الـريماس - Al-Remas,18400000.0,2650.97,174.4,422894.1,Music,30,1775050639,ok,,Music,MAPPED,youtube,2026,Iraq
+@Masha e o Urso,0,,,,,,,0,1775050638,error,Could not resolve handle or username @Masha e o Urso,,,youtube,2026,
+@grammygoldofficia,1,GRAMMY GOLD OFFICIAL,22100000.0,258.6,13.77,35880.97,Music of Asia,30,1775050640,ok,,Music,MAPPED,youtube,2026,Thailand
+@IGNentertainment,1,IGN,19800000.0,465.77,85.87,20902.17,Role-playing video game,30,1775050639,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Sun TV,0,,,,,,,0,1775050638,error,Could not resolve handle or username @Sun TV,,,youtube,2026,
+@TEDEducation,1,TED-Ed,22500000.0,10812.9,510.23,294453.9,Health,30,1775050639,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@JasonDerulo,1,Jason Derulo,41900000.0,3354.03,34.7,160113.13,Entertainment,30,1775050640,ok,,Entertainment,MAPPED,youtube,2026,
+@Tu COSMOPOLIS,0,,,,,,,0,1775050639,error,Could not resolve handle or username @Tu COSMOPOLIS,,,youtube,2026,
+@jquintanac5,1,DeToxoMoroxo,16800000.0,7700.37,89.03,162120.2,Entertainment,30,1775050640,ok,,Entertainment,MAPPED,youtube,2026,Mexico
+@LankyBox,1,LankyBox,42000000.0,3457.53,301.93,385585.1,Role-playing video game,30,1775050641,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Beast Reacts,0,,,,,,,0,1775050639,error,Could not resolve handle or username @Beast Reacts,,,youtube,2026,
+@etvteluguindia,1,etvteluguindia,23400000.0,117.83,1.5,6385.77,Entertainment,30,1775050642,ok,,Entertainment,MAPPED,youtube,2026,India
+@ArabGamesNetwork,1,شبكة العاب العرب | Arab Games Network,25500000.0,12144.5,655.27,384343.9,Action-adventure game,30,1775050641,ok,,Tech&Gaming,MAPPED,youtube,2026,Saudi Arabia
+@invictorgs3,1,invictor,30400000.0,10808.3,856.67,578784.5,Action-adventure game,30,1775050641,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@Vlad and Niki IDN,0,,,,,,,0,1775050640,error,Could not resolve handle or username @Vlad and Niki IDN,,,youtube,2026,
+@STARVIJAY,1,Vijay Television,28300000.0,452.23,16.33,15884.17,Film,30,1775050644,ok,,Entertainment,MAPPED,youtube,2026,India
+@TheBrianMaps,1,TheBrianMaps,18300000.0,191488.29,8486.71,4235357.0,Action-adventure game,14,1775050641,ok,,Tech&Gaming,MAPPED,youtube,2026,Russia
+@Rafa & Luiz,0,,,,,,,0,1775050641,error,Could not resolve handle or username @Rafa & Luiz,,,youtube,2026,
+@IDEAS EN 5 MINUTOS,0,,,,,,,0,1775050641,error,Could not resolve handle or username @IDEAS EN 5 MINUTOS,,,youtube,2026,
+@SUPER SLICK SLIME SAM,0,,,,,,,0,1775050641,error,Could not resolve handle or username @SUPER SLICK SLIME SAM,,,youtube,2026,
+@Jane ASMR 제인,0,,,,,,,0,1775050641,error,Could not resolve handle or username @Jane ASMR 제인,,,youtube,2026,
+@AnittaOficial,1,Anitta,18200000.0,7460.57,422.13,1015681.27,Electronic music,30,1775050642,ok,,Music,MAPPED,youtube,2026,
+@jeffreestar,1,jeffreestar,15600000.0,18517.0,2701.0,532629.0,Lifestyle (sociology),1,1775050642,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Canal IN,0,,,,,,,0,1775050642,error,Could not resolve handle or username @Canal IN,,,youtube,2026,
+@Sandra Cires Art,0,,,,,,,0,1775050642,error,Could not resolve handle or username @Sandra Cires Art,,,youtube,2026,
+@iberethenorio,1,Manual do Mundo,20100000.0,33159.63,569.1,513441.73,Hobby,30,1775050643,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@Antrax,1,Antrax,16400000.0,5207.38,212.29,104715.71,Lifestyle (sociology),14,1775050642,ok,,Lifestyle,MAPPED,youtube,2026,Mexico
+@zbingzbing,1,zbing z.,21500000.0,6765.0,564.2,342622.37,Action game,30,1775050643,ok,,Tech&Gaming,MAPPED,youtube,2026,Thailand
+@Kiddiestv Hindi - Nursery Rhymes & Kids Songs,0,,,,,,,0,1775050642,error,Could not resolve handle or username @Kiddiestv Hindi - Nursery Rhymes & Kids Songs,,,youtube,2026,
+@littlemixmusic,1,Little Mix,16500000.0,3501.87,131.0,85248.93,Electronic music,30,1775050644,ok,,Music,MAPPED,youtube,2026,United Kingdom
+@Prajapati News,0,,,,,,,0,1775050643,error,Could not resolve handle or username @Prajapati News,,,youtube,2026,
+@Kaykai Salaider,0,,,,,,,0,1775050643,error,Could not resolve handle or username @Kaykai Salaider,,,youtube,2026,
+@Kids Play,0,,,,,,,0,1775050643,error,Could not resolve handle or username @Kids Play,,,youtube,2026,
+@boyceavenue,1,Boyce Avenue,17000000.0,1551.9,51.43,80544.57,Music,30,1775050643,ok,,Music,MAPPED,youtube,2026,United States
+@failarmy,1,FailArmy,17500000.0,3552.7,198.97,324617.23,Entertainment,30,1775050644,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Apple,1,Apple,20600000.0,17158.43,,2775223.5,Technology,30,1775050644,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@DopeLyrics,1,DopeLyrics,15500000.0,91.79,8.32,4728.21,Music,19,1775050644,ok,,Music,MAPPED,youtube,2026,United States
+@DUDU e CAROL,0,,,,,,,0,1775050643,error,Could not resolve handle or username @DUDU e CAROL,,,youtube,2026,
+@queenofficial,1,Queen Official,18900000.0,4809.47,172.8,141980.53,Entertainment,30,1775050644,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@movieclipsTRAILERS,1,Rotten Tomatoes Trailers,16100000.0,735.1,75.73,43511.47,Entertainment,30,1775050645,ok,,Entertainment,MAPPED,youtube,2026,United States
+@MatthewPatrick13,1,The Game Theorists,19600000.0,41581.7,1153.1,1285741.97,Action-adventure game,30,1775050645,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@lescopaque,1,Les' Copaque Production,25800000.0,1029.43,4.03,85957.07,Television program,30,1775050645,ok,,Entertainment,MAPPED,youtube,2026,Malaysia
+@Khan GS Research Centre,0,,,,,,,0,1775050644,error,Could not resolve handle or username @Khan GS Research Centre,,,youtube,2026,
+@TRANSTVofficial,1,TRANS TV Official,18600000.0,56.33,6.33,3377.1,Television program,30,1775050645,ok,,Entertainment,MAPPED,youtube,2026,Indonesia
+@SonyMusicSouthVEVO,1,SonyMusicSouthVEVO,23000000.0,697.03,19.07,59497.0,Film,30,1775050646,ok,,Entertainment,MAPPED,youtube,2026,
+@RomanAtwoodVlogs,1,Roman Atwood Vlogs,15100000.0,,,,Film,0,1775050645,ok,,Entertainment,MAPPED,youtube,2026,United States
+@marquesbrownlee,1,Marques Brownlee,20900000.0,151911.43,7286.63,4656142.63,Lifestyle (sociology),30,1775050645,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Village Cooking Channel,0,,,,,,,0,1775050645,error,Could not resolve handle or username @Village Cooking Channel,,,youtube,2026,
+@vice,1,VICE,19100000.0,3246.47,454.63,171056.63,Entertainment,30,1775050646,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Aayu and Pihu Show,0,,,,,,,0,1775050645,error,Could not resolve handle or username @Aayu and Pihu Show,,,youtube,2026,
+@हिंदी - Genevieve's Playhouse,0,,,,,,,0,1775050645,error,Could not resolve handle or username @हिंदी - Genevieve's Playhouse,,,youtube,2026,
+@Kids Channel India - Hindi Rhymes and Baby Songs,0,,,,,,,0,1775050645,error,Could not resolve handle or username @Kids Channel India - Hindi Rhymes and Baby Songs,,,youtube,2026,
+@tanboy kun,0,,,,,,,0,1775050645,error,Could not resolve handle or username @tanboy kun,,,youtube,2026,
+@El Reino a Jugar,0,,,,,,,0,1775050646,error,Could not resolve handle or username @El Reino a Jugar,,,youtube,2026,
+@Triggered Insaan,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Triggered Insaan,,,youtube,2026,
+@monstafluffmusicTV,1,7clouds,32200000.0,3937.4,217.47,414327.73,Hip hop music,30,1775050647,ok,,Music,MAPPED,youtube,2026,United States
+@Dyland PROS,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Dyland PROS,,,youtube,2026,
+@Camila Cabello,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Camila Cabello,,,youtube,2026,
+@JenniferLopez,1,Jennifer Lopez,17500000.0,1358.4,120.4,47151.3,Electronic music,30,1775050646,ok,,Music,MAPPED,youtube,2026,United States
+@MegatoadStonie,1,Matt Stonie,16400000.0,51045.75,1061.4,1362307.6,Food,20,1775050647,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@AdMe.ru - Сайт о творчестве,0,,,,,,,0,1775050646,error,Could not resolve handle or username @AdMe.ru - Сайт о творчестве,,,youtube,2026,
+@Zappy Toons - Hindi Nursery Rhymes and Stories,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Zappy Toons - Hindi Nursery Rhymes and Stories,,,youtube,2026,
+@Blippi - Educational Videos for Kids,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Blippi - Educational Videos for Kids,,,youtube,2026,
+@Ivana Alawi,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Ivana Alawi,,,youtube,2026,
+@Oyuncak Avı,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Oyuncak Avı,,,youtube,2026,
+@Jason Vlogs,0,,,,,,,0,1775050646,error,Could not resolve handle or username @Jason Vlogs,,,youtube,2026,
+@portalfitdance,1,FitDance,16900000.0,401.0,13.37,14815.77,Electronic music,30,1775050648,ok,,Music,MAPPED,youtube,2026,Brazil
+@Kerajinan 5-Menit,0,,,,,,,0,1775050647,error,Could not resolve handle or username @Kerajinan 5-Menit,,,youtube,2026,
+@TheRichest,1,TheRichest,14700000.0,96.4,7.33,6675.3,Entertainment,30,1775050647,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Goldmines Great Indian Comedy,0,,,,,,,0,1775050647,error,Could not resolve handle or username @Goldmines Great Indian Comedy,,,youtube,2026,
+@popchartbusters,1,Pop Chartbusters,20600000.0,5657.23,348.53,594516.07,Pop music,30,1775050648,ok,,Music,MAPPED,youtube,2026,
+@OGatoGalactico,1,Gato Galactico,20600000.0,1821.57,0.0,330788.47,Lifestyle (sociology),30,1775050648,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@wifistudy,0,,,,,,,0,1775050647,error,Could not resolve handle or username @wifistudy,,,youtube,2026,
+@ntvru,1,HTB Media,2.0,,,,,0,1775050647,ok,,,,youtube,2026,
+@Dhar Mann,0,,,,,,,0,1775050647,error,Could not resolve handle or username @Dhar Mann,,,youtube,2026,
+@حِرف إبداعية في 5 دقائق,0,,,,,,,0,1775050647,error,Could not resolve handle or username @حِرف إبداعية في 5 دقائق,,,youtube,2026,
+@KSIOlajidebtHD,1,KSI,17600000.0,99943.33,3321.53,3532394.4,Entertainment,30,1775050648,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@kwebbelkop,1,Kwebbelkop,14900000.0,671.07,53.0,44477.7,Entertainment,30,1775050649,ok,,Entertainment,MAPPED,youtube,2026,United States
+@RCTI - LAYAR DRAMA INDONESIA,0,,,,,,,0,1775050648,error,Could not resolve handle or username @RCTI - LAYAR DRAMA INDONESIA,,,youtube,2026,
+@Junya Official Channel,0,,,,,,,0,1775050648,error,Could not resolve handle or username @Junya Official Channel,,,youtube,2026,
+@makeuplocalypse,1,Mariale,15200000.0,900.23,9.33,33492.83,Lifestyle (sociology),30,1775050649,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@ranziscool,1,Ranz Kyle,15200000.0,6850.14,190.57,400131.67,Lifestyle (sociology),21,1775050649,ok,,Lifestyle,MAPPED,youtube,2026,Philippines
+@Makiman131,1,Makiman131,16400000.0,4704.4,153.37,495571.5,Video game culture,30,1775050649,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@Lachlan,1,Lachlan,15300000.0,15509.37,107.63,614728.33,Action-adventure game,30,1775050649,ok,,Tech&Gaming,MAPPED,youtube,2026,Australia
+@IDEIAS INCRÍVEIS,0,,,,,,,0,1775050648,error,Could not resolve handle or username @IDEIAS INCRÍVEIS,,,youtube,2026,
+@IISuperwomanII,1,Lilly Singh,14200000.0,2282.3,74.73,75111.4,Film,30,1775050649,ok,,Entertainment,MAPPED,youtube,2026,
+@TalkingFriends,1,Talking Tom & Friends TV,16200000.0,154.2,0.23,18909.87,Humour,30,1775050649,ok,,Entertainment,MAPPED,youtube,2026,United States
+@CanalTaBombando,1,LEGENDA FUNK,14500000.0,132.33,5.33,12254.33,Hip hop music,3,1775050650,ok,,Music,MAPPED,youtube,2026,Brazil
+@Planeta das Gêmeas,0,,,,,,,0,1775050649,error,Could not resolve handle or username @Planeta das Gêmeas,,,youtube,2026,
+@Dave and Ava - Nursery Rhymes and Baby Songs,0,,,,,,,0,1775050649,error,Could not resolve handle or username @Dave and Ava - Nursery Rhymes and Baby Songs,,,youtube,2026,
+@5-Minute Crafts FAMILY,0,,,,,,,0,1775050649,error,Could not resolve handle or username @5-Minute Crafts FAMILY,,,youtube,2026,
+@Sony AATH,0,,,,,,,0,1775050650,error,Could not resolve handle or username @Sony AATH,,,youtube,2026,
+@AMARINTV : อมรินทร์ทีวี,0,,,,,,,0,1775050650,error,Could not resolve handle or username @AMARINTV : อมรินทร์ทีวี,,,youtube,2026,
+@Super Polina,0,,,,,,,0,1775050650,error,Could not resolve handle or username @Super Polina,,,youtube,2026,
+@LOKESH GAMER,0,,,,,,,0,1775050650,error,Could not resolve handle or username @LOKESH GAMER,,,youtube,2026,
+@News24page,1,News 24,26700000.0,92.0,12.1,4653.3,Politics,30,1775050651,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@Niana Guerrero,0,,,,,,,0,1775050650,error,Could not resolve handle or username @Niana Guerrero,,,youtube,2026,
+@SriBalajiMovies,1,SriBalajiMovies,22900000.0,284.23,0.53,42850.57,Entertainment,30,1775050652,ok,,Entertainment,MAPPED,youtube,2026,India
+@Drawblogs,1,Drawblogs,14200000.0,83.56,7.81,2045.62,Video game culture,16,1775050651,ok,,Tech&Gaming,MAPPED,youtube,2026,Peru
+@Sidemen,1,Sidemen,23000000.0,179568.2,5153.67,6733724.7,Entertainment,30,1775050651,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@zncoficial,1,Zé Neto e Cristiano,16100000.0,1021.2,20.67,35032.17,Lifestyle (sociology),30,1775050651,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@Super Senya,0,,,,,,,0,1775050650,error,Could not resolve handle or username @Super Senya,,,youtube,2026,
+@newvolgavideo,1,Volga Video,17900000.0,47.13,0.77,6853.8,Film,30,1775050652,ok,,Entertainment,MAPPED,youtube,2026,India
+@rkddigital,1,RKD Studios,27400000.0,2717.03,41.07,380470.43,Entertainment,30,1775050652,ok,,Entertainment,MAPPED,youtube,2026,India
+@hejproducao,1,Henrique e Juliano,17400000.0,22164.14,412.96,4611849.71,Music of Latin America,28,1775050652,ok,,Music,MAPPED,youtube,2026,Brazil
+@MattyBRaps,1,MattyBRaps,15500000.0,9445.43,82.6,2791466.71,Hip hop music,7,1775050652,ok,,Music,MAPPED,youtube,2026,United States
+@collegehumor,1,Dropout,15200000.0,7482.6,256.63,168773.53,Film,30,1775050652,ok,,Entertainment,MAPPED,youtube,2026,United States
+@popskids,1,POPS Kids,19900000.0,592.8,0.0,126323.03,Television program,30,1775050652,ok,,Entertainment,MAPPED,youtube,2026,Vietnam
+@La Rosa de Guadalupe,0,,,,,,,0,1775050651,error,Could not resolve handle or username @La Rosa de Guadalupe,,,youtube,2026,
+@حقائق وأسرار,0,,,,,,,0,1775050652,error,Could not resolve handle or username @حقائق وأسرار,,,youtube,2026,
+@LinusTechTips,1,Linus Tech Tips,16800000.0,30090.43,2012.57,860831.83,Lifestyle (sociology),30,1775050653,ok,,Lifestyle,MAPPED,youtube,2026,Canada
+@T3DDYgames,1,T3ddy,19000000.0,30301.6,850.4,502276.03,Lifestyle (sociology),30,1775050653,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@indiancomedy,1,Shemaroo Comedy,22400000.0,94.7,3.13,19217.03,Entertainment,30,1775050654,ok,,Entertainment,MAPPED,youtube,2026,India
+@XpressTV,1,XpressTV,17300000.0,25399.3,333.04,2482564.13,Lifestyle (sociology),30,1775050653,ok,,Lifestyle,MAPPED,youtube,2026,Mexico
+@Harsh Beniwal,0,,,,,,,0,1775050653,error,Could not resolve handle or username @Harsh Beniwal,,,youtube,2026,
+@Like Nastya IDN,0,,,,,,,0,1775050653,error,Could not resolve handle or username @Like Nastya IDN,,,youtube,2026,
+@bbtvch7,1,Ch7HD,19500000.0,20.07,0.37,1188.57,Television program,30,1775050658,ok,,Entertainment,MAPPED,youtube,2026,Thailand
+@chadwildclay,1,Chad Wild Clay,15700000.0,18131.87,2509.43,1816838.13,Entertainment,30,1775050654,ok,,Entertainment,MAPPED,youtube,2026,United States
+@iTownGamePlay,1,iTownGamePlay *Terror&Diversión*,15100000.0,1581.93,101.63,25240.57,Action game,30,1775050654,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@MartinGarrix,1,Martin Garrix,15200000.0,8781.27,372.6,416826.77,Lifestyle (sociology),30,1775050654,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Canal Nostalgia,0,,,,,,,0,1775050653,error,Could not resolve handle or username @Canal Nostalgia,,,youtube,2026,
+@With Kids[위드키즈],0,,,,,,,0,1775050653,error,Could not resolve handle or username @With Kids[위드키즈],,,youtube,2026,
+@theslowmoguys,1,The Slow Mo Guys,15000000.0,41399.55,2170.09,806330.09,Technology,11,1775050654,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@LEGO,1,LEGO,21500000.0,86.4,,2957.77,Lifestyle (sociology),30,1775050654,ok,,Lifestyle,MAPPED,youtube,2026,United Kingdom
+@mkmusicnews,1,MK MUSIC,18700000.0,361.2,15.73,10724.73,Christian music,30,1775050656,ok,,Music,MAPPED,youtube,2026,Brazil
+@Daftar Populer,0,,,,,,,0,1775050654,error,Could not resolve handle or username @Daftar Populer,,,youtube,2026,
+@Mobile Legends: Bang Bang Official,0,,,,,,,0,1775050654,error,Could not resolve handle or username @Mobile Legends: Bang Bang Official,,,youtube,2026,
+@OfficialTrapCity,1,Trap City,13900000.0,401.5,13.53,10787.0,Hip hop music,30,1775050655,ok,,Music,MAPPED,youtube,2026,Netherlands
+@inventonahoratv,1,Invento na Hora,14100000.0,26055.63,655.63,271236.77,Lifestyle (sociology),30,1775050655,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@And TV,0,,,,,,,0,1775050654,error,Could not resolve handle or username @And TV,,,youtube,2026,
+@PlayStation,1,PlayStation,16900000.0,2120.1,198.53,67788.0,Action game,30,1775050655,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@camilaloures,1,Camila Loures,16200000.0,10841.1,324.73,206968.8,Lifestyle (sociology),30,1775050656,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@Genierock,1,Genierock,17200000.0,1770.6,153.87,55374.8,Pop music,30,1775050656,ok,,Music,MAPPED,youtube,2026,Thailand
+@Fede Vigevani,0,,,,,,,0,1775050655,error,Could not resolve handle or username @Fede Vigevani,,,youtube,2026,
+@It's Mamix,0,,,,,,,0,1775050655,error,Could not resolve handle or username @It's Mamix,,,youtube,2026,
+@#Refugio Mental,0,,,,,,,0,1775050656,error,Could not resolve handle or username @#Refugio Mental,,,youtube,2026,
+@Gyan Gamingㅤ,0,,,,,,,0,1775050656,error,Could not resolve handle or username @Gyan Gamingㅤ,,,youtube,2026,
+@Maha Fun Tv,0,,,,,,,0,1775050656,error,Could not resolve handle or username @Maha Fun Tv,,,youtube,2026,
+@Johny FamilyShow,0,,,,,,,0,1775050656,error,Could not resolve handle or username @Johny FamilyShow,,,youtube,2026,
+@Arif muhammad,0,,,,,,,0,1775050656,error,Could not resolve handle or username @Arif muhammad,,,youtube,2026,
+@AM3NlC,1,AM3NlC,14200000.0,13869.8,223.3,176713.17,Lifestyle (sociology),30,1775050658,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@GMMTVSPOTLIKE,1,GMMTV OFFICIAL​​,20300000.0,6436.73,177.53,131737.57,Film,30,1775050659,ok,,Entertainment,MAPPED,youtube,2026,Thailand
+@NikkieTutorials,1,NikkieTutorials,15000000.0,286317.83,2725.3,6430777.33,Lifestyle (sociology),30,1775050657,ok,,Lifestyle,MAPPED,youtube,2026,Netherlands
+@MasterskayaNastroeny,1,Мастерская Настроения,14100000.0,1430.0,59.53,170584.0,Lifestyle (sociology),30,1775050657,ok,,Lifestyle,MAPPED,youtube,2026,Russia
+@MRamadanOfficial,1,Mohamed Ramadan I محمد رمضان,16200000.0,7316.47,300.33,411391.3,Hip hop music,30,1775050657,ok,,Music,MAPPED,youtube,2026,Egypt
+@F2Freestylers,1,Pro Football Academy – The Next Gen of Ballers!,13900000.0,560.1,10.27,40479.9,Sport,30,1775050657,ok,,Sports,MAPPED,youtube,2026,United Kingdom
+@BollywoodClassics,1,Bollywood Classics,22300000.0,51.63,2.57,6102.4,Music of Asia,30,1775050657,ok,,Music,MAPPED,youtube,2026,
+@Smile Family Spanish,0,,,,,,,0,1775050657,error,Could not resolve handle or username @Smile Family Spanish,,,youtube,2026,
+@WWWengie,1,Wengie,13200000.0,1688.78,59.83,57669.72,Entertainment,18,1775050659,ok,,Entertainment,MAPPED,youtube,2026,United States
+@thairathonline,0,,,,,,,0,1775050658,error,Could not resolve handle or username @thairathonline,,,youtube,2026,
+@Sourav Joshi Vlogs,0,,,,,,,0,1775050658,error,Could not resolve handle or username @Sourav Joshi Vlogs,,,youtube,2026,
+@TeamFilmsBhojpuri,1,Team Films Bhojpuri,17200000.0,149.43,6.5,20030.83,Music,30,1775050663,ok,,Music,MAPPED,youtube,2026,India
+@SOMOY TV,0,,,,,,,0,1775050658,error,Could not resolve handle or username @SOMOY TV,,,youtube,2026,
+@bbchindi,1,BBC News Hindi,21700000.0,3021.1,194.77,166281.23,Society,30,1775050663,ok,,Knowledge&Info,MAPPED,youtube,2026,
+@Anasala I أنس و أصالة,0,,,,,,,0,1775050658,error,Could not resolve handle or username @Anasala I أنس و أصالة,,,youtube,2026,
+@Zach Choi ASMR,0,,,,,,,0,1775050658,error,Could not resolve handle or username @Zach Choi ASMR,,,youtube,2026,
+@MAIKI021,1,MAIKI021,13800000.0,5280.12,251.5,46911.38,Lifestyle (sociology),16,1775050659,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@bomberball,1,Bie The Ska,15000000.0,3592.87,36.83,396731.87,Video game culture,30,1775050659,ok,,Tech&Gaming,MAPPED,youtube,2026,Thailand
+@Doc Tops,0,,,,,,,0,1775050659,error,Could not resolve handle or username @Doc Tops,,,youtube,2026,
+@mispastelitosyoutub,1,Mis Pastelitos,18200000.0,89380.07,2176.63,3503017.3,Food,30,1775050659,ok,,Lifestyle,MAPPED,youtube,2026,Mexico
+@CH8vdo,1,ช่อง8 : Thai Ch8,17500000.0,259.07,61.3,16197.0,Entertainment,30,1775050665,ok,,Entertainment,MAPPED,youtube,2026,Thailand
+@Трум Трум,0,,,,,,,0,1775050659,error,Could not resolve handle or username @Трум Трум,,,youtube,2026,
+@vetealaversha,1,Darkar Company Studios,14200000.0,21890.0,544.0,348304.0,Action game,2,1775050660,ok,,Tech&Gaming,MAPPED,youtube,2026,Mexico
+@ndtvindia,1,NDTV India,25000000.0,33.3,0.37,5643.03,Politics,30,1775050663,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@dangmattsmith,1,DangMattSmith,15200000.0,1179.53,134.0,58305.1,Lifestyle (sociology),30,1775050661,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@O Canal do Joãozinho - Little Angel Português,0,,,,,,,0,1775050660,error,Could not resolve handle or username @O Canal do Joãozinho - Little Angel Português,,,youtube,2026,
+@zeefilmimusic,1,Zee Music Classic,20400000.0,294.9,6.43,56775.97,Entertainment,30,1775050661,ok,,Entertainment,MAPPED,youtube,2026,India
+@Kurt Hugo Schneider,0,,,,,,,0,1775050660,error,Could not resolve handle or username @Kurt Hugo Schneider,,,youtube,2026,
+@AzzyLand,1,AzzyLand,12900000.0,,,,Entertainment,0,1775050661,ok,,Entertainment,MAPPED,youtube,2026,Canada
+@TWICE,1,TWICE,19100000.0,69681.9,917.0,1595472.07,Music,30,1775050661,ok,,Music,MAPPED,youtube,2026,
+@The World Adventures हिन्दी,0,,,,,,,0,1775050661,error,Could not resolve handle or username @The World Adventures हिन्दी,,,youtube,2026,
+@NehaKakkarOfficial,1,Neha Kakkar,416.0,,,,Music of Asia,0,1775050662,ok,,Music,MAPPED,youtube,2026,
+@Zach King,0,,,,,,,0,1775050662,error,Could not resolve handle or username @Zach King,,,youtube,2026,
+@Daily Dose Of Internet,0,,,,,,,0,1775050662,error,Could not resolve handle or username @Daily Dose Of Internet,,,youtube,2026,
+@laharimusic,1,Lahari Music,19100000.0,836.77,26.57,62542.0,Film,30,1775050664,ok,,Entertainment,MAPPED,youtube,2026,India
+@TheABSCBNNews,1,ABS-CBN News,19000000.0,5.73,0.8,263.33,Society,30,1775050663,ok,,Knowledge&Info,MAPPED,youtube,2026,Philippines
+@CNN,1,CNN,19400000.0,629.4,265.83,37621.9,Society,30,1775050663,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@NOBRU,1,nobru,156.0,,,,Sport,0,1775050663,ok,,Sports,MAPPED,youtube,2026,
+@fcbarcelona,1,FC Barcelona,25500000.0,7512.6,107.33,168191.33,Sport,30,1775050665,ok,,Sports,MAPPED,youtube,2026,
+@A2 Motivation {Arvind Arora},0,,,,,,,0,1775050663,error,Could not resolve handle or username @A2 Motivation {Arvind Arora},,,youtube,2026,
+@crashcourse,1,CrashCourse,17000000.0,3877.9,82.73,72962.77,Knowledge,30,1775050664,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@UFC,1,UFC,22000000.0,2726.03,311.37,158372.93,Mixed martial arts,30,1775050664,ok,,Sports,MAPPED,youtube,2026,United States
+@infobells,0,,,,,,,0,1775050663,error,Could not resolve handle or username @infobells,,,youtube,2026,
+@pognalishow,1,Дима Масленников  ,19500000.0,230143.9,9282.3,7329392.57,Television program,30,1775050664,ok,,Entertainment,MAPPED,youtube,2026,United States
+@TazerCraft,1,TazerCraft,15100000.0,,,,Action-adventure game,0,1775050665,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@GallinaPintadita,1,Gallina Pintadita,15200000.0,4802.0,0.0,6932674.0,Entertainment,1,1775050664,ok,,Entertainment,MAPPED,youtube,2026,
+@elcanaldePlimPlim,1,El Payaso Plim Plim,33300000.0,,0.0,953259.93,Entertainment,30,1775050665,ok,,Entertainment,MAPPED,youtube,2026,Argentina
+@RosannaPansino,1,Rosanna Pansino,14800000.0,2637.9,54.9,62122.97,Hobby,30,1775050665,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Online Job,0,,,,,,,0,1775050665,error,Could not resolve handle or username @Online Job,,,youtube,2026,
+@Kuplinov ► Play,0,,,,,,,0,1775050665,error,Could not resolve handle or username @Kuplinov ► Play,,,youtube,2026,
+@EdisonPts,1,EdisonPts,17200000.0,24281.73,1155.47,444967.57,Role-playing video game,30,1775050666,ok,,Tech&Gaming,MAPPED,youtube,2026,Russia
+@MNCTVOfficial,1,HOME MNCTV,210.0,,,,,0,1775050665,ok,,,,youtube,2026,
+@Totoy kids - Español,0,,,,,,,0,1775050665,error,Could not resolve handle or username @Totoy kids - Español,,,youtube,2026,
+@The LaBrant Fam,0,,,,,,,0,1775050665,error,Could not resolve handle or username @The LaBrant Fam,,,youtube,2026,
+@Bizarrap,1,Bizarrap,23000000.0,1055236.33,54484.67,41823223.33,Pop music,3,1775050666,ok,,Music,MAPPED,youtube,2026,Argentina
+@Wow Kidz Action,0,,,,,,,0,1775050665,error,Could not resolve handle or username @Wow Kidz Action,,,youtube,2026,
+@AtlanticVideos,1,Atlantic Records,15900000.0,3801.62,138.48,278406.9,Electronic music,21,1775050666,ok,,Music,MAPPED,youtube,2026,United States
+@Blippi Español,0,,,,,,,0,1775050666,error,Could not resolve handle or username @Blippi Español,,,youtube,2026,
+@CoryxKenshin,1,CoryxKenshin,24200000.0,407799.73,26749.0,8886720.57,Action game,30,1775050666,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@theRadBrad,1,theRadBrad,13900000.0,17382.13,1022.6,464955.6,Action-adventure game,30,1775050666,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@mymissanand,1,MyMissAnand,13900000.0,5199.27,344.53,625386.3,Entertainment,30,1775050667,ok,,Entertainment,MAPPED,youtube,2026,India
+@Narins Beauty,0,,,,,,,0,1775050666,error,Could not resolve handle or username @Narins Beauty,,,youtube,2026,
+@TV Ana Emilia,0,,,,,,,0,1775050666,error,Could not resolve handle or username @TV Ana Emilia,,,youtube,2026,
+@iloveindianmakeup,1,Anaysa,13600000.0,2600.4,111.53,302898.87,Film,30,1775050667,ok,,Entertainment,MAPPED,youtube,2026,India
+@Auron,1,Auron,15800000.0,31848.97,629.23,838365.3,Action game,30,1775050667,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@Unspeakable,1,Unspeakable,19700000.0,21601.57,1961.87,2392134.63,Entertainment,30,1775050667,ok,,Entertainment,MAPPED,youtube,2026,United States
+@narendramodionline,1,NMF News,22800000.0,669.6,128.73,24080.43,Politics,30,1775050667,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@Zig & Sharko,0,,,,,,,0,1775050667,error,Could not resolve handle or username @Zig & Sharko,,,youtube,2026,
+@The Shiny Peanut,0,,,,,,,0,1775050667,error,Could not resolve handle or username @The Shiny Peanut,,,youtube,2026,
+@djzoi0,1,Everson Zoio,13300000.0,157788.0,11517.0,1153712.0,Entertainment,1,1775050668,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@Fun For Kids TV - Hindi Rhymes,0,,,,,,,0,1775050667,error,Could not resolve handle or username @Fun For Kids TV - Hindi Rhymes,,,youtube,2026,
+@50CentMusic,1,50 Cent,18300000.0,21747.6,2678.5,607958.9,Pop music,10,1775050668,ok,,Music,MAPPED,youtube,2026,
+@News18 India,0,,,,,,,0,1775050668,error,Could not resolve handle or username @News18 India,,,youtube,2026,
+@MattSDance,1,Matt Steffanina,15400000.0,8873.97,86.0,879454.93,Lifestyle (sociology),30,1775050668,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@SaturdayNightLive,1,Saturday Night Live,17000000.0,43167.77,1184.3,1399049.03,Television program,30,1775050669,ok,,Entertainment,MAPPED,youtube,2026,United States
+@MrSuicideSheep,1,MrSuicideSheep,12700000.0,1305.3,44.77,31207.03,Independent music,30,1775050668,ok,,Music,MAPPED,youtube,2026,Canada
+@YOLO,1,YOLO,492.0,,,,,0,1775050668,ok,,,,youtube,2026,
+@MrBeast Shorts,0,,,,,,,0,1775050668,error,Could not resolve handle or username @MrBeast Shorts,,,youtube,2026,
+@SrtaLynaV,1,Lyna,24200000.0,17084.23,877.63,1365979.53,Simulation video game,30,1775050670,ok,,Tech&Gaming,MAPPED,youtube,2026,Argentina
+@MazhavilManorama,1,Mazhavil Manorama,20600000.0,12.3,0.4,1230.73,Film,30,1775050669,ok,,Entertainment,MAPPED,youtube,2026,India
+@Desi Gamers,0,,,,,,,0,1775050668,error,Could not resolve handle or username @Desi Gamers,,,youtube,2026,
+@ChallengeAcceptedInc,1,Aphmau,24700000.0,13279.53,937.77,601831.3,Action game,30,1775050669,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@The Q,0,,,,,,,0,1775050669,error,Could not resolve handle or username @The Q,,,youtube,2026,
+@Aadishakti Films,0,,,,,,,0,1775050669,error,Could not resolve handle or username @Aadishakti Films,,,youtube,2026,
+@O Que Não Dizer Oficial,0,,,,,,,0,1775050669,error,Could not resolve handle or username @O Que Não Dizer Oficial,,,youtube,2026,
+@skillzaisherebooya,1,Conor Maynard,13700000.0,7497.75,417.0,241197.5,Music,4,1775050670,ok,,Music,MAPPED,youtube,2026,United States
+@twentyonepilots,1,twenty one pilots,14200000.0,51921.87,2175.5,2031988.5,Music,30,1775050670,ok,,Music,MAPPED,youtube,2026,United States
+@#Refúgio Mental,0,,,,,,,0,1775050669,error,Could not resolve handle or username @#Refúgio Mental,,,youtube,2026,
+@ABCNews,1,ABC News,19500000.0,700.9,395.61,65789.1,Society,30,1775050670,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@DALLMYD,1,DALLMYD,13800000.0,6281.78,265.41,227178.52,Hobby,27,1775050670,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@PozzitifonShow,1,Поззи,14600000.0,38586.0,5252.0,1289181.0,Video game culture,1,1775050671,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@1032010814,0,,,,,,,0,1775050670,error,Could not resolve handle or username @1032010814,,,youtube,2026,
+@typicalgamer,1,Typical Gamer,15900000.0,1968.3,79.7,74588.43,Role-playing video game,30,1775050670,ok,,Tech&Gaming,MAPPED,youtube,2026,Canada
+@123 GO! Spanish,0,,,,,,,0,1775050670,error,Could not resolve handle or username @123 GO! Spanish,,,youtube,2026,
+@Like Nastya VNM,0,,,,,,,0,1775050670,error,Could not resolve handle or username @Like Nastya VNM,,,youtube,2026,
+@Health Time,0,,,,,,,0,1775050670,error,Could not resolve handle or username @Health Time,,,youtube,2026,
+@Dangal TV Channel,0,,,,,,,0,1775050670,error,Could not resolve handle or username @Dangal TV Channel,,,youtube,2026,
+@Wish 107.5,0,,,,,,,0,1775050670,error,Could not resolve handle or username @Wish 107.5,,,youtube,2026,
+@RedeTVhdBrasil,1,RedeTV,13700000.0,94.7,8.23,5460.4,Society,30,1775050671,ok,,Knowledge&Info,MAPPED,youtube,2026,Brazil
+@NishaMadhulika,1,NishaMadhulika,15100000.0,3136.6,267.57,222899.37,Food,30,1775050672,ok,,Lifestyle,MAPPED,youtube,2026,India
+@ETV Jabardasth,0,,,,,,,0,1775050671,error,Could not resolve handle or username @ETV Jabardasth,,,youtube,2026,
+@canalparafernalha,1,Vetor Humor,12700000.0,103.2,0.9,6272.13,Film,30,1775050671,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@Knowledge Tv हिन्दी,0,,,,,,,0,1775050671,error,Could not resolve handle or username @Knowledge Tv हिन्दी,,,youtube,2026,
+@JDCav24,1,ATHLEAN-X™,14200000.0,11113.53,322.7,387009.57,Physical fitness,30,1775050672,ok,,Sports,MAPPED,youtube,2026,United States
+@MusicTalentNow,1,Top Viral Talent,13300000.0,762.83,22.0,72682.87,Entertainment,30,1775050672,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Vlad and Niki ARA,0,,,,,,,0,1775050671,error,Could not resolve handle or username @Vlad and Niki ARA,,,youtube,2026,
+@React,1,REACT,20100000.0,3549.2,213.9,92053.2,Film,30,1775050672,ok,,Entertainment,MAPPED,youtube,2026,United States
+@zeetvtelugu,1,Zee Telugu,17800000.0,2.87,0.07,76.13,Entertainment,30,1775050673,ok,,Entertainment,MAPPED,youtube,2026,India
+@BUDI01 GAMING,0,,,,,,,0,1775050672,error,Could not resolve handle or username @BUDI01 GAMING,,,youtube,2026,
+@MstrJames,1,Hacksmith Industries,15400000.0,10476.2,107.7,208370.97,Technology,30,1775050673,ok,,Tech&Gaming,MAPPED,youtube,2026,Canada
+@Blossom,0,,,,,,,0,1775050672,error,Could not resolve handle or username @Blossom,,,youtube,2026,
+@JesseAndMike,1,JesseAndMike,13200000.0,2352.0,542.27,273818.67,Entertainment,15,1775050673,ok,,Entertainment,MAPPED,youtube,2026,United States
+@LOUD,1,WatchLOUD,240000.0,,,,Music,0,1775050673,ok,,Music,MAPPED,youtube,2026,
+@Hongyu ASMR 홍유,0,,,,,,,0,1775050672,error,Could not resolve handle or username @Hongyu ASMR 홍유,,,youtube,2026,
+@Taarak Mehta Ka Ooltah Chashmah,0,,,,,,,0,1775050672,error,Could not resolve handle or username @Taarak Mehta Ka Ooltah Chashmah,,,youtube,2026,
+@htpunjabi,1,Lokdhun Punjabi,14600000.0,12170.31,673.17,494368.87,Entertainment,30,1775050673,ok,,Entertainment,MAPPED,youtube,2026,India
+@Piuzinho,1,Piuzinho,12800000.0,23554.77,453.27,196659.3,Action-adventure game,30,1775050673,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@DisneyChannelUK,1,Disney Club UK,13700000.0,137.07,0.0,32958.83,Entertainment,30,1775050673,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@Meghan Trainor,0,,,,,,,0,1775050673,error,Could not resolve handle or username @Meghan Trainor,,,youtube,2026,
+@Juliana Baltar,0,,,,,,,0,1775050673,error,Could not resolve handle or username @Juliana Baltar,,,youtube,2026,
+@5-Minute Crafts Recycle,0,,,,,,,0,1775050673,error,Could not resolve handle or username @5-Minute Crafts Recycle,,,youtube,2026,
+@أترو/Atro,0,,,,,,,0,1775050673,error,Could not resolve handle or username @أترو/Atro,,,youtube,2026,
+@alanalan9635,1,Stokes Twins,138000000.0,492140.93,3009.87,32848924.0,Lifestyle (sociology),30,1775050674,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@BBC,1,BBC,15400000.0,344.97,7.23,11201.73,Film,30,1775050680,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@AdexeOficial,1,Adexe & Nau,12900000.0,1990.0,126.37,56382.93,Pop music,30,1775050674,ok,,Music,MAPPED,youtube,2026,Spain
+@gymvirtual,1,gymvirtual,13700000.0,1306.03,35.4,39268.8,Health,30,1775050675,ok,,Knowledge&Info,MAPPED,youtube,2026,Spain
+@einerdtv,1,Ei Nerd,14400000.0,12004.13,401.33,142902.27,Film,30,1775050676,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@Alex Gonzaga Official,0,,,,,,,0,1775050674,error,Could not resolve handle or username @Alex Gonzaga Official,,,youtube,2026,
+@Gibby :),0,,,,,,,0,1775050674,error,Could not resolve handle or username @Gibby :),,,youtube,2026,
+@LittleBabyBumEspanol,1,Little Baby Bum en Español,12500000.0,60.47,0.0,15152.43,Film,30,1775050674,ok,,Entertainment,MAPPED,youtube,2026,Spain
+@Melon City Show - برنامج ولاية بطيخ,0,,,,,,,0,1775050674,error,Could not resolve handle or username @Melon City Show - برنامج ولاية بطيخ,,,youtube,2026,
+@Troom Troom PT,0,,,,,,,0,1775050674,error,Could not resolve handle or username @Troom Troom PT,,,youtube,2026,
+@Jake Fellman,0,,,,,,,0,1775050674,error,Could not resolve handle or username @Jake Fellman,,,youtube,2026,
+@jazzghost1,1,Jazzghost,23400000.0,121536.93,8198.67,2721946.93,Role-playing video game,30,1775050676,ok,,Tech&Gaming,MAPPED,youtube,2026,
+@Like Nastya Stories,0,,,,,,,0,1775050675,error,Could not resolve handle or username @Like Nastya Stories,,,youtube,2026,
+@Bela Bagunça,0,,,,,,,0,1775050675,error,Could not resolve handle or username @Bela Bagunça,,,youtube,2026,
+@tseriesregional,1,T-Series Regional,16900000.0,226.9,23.7,124926.87,Music,30,1775050678,ok,,Music,MAPPED,youtube,2026,India
+@Brawl Stars,0,,,,,,,0,1775050675,error,Could not resolve handle or username @Brawl Stars,,,youtube,2026,
+@Crescendo com Luluca,0,,,,,,,0,1775050675,error,Could not resolve handle or username @Crescendo com Luluca,,,youtube,2026,
+@PowerfulJRE,1,PowerfulJRE,20800000.0,20576.6,6368.27,1027143.8,Entertainment,30,1775050676,ok,,Entertainment,MAPPED,youtube,2026,
+@bbcnews,1,BBC News,19600000.0,652.33,486.26,76493.2,Society,30,1775050676,ok,,Knowledge&Info,MAPPED,youtube,2026,United Kingdom
+@JustForLaughsTV,1,Just For Laughs Gags,14200000.0,1052.4,23.73,95597.6,Humour,30,1775050678,ok,,Entertainment,MAPPED,youtube,2026,United States
+@NORMAN FAIT DES VIDÉOS,0,,,,,,,0,1775050676,error,Could not resolve handle or username @NORMAN FAIT DES VIDÉOS,,,youtube,2026,
+@GoldClassics,1,Goldmines Premiere,16800000.0,58.43,,8224.27,Film,30,1775050677,ok,,Entertainment,MAPPED,youtube,2026,India
+@awakeningrecords,1,Awakening Music,15600000.0,4933.47,285.8,429010.7,Christian music,30,1775050677,ok,,Music,MAPPED,youtube,2026,United Kingdom
+@OficialPeppa,1,Peppa Pig em Português Brasil - Canal Oficial,16800000.0,57.13,,10738.07,Entertainment,30,1775050678,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@zeebangla,1,Zee Bangla,21200000.0,24.2,0.27,996.67,Film,30,1775050680,ok,,Entertainment,MAPPED,youtube,2026,India
+@MY FAMILY,0,,,,,,,0,1775050676,error,Could not resolve handle or username @MY FAMILY,,,youtube,2026,
+@Kabita's Kitchen,0,,,,,,,0,1775050677,error,Could not resolve handle or username @Kabita's Kitchen,,,youtube,2026,
+@KaKa Kids TV - Nursery Rhymes Kids Animated Songs,0,,,,,,,0,1775050677,error,Could not resolve handle or username @KaKa Kids TV - Nursery Rhymes Kids Animated Songs,,,youtube,2026,
+@EU FICO LOKO,0,,,,,,,0,1775050677,error,Could not resolve handle or username @EU FICO LOKO,,,youtube,2026,
+@Zeinab Harake,0,,,,,,,0,1775050678,error,Could not resolve handle or username @Zeinab Harake,,,youtube,2026,
+@OReinho,1,O Reino Infantil,16400000.0,149.7,0.0,40551.2,Entertainment,30,1775050679,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@HZHtube Kids Fun,0,,,,,,,0,1775050678,error,Could not resolve handle or username @HZHtube Kids Fun,,,youtube,2026,
+@HusamYK,1,Katakit Baby TV,23400000.0,121525.7,0.0,23954199.47,Film,30,1775050679,ok,,Entertainment,MAPPED,youtube,2026,Saudi Arabia
+@MrGear,1,Eula. Kestner,43.0,,,,,0,1775050679,ok,,,,youtube,2026,
+@Migosatl,1,Migos ATL,13100000.0,,,,Music,0,1775050679,ok,,Music,MAPPED,youtube,2026,
+@TheDaniRep,1,DaniRep | +6 Vídeos Diarios De GTA 5 Online!,13900000.0,4156.6,63.37,86195.27,Role-playing video game,30,1775050681,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@colinfurze,1,colinfurze,13300000.0,100765.89,4379.0,2969208.68,Hobby,19,1775050684,ok,,Lifestyle,MAPPED,youtube,2026,United Kingdom
+@Planet Earth INDIA,0,,,,,,,0,1775050679,error,Could not resolve handle or username @Planet Earth INDIA,,,youtube,2026,
+@karameeshchannel,1,karameeshchannel,17300000.0,1668.2,,233821.07,Film,30,1775050680,ok,,Entertainment,MAPPED,youtube,2026,Jordan
+@RayWilliamJohnson,1,Ray William Johnson,18700000.0,12496.97,518.73,336292.87,Society,30,1775050681,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@Lulu99,1,Lulu99,13000000.0,8976.67,451.53,286295.57,Lifestyle (sociology),30,1775050680,ok,,Lifestyle,MAPPED,youtube,2026,Colombia
+@Dear Sir,0,,,,,,,0,1775050680,error,Could not resolve handle or username @Dear Sir,,,youtube,2026,
+@officialjassrecords,1,Jass Records,14600000.0,888.77,31.83,184074.07,Lifestyle (sociology),30,1775050682,ok,,Lifestyle,MAPPED,youtube,2026,India
+@YairAuriazul,1,Yair17,14100000.0,36692.1,2302.0,679936.03,Lifestyle (sociology),30,1775050681,ok,,Lifestyle,MAPPED,youtube,2026,Mexico
+@disneyjunior,1,Dis̈̇̃n̈̇̃ë̇̃y J̈̇̃ü̇̃nï̇or̈̇̃,47.0,,,,,0,1775050680,ok,,,,youtube,2026,
+@ГЛЕНТ,0,,,,,,,0,1775050681,error,Could not resolve handle or username @ГЛЕНТ,,,youtube,2026,
+@Study IQ education,0,,,,,,,0,1775050681,error,Could not resolve handle or username @Study IQ education,,,youtube,2026,
+@Más SKabeche,0,,,,,,,0,1775050681,error,Could not resolve handle or username @Más SKabeche,,,youtube,2026,
+@My Mate Nate,0,,,,,,,0,1775050681,error,Could not resolve handle or username @My Mate Nate,,,youtube,2026,
+@FrontaL Gaming,0,,,,,,,0,1775050681,error,Could not resolve handle or username @FrontaL Gaming,,,youtube,2026,
+@Blockbuster Movies,0,,,,,,,0,1775050681,error,Could not resolve handle or username @Blockbuster Movies,,,youtube,2026,
+@JOJO TV - Hindi Stories,0,,,,,,,0,1775050681,error,Could not resolve handle or username @JOJO TV - Hindi Stories,,,youtube,2026,
+@AvrilLavigne,1,Avril Lavigne,13500000.0,45554.5,2493.2,1338819.4,Pop music,10,1775050682,ok,,Music,MAPPED,youtube,2026,
+@Dani Russo Tv,0,,,,,,,0,1775050682,error,Could not resolve handle or username @Dani Russo Tv,,,youtube,2026,
+@Wolfoo Channel,0,,,,,,,0,1775050682,error,Could not resolve handle or username @Wolfoo Channel,,,youtube,2026,
+@MORGENSHTERN,1,Канал продается!,457.0,,,,,0,1775050682,ok,,,,youtube,2026,Russia
+@rebeccazamolo1,1,Rebecca Zamolo,21600000.0,74889.83,2051.97,6058809.17,Entertainment,30,1775050683,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Ice Cream Rolls,0,,,,,,,0,1775050682,error,Could not resolve handle or username @Ice Cream Rolls,,,youtube,2026,
+@TommyInnit,1,TommyInnit,15000000.0,22991.17,797.83,283417.33,Lifestyle (sociology),30,1775050683,ok,,Lifestyle,MAPPED,youtube,2026,United Kingdom
+@Morgz,1,Morgz,12600000.0,1351.2,116.6,76208.2,Lifestyle (sociology),30,1775050683,ok,,Lifestyle,MAPPED,youtube,2026,United Kingdom
+@TheInfographicsShow,1,The Infographics Show,15400000.0,4800.87,815.07,223068.03,Society,30,1775050683,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@1veritasium,1,Veritasium,20500000.0,207732.67,11119.07,7578946.03,Knowledge,30,1775050683,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@Come Play With Me,0,,,,,,,0,1775050682,error,Could not resolve handle or username @Come Play With Me,,,youtube,2026,
+@hamaarbhojpuri,1,T-Series Hamaar Bhojpuri,23800000.0,8855.47,361.5,530696.9,Music of Asia,30,1775050685,ok,,Music,MAPPED,youtube,2026,India
+@Troom Troom India,0,,,,,,,0,1775050683,error,Could not resolve handle or username @Troom Troom India,,,youtube,2026,
+@YOLO AVENTURAS,0,,,,,,,0,1775050683,error,Could not resolve handle or username @YOLO AVENTURAS,,,youtube,2026,
+@TheDodoSite,1,The Dodo,18300000.0,7991.23,301.33,193823.83,Entertainment,30,1775050684,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Panda,1,HybridPanda,504000.0,27.93,1.13,893.63,Action-adventure game,30,1775050684,ok,,Tech&Gaming,MAPPED,youtube,2026,United Kingdom
+@Troom Troom Indonesia,0,,,,,,,0,1775050683,error,Could not resolve handle or username @Troom Troom Indonesia,,,youtube,2026,
+@RaptorGamer,1,RaptorGamer,15700000.0,1706.77,94.3,40044.77,Action-adventure game,30,1775050684,ok,,Tech&Gaming,MAPPED,youtube,2026,Ecuador
+@CrazyRussianHacker,1,CrazyRussianHacker,12000000.0,7427.13,150.67,574568.9,Technology,30,1775050684,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Kluna Tik,0,,,,,,,0,1775050684,error,Could not resolve handle or username @Kluna Tik,,,youtube,2026,
+@Codiscos,1,Codiscos,17000000.0,220.97,5.97,23790.67,Music of Latin America,30,1775050686,ok,,Music,MAPPED,youtube,2026,Colombia
+@Garena Free Fire LATAM,0,,,,,,,0,1775050684,error,Could not resolve handle or username @Garena Free Fire LATAM,,,youtube,2026,
+@LIV Crime,0,,,,,,,0,1775050684,error,Could not resolve handle or username @LIV Crime,,,youtube,2026,
+@hoiitsroi,1,Alex Wassabi,11300000.0,1332.9,81.93,30404.97,Entertainment,30,1775050685,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Nat and Essie,0,,,,,,,0,1775050684,error,Could not resolve handle or username @Nat and Essie,,,youtube,2026,
+@thinkmusicindia,1,Think Music India,22200000.0,18300.4,527.63,1439324.67,Music of Asia,30,1775050686,ok,,Music,MAPPED,youtube,2026,India
+@The MriDul,0,,,,,,,0,1775050685,error,Could not resolve handle or username @The MriDul,,,youtube,2026,
+@BanderitaX,1,BanderitaX,20500000.0,60777.33,2757.77,1502076.67,Role-playing video game,30,1775050685,ok,,Tech&Gaming,MAPPED,youtube,2026,Saudi Arabia
+@Americanvogue,1,Vogue,16300000.0,18775.67,549.33,347407.97,Entertainment,30,1775050685,ok,,Entertainment,MAPPED,youtube,2026,United States
+@luansantanaoficial,1,Luan Santana,13400000.0,2228.2,110.3,92048.27,Music of Latin America,30,1775050686,ok,,Music,MAPPED,youtube,2026,United States
+@FIFATV,1,FIFA,24800000.0,993.83,94.3,54643.63,Association football,30,1775050686,ok,,Sports,MAPPED,youtube,2026,Switzerland
+@Davie504,1,Davie504,13800000.0,76276.7,2376.63,1759458.93,Music,30,1775050686,ok,,Music,MAPPED,youtube,2026,Italy
+@Mor Haryanvi,0,,,,,,,0,1775050686,error,Could not resolve handle or username @Mor Haryanvi,,,youtube,2026,
+@ExpCaseros,1,ExpCaseros,11200000.0,1074.0,97.0,65521.0,Lifestyle (sociology),1,1775050687,ok,,Lifestyle,MAPPED,youtube,2026,Spain
+@TsMadaan,1,TsMadaan,11800000.0,214.53,52.8,15724.6,Lifestyle (sociology),30,1775050687,ok,,Lifestyle,MAPPED,youtube,2026,India
+@Koo Koo TV - Hindi,0,,,,,,,0,1775050686,error,Could not resolve handle or username @Koo Koo TV - Hindi,,,youtube,2026,
+@CHHOTU KI MASTI,0,,,,,,,0,1775050686,error,Could not resolve handle or username @CHHOTU KI MASTI,,,youtube,2026,
+@Mythpat,1,Mythpat,17000000.0,86816.38,11482.15,4419231.62,Action game,13,1775050687,ok,,Tech&Gaming,MAPPED,youtube,2026,India
+@ndtv,1,NDTV,15700000.0,85.33,3.7,3653.23,Politics,30,1775050688,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@Ya - Alisa,0,,,,,,,0,1775050686,error,Could not resolve handle or username @Ya - Alisa,,,youtube,2026,
+@Coke Studio,0,,,,,,,0,1775050686,error,Could not resolve handle or username @Coke Studio,,,youtube,2026,
+@DeGoBooM,1,DeGoBooM,23700000.0,4832.1,280.8,462543.43,Casual game,30,1775050687,ok,,Tech&Gaming,MAPPED,youtube,2026,Chile
+@htbhakti,1,Sonotek Bhakti,15800000.0,353.57,41.0,29189.03,Religion,30,1775050690,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@MrTimbaVk,1,Timba Vk,13700000.0,6099.37,343.73,218456.0,Role-playing video game,30,1775050688,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@Yudist Ardhana,0,,,,,,,0,1775050687,error,Could not resolve handle or username @Yudist Ardhana,,,youtube,2026,
+@elrubius,1,Rubius Z,14200000.0,117674.43,3592.6,2403542.07,Role-playing video game,30,1775050688,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@Trakin Tech,0,,,,,,,0,1775050687,error,Could not resolve handle or username @Trakin Tech,,,youtube,2026,
+@FelipeViktor,1,LipaoGamer,13800000.0,4207.27,134.33,149708.5,Racing video game,30,1775050690,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@CaptainSparklez,1,CaptainSparklez,11400000.0,9440.08,708.25,164613.83,Action-adventure game,24,1775050688,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@ماشا و الدب,0,,,,,,,0,1775050688,error,Could not resolve handle or username @ماشا و الدب,,,youtube,2026,
+@MBCMASR,1,MBC مصر,13600000.0,142.33,17.17,14713.93,Entertainment,30,1775050692,ok,,Entertainment,MAPPED,youtube,2026,Egypt
+@eltreceok,1,eltrece,14500000.0,108.3,14.8,5238.73,Entertainment,30,1775050691,ok,,Entertainment,MAPPED,youtube,2026,Argentina
+@Infobells Bangla,0,,,,,,,0,1775050688,error,Could not resolve handle or username @Infobells Bangla,,,youtube,2026,
+@MTV2,1,Wild 'N Out,15300000.0,2595.27,75.03,194509.73,Hip hop music,30,1775050689,ok,,Music,MAPPED,youtube,2026,United States
+@DANIEL EL TRAVIESO VIDEOS,0,,,,,,,0,1775050688,error,Could not resolve handle or username @DANIEL EL TRAVIESO VIDEOS,,,youtube,2026,
+@UnspeakableGaming,1,UnspeakableReacts,11600000.0,3023.53,209.13,239807.37,Entertainment,30,1775050690,ok,,Entertainment,MAPPED,youtube,2026,United States
+@luzugames,1,luzugames,11000000.0,,,,Action-adventure game,0,1775050689,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@lokdhuntv,1,Wave Music Bhakti ,14000000.0,33.37,3.13,4436.27,Music,30,1775050690,ok,,Music,MAPPED,youtube,2026,India
+@gmanews,1,GMA News,17900000.0,81.4,13.7,7448.07,Television program,30,1775050693,ok,,Entertainment,MAPPED,youtube,2026,Philippines
+@Sony Music South,0,,,,,,,0,1775050690,error,Could not resolve handle or username @Sony Music South,,,youtube,2026,
+@VyQwaint,1,Vy Qwaint,12900000.0,21606.83,3301.9,2548480.23,Entertainment,30,1775050691,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Wolfoo Family,0,,,,,,,0,1775050690,error,Could not resolve handle or username @Wolfoo Family,,,youtube,2026,
+@KompasTVNews,1,KOMPASTV,19900000.0,28.1,17.7,2796.5,Society,30,1775050694,ok,,Knowledge&Info,MAPPED,youtube,2026,Indonesia
+@MaJa Tv Hindi Stories,0,,,,,,,0,1775050690,error,Could not resolve handle or username @MaJa Tv Hindi Stories,,,youtube,2026,
+@Hero Movies 2022,0,,,,,,,0,1775050691,error,Could not resolve handle or username @Hero Movies 2022,,,youtube,2026,
+@Rauw Alejandro,0,,,,,,,0,1775050691,error,Could not resolve handle or username @Rauw Alejandro,,,youtube,2026,
+@الجانب المُشرق | Bright Side Arabic,0,,,,,,,0,1775050691,error,Could not resolve handle or username @الجانب المُشرق | Bright Side Arabic,,,youtube,2026,
+@123 GO!,0,,,,,,,0,1775050691,error,Could not resolve handle or username @123 GO!,,,youtube,2026,
+@TastyCompot,1,Компот,17300000.0,21345.5,1902.43,551994.73,Role-playing video game,30,1775050692,ok,,Tech&Gaming,MAPPED,youtube,2026,United Arab Emirates
+@办公室小野 Ms Yeah,0,,,,,,,0,1775050691,error,Could not resolve handle or username @办公室小野 Ms Yeah,,,youtube,2026,
+@epicfortnite,1,Fortnite,13400000.0,9384.17,336.47,251700.1,Role-playing video game,30,1775050693,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Magic Five,0,,,,,,,0,1775050691,error,Could not resolve handle or username @Magic Five,,,youtube,2026,
+@Biperysusamigos,1,Biper y sus Amigos,15400000.0,6928.48,0.0,1063867.97,Film,30,1775050692,ok,,Entertainment,MAPPED,youtube,2026,United States
+@crackrockcandy,1,Maymo,12100000.0,1940.9,77.9,1015923.6,Lifestyle (sociology),20,1775050693,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@FirstWeFeast,1,First We Feast,15300000.0,5057.87,239.57,207385.23,Film,30,1775050692,ok,,Entertainment,MAPPED,youtube,2026,
+@realannoyingorange,1,Annoying Orange,13700000.0,4210.53,579.63,191253.17,Film,30,1775050694,ok,,Entertainment,MAPPED,youtube,2026,United States
+@ElRinconDeGiorgio,1,El Rincón De Giorgio,12300000.0,80642.92,2329.62,1396707.92,Role-playing video game,13,1775050693,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@ExplosmEntertainment,1,ExplosmEntertainment,12900000.0,20525.93,208.57,442312.17,Film,30,1775050694,ok,,Entertainment,MAPPED,youtube,2026,
+@Jaiden Animations,0,,,,,,,0,1775050693,error,Could not resolve handle or username @Jaiden Animations,,,youtube,2026,
+@Emily Tube,0,,,,,,,0,1775050693,error,Could not resolve handle or username @Emily Tube,,,youtube,2026,
+@yogawithadriene,1,Yoga With Adriene,13500000.0,10436.83,465.83,410140.8,Health,30,1775050694,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@Mo Vlogs,0,,,,,,,0,1775050693,error,Could not resolve handle or username @Mo Vlogs,,,youtube,2026,
+@Star Casablanca | نجوم الدار البيضاء,0,,,,,,,0,1775050693,error,Could not resolve handle or username @Star Casablanca | نجوم الدار البيضاء,,,youtube,2026,
+@BBCEarth,1,BBC Earth,14400000.0,2121.97,120.33,225975.1,Lifestyle (sociology),30,1775050695,ok,,Lifestyle,MAPPED,youtube,2026,United Kingdom
+@Morphle TV,0,,,,,,,0,1775050694,error,Could not resolve handle or username @Morphle TV,,,youtube,2026,
+@Free Fire India Official,0,,,,,,,0,1775050694,error,Could not resolve handle or username @Free Fire India Official,,,youtube,2026,
+@YMWayneCarter,1,Lil Wayne,14300000.0,27356.21,2601.42,1584364.0,Music,24,1775050695,ok,,Music,MAPPED,youtube,2026,United States
+@GoldminesAction,0,,,,,,,0,1775050694,error,Could not resolve handle or username @GoldminesAction,,,youtube,2026,
+@coisadenerd,1,Coisa de Nerd,11100000.0,51033.21,788.29,524776.71,Lifestyle (sociology),14,1775050695,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@Vlad and Niki ESP,0,,,,,,,0,1775050694,error,Could not resolve handle or username @Vlad and Niki ESP,,,youtube,2026,
+@Alejo Igoa,0,,,,,,,0,1775050694,error,Could not resolve handle or username @Alejo Igoa,,,youtube,2026,
+@Simone e Simaria,0,,,,,,,0,1775050694,error,Could not resolve handle or username @Simone e Simaria,,,youtube,2026,
+@YoungBoy Never Broke Again,0,,,,,,,0,1775050695,error,Could not resolve handle or username @YoungBoy Never Broke Again,,,youtube,2026,
+@TheViralFeverVideos,1,The Viral Fever,13100000.0,658.63,36.67,26130.83,Film,30,1775050696,ok,,Entertainment,MAPPED,youtube,2026,India
+@hawkrecord,1,Single Track Studio,13200000.0,1282.17,45.58,193861.96,Hip hop music,24,1775050696,ok,,Music,MAPPED,youtube,2026,India
+@Avocado Couple I Crazy Comics,0,,,,,,,0,1775050695,error,Could not resolve handle or username @Avocado Couple I Crazy Comics,,,youtube,2026,
+@mirandasings08,1,Miranda Sings,10400000.0,,,,Entertainment,0,1775050696,ok,,Entertainment,MAPPED,youtube,2026,
+@watchcut,1,Cut,12300000.0,15873.8,699.17,506385.07,Entertainment,30,1775050696,ok,,Entertainment,MAPPED,youtube,2026,United States
+@oyabakatousan,1,せんももあいしーチャンネル,11200000.0,,0.44,98374.4,Food,30,1775050696,ok,,Lifestyle,MAPPED,youtube,2026,Japan
+@pocoyotv,1,Pocoyó 🇪🇸 Español - Canal Oficial,15100000.0,1608.0,0.0,377888.47,Entertainment,30,1775050696,ok,,Entertainment,MAPPED,youtube,2026,Spain
+@MashaBearUkraine,1,Маша та Ведмідь,18300000.0,620.33,0.0,130562.83,Television program,30,1775050696,ok,,Entertainment,MAPPED,youtube,2026,Ukraine
+@chotoonz,1,Chotoonz TV - Funny Cartoons ,11100000.0,54.1,5.29,3971.7,Television program,30,1775050697,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Луномосик,0,,,,,,,0,1775050696,error,Could not resolve handle or username @Луномосик,,,youtube,2026,
+@barbie,1,Barbie,13200000.0,120.4,0.0,13506.97,Film,30,1775050697,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Technology Gyan,0,,,,,,,0,1775050696,error,Could not resolve handle or username @Technology Gyan,,,youtube,2026,
+@TygaTygaTV,1,Tyga,12000000.0,820.75,36.9,30311.7,Pop music,20,1775050697,ok,,Music,MAPPED,youtube,2026,United States
+@comedycentral,1,Comedy Central,12500000.0,232.07,8.1,17810.83,Entertainment,30,1775050697,ok,,Entertainment,MAPPED,youtube,2026,United States
+@DemolitionRanch,1,DemolitionRanch,11700000.0,,,,Lifestyle (sociology),0,1775050697,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@RapGeniusVideo,1,Genius,12300000.0,7683.63,322.27,96103.6,Hip hop music,30,1775050697,ok,,Music,MAPPED,youtube,2026,United States
+@WiederDude,1,WiederDude,15300000.0,3207.9,105.07,291212.37,Role-playing video game,30,1775050697,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@E-MasterSensei,0,,,,,,,0,1775050697,error,Could not resolve handle or username @E-MasterSensei,,,youtube,2026,
+@CarryisLive,1,CarryisLive,12300000.0,20051.3,227.4,409925.87,Role-playing video game,30,1775050698,ok,,Tech&Gaming,MAPPED,youtube,2026,India
+@Juanpa Zurita,0,,,,,,,0,1775050697,error,Could not resolve handle or username @Juanpa Zurita,,,youtube,2026,
+@BakLol Video,0,,,,,,,0,1775050697,error,Could not resolve handle or username @BakLol Video,,,youtube,2026,
+@HellomaphieMX,1,HellomaphieMX,11100000.0,296.44,13.06,19545.67,Hobby,18,1775050698,ok,,Lifestyle,MAPPED,youtube,2026,Mexico
+@Levinho,1,Levinho,11800000.0,3187.1,337.6,116262.03,Action game,30,1775050698,ok,,Tech&Gaming,MAPPED,youtube,2026,Sweden
+@jpgameplayfull,1,JP Plays,11800000.0,578.9,20.7,228442.43,Action-adventure game,30,1775050698,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@Dan Rhodes,0,,,,,,,0,1775050698,error,Could not resolve handle or username @Dan Rhodes,,,youtube,2026,
+@geonews,1,Geo News,20800000.0,69.03,1.4,3221.23,Society,30,1775050698,ok,,Knowledge&Info,MAPPED,youtube,2026,Pakistan
+@ToysPlay,1,ToysPlay,13400000.0,1597.37,,3459101.5,Hobby,30,1775050698,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@bharatzkitchen HINDI,0,,,,,,,0,1775050698,error,Could not resolve handle or username @bharatzkitchen HINDI,,,youtube,2026,
+@Área Secreta,0,,,,,,,0,1775050698,error,Could not resolve handle or username @Área Secreta,,,youtube,2026,
+@Virgínia Fonseca,0,,,,,,,0,1775050698,error,Could not resolve handle or username @Virgínia Fonseca,,,youtube,2026,
+@programagalofrito,1,Galo Frito,10900000.0,3344.96,150.19,37974.54,Entertainment,26,1775050699,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@FilmTheorists,1,The Film Theorists,13400000.0,24978.13,922.3,654318.8,Lifestyle (sociology),30,1775050699,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@videogyan,1,Videogyan - Nursery Rhymes,13500000.0,854.57,0.0,189896.17,Entertainment,30,1775050699,ok,,Entertainment,MAPPED,youtube,2026,India
+@GamesEduUu,1,Games EduUu,12600000.0,124943.47,3569.7,1113266.17,Role-playing video game,30,1775050699,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@MC Divertida,0,,,,,,,0,1775050699,error,Could not resolve handle or username @MC Divertida,,,youtube,2026,
+@kidstvindia,1,Kids TV India Hindi Nursery Rhymes,20800000.0,786.7,0.0,83683.53,Music,30,1775050700,ok,,Music,MAPPED,youtube,2026,India
+@TiempodeSol,1,Duo Tiempo De Sol,14800000.0,812.83,0.0,132180.33,Lifestyle (sociology),30,1775050700,ok,,Lifestyle,MAPPED,youtube,2026,
+"@Baby Big Mouth Kids - Sing, Dance, Explore",0,,,,,,,0,1775050699,error,"Could not resolve handle or username @Baby Big Mouth Kids - Sing, Dance, Explore",,,youtube,2026,
+@Quantum Tech HD,0,,,,,,,0,1775050699,error,Could not resolve handle or username @Quantum Tech HD,,,youtube,2026,
+@ComedyShortsGamer,1,Deji,12600000.0,24192.9,1214.9,638722.37,Film,30,1775050700,ok,,Entertainment,MAPPED,youtube,2026,
+@HikakinTV,1,HikakinTV,19600000.0,32447.27,1386.87,1993271.73,Lifestyle (sociology),30,1775050700,ok,,Lifestyle,MAPPED,youtube,2026,
+@storybots,1,Netflix Jr.,25200000.0,822.13,0.0,150398.73,Film,30,1775050700,ok,,Entertainment,MAPPED,youtube,2026,
+@GoProCamera,1,GoPro,11300000.0,4352.87,147.4,256945.5,Hobby,30,1775050701,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Slogomanify,1,Slogo,11700000.0,3740.6,270.73,99227.0,Role-playing video game,30,1775050701,ok,,Tech&Gaming,MAPPED,youtube,2026,United Kingdom
+@tomiii 11,0,,,,,,,0,1775050700,error,Could not resolve handle or username @tomiii 11,,,youtube,2026,
+@Narendra Modi,0,,,,,,,0,1775050700,error,Could not resolve handle or username @Narendra Modi,,,youtube,2026,
+@Dobre Brothers,0,,,,,,,0,1775050700,error,Could not resolve handle or username @Dobre Brothers,,,youtube,2026,
+@OGGY,1,OGGY,13700000.0,1044.9,0.0,166763.6,Entertainment,30,1775050701,ok,,Entertainment,MAPPED,youtube,2026,
+@OYUNCAKOYNUYORUM,0,,,,,,,0,1775050701,error,Could not resolve handle or username @OYUNCAKOYNUYORUM,,,youtube,2026,
+@Experienced Mojaraba TV,0,,,,,,,0,1775050701,error,Could not resolve handle or username @Experienced Mojaraba TV,,,youtube,2026,
+@rangeldovine,1,Lucas Rangel,13000000.0,49500.7,669.87,1907937.0,Lifestyle (sociology),30,1775050702,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@NEXT9NEWS हर खबर आप तक,0,,,,,,,0,1775050701,error,Could not resolve handle or username @NEXT9NEWS हर खबर आप तक,,,youtube,2026,
+@Jessica Jane,0,,,,,,,0,1775050701,error,Could not resolve handle or username @Jessica Jane,,,youtube,2026,
+@Ceylin - H Official,0,,,,,,,0,1775050701,error,Could not resolve handle or username @Ceylin - H Official,,,youtube,2026,
+@stampylonghead,1,stampylonghead,10900000.0,24476.5,1625.5,313347.0,Action game,2,1775050702,ok,,Tech&Gaming,MAPPED,youtube,2026,
+@Flamingo,1,Flamingo,14400000.0,62810.03,5090.87,1565190.47,Action-adventure game,30,1775050702,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Golemcito Games,0,,,,,,,0,1775050701,error,Could not resolve handle or username @Golemcito Games,,,youtube,2026,
+@Daniel LaBelle,0,,,,,,,0,1775050701,error,Could not resolve handle or username @Daniel LaBelle,,,youtube,2026,
+@Vox,1,Vox,12700000.0,1016.93,68.1,43096.07,Politics,30,1775050702,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@craftingeek,1,Craftingeek*,10500000.0,1248.03,13.53,136137.9,Hobby,30,1775050702,ok,,Lifestyle,MAPPED,youtube,2026,Mexico
+@francinyehlke,1,Franciny Ehlke,12100000.0,71042.9,1229.53,1577872.63,Lifestyle (sociology),30,1775050703,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@BuzzFeedYellow,1,As/Is,10100000.0,,,,Entertainment,0,1775050702,ok,,Entertainment,MAPPED,youtube,2026,United States
+@doctruyencotich,1,Kênh Thiếu Nhi - BHMEDIA,14700000.0,225.73,0.0,62490.1,Music,30,1775050704,ok,,Music,MAPPED,youtube,2026,Vietnam
+@ChillStepNation,1,Chill Nation,10800000.0,460.5,10.93,21061.03,Pop music,30,1775050703,ok,,Music,MAPPED,youtube,2026,United States
+@Acenix,1,Acenix,16700000.0,15336.2,600.9,813178.97,Role-playing video game,30,1775050703,ok,,Tech&Gaming,MAPPED,youtube,2026,Spain
+@Taylor RS,0,,,,,,,0,1775050702,error,Could not resolve handle or username @Taylor RS,,,youtube,2026,
+@pinkfongko,1,핑크퐁 (인기 동요・동화),16400000.0,1046.97,0.0,199212.13,Music,30,1775050704,ok,,Music,MAPPED,youtube,2026,South Korea
+@SaraBeautyCorner,1,"SaraBeautyCorner - DIY, Comedy, Makeup, Nail Art",10600000.0,4986.33,124.33,110787.33,Lifestyle (sociology),3,1775050703,ok,,Lifestyle,MAPPED,youtube,2026,
+@WarnerBrosPictures,1,Warner Bros.,12800000.0,22886.3,1158.17,2391569.1,Entertainment,30,1775050704,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Google,1,Google,14100000.0,912.1,73.44,82063.1,Lifestyle (sociology),30,1775050703,ok,,Lifestyle,MAPPED,youtube,2026,
+@redbull,1,Red Bull,27700000.0,130904.2,959.13,7665041.4,Motorsport,30,1775050704,ok,,Sports,MAPPED,youtube,2026,Austria
+@LA DIVAZA,0,,,,,,,0,1775050703,error,Could not resolve handle or username @LA DIVAZA,,,youtube,2026,
+@CJENMMUSIC,1,Stone Music Entertainment,11100000.0,839.7,47.8,11960.07,Music of Asia,30,1775050704,ok,,Music,MAPPED,youtube,2026,South Korea
+@telugufilmnagar,1,Telugu Filmnagar,16400000.0,54.17,0.5,5661.47,Entertainment,30,1775050708,ok,,Entertainment,MAPPED,youtube,2026,India
+@brancoala,1,Brancoala,13700000.0,10573.23,846.7,554828.1,Action game,30,1775050705,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
+@Kids smile TV,0,,,,,,,0,1775050704,error,Could not resolve handle or username @Kids smile TV,,,youtube,2026,
+@soicon295,1,Magnet World,11200000.0,61.67,2.7,8427.43,Lifestyle (sociology),30,1775050705,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Sidhu Moose Wala,0,,,,,,,0,1775050704,error,Could not resolve handle or username @Sidhu Moose Wala,,,youtube,2026,
+@AlArabiya,1,AlArabiya العربية,19000000.0,49.97,8.37,4215.93,Society,30,1775050708,ok,,Knowledge&Info,MAPPED,youtube,2026,United Arab Emirates
+@Troom Troom Arabic,0,,,,,,,0,1775050705,error,Could not resolve handle or username @Troom Troom Arabic,,,youtube,2026,
+@MeKcanal,1,Matheus e Kauan,11300000.0,301.07,18.33,20479.23,Pop music,30,1775050706,ok,,Music,MAPPED,youtube,2026,Brazil
+@DuDuPopTOY,1,DuDuPopTOY,11300000.0,,,,Film,0,1775050705,ok,,Entertainment,MAPPED,youtube,2026,South Korea
+@Playing with Rafael,0,,,,,,,0,1775050705,error,Could not resolve handle or username @Playing with Rafael,,,youtube,2026,
+@Jamuna TV,0,,,,,,,0,1775050705,error,Could not resolve handle or username @Jamuna TV,,,youtube,2026,
+@Cris Devil Gamer,0,,,,,,,0,1775050705,error,Could not resolve handle or username @Cris Devil Gamer,,,youtube,2026,
+@prantoniojunior,1,Pastor Antônio Júnior,16000000.0,16712.03,2253.67,105916.43,Society,30,1775050706,ok,,Knowledge&Info,MAPPED,youtube,2026,Brazil
+@Pari's Lifestyle,0,,,,,,,0,1775050705,error,Could not resolve handle or username @Pari's Lifestyle,,,youtube,2026,
+@sbtthenoite,1,The Noite com Danilo Gentili,13600000.0,10130.17,357.77,212388.33,Film,30,1775050706,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@HISHEdotcom,1,How It Should Have Ended,10500000.0,26382.52,1001.14,566319.66,Entertainment,29,1775050706,ok,,Entertainment,MAPPED,youtube,2026,United States
+@penguinz0,1,penguinz0,17900000.0,63230.97,5915.77,1521260.23,Action game,30,1775050706,ok,,Tech&Gaming,MAPPED,youtube,2026,
+@destinws2,1,SmarterEveryDay,11800000.0,93350.83,10168.67,2686602.83,Technology,6,1775050707,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Flowers Comedy,0,,,,,,,0,1775050706,error,Could not resolve handle or username @Flowers Comedy,,,youtube,2026,
+@lucygerardi43,1,Luli Pampín,21300000.0,9424.33,0.0,1578109.63,Entertainment,30,1775050707,ok,,Entertainment,MAPPED,youtube,2026,Spain
+@cbstvdinsideedition,1,Inside Edition,13800000.0,1318.93,284.6,104027.3,Society,30,1775050710,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@Oum Walid,0,,,,,,,0,1775050707,error,Could not resolve handle or username @Oum Walid,,,youtube,2026,
+@Lofi Girl,0,,,,,,,0,1775050707,error,Could not resolve handle or username @Lofi Girl,,,youtube,2026,
+@TwinRoozi 쌍둥이 루지,0,,,,,,,0,1775050707,error,Could not resolve handle or username @TwinRoozi 쌍둥이 루지,,,youtube,2026,
+@infobellskannada,1,infobells - Kannada,17600000.0,1298.43,0.0,243821.53,Entertainment,30,1775050708,ok,,Entertainment,MAPPED,youtube,2026,India
+@Mrwhosetheboss,1,Mrwhosetheboss,22300000.0,144993.23,3638.1,4913453.93,Technology,30,1775050708,ok,,Tech&Gaming,MAPPED,youtube,2026,United Kingdom
+@TikTak Draw,0,,,,,,,0,1775050707,error,Could not resolve handle or username @TikTak Draw,,,youtube,2026,
+@sagahits,1,SagaHits,13800000.0,113.8,5.8,11862.33,Entertainment,30,1775050708,ok,,Entertainment,MAPPED,youtube,2026,India
+@Sab kuchh sikho jano,0,,,,,,,0,1775050708,error,Could not resolve handle or username @Sab kuchh sikho jano,,,youtube,2026,
+@zeetamil,1,Zee Tamil,17700000.0,859.27,6.3,34310.7,Film,30,1775050711,ok,,Entertainment,MAPPED,youtube,2026,India
+@Milena Stepanienco - MILENINHA,0,,,,,,,0,1775050708,error,Could not resolve handle or username @Milena Stepanienco - MILENINHA,,,youtube,2026,
+@Wylsacom,1,Wylsacom,11500000.0,7891.73,1142.5,339005.13,Lifestyle (sociology),30,1775050709,ok,,Lifestyle,MAPPED,youtube,2026,Russia
+@TWO SIDE GAMERS,0,,,,,,,0,1775050708,error,Could not resolve handle or username @TWO SIDE GAMERS,,,youtube,2026,
+@aljazeerachannel,1,AlJazeera Arabic  قناة الجزيرة,23000000.0,98.4,10.57,4496.73,Society,30,1775050709,ok,,Knowledge&Info,MAPPED,youtube,2026,Qatar
+@cleanbandit,1,Clean Bandit,10800000.0,7078.3,149.6,460086.85,Lifestyle (sociology),20,1775050709,ok,,Lifestyle,MAPPED,youtube,2026,
+@JessicaJulioeBaby,1,Laurinha e Helena - Clubinho da Laura,10800000.0,3728.4,262.27,328167.77,Lifestyle (sociology),30,1775050710,ok,,Lifestyle,MAPPED,youtube,2026,Brazil
+@Rawan and Rayan,0,,,,,,,0,1775050709,error,Could not resolve handle or username @Rawan and Rayan,,,youtube,2026,
+@T-STUDIO,0,,,,,,,0,1775050709,error,Could not resolve handle or username @T-STUDIO,,,youtube,2026,
+@TV9 Bharatvarsh,0,,,,,,,0,1775050709,error,Could not resolve handle or username @TV9 Bharatvarsh,,,youtube,2026,
+@AsapSCIENCE,1,AsapSCIENCE,10800000.0,10475.13,1161.2,253548.8,Lifestyle (sociology),30,1775050710,ok,,Lifestyle,MAPPED,youtube,2026,
+@Caso Cerrado,0,,,,,,,0,1775050710,error,Could not resolve handle or username @Caso Cerrado,,,youtube,2026,
+@DalasReview,1,Dalas Review,11000000.0,8361.53,578.37,159654.37,Politics,30,1775050710,ok,,Knowledge&Info,MAPPED,youtube,2026,Spain
+@francoescamilla,1,Franco Escamilla,14200000.0,2982.63,65.03,101321.93,Film,30,1775050711,ok,,Entertainment,MAPPED,youtube,2026,Mexico
+@Pinkfong en español - Canciones Infantiles,0,,,,,,,0,1775050710,error,Could not resolve handle or username @Pinkfong en español - Canciones Infantiles,,,youtube,2026,
+@BE AMAZED,0,,,,,,,0,1775050710,error,Could not resolve handle or username @BE AMAZED,,,youtube,2026,
+@Pen Multiplex,0,,,,,,,0,1775050710,error,Could not resolve handle or username @Pen Multiplex,,,youtube,2026,
+@0214mex,1,はじめしゃちょー（hajime）,16300000.0,14895.13,493.9,998503.8,Lifestyle (sociology),30,1775050711,ok,,Lifestyle,MAPPED,youtube,2026,Japan
+@Republic Bharat,0,,,,,,,0,1775050710,error,Could not resolve handle or username @Republic Bharat,,,youtube,2026,
+@Captain Watch Hits,0,,,,,,,0,1775050711,error,Could not resolve handle or username @Captain Watch Hits,,,youtube,2026,
+@Влад и Никита,0,,,,,,,0,1775050711,error,Could not resolve handle or username @Влад и Никита,,,youtube,2026,
+@Dynamo Gaming,0,,,,,,,0,1775050711,error,Could not resolve handle or username @Dynamo Gaming,,,youtube,2026,
+@TomorrowlandChannel,1,Tomorrowland,12000000.0,548.4,80.47,15942.3,Music,30,1775050712,ok,,Music,MAPPED,youtube,2026,United Kingdom
+@VitalyzdTv,1,VitalyzdTv,10100000.0,,,,Humour,0,1775050711,ok,,Entertainment,MAPPED,youtube,2026,United States
+@вДудь,0,,,,,,,0,1775050711,error,Could not resolve handle or username @вДудь,,,youtube,2026,
+@atv,1,hkatv,28600.0,,,,Entertainment,0,1775050712,ok,,Entertainment,MAPPED,youtube,2026,
+@Rachit Rojha,0,,,,,,,0,1775050711,error,Could not resolve handle or username @Rachit Rojha,,,youtube,2026,
+@ChuChuTV Hindi,0,,,,,,,0,1775050712,error,Could not resolve handle or username @ChuChuTV Hindi,,,youtube,2026,
+@MTV,1,MTV,11500000.0,7918.7,54.63,189815.67,Pop music,30,1775050713,ok,,Music,MAPPED,youtube,2026,United States
+@Hindi Kahaniya,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Hindi Kahaniya,,,youtube,2026,
+@ctctv,1,СТС,13600000.0,1048.73,72.03,173544.43,Humour,30,1775050714,ok,,Entertainment,MAPPED,youtube,2026,Russia
+@Luan Palomera,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Luan Palomera,,,youtube,2026,
+@Hindi Fairy Tales,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Hindi Fairy Tales,,,youtube,2026,
+@Hindi Countdown,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Hindi Countdown,,,youtube,2026,
+@Diana and Roma IND,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Diana and Roma IND,,,youtube,2026,
+@Lorrayne Oliveira,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Lorrayne Oliveira,,,youtube,2026,
+@Busy Fun Ltd,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Busy Fun Ltd,,,youtube,2026,
+@Goldmines Housefull,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Goldmines Housefull,,,youtube,2026,
+@RDCGujarati,1,RDC Gujarati,13300000.0,136.33,3.43,8586.8,Music of Asia,30,1775050714,ok,,Music,MAPPED,youtube,2026,India
+@Wolfoo's stories,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Wolfoo's stories,,,youtube,2026,
+@Juice WRLD,0,,,,,,,0,1775050712,error,Could not resolve handle or username @Juice WRLD,,,youtube,2026,
+@jordanmatter,1,Jordan Matter,34900000.0,173489.77,13141.17,15935025.67,Entertainment,30,1775050713,ok,,Entertainment,MAPPED,youtube,2026,United States
+@whoisjimmy,1,How Ridiculous,24000000.0,102124.8,1000.83,9852782.77,Lifestyle (sociology),30,1775050713,ok,,Lifestyle,MAPPED,youtube,2026,Australia
+@BestCodComedy,1,BCC Gaming,9510000.0,,,,Action game,0,1775050714,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@familyfunpack,1,Family Fun Pack,10500000.0,797.33,55.73,62939.7,Lifestyle (sociology),30,1775050713,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@makebymarimaria,1,Mari Maria,11600000.0,8239.27,83.2,206331.1,Lifestyle (sociology),30,1775050714,ok,,Lifestyle,MAPPED,youtube,2026,
+@Toymong tv 토이몽TV,0,,,,,,,0,1775050714,error,Could not resolve handle or username @Toymong tv 토이몽TV,,,youtube,2026,
+@BERTH-OH,1,BERTH-OH Short,941.0,128.93,3.43,7538.17,Lifestyle (sociology),30,1775050714,ok,,Lifestyle,MAPPED,youtube,2026,
+@Comedy Captain,0,,,,,,,0,1775050714,error,Could not resolve handle or username @Comedy Captain,,,youtube,2026,
+@Joe HaTTab,0,,,,,,,0,1775050714,error,Could not resolve handle or username @Joe HaTTab,,,youtube,2026,
+@NASAtelevision,1,NASA,12900000.0,6978.1,,195757.0,Society,30,1775050715,ok,,Knowledge&Info,MAPPED,youtube,2026,
+@historychannel,1,HISTORY,15200000.0,734.5,55.5,44700.53,Knowledge,30,1775050715,ok,,Knowledge&Info,MAPPED,youtube,2026,United States
+@MSA previously My Story Animated,0,,,,,,,0,1775050714,error,Could not resolve handle or username @MSA previously My Story Animated,,,youtube,2026,
+@Nirahua Music World,0,,,,,,,0,1775050714,error,Could not resolve handle or username @Nirahua Music World,,,youtube,2026,
+@Nickelodeon,1,Nickelodeon,12700000.0,669.4,0.0,65327.27,Film,30,1775050715,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Will Smith,0,,,,,,,0,1775050715,error,Could not resolve handle or username @Will Smith,,,youtube,2026,
+@Heroine Movies 2022,0,,,,,,,0,1775050716,error,Could not resolve handle or username @Heroine Movies 2022,,,youtube,2026,
+@WAMIndiaMovies,1,Wamindia Movies,15000000.0,3794.6,167.87,487726.13,Entertainment,30,1775050715,ok,,Entertainment,MAPPED,youtube,2026,India
+@shrutiarjunanand,1,Shruti Arjun Anand,10100000.0,,,,Lifestyle (sociology),0,1775050715,ok,,Lifestyle,MAPPED,youtube,2026,India
+@barcroftmedia,1,truly,10400000.0,,364.23,62906.5,Lifestyle (sociology),30,1775050716,ok,,Lifestyle,MAPPED,youtube,2026,
+@5-Minute Recipes,0,,,,,,,0,1775050715,error,Could not resolve handle or username @5-Minute Recipes,,,youtube,2026,
+@rathorvideo,1,Rathore Cassettes,16100000.0,125.43,4.67,34143.57,Music of Asia,30,1775050717,ok,,Music,MAPPED,youtube,2026,India
+@buzzfeedblue,1,BuzzFeed Multiplayer,9380000.0,,,,Simulation video game,0,1775050716,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@5-Minute Crafts LIKE,0,,,,,,,0,1775050715,error,Could not resolve handle or username @5-Minute Crafts LIKE,,,youtube,2026,
+@panicopgm,1,Programa Pânico,10200000.0,939.63,23.43,36032.1,Humour,30,1775050717,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@RUOK FF,0,,,,,,,0,1775050716,error,Could not resolve handle or username @RUOK FF,,,youtube,2026,
+@htv2channel,1,Vie Channel ,11500000.0,257.57,19.77,5274.07,Pop music,30,1775050719,ok,,Music,MAPPED,youtube,2026,Vietnam
+@KiKiDo,0,,,,,,,0,1775050716,error,Could not resolve handle or username @KiKiDo,,,youtube,2026,
+@MBCkpop,1,MBCkpop,11400000.0,409.73,19.1,6897.7,Music,30,1775050717,ok,,Music,MAPPED,youtube,2026,South Korea
+@Receitas de Pai,0,,,,,,,0,1775050716,error,Could not resolve handle or username @Receitas de Pai,,,youtube,2026,
+@TheSyndicateProject,1,Syndicate,9540000.0,2038.53,43.33,80089.63,Role-playing video game,30,1775050718,ok,,Tech&Gaming,MAPPED,youtube,2026,United Kingdom
+@Family Box,0,,,,,,,0,1775050717,error,Could not resolve handle or username @Family Box,,,youtube,2026,
+@Sơn Tùng M-TP Official,0,,,,,,,0,1775050717,error,Could not resolve handle or username @Sơn Tùng M-TP Official,,,youtube,2026,
+@Peppa Pig Hindi,0,,,,,,,0,1775050717,error,Could not resolve handle or username @Peppa Pig Hindi,,,youtube,2026,
+@Vlad and Niki PRT,0,,,,,,,0,1775050717,error,Could not resolve handle or username @Vlad and Niki PRT,,,youtube,2026,
+@OneRepublic,1,OneRepublic,11200000.0,1008.13,39.77,34599.27,Pop music,30,1775050718,ok,,Music,MAPPED,youtube,2026,
+@BBCArabicNews,1,BBC News عربي,13000000.0,561.97,110.28,37099.83,Politics,30,1775050724,ok,,Knowledge&Info,MAPPED,youtube,2026,United Kingdom
+@The Daily Show with Trevor Noah,0,,,,,,,0,1775050717,error,Could not resolve handle or username @The Daily Show with Trevor Noah,,,youtube,2026,
+@Islam Populer,0,,,,,,,0,1775050717,error,Could not resolve handle or username @Islam Populer,,,youtube,2026,
+@Viki Show,0,,,,,,,0,1775050718,error,Could not resolve handle or username @Viki Show,,,youtube,2026,
+@Raditya Dika,0,,,,,,,0,1775050718,error,Could not resolve handle or username @Raditya Dika,,,youtube,2026,
+@mrplotvideos,1,Mundo Bita,14300000.0,1587.93,0.0,260691.23,Entertainment,30,1775050719,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@مصطفى GAME OVER,0,,,,,,,0,1775050718,error,Could not resolve handle or username @مصطفى GAME OVER,,,youtube,2026,
+@ChennaiExp2013,1,Red Chillies Entertainment,14000000.0,2312.2,32.93,89858.87,Film,30,1775050719,ok,,Entertainment,MAPPED,youtube,2026,India
+@MrGustavoParodias,1,Gustavo Paródias,16100000.0,1465.83,25.1,81085.93,Humour,30,1775050720,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@ChuChuTV Español,0,,,,,,,0,1775050718,error,Could not resolve handle or username @ChuChuTV Español,,,youtube,2026,
+@welovekamikaze,1,welovekamikaze,10200000.0,342.0,7.0,26931.0,Pop music,1,1775050719,ok,,Music,MAPPED,youtube,2026,
+@singkingkaraoke,1,Sing King,14400000.0,112.37,7.23,6412.87,Pop music,30,1775050719,ok,,Music,MAPPED,youtube,2026,United Kingdom
+@EugenBro,1,Яблочко,10200.0,,,,Lifestyle (sociology),0,1775050719,ok,,Lifestyle,MAPPED,youtube,2026,Russia
+@KapilComedyNights,1,Colors Rishtey,20900000.0,38.53,1.1,933.77,Film,30,1775050722,ok,,Entertainment,MAPPED,youtube,2026,
+@Larva2011ani,1,Larva TUBA,10500000.0,187.07,0.0,18374.13,Music,30,1775050720,ok,,Music,MAPPED,youtube,2026,South Korea
+@Netflix Latinoamérica,0,,,,,,,0,1775050719,error,Could not resolve handle or username @Netflix Latinoamérica,,,youtube,2026,
+@ThePersica,1,Orkun Işıtmak,12400000.0,19278.47,806.03,601796.13,Entertainment,30,1775050721,ok,,Entertainment,MAPPED,youtube,2026,Turkey
+@TeremokTV,1,Теремок ТВ,17700000.0,359.0,0.0,105440.93,Television program,30,1775050721,ok,,Entertainment,MAPPED,youtube,2026,
+@Prince Royce,0,,,,,,,0,1775050720,error,Could not resolve handle or username @Prince Royce,,,youtube,2026,
+@قناة وناسة -  Wanasah TV,0,,,,,,,0,1775050720,error,Could not resolve handle or username @قناة وناسة -  Wanasah TV,,,youtube,2026,
+@Heidi y Zidane en español,0,,,,,,,0,1775050720,error,Could not resolve handle or username @Heidi y Zidane en español,,,youtube,2026,
+@SerbianGamesBL2,1,Life Hacks & Experiments,9370000.0,322.8,4.27,84286.57,Lifestyle (sociology),30,1775050721,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@mainaCassette,1,Haryanvi Maina,9890000.0,29.33,1.33,3791.33,Lifestyle (sociology),30,1775050721,ok,,Lifestyle,MAPPED,youtube,2026,India
+@mamilosmolengas,1,MUSSA,13700000.0,11892.47,794.9,655668.37,Music,30,1775050722,ok,,Music,MAPPED,youtube,2026,Brazil
+@sadhguru,1,Sadhguru,12700000.0,5133.57,95.37,149021.77,Lifestyle (sociology),30,1775050722,ok,,Lifestyle,MAPPED,youtube,2026,India
+@Sonotek Haryanvi,0,,,,,,,0,1775050721,error,Could not resolve handle or username @Sonotek Haryanvi,,,youtube,2026,
+@Survival Builder,0,,,,,,,0,1775050721,error,Could not resolve handle or username @Survival Builder,,,youtube,2026,
+@luisitorey,1,luisitorey,9570000.0,959.1,40.07,27140.83,Humour,30,1775050722,ok,,Entertainment,MAPPED,youtube,2026,Mexico
+@Bispo Bruno Leonardo,0,,,,,,,0,1775050722,error,Could not resolve handle or username @Bispo Bruno Leonardo,,,youtube,2026,
+@bgfilms,1,Binging with Babish,10500000.0,6049.4,259.47,237889.83,Lifestyle (sociology),30,1775050723,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@5-Minute Crafts TEENS,0,,,,,,,0,1775050722,error,Could not resolve handle or username @5-Minute Crafts TEENS,,,youtube,2026,
+@BIBI,1,あ -ちゃん🇨🇵,19.0,,,,,0,1775050722,ok,,,,youtube,2026,
+@ZarcortGame,1,ZarcortGame,10000000.0,2218.0,119.37,53164.9,Hip hop music,30,1775050723,ok,,Music,MAPPED,youtube,2026,Spain
+@DELRECORDS,1,DEL Records,12000000.0,12565.5,131.9,2403560.1,Hip hop music,30,1775050723,ok,,Music,MAPPED,youtube,2026,United States
+@ehbeefamily,1,The Bee Family,10300000.0,19654.24,154.76,840493.86,Lifestyle (sociology),29,1775050723,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@Eagle Home Entertainments,0,,,,,,,0,1775050722,error,Could not resolve handle or username @Eagle Home Entertainments,,,youtube,2026,
+@Ben Azelart,0,,,,,,,0,1775050722,error,Could not resolve handle or username @Ben Azelart,,,youtube,2026,
+@PicaPicaVEVO,1,Pica-Pica Oficial,10800000.0,397.03,0.0,137731.97,Entertainment,30,1775050723,ok,,Entertainment,MAPPED,youtube,2026,Spain
+@Talent Recap,0,,,,,,,0,1775050723,error,Could not resolve handle or username @Talent Recap,,,youtube,2026,
+@lincolnvelasquez,1,Cong TV,12600000.0,139862.83,8135.22,3795767.61,Entertainment,18,1775050724,ok,,Entertainment,MAPPED,youtube,2026,Philippines
+@Garena Free Fire Brasil,0,,,,,,,0,1775050723,error,Could not resolve handle or username @Garena Free Fire Brasil,,,youtube,2026,
+@InquisitorMaster,1,InquisitorMaster,10100000.0,1305.83,35.67,35529.07,Role-playing video game,30,1775050724,ok,,Tech&Gaming,MAPPED,youtube,2026,United States
+@Niki and Gabi,0,,,,,,,0,1775050723,error,Could not resolve handle or username @Niki and Gabi,,,youtube,2026,
+@منوعات الكوميديا العراقية,0,,,,,,,0,1775050723,error,Could not resolve handle or username @منوعات الكوميديا العراقية,,,youtube,2026,
+@TopMovieClips,0,,,,,,,0,1775050724,error,Could not resolve handle or username @TopMovieClips,,,youtube,2026,
+@timesmusicindia,1,Times Music,17600000.0,106.9,3.83,8238.63,Pop music,30,1775050725,ok,,Music,MAPPED,youtube,2026,India
+@DaBaby,1,DaBaby,11300000.0,12134.8,489.8,526248.2,Music,30,1775050724,ok,,Music,MAPPED,youtube,2026,United States
+@Dharma Productions,0,,,,,,,0,1775050724,error,Could not resolve handle or username @Dharma Productions,,,youtube,2026,
+@IniTalkShow,1,Main Hakim Sendiri,11500000.0,5198.97,16.87,375108.7,Film,30,1775050726,ok,,Entertainment,MAPPED,youtube,2026,Indonesia
+@BETO GAMER,0,,,,,,,0,1775050724,error,Could not resolve handle or username @BETO GAMER,,,youtube,2026,
+@MrStiven Tc,0,,,,,,,0,1775050724,error,Could not resolve handle or username @MrStiven Tc,,,youtube,2026,
+@NetflixBRA,1,Netflix Brasil,15000000.0,1661.97,98.37,27053.43,Entertainment,30,1775050725,ok,,Entertainment,MAPPED,youtube,2026,Brazil
+@JoeyGraceffa,1,Joey Graceffa,9380000.0,3798.17,306.3,63729.8,Pet,30,1775050725,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@aanandaaudio,1,Anand Audio,14400000.0,1730.1,79.17,138557.77,Film,30,1775050727,ok,,Entertainment,MAPPED,youtube,2026,India
+@sonyliv,1,Sony LIV,25900000.0,955.1,60.23,37420.6,Entertainment,30,1775050728,ok,,Entertainment,MAPPED,youtube,2026,India
+@서은이야기[SeoeunStory],0,,,,,,,0,1775050725,error,Could not resolve handle or username @서은이야기[SeoeunStory],,,youtube,2026,
+@Grandpa Kitchen,0,,,,,,,0,1775050725,error,Could not resolve handle or username @Grandpa Kitchen,,,youtube,2026,
+@MrMuselk,1,Muselk,8820000.0,,,,Action game,0,1775050725,ok,,Tech&Gaming,MAPPED,youtube,2026,Australia
+@JoshDub,1,JoshDub,10100000.0,10387.41,468.29,345667.0,Role-playing video game,17,1775050726,ok,,Tech&Gaming,MAPPED,youtube,2026,Australia
+@BrPVPHu3,0,,,,,,,0,1775050725,error,Could not resolve handle or username @BrPVPHu3,,,youtube,2026,
+@Power Vision,0,,,,,,,0,1775050726,error,Could not resolve handle or username @Power Vision,,,youtube,2026,
+@N1Noobtubers,1,웃웃TwinsFromRussia,19300000.0,587.43,8.77,92013.73,Entertainment,30,1775050728,ok,,Entertainment,MAPPED,youtube,2026,United States
+@bhaktisongs,1,Shemaroo Bhakti,13400000.0,100.23,12.2,7356.3,Religion,30,1775050727,ok,,Knowledge&Info,MAPPED,youtube,2026,India
+@The Voice Global,0,,,,,,,0,1775050726,error,Could not resolve handle or username @The Voice Global,,,youtube,2026,
+@POPSVIETNAM,1,POPS MUSIC,10400000.0,68.47,1.47,9612.57,Pop music,30,1775050729,ok,,Music,MAPPED,youtube,2026,Vietnam
+@CRACKS,1,Cracks,6040000.0,6634.43,281.5,170903.43,Sport,30,1775050726,ok,,Sports,MAPPED,youtube,2026,Mexico
+@hasanjr11,0,,,,,,,0,1775050726,error,Could not resolve handle or username @hasanjr11,,,youtube,2026,
+@Adriana Show,0,,,,,,,0,1775050727,error,Could not resolve handle or username @Adriana Show,,,youtube,2026,
+@Cleo y Cuquin - Canciones infantiles,0,,,,,,,0,1775050727,error,Could not resolve handle or username @Cleo y Cuquin - Canciones infantiles,,,youtube,2026,
+@efdewe,1,efdewe,10300000.0,933.97,26.1,44351.7,Role-playing video game,30,1775050728,ok,,Tech&Gaming,MAPPED,youtube,2026,Indonesia
+@SAS-ASMR,0,,,,,,,0,1775050727,error,Could not resolve handle or username @SAS-ASMR,,,youtube,2026,
+@fozimozi,1,Fozi Mozi,10900000.0,62282.37,13.47,12027473.63,Music,30,1775050728,ok,,Music,MAPPED,youtube,2026,Palestine
+@sonotektv,1,Sonotek Music,11300000.0,98530.24,3349.97,12316056.52,Music of Asia,29,1775050728,ok,,Music,MAPPED,youtube,2026,India
+@TeremokSongs,1,Теремок - Песенки для детей,14400000.0,165.53,0.0,66196.4,Entertainment,30,1775050728,ok,,Entertainment,MAPPED,youtube,2026,Russia
+@YFrostA,1,FROST,9670000.0,10187.57,447.53,284350.8,Lifestyle (sociology),30,1775050729,ok,,Lifestyle,MAPPED,youtube,2026,Russia
+@DreamworksAnimation,1,Universal Kids,10600000.0,505.27,0.0,47819.5,Entertainment,30,1775050729,ok,,Entertainment,MAPPED,youtube,2026,United States
+@RSVDO,1,rsfriends,11000000.0,,,,Music of Asia,0,1775050729,ok,,Music,MAPPED,youtube,2026,Thailand
+@Classic Mr Bean,0,,,,,,,0,1775050728,error,Could not resolve handle or username @Classic Mr Bean,,,youtube,2026,
+@LetDa Hyper,0,,,,,,,0,1775050729,error,Could not resolve handle or username @LetDa Hyper,,,youtube,2026,
+@brunoberti10,0,,,,,,,0,1775050729,error,Could not resolve handle or username @brunoberti10,,,youtube,2026,
+@Karina Garcia,0,,,,,,,0,1775050729,error,Could not resolve handle or username @Karina Garcia,,,youtube,2026,
+@Bhojpuri Movies,0,,,,,,,0,1775050729,error,Could not resolve handle or username @Bhojpuri Movies,,,youtube,2026,
+@Dolly and Friends,0,,,,,,,0,1775050729,error,Could not resolve handle or username @Dolly and Friends,,,youtube,2026,
+@PlaticaPolinesa,1,PlaticaPolinesia,9100000.0,,,,Electronic music,0,1775050729,ok,,Music,MAPPED,youtube,2026,
+@Bessan Ismail - بيسان اسماعيل,0,,,,,,,0,1775050729,error,Could not resolve handle or username @Bessan Ismail - بيسان اسماعيل,,,youtube,2026,
+@FoxNewsChannel,1,Fox News,15100000.0,3224.47,883.13,120543.6,Television program,30,1775050730,ok,,Entertainment,MAPPED,youtube,2026,United States
+@RoosterTeeth,1,Rooster Teeth,8960000.0,9684.0,621.0,175907.0,Entertainment,1,1775050731,ok,,Entertainment,MAPPED,youtube,2026,United States
+@Rayito,1,Manuel Diaz,21.0,0.6,0.2,22.2,Hobby,5,1775050730,ok,,Lifestyle,MAPPED,youtube,2026,Spain
+@[햄지]Hamzy,0,,,,,,,0,1775050730,error,Could not resolve handle or username @[햄지]Hamzy,,,youtube,2026,
+@monsta,1,Monsta,19500000.0,3740.9,172.5,142863.33,Entertainment,30,1775050730,ok,,Entertainment,MAPPED,youtube,2026,Malaysia
+@Soothing Relaxation,0,,,,,,,0,1775050730,error,Could not resolve handle or username @Soothing Relaxation,,,youtube,2026,
+@NFL,1,NFL,16300000.0,504.2,50.7,32134.43,Lifestyle (sociology),30,1775050730,ok,,Lifestyle,MAPPED,youtube,2026,United States
+@FilterCopy,1,FilterCopy,10700000.0,1346.43,65.73,200087.33,Television program,30,1775050730,ok,,Entertainment,MAPPED,youtube,2026,India
+@Thơ Nguyễn,0,,,,,,,0,1775050730,error,Could not resolve handle or username @Thơ Nguyễn,,,youtube,2026,
+@Troom Troom SELECT,0,,,,,,,0,1775050730,error,Could not resolve handle or username @Troom Troom SELECT,,,youtube,2026,
+@chetakvideo,1,Chetak,11500000.0,71.23,2.1,5514.9,Music of Asia,30,1775050732,ok,,Music,MAPPED,youtube,2026,India
+@Denis,1,Denis Moreno,2760.0,,,,Action game,0,1775050731,ok,,Tech&Gaming,MAPPED,youtube,2026,Venezuela
+@cartoonnetworkuk,1,Cartoon Network UK,11700000.0,235.9,0.0,14796.17,Humour,30,1775050731,ok,,Entertainment,MAPPED,youtube,2026,United Kingdom
+@Tom Slime,0,,,,,,,0,1775050731,error,Could not resolve handle or username @Tom Slime,,,youtube,2026,
+@FutParódias,1,FutParódias,11200000.0,7253.07,230.73,141759.43,Association football,30,1775050732,ok,,Sports,MAPPED,youtube,2026,Brazil
+@EL GATO,0,,,,,,,0,1775050731,error,Could not resolve handle or username @EL GATO,,,youtube,2026,
+@CinemaSins,1,CinemaSins,9180000.0,1690.93,125.4,62856.03,Entertainment,30,1775050731,ok,,Entertainment,MAPPED,youtube,2026,United States
+@CricketICC,1,ICC,12900000.0,9321.03,227.47,736173.4,Sport,30,1775050732,ok,,Sports,MAPPED,youtube,2026,United Arab Emirates
+@BRKsEDU,1,BRKsEDU,9920000.0,21918.5,490.77,280292.2,Action game,30,1775050733,ok,,Tech&Gaming,MAPPED,youtube,2026,Brazil
