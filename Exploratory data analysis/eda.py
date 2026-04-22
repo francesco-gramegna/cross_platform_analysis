@@ -51,40 +51,13 @@ df22 = pd.read_csv(os.path.join(DATA, "merged_2022_all.csv"))
 df24 = pd.read_csv(os.path.join(DATA, "merged_2024_all.csv"))
 df26 = pd.read_csv(os.path.join(DATA, "merged_2026.csv"))
 
-# ── 2022: engagement rate = engagement_avg / followers * 100
-df22["followers"]        = pd.to_numeric(df22["followers"],        errors="coerce")
-df22["engagement_avg"]   = pd.to_numeric(df22["engagement_avg"],   errors="coerce")
-df22["engagement_auth"]  = pd.to_numeric(df22["engagement_auth"],  errors="coerce")
-df22["er_pct"]           = df22["engagement_avg"] / df22["followers"] * 100
-df22["year"]             = 2022
-df22["platform"]         = df22["_platform"]
-df22["category"]         = df22["category_unified"]
-df22["country"]          = df22["audience_country"]
-
-# ── 2024: ER column is a string like "1.27%"
-df24["FOLLOWERS"] = (
-    df24["FOLLOWERS"].astype(str)
-    .str.replace("M", "e6").str.replace("K", "e3").str.replace("B", "e9")
-)
-df24["followers"] = pd.to_numeric(df24["FOLLOWERS"], errors="coerce")
-df24["er_pct"]    = (
-    df24["ER"].astype(str).str.replace("%", "").pipe(pd.to_numeric, errors="coerce")
-)
-df24["year"]     = 2024
-df24["platform"] = df24["_platform"]
-df24["category"] = df24["category_unified"]
-df24["country"]  = df24["COUNTRY"]
-
-# ── 2026: derive ER from avg_likes + avg_comments / followers
-df26["followers"] = pd.to_numeric(df26["followers"], errors="coerce")
-df26["avg_likes"] = pd.to_numeric(df26["avg_likes"], errors="coerce")
-df26["avg_comments"] = pd.to_numeric(df26["avg_comments"], errors="coerce")
-df26["avg_views"]    = pd.to_numeric(df26["avg_views"],    errors="coerce")
-df26["er_pct"]    = (df26["avg_likes"] + df26["avg_comments"]) / df26["followers"] * 100
-df26["year"]      = 2026
-df26["platform"]  = df26["_platform"]
-df26["category"]  = df26["category_unified"]
-df26["country"]   = df26["audience_country"]
+# All three files already have unified column names after cleaning.
+# Just cast numeric columns and create aliases used downstream.
+for df in [df22, df24, df26]:
+    df["followers"] = pd.to_numeric(df["followers"], errors="coerce")
+    df["er_pct"]    = pd.to_numeric(df["er_pct"],    errors="coerce")
+    df["category"]  = df["category_unified"]
+    df["country"]   = df["audience_country"]
 
 KEEP = ["year", "platform", "category", "country", "followers", "er_pct"]
 df22k = df22[KEEP].copy()
