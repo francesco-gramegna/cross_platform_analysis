@@ -151,3 +151,72 @@ def plot_cluster_size_distribution(self, uniqueId, exclude_zero_cluster=True, lo
     plt.tight_layout()
     plt.show()
 
+def plot_cluster_platform_distribution(self, uniqueId, exclude_zero_cluster=True, log_y=True):
+    """
+    Plot cluster size distribution, split by number of platforms per cluster.
+
+    Colors:
+        red   = 1 platform
+        blue  = 2 platforms
+        green = 3 platforms
+    """
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+
+    size_1 = []
+    size_2 = []
+    size_3 = []
+
+    for cluster_id, members in uniqueId.items():
+        if exclude_zero_cluster and cluster_id == 0:
+            continue
+        if not members:
+            continue
+
+        cluster = self.getCluster(members)
+
+        platforms = set(str(c['_platform']).lower() for c in cluster)
+        nb_platforms = len(platforms)
+
+        size = len(members)
+
+        if nb_platforms == 1:
+            size_1.append(size)
+        elif nb_platforms == 2:
+            size_2.append(size)
+        else:
+            size_3.append(size)
+
+    all_sizes = size_1 + size_2 + size_3
+
+    if not all_sizes:
+        print("No clusters to plot.")
+        return
+
+    max_size = max(all_sizes)
+    bins = np.arange(1, max_size + 2) - 0.5
+
+    plt.figure(figsize=(10, 6))
+
+    plt.hist(
+        [size_1, size_2, size_3],
+        bins=bins,
+        stacked=True,
+        color=["red", "blue", "green"],
+        label=["1 platform", "2 platforms", "3 platforms"],
+        edgecolor="black"
+    )
+
+    plt.xticks(range(1, max_size + 1))
+    plt.xlabel("Cluster size")
+    plt.ylabel("Number of clusters")
+    plt.title("Cluster Size Distribution by Platform Coverage")
+
+    if log_y:
+        plt.yscale("log")
+
+    plt.legend()
+
+    plt.tight_layout()
+    plt.show()
