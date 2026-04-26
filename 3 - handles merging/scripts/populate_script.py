@@ -39,7 +39,6 @@ output_dir = '3 - handles merging/finalData.csv'
 
 for idx in mergedMap:
     for point in mergedMap[idx]:
-        print(point)
         data[point]['uniqueId'] = idx
         del data[point]['dumbId']
 
@@ -88,7 +87,8 @@ for idx in mergedMap:
 
         if 'category_unified' in point:
             if point['category_unified'] != category and point['category_unified'] is not None:
-                print(category, '   ', point['category_unified'])
+                #print(category, '   ', point['category_unified'])
+                aaa=0
             else:
                 if point['category_unified'] is None:
                     populatedCat += 1
