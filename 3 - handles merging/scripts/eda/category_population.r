@@ -126,10 +126,6 @@ print(p)
 
 
 
-totals_per_category <- category_year_plot_data %>%
-  group_by(populated_category) %>%
-  summarise(total_pct = sum(pct), .groups = "drop")
-
 category_year_plot_data <- data %>%
   filter(populated_category != "") %>%
   mutate(
@@ -140,6 +136,12 @@ category_year_plot_data <- data %>%
   mutate(
     pct = n / nrow(data %>% filter(populated_category != "")) * 100
   )
+
+totals_per_category <- category_year_plot_data %>%
+  group_by(populated_category) %>%
+  summarise(total_pct = sum(pct), .groups = "drop")
+
+
 
 category_year_plot_data$X_year <- factor(category_year_plot_data$X_year, levels = c(2022, 2024, 2026))
 category_year_plot_data$artificial <- factor(
