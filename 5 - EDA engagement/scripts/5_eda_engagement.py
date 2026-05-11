@@ -51,30 +51,37 @@ log("\n--- engagement_total (IG 2022) ---")
 log(ig22["engagement_total"].describe().round(2).to_string())
 
 # ==========================================================================
-# P2: Distribution of er_pct per platform × year (log-x, faceted)
+# P2: Distribution of er_pct, separate plots per year
 # ==========================================================================
-slices = [("instagram", 2022), ("instagram", 2024),
-          ("tiktok",    2022), ("tiktok",    2024),
-          ("youtube",   2022), ("youtube",   2024), ("youtube", 2026)]
-
-fig, axes = plt.subplots(2, 4, figsize=(16, 8), sharey=False)
-axes = axes.flatten()
-for ax, (plat, yr) in zip(axes, slices):
-    sub = df[(df["_platform"] == plat) & (df["_year"] == yr)
-             & df["er_pct"].notna() & (df["er_pct"] > 0)]
-    if len(sub) == 0:
-        ax.set_visible(False); continue
-    ax.hist(np.log10(sub["er_pct"]), bins=40, color=PLATFORM_COLOR[plat], alpha=0.8)
-    med = sub["er_pct"].median()
-    ax.axvline(np.log10(med), color="black", ls="--", lw=1)
-    ax.set_title(f"{plat.capitalize()} {yr} (n={len(sub):,}, med={med:.2f}%)")
-    ax.set_xlabel("log10(er_pct %)")
-    ax.set_ylabel("Count")
-axes[-1].set_visible(False)
-fig.suptitle("er_pct distribution by platform × year", y=1.00)
-fig.tight_layout()
-fig.savefig(PLOT / "P2_er_pct_distribution_by_slice.png", dpi=140)
-plt.close(fig)
+year_groups = {
+    2022: [("instagram", 2022), ("tiktok", 2022), ("youtube", 2022)],
+    2024: [("instagram", 2024), ("tiktok", 2024), ("youtube", 2024)],
+    2026: [("youtube",   2026)],
+}
+for yr, year_slices in year_groups.items():
+    n_panels = len(year_slices)
+    fig, axes = plt.subplots(1, n_panels, figsize=(5 * n_panels, 4.5), sharey=False)
+    if n_panels == 1:
+        axes = [axes]
+    for ax, (plat, _) in zip(axes, year_slices):
+        sub = df[(df["_platform"] == plat) & (df["_year"] == yr)
+                 & df["er_pct"].notna() & (df["er_pct"] > 0)]
+        if len(sub) == 0:
+            ax.set_visible(False); continue
+        # Dedup to one observation per unique account (median er_pct per handle)
+        per_handle = sub.groupby("handle")["er_pct"].median()
+        ax.hist(np.log10(per_handle), bins=40, color=PLATFORM_COLOR[plat], alpha=0.8)
+        med = per_handle.median()
+        ax.axvline(np.log10(med), color="black", ls="--", lw=1,
+                   label=f"median = {med:.2f}%")
+        ax.set_title(f"{plat.capitalize()} {yr} (n={len(per_handle):,} accounts)")
+        ax.set_xlabel("log10(er_pct %)")
+        ax.set_ylabel("Count")
+        ax.legend(loc="upper right", fontsize=9)
+    fig.suptitle(f"er_pct distribution — {yr}", y=1.02)
+    fig.tight_layout()
+    fig.savefig(PLOT / f"P2_er_pct_distribution_{yr}.png", dpi=140)
+    plt.close(fig)
 
 log("\n--- er_pct by platform × year ---")
 log(df.groupby(["_platform", "_year"])["er_pct"].describe().round(2).to_string())
@@ -82,24 +89,50 @@ log(df.groupby(["_platform", "_year"])["er_pct"].describe().round(2).to_string()
 # ==========================================================================
 # P3: Boxplot of er_pct by platform × year (log-y, easier cross-slice view)
 # ==========================================================================
-box_data, labels, colors = [], [], []
-for plat, yr in slices:
-    sub = df[(df["_platform"] == plat) & (df["_year"] == yr)
-             & df["er_pct"].notna() & (df["er_pct"] > 0)]
-    if len(sub) == 0: continue
-    box_data.append(np.log10(sub["er_pct"].values))
-    labels.append(f"{plat[:2].capitalize()} {yr}")
-    colors.append(PLATFORM_COLOR[plat])
+year_groups = {
+    2022: [("instagram", 2022), ("tiktok", 2022), ("youtube", 2022)],
+    2024: [("instagram", 2024), ("tiktok", 2024), ("youtube", 2024)],
+    2026: [("youtube",   2026)],
+}
+for yr, year_slices in year_groups.items():
+    box_data, labels, colors = [], [], []
+    for plat, _ in year_slices:
+        sub = df[(df["_platform"] == plat) & (df["_year"] == yr)
+                 & df["er_pct"].notna() & (df["er_pct"] > 0)]
+        if len(sub) == 0: continue
+        per_handle = sub.groupby("handle")["er_pct"].median()
+        box_data.append(np.log10(per_handle.values))
+        labels.append(f"{plat.capitalize()}\n(n={len(per_handle):,})")
+        colors.append(PLATFORM_COLOR[plat])
 
-fig, ax = plt.subplots(figsize=(10, 5))
+    fig, ax = plt.subplots(figsize=(max(5, 2.5 * len(box_data)), 5))
+    bp = ax.boxplot(box_data, labels=labels, patch_artist=True, showfliers=False)
+    for patch, c in zip(bp["boxes"], colors):
+        patch.set_facecolor(c); patch.set_alpha(0.6)
+    ax.set_ylabel("log10(er_pct %)")
+    ax.set_title(f"Engagement rate (er_pct) across platforms — {yr}")
+    ax.axhline(0, color="gray", lw=0.5, ls=":")  # 1% reference
+    fig.tight_layout()
+    fig.savefig(PLOT / f"P3_er_pct_boxplot_{yr}.png", dpi=140)
+    plt.close(fig)
+
+# YT 2022 vs 2026 — same methodology (likes + comments from raw components), so comparable
+box_data, labels = [], []
+for yr in [2022, 2026]:
+    sub = df[(df["_platform"] == "youtube") & (df["_year"] == yr)
+             & df["er_pct"].notna() & (df["er_pct"] > 0)]
+    per_handle = sub.groupby("handle")["er_pct"].median()
+    box_data.append(np.log10(per_handle.values))
+    labels.append(f"YouTube {yr}\n(n={len(per_handle):,})")
+fig, ax = plt.subplots(figsize=(6, 5))
 bp = ax.boxplot(box_data, labels=labels, patch_artist=True, showfliers=False)
-for patch, c in zip(bp["boxes"], colors):
-    patch.set_facecolor(c); patch.set_alpha(0.6)
+for patch in bp["boxes"]:
+    patch.set_facecolor(PLATFORM_COLOR["youtube"]); patch.set_alpha(0.6)
 ax.set_ylabel("log10(er_pct %)")
-ax.set_title("Engagement rate (er_pct) across platforms × years")
-ax.axhline(0, color="gray", lw=0.5, ls=":")  # 1%
+ax.set_title("YouTube ER: 2022 vs 2026  (same methodology — likes+comments)")
+ax.axhline(0, color="gray", lw=0.5, ls=":")
 fig.tight_layout()
-fig.savefig(PLOT / "P3_er_pct_boxplot_by_slice.png", dpi=140)
+fig.savefig(PLOT / "P3_er_pct_boxplot_youtube_2022_vs_2026.png", dpi=140)
 plt.close(fig)
 
 # ==========================================================================
@@ -110,14 +143,17 @@ for ax, plat in zip(axes, ["instagram", "tiktok", "youtube"]):
     sub = df[(df["_platform"] == plat) & (df["_year"] == 2022)
              & df["engagement_count"].notna() & df["followers"].notna()
              & (df["engagement_count"] > 0) & (df["followers"] > 0)]
-    ax.scatter(np.log10(sub["followers"]), np.log10(sub["engagement_count"]),
-               s=6, alpha=0.3, color=PLATFORM_COLOR[plat])
-    if len(sub) > 5:
-        b, a = np.polyfit(np.log10(sub["followers"]), np.log10(sub["engagement_count"]), 1)
-        xs = np.linspace(np.log10(sub["followers"]).min(), np.log10(sub["followers"]).max(), 100)
+    # Dedup: one observation per unique account (median followers & engagement_count)
+    per_handle = sub.groupby("handle")[["followers", "engagement_count"]].median()
+    x = np.log10(per_handle["followers"])
+    y = np.log10(per_handle["engagement_count"])
+    ax.scatter(x, y, s=8, alpha=0.4, color=PLATFORM_COLOR[plat])
+    if len(per_handle) > 5:
+        b, a = np.polyfit(x, y, 1)
+        xs = np.linspace(x.min(), x.max(), 100)
         ax.plot(xs, a + b * xs, color="black", lw=1.5, label=f"slope β={b:.2f}")
         ax.legend()
-    ax.set_title(f"{plat.capitalize()} 2022 (n={len(sub):,})")
+    ax.set_title(f"{plat.capitalize()} 2022 (n={len(per_handle):,} accounts)")
     ax.set_xlabel("log10(followers)")
     ax.set_ylabel("log10(engagement_count)")
 fig.suptitle("Followers vs engagement_count (log-log) — 2022", y=1.00)
