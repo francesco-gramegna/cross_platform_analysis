@@ -13,7 +13,7 @@ import numpy as np
 
 ROOT = Path(__file__).resolve().parents[2]
 SRC  = ROOT / "3 - handles merging" / "finalData.csv"
-OUT_DIR = ROOT / "4 - ER calculation"
+OUT_DIR = ROOT / "4 - ER unified"
 OUT_DIR.mkdir(exist_ok=True)
 OUT = OUT_DIR / "finalData_with_er.csv"
 
@@ -27,15 +27,21 @@ df = df.rename(columns={
 })
 
 # --- 2. Build unified engagement_count --------------------------------------
+# Definition: engagement_count counts INTERACTIONS only (likes + comments + shares).
+# Views are excluded — they are passive exposure, not engagement, and the
+# industry-standard ER formula (HypeAuditor, Hootsuite, Sprout Social, etc.)
+# excludes them.
+#
 # Priority by source:
-#   IG 2022              : use engagement_total (sum of likes+comments+... from raw)
-#   Any 2024 row         : reconstruct from er% × followers
-#   TT/YT 2022, YT 2026  : sum of likes + comments + views + shares (NaN→0)
+#   IG 2022              : use engagement_total (HypeAuditor interactions aggregate, views-free)
+#   Any 2024 row         : reconstruct from er% × followers (source `er` is interactions-based)
+#   TT/YT 2022, YT 2026  : sum of likes + comments + shares (NaN→0); VIEWS EXCLUDED
 is_ig22 = (df["_platform"] == "instagram") & (df["_year"] == 2022)
 is_2024 = (df["_year"] == 2024)
 
-sum_cols = df[["likes_avg", "comments_avg", "views_avg", "shares_avg"]].fillna(0).sum(axis=1)
-has_any_count = df[["likes_avg", "comments_avg", "views_avg", "shares_avg"]].notna().any(axis=1)
+interaction_cols = ["likes_avg", "comments_avg", "shares_avg"]
+sum_cols = df[interaction_cols].fillna(0).sum(axis=1)
+has_any_count = df[interaction_cols].notna().any(axis=1)
 
 engagement_count = pd.Series(np.nan, index=df.index, dtype="float64")
 engagement_count.loc[is_ig22] = df.loc[is_ig22, "engagement_total"]

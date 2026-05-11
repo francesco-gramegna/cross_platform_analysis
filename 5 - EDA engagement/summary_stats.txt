@@ -1,6 +1,6 @@
 Rows: 33,174
 engagement_total non-null: 4,933
-er_pct non-null:           24,859
+er_pct non-null:           24,797
 
 --- engagement_total (IG 2022) ---
 count        4933.00
@@ -13,15 +13,15 @@ min         33300.00
 max      23400000.00
 
 --- er_pct by platform × year ---
-                  count    mean      std   min    25%    50%     75%        max
-_platform _year                                                                
-instagram 2022   4933.0    6.05     7.61  0.03   1.33   3.37    7.61     104.55
-          2024   5758.0    2.34     4.29  0.01   0.40   1.07    2.60     115.81
-tiktok    2022   4955.0  525.69  3243.55  3.78  31.46  70.38  179.57  102933.33
-          2024   1492.0    1.16     4.39  0.10   0.10   0.20    0.70     121.00
-youtube   2022   4993.0    6.54    20.00  0.00   0.27   1.37    5.26     659.65
-          2024   2181.0    1.75     4.36  0.10   0.20   0.50    1.50      80.10
-          2026    547.0    6.46    37.45  0.00   0.20   1.02    3.20     815.15
+                  count   mean     std   min   25%   50%    75%       max
+_platform _year                                                          
+instagram 2022   4933.0   6.05    7.61  0.03  1.33  3.37   7.61    104.55
+          2024   5758.0   2.34    4.29  0.01  0.40  1.07   2.60    115.81
+tiktok    2022   4955.0  57.72  397.40  0.18  3.47  7.74  18.67  15343.24
+          2024   1492.0   1.16    4.39  0.10  0.10  0.20   0.70    121.00
+youtube   2022   4933.0   0.31    1.11  0.00  0.00  0.03   0.20     45.14
+          2024   2181.0   1.75    4.36  0.10  0.20  0.50   1.50     80.10
+          2026    545.0   0.14    0.69  0.00  0.00  0.02   0.09     14.07
 
 --- er_pct by category (median, per slice) ---
 
@@ -49,38 +49,35 @@ Sports            1.60
 
 Youtube 2022:
 category_unified
-Knowledge&Info    0.48
-Music             0.64
-Sports            0.98
-Other             2.03
-Lifestyle         2.42
-Entertainment     2.64
-Beauty&Fashion    3.29
-Tech&Gaming       5.35
+Knowledge&Info    0.01
+Music             0.02
+Lifestyle         0.05
+Sports            0.05
+Entertainment     0.06
+Other             0.13
+Beauty&Fashion    0.18
+Tech&Gaming       0.26
 
 Youtube 2026:
 category_unified
-Knowledge&Info    0.24
-Entertainment     0.59
-Music             0.59
-Sports            0.73
-Lifestyle         2.29
-Tech&Gaming       2.78
+Knowledge&Info    0.00
+Entertainment     0.01
+Music             0.01
+Sports            0.03
+Lifestyle         0.06
+Tech&Gaming       0.09
 
---- Tiktok 2022: mean share of engagement_count ---
-views_avg       0.884
-likes_avg       0.114
-comments_avg    0.001
-shares_avg      0.001
+--- Tiktok 2022: mean share of engagement_count (interactions only) ---
+likes_avg       0.978
+comments_avg    0.009
+shares_avg      0.013
 
---- Youtube 2022: mean share of engagement_count ---
-views_avg       0.962
-likes_avg       0.037
-comments_avg    0.002
+--- Youtube 2022: mean share of engagement_count (interactions only) ---
+likes_avg       0.953
+comments_avg    0.047
 shares_avg      0.000
 
---- Youtube 2026: mean share of engagement_count ---
-views_avg       0.975
-likes_avg       0.024
-comments_avg    0.001
+--- Youtube 2026: mean share of engagement_count (interactions only) ---
+likes_avg       0.947
+comments_avg    0.053
 shares_avg      0.000
