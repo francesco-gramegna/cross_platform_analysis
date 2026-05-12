@@ -1,141 +1,49 @@
-Loaded 33,174 rows from finalData_with_er.csv
+Loaded 33,174 total rows; 14,721 valid 2022 rows.
 
 ======================================================================
-1. CORRELATION — log(followers) vs log(er_pct), per slice
+1. PEARSON CORRELATION (followers ↔ ER), per platform
 ======================================================================
-  Instagram 2022: n= 1379  Pearson r=-0.685 (p=1.53e-191)  Spearman ρ=-0.719 (p=1.52e-219)
-  Instagram 2024: n= 5263  Pearson r=-0.161 (p=4.72e-32)  Spearman ρ=-0.139 (p=5.51e-24)
-  Youtube 2022: n=  962  Pearson r=-0.093 (p=3.96e-03)  Spearman ρ=-0.080 (p=1.30e-02)
-  Youtube 2026: n=  544  Pearson r=-0.247 (p=5.24e-09)  Spearman ρ=-0.190 (p=7.85e-06)
-
-======================================================================
-2. ONE-WAY ANOVA — log(er_pct) across category, per slice
-======================================================================
-  Instagram 2022: k=8 categories, F=16.09, p=1.93e-20, η²=0.076
-  Instagram 2024: k=8 categories, F=23.64, p=7.48e-32, η²=0.031
-  Youtube 2022: k=7 categories, F=24.20, p=9.17e-27, η²=0.132
-  Youtube 2026: k=6 categories, F=22.09, p=3.71e-20, η²=0.170
+  Instagram: n= 1462  r=-0.730  p=2.51e-243
+  Tiktok: n= 3060  r=-0.930  p=0.00e+00
+  Youtube: n= 1325  r=-0.117  p=1.98e-05
 
 ======================================================================
-3. MULTIPLE OLS — log_er ~ log_followers + C(category) + C(country)
-   Baselines: category='Entertainment', country='United States'
+2. ONE-WAY ANOVA on category, per platform
 ======================================================================
-
-  --- Instagram 2022: n=1,311, R²=0.509, adj R²=0.501, AIC=1194.9 ---
-  Significant terms (p<0.05): 8 / 23
-                                                                         coef  std_err      p
-Intercept                                                               7.464    0.225  0.000
-C(country, Treatment(reference="United States"))[T.South Korea]         0.391    0.082  0.000
-C(country, Treatment(reference="United States"))[T.Argentina]           0.221    0.067  0.001
-C(country, Treatment(reference="United States"))[T.Indonesia]           0.121    0.035  0.001
-C(category_unified, Treatment(reference="Entertainment"))[T.Lifestyle]  0.091    0.031  0.004
-C(category_unified, Treatment(reference="Entertainment"))[T.Music]      0.062    0.030  0.039
-C(category_unified, Treatment(reference="Entertainment"))[T.Other]     -0.281    0.094  0.003
-log_followers                                                          -0.980    0.031  0.000
-  [note] instagram 2024: country regressor dropped (column is leaderboard, not audience)
-
-  --- Instagram 2024: n=5,263, R²=0.057, adj R²=0.055, AIC=9290.8 ---
-  Significant terms (p<0.05): 4 / 9
-                                                                              coef  std_err    p
-Intercept                                                                    0.966    0.089  0.0
-C(category_unified, Treatment(reference="Entertainment"))[T.Sports]          0.208    0.034  0.0
-C(category_unified, Treatment(reference="Entertainment"))[T.Knowledge&Info] -0.146    0.036  0.0
-log_followers                                                               -0.159    0.013  0.0
-
-  --- Youtube 2022: n=795, R²=0.233, adj R²=0.212, AIC=2132.6 ---
-  Significant terms (p<0.05): 9 / 23
-                                                                              coef  std_err      p
-C(category_unified, Treatment(reference="Entertainment"))[T.Tech&Gaming]     0.250    0.116  0.031
-C(category_unified, Treatment(reference="Entertainment"))[T.Music]          -0.351    0.087  0.000
-C(category_unified, Treatment(reference="Entertainment"))[T.Sports]         -0.514    0.254  0.043
-C(country, Treatment(reference="United States"))[T.Indonesia]               -0.517    0.151  0.001
-C(country, Treatment(reference="United States"))[T.India]                   -0.530    0.096  0.000
-C(country, Treatment(reference="United States"))[T.Turkey]                  -0.795    0.377  0.035
-C(country, Treatment(reference="United States"))[T.Thailand]                -0.907    0.269  0.001
-C(category_unified, Treatment(reference="Entertainment"))[T.Knowledge&Info] -0.908    0.124  0.000
-C(country, Treatment(reference="United States"))[T.Pakistan]                -0.921    0.352  0.009
-
-  --- Youtube 2026: n=439, R²=0.369, adj R²=0.339, AIC=1131.3 ---
-  Significant terms (p<0.05): 7 / 21
-                                                                           coef  std_err      p
-C(category_unified, Treatment(reference="Entertainment"))[T.Tech&Gaming]  0.842    0.130  0.000
-C(category_unified, Treatment(reference="Entertainment"))[T.Lifestyle]    0.496    0.131  0.000
-log_followers                                                            -0.328    0.112  0.004
-C(country, Treatment(reference="United States"))[T.Indonesia]            -0.670    0.313  0.033
-C(country, Treatment(reference="United States"))[T.India]                -0.976    0.116  0.000
-C(country, Treatment(reference="United States"))[T.Thailand]             -1.249    0.268  0.000
-C(country, Treatment(reference="United States"))[T.Philippines]          -1.285    0.333  0.000
+  Instagram: k=7 cats, F=19.25, p=1.24e-21, η²=0.079
+  Youtube: k=7 cats, F=25.12, p=9.17e-28, η²=0.137
 
 ======================================================================
-4. BACKWARD VARIABLE SELECTION (by AIC, block-level)
+3. PER-PLATFORM MULTIPLE OLS (controlled)
 ======================================================================
 
-  Instagram 2022  (full AIC = 1194.9)
-    drop  log_followers: AIC=  1951.9  ΔAIC= +757.0  → KEEP
-    drop       category: AIC=  1211.3  ΔAIC=  +16.4  → KEEP
-    drop        country: AIC=  1215.7  ΔAIC=  +20.7  → KEEP
+  Instagram: n=1,295, R²=0.550, adj.R²=0.542
 
-  Instagram 2024  (full AIC = 9290.8)
-    drop  log_followers: AIC=  9433.1  ΔAIC= +142.3  → KEEP
-    drop       category: AIC=  9445.3  ΔAIC= +154.5  → KEEP
-
-  Youtube 2022  (full AIC = 2132.6)
-    drop  log_followers: AIC=  2133.0  ΔAIC=   +0.4  → KEEP
-    drop       category: AIC=  2201.5  ΔAIC=  +68.9  → KEEP
-    drop        country: AIC=  2170.4  ΔAIC=  +37.8  → KEEP
-
-  Youtube 2026  (full AIC = 1131.3)
-    drop  log_followers: AIC=  1138.3  ΔAIC=   +7.0  → KEEP
-    drop       category: AIC=  1174.9  ΔAIC=  +43.6  → KEEP
-    drop        country: AIC=  1201.0  ΔAIC=  +69.7  → KEEP
+  Youtube: n=793, R²=0.241, adj.R²=0.220
 
 ======================================================================
-5. LOGISTIC REGRESSION — P(top-quartile ER | log_followers + cat + country)
+4. POOLED OLS with platform × log_followers interaction
 ======================================================================
+  Pooled n=2,088, R²=0.677, adj.R²=0.672
 
-  --- Instagram 2022: n=1,311, pseudo-R²=0.330, LL=-493.8 ---
-  Significant terms (p<0.05): 5 / 23
-                                                                          odds_ratio      or_ci_lo      or_ci_hi      p
-Intercept                                                               7.506258e+16  2.583075e+14  2.181272e+19  0.000
-C(country, Treatment(reference="United States"))[T.South Korea]         3.099900e+01  6.837000e+00  1.405380e+02  0.000
-C(country, Treatment(reference="United States"))[T.Indonesia]           2.948000e+00  1.805000e+00  4.813000e+00  0.000
-C(category_unified, Treatment(reference="Entertainment"))[T.Lifestyle]  1.635000e+00  1.056000e+00  2.531000e+00  0.027
-log_followers                                                           3.000000e-03  1.000000e-03  7.000000e-03  0.000
-
-  --- Instagram 2024: n=5,263, pseudo-R²=0.024, LL=-2894.3 ---
-  Significant terms (p<0.05): 3 / 9
-                                                                             odds_ratio  or_ci_lo  or_ci_hi      p
-C(category_unified, Treatment(reference="Entertainment"))[T.Sports]               1.762     1.367     2.272  0.000
-log_followers                                                                     0.756     0.681     0.839  0.000
-C(category_unified, Treatment(reference="Entertainment"))[T.Knowledge&Info]       0.591     0.437     0.801  0.001
-
-  --- Youtube 2022: n=795, pseudo-R²=0.091, LL=-406.8 ---
-  Significant terms (p<0.05): 4 / 23
-                                                                             odds_ratio  or_ci_lo  or_ci_hi      p
-C(country, Treatment(reference="United States"))[T.Colombia]                      3.177     1.055     9.568  0.040
-C(country, Treatment(reference="United States"))[T.Russia]                        2.486     1.210     5.104  0.013
-C(category_unified, Treatment(reference="Entertainment"))[T.Tech&Gaming]          2.243     1.321     3.810  0.003
-C(category_unified, Treatment(reference="Entertainment"))[T.Knowledge&Info]       0.332     0.145     0.763  0.009
-
-  --- Youtube 2026: n=439, pseudo-R²=0.153, LL=-209.2 ---
-  Significant terms (p<0.05): 3 / 21
-                                                                          odds_ratio  or_ci_lo  or_ci_hi      p
-C(category_unified, Treatment(reference="Entertainment"))[T.Tech&Gaming]       5.240     2.632    10.431  0.000
-C(category_unified, Treatment(reference="Entertainment"))[T.Lifestyle]         2.357     1.188     4.673  0.014
-C(country, Treatment(reference="United States"))[T.India]                      0.210     0.084     0.525  0.001
+  Interaction term (followers slope difference vs Instagram):
+    log_followers:C(_platform, Treatment(reference="instagram"))[T.youtube]: β=+0.578, p=0.0000
 
 ======================================================================
-6. CROSS-YEAR t-TEST (frame-comparable top-100 global subsets)
+5. WELCH'S t-TEST: pairwise platform comparison (2022)
 ======================================================================
-  Instagram 2022 (n=100, median ER=0.93%) vs 2024 (n=97, median ER=0.50%): t=+3.99, p=9.63e-05
-  Youtube 2022 (n=100, median ER=0.01%) vs 2026 (n=100, median ER=0.01%): t=+2.50, p=1.33e-02
+  Instagram vs Tiktok: t=-31.59, p=7.49e-193, medians 3.54% vs 10.84%
+  Instagram vs Youtube: t=+60.30, p=0.00e+00, medians 3.54% vs 0.04%
+  Tiktok vs Youtube: t=+80.48, p=0.00e+00, medians 10.84% vs 0.04%
 
 ======================================================================
-7. FOREST PLOT — category coefficients across slices
+6. YT 2022 → 2026 LONGITUDINAL ANALYSIS (paired t-test)
 ======================================================================
-  Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/7 - statistical analysis/plots/F1_category_coefficients.png
-
-  Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/7 - statistical analysis/plots/F2_country_coefficients.png
-  Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/7 - statistical analysis/plots/F3_log_followers_beta.png
-  Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/7 - statistical analysis/plots/F4_cross_year_ttest.png
-  Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/7 - statistical analysis/plots/F5_logit_category_OR.png
+  YT 2022 cohort (unique handles): 1,349
+  Successfully re-scraped in 2026: 583
+  Attrition rate (no usable 2026 data): 56.8%
+  Survivors with ER in both years: 540
+  Paired t-test on log(er_pct): t=+10.01, p=9.15e-22
+  Mean Δlog10(ER) = -0.271  (≈ 0.54× change)
+  Median ΔER: 0.026% → 0.015%
+  Share of accounts whose ER fell: 70.4%
