@@ -1,0 +1,83 @@
+Rows: 33,174
+engagement_total non-null: 4,933
+er_pct non-null:           24,797
+
+--- engagement_total (IG 2022) ---
+count        4933.00
+mean       804196.59
+std       1194649.92
+min         33300.00
+25%        273300.00
+50%        486800.00
+75%        876400.00
+max      23400000.00
+
+--- er_pct by platform × year ---
+                  count   mean     std   min   25%   50%    75%       max
+_platform _year                                                          
+instagram 2022   4933.0   6.05    7.61  0.03  1.33  3.37   7.61    104.55
+          2024   5758.0   2.34    4.29  0.01  0.40  1.07   2.60    115.81
+tiktok    2022   4955.0  57.72  397.40  0.18  3.47  7.74  18.67  15343.24
+          2024   1492.0   1.16    4.39  0.10  0.10  0.20   0.70    121.00
+youtube   2022   4933.0   0.31    1.11  0.00  0.00  0.03   0.20     45.14
+          2024   2181.0   1.75    4.36  0.10  0.20  0.50   1.50     80.10
+          2026    545.0   0.14    0.69  0.00  0.00  0.02   0.09     14.07
+
+--- er_pct by category (median, per slice) ---
+
+Instagram 2022:
+category_unified
+Tech&Gaming       1.54
+Other             1.82
+Knowledge&Info    1.87
+Sports            1.93
+Beauty&Fashion    2.34
+Entertainment     2.63
+Music             3.40
+Lifestyle         6.04
+
+Instagram 2024:
+category_unified
+Knowledge&Info    0.75
+Entertainment     0.90
+Beauty&Fashion    0.95
+UNMAPPED          0.99
+Music             1.01
+Tech&Gaming       1.18
+Lifestyle         1.34
+Sports            1.60
+
+Youtube 2022:
+category_unified
+Knowledge&Info    0.01
+Music             0.02
+Lifestyle         0.05
+Sports            0.05
+Entertainment     0.06
+Other             0.13
+Beauty&Fashion    0.18
+Tech&Gaming       0.26
+
+Youtube 2026:
+category_unified
+Knowledge&Info    0.00
+Entertainment     0.01
+Music             0.01
+Sports            0.03
+Lifestyle         0.06
+Tech&Gaming       0.09
+
+--- Tiktok 2022: mean share of engagement_count (interactions only) ---
+likes_avg       0.978
+comments_avg    0.009
+shares_avg      0.013
+
+--- Youtube 2022: mean share of engagement_count (interactions only) ---
+likes_avg       0.953
+comments_avg    0.047
+shares_avg      0.000
+
+--- Youtube 2026: mean share of engagement_count (interactions only) ---
+likes_avg       0.947
+comments_avg    0.053
+shares_avg      0.000
