@@ -316,14 +316,14 @@ plt.close()
 print("✅ E5 saved")
 
 # ============================================================
-# E6. Country coverage
+# E6. Country coverage — top 100 by followers per platform, all years
 # ============================================================
 coverage_rows = []
 for platform in ["Instagram", "TikTok", "YouTube"]:
     for df, year in [(df22, 2022), (top100_2024, 2024), (df26, 2026)]:
         if platform == "TikTok" and year == 2022:
             continue
-        sub = df[df["platform"] == platform]
+        sub = df[df["platform"] == platform].nlargest(100, "followers")
         if len(sub) == 0:
             continue
         n = sub["audience_country"].dropna().nunique()
@@ -454,7 +454,7 @@ fig, ax = plt.subplots(figsize=(10, 5))
 sns.heatmap(miss_df.T, annot=True, fmt=".1f", cmap="Reds",
             linewidths=0.5, linecolor="white",
             cbar_kws={"label": "% missing"}, ax=ax)
-ax.set_title("Missing Data Rates by Platform and Year (%) \n (TikTok 2022 excluded — no category or country data)",
+ax.set_title("Missing Data Rates by Platform and Year (%) \n(TikTok 2022 excluded — no category or country data)",
              fontweight="bold")
 ax.set_xlabel("")
 ax.set_ylabel("")
@@ -498,7 +498,7 @@ fig, ax = plt.subplots(figsize=(13, 6))
 stack_df[CATS].plot(kind="bar", stacked=True, ax=ax,
                     color=[CAT_COLORS_MAP[c] for c in CATS],
                     edgecolor="white", alpha=0.9, width=0.7)
-ax.set_title("Category Composition by Platform and Year (% of mapped rows, deduplicated by creator)",
+ax.set_title("Category Composition by Platform and Year \n(% of mapped rows, deduplicated by creator)",
              fontweight="bold")
 ax.set_xlabel("")
 ax.set_ylabel("% of mapped rows")
