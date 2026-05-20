@@ -27,29 +27,46 @@ df = df.rename(columns={
 })
 
 # --- 2. Build unified engagement_count --------------------------------------
-# Definition: engagement_count counts INTERACTIONS only (likes + comments + shares).
-# Views are excluded — they are passive exposure, not engagement, and the
-# industry-standard ER formula (HypeAuditor, Hootsuite, Sprout Social, etc.)
-# excludes them.
+# Platform-specific definitions, motivated by interaction mechanics:
 #
-# Priority by source:
-#   IG 2022              : use engagement_total (HypeAuditor interactions aggregate, views-free)
-#   Any 2024 row         : reconstruct from er% × followers (source `er` is interactions-based)
-#   TT/YT 2022, YT 2026  : sum of likes + comments + shares (NaN→0); VIEWS EXCLUDED
+#   YouTube       : likes + comments + views   (views included because YT viewing
+#                                                requires a deliberate click on a
+#                                                thumbnail — closer to active
+#                                                consumption than autoplay platforms)
+#   TikTok 2022   : likes + comments + shares  (views EXCLUDED — TT's For-You Page
+#                                                autoplays content, so views are
+#                                                passive impressions, not engagement)
+#   Instagram 2022: engagement_total           (HypeAuditor's pre-aggregated count;
+#                                                no per-component decomposition)
+#   Any 2024 row  : er% × followers            (source ships only `er`; cannot decompose)
 is_ig22 = (df["_platform"] == "instagram") & (df["_year"] == 2022)
 is_2024 = (df["_year"] == 2024)
+is_yt   = (df["_platform"] == "youtube")
+is_tt   = (df["_platform"] == "tiktok")
 
-interaction_cols = ["likes_avg", "comments_avg", "shares_avg"]
-sum_cols = df[interaction_cols].fillna(0).sum(axis=1)
-has_any_count = df[interaction_cols].notna().any(axis=1)
+# YouTube components — INCLUDES views
+yt_components = ["likes_avg", "comments_avg", "views_avg"]
+yt_sum     = df[yt_components].fillna(0).sum(axis=1)
+yt_has_any = df[yt_components].notna().any(axis=1)
+
+# TikTok components — EXCLUDES views (autoplay = passive)
+tt_components = ["likes_avg", "comments_avg", "shares_avg"]
+tt_sum     = df[tt_components].fillna(0).sum(axis=1)
+tt_has_any = df[tt_components].notna().any(axis=1)
 
 engagement_count = pd.Series(np.nan, index=df.index, dtype="float64")
+# Instagram 2022 — use pre-aggregated HypeAuditor field
 engagement_count.loc[is_ig22] = df.loc[is_ig22, "engagement_total"]
+# 2024 (all platforms) — reconstruct from reported er% × followers
 engagement_count.loc[is_2024 & df["er"].notna() & df["followers"].notna()] = (
     df.loc[is_2024, "er"] / 100.0 * df.loc[is_2024, "followers"]
 )
-fill_mask = engagement_count.isna() & has_any_count
-engagement_count.loc[fill_mask] = sum_cols.loc[fill_mask]
+# YouTube sum-based (2022, 2026): likes + comments + views
+yt_fill = engagement_count.isna() & is_yt & yt_has_any
+engagement_count.loc[yt_fill] = yt_sum.loc[yt_fill]
+# TikTok 2022 sum-based: likes + comments + shares
+tt_fill = engagement_count.isna() & is_tt & tt_has_any
+engagement_count.loc[tt_fill] = tt_sum.loc[tt_fill]
 
 df["engagement_count"] = engagement_count
 

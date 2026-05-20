@@ -1,17 +1,17 @@
-Loaded 33,174 total rows; 14,721 valid 2022 rows.
+Loaded 33,174 total rows; 14,816 valid 2022 rows.
 
 ======================================================================
 1. PEARSON CORRELATION (followers ↔ ER), per platform
 ======================================================================
   Instagram: n= 1462  r=-0.730  p=2.51e-243
   Tiktok: n= 3060  r=-0.930  p=0.00e+00
-  Youtube: n= 1325  r=-0.117  p=1.98e-05
+  Youtube: n= 1348  r=-0.109  p=6.21e-05
 
 ======================================================================
 2. ONE-WAY ANOVA on category, per platform
 ======================================================================
   Instagram: k=7 cats, F=19.25, p=1.24e-21, η²=0.079
-  Youtube: k=7 cats, F=25.12, p=9.17e-28, η²=0.137
+  Youtube: k=7 cats, F=24.56, p=3.47e-27, η²=0.132
 
 ======================================================================
 3. PER-PLATFORM MULTIPLE OLS (controlled)
@@ -19,22 +19,22 @@ Loaded 33,174 total rows; 14,721 valid 2022 rows.
 
   Instagram: n=1,295, R²=0.550, adj.R²=0.542
 
-  Youtube: n=793, R²=0.241, adj.R²=0.220
+  Youtube: n=797, R²=0.230, adj.R²=0.209
 
 ======================================================================
 4. POOLED OLS with platform × log_followers interaction
 ======================================================================
-  Pooled n=2,088, R²=0.677, adj.R²=0.672
+  Pooled n=2,092, R²=0.326, adj.R²=0.317
 
   Interaction term (followers slope difference vs Instagram):
-    log_followers:C(_platform, Treatment(reference="instagram"))[T.youtube]: β=+0.578, p=0.0000
+    log_followers:C(_platform, Treatment(reference="instagram"))[T.youtube]: β=+0.579, p=0.0000
 
 ======================================================================
 5. WELCH'S t-TEST: pairwise platform comparison (2022)
 ======================================================================
   Instagram vs Tiktok: t=-31.59, p=7.49e-193, medians 3.54% vs 10.84%
-  Instagram vs Youtube: t=+60.30, p=0.00e+00, medians 3.54% vs 0.04%
-  Tiktok vs Youtube: t=+80.48, p=0.00e+00, medians 10.84% vs 0.04%
+  Instagram vs Youtube: t=+14.10, p=2.84e-43, medians 3.54% vs 1.62%
+  Tiktok vs Youtube: t=+36.63, p=7.19e-227, medians 10.84% vs 1.62%
 
 ======================================================================
 6. YT 2022 → 2026 LONGITUDINAL ANALYSIS (paired t-test)
@@ -42,8 +42,8 @@ Loaded 33,174 total rows; 14,721 valid 2022 rows.
   YT 2022 cohort (unique handles): 1,349
   Successfully re-scraped in 2026: 583
   Attrition rate (no usable 2026 data): 56.8%
-  Survivors with ER in both years: 540
-  Paired t-test on log(er_pct): t=+10.01, p=9.15e-22
-  Mean Δlog10(ER) = -0.271  (≈ 0.54× change)
-  Median ΔER: 0.026% → 0.015%
-  Share of accounts whose ER fell: 70.4%
+  Survivors with ER in both years: 546
+  Paired t-test on log(er_pct): t=+1.74, p=8.20e-02
+  Mean Δlog10(ER) = -0.049  (≈ 0.89× change)
+  Median ΔER: 0.992% → 1.013%
+  Share of accounts whose ER fell: 56.2%

@@ -243,17 +243,24 @@ fig.savefig(PLOT / "P7_followers_vs_er_loglog.png", dpi=140)
 plt.close(fig)
 
 # ==========================================================================
-# P8: Component dominance among INTERACTIONS — does likes/comments/shares
-# dominate engagement_count? Only on sum-based slices (TT 2022, YT 2022, YT 2026).
-# YT 2022 / YT 2026 carry no shares_avg, so their composition is likes vs comments only.
+# P8: Component composition of engagement_count, per slice
+# Definitions differ by platform (current pipeline):
+#   TikTok 2022: likes + comments + shares    (views EXCLUDED — autoplay = passive)
+#   YouTube    : likes + comments + views     (views INCLUDED — click = deliberate)
 # ==========================================================================
-sum_slices = [("tiktok", 2022), ("youtube", 2022), ("youtube", 2026)]
-comps = ["likes_avg", "comments_avg", "shares_avg"]
-comp_labels = ["likes", "comments", "shares"]
-comp_colors = ["#55A868", "#C44E52", "#8172B2"]
+sum_slice_specs = [
+    ("tiktok",  2022, ["likes_avg", "comments_avg", "shares_avg"]),
+    ("youtube", 2022, ["likes_avg", "comments_avg", "views_avg"]),
+    ("youtube", 2026, ["likes_avg", "comments_avg", "views_avg"]),
+]
+ALL_COMPS = ["likes_avg", "comments_avg", "shares_avg", "views_avg"]
+COMP_LABEL = {"likes_avg": "likes", "comments_avg": "comments",
+              "shares_avg": "shares", "views_avg": "views"}
+COMP_COLOR = {"likes_avg": "#55A868", "comments_avg": "#C44E52",
+              "shares_avg": "#8172B2", "views_avg": "#4C72B0"}
 
-slice_labels, slice_means, slice_n = [], [], []
-for plat, yr in sum_slices:
+slice_labels, slice_n, mean_share_matrix = [], [], []
+for plat, yr, comps in sum_slice_specs:
     sub = df[(df["_platform"] == plat) & (df["_year"] == yr)
              & df["engagement_count"].notna() & (df["engagement_count"] > 0)].copy()
     for c in comps:
@@ -261,32 +268,36 @@ for plat, yr in sum_slices:
     total = sub[comps].sum(axis=1).replace(0, np.nan)
     shares = sub[comps].div(total, axis=0).dropna()
     slice_labels.append(f"{plat.capitalize()} {yr}")
-    slice_means.append(shares.mean().values)
     slice_n.append(len(shares))
-    log(f"\n--- {plat.capitalize()} {yr}: mean share of engagement_count (interactions only) ---")
+    # Build a row over ALL_COMPS, filling 0 for components not in this slice
+    row = {c: 0.0 for c in ALL_COMPS}
+    for c in comps:
+        row[c] = float(shares[c].mean())
+    mean_share_matrix.append([row[c] for c in ALL_COMPS])
+    log(f"\n--- {plat.capitalize()} {yr}: mean share of engagement_count ---")
     log(shares.mean().round(3).to_string())
 
-means = np.array(slice_means)
+means = np.array(mean_share_matrix)
 y = np.arange(len(slice_labels))
 
 fig, ax = plt.subplots(figsize=(11, 4.5))
 left = np.zeros(len(slice_labels))
-for j, (label, color) in enumerate(zip(comp_labels, comp_colors)):
-    ax.barh(y, means[:, j], left=left, color=color, edgecolor="white",
-            label=label, height=0.65)
+for j, comp in enumerate(ALL_COMPS):
+    ax.barh(y, means[:, j], left=left, color=COMP_COLOR[comp], edgecolor="white",
+            label=COMP_LABEL[comp], height=0.65)
     for i, v in enumerate(means[:, j]):
         if v >= 0.03:
             ax.text(left[i] + v / 2, y[i], f"{v*100:.1f}%",
                     ha="center", va="center", fontsize=9,
-                    color="white" if j == 0 else "black")
+                    color="white" if j in (0, 3) else "black")
     left += means[:, j]
 
 ax.set_yticks(y)
 ax.set_yticklabels([f"{lab}\n(n={n:,})" for lab, n in zip(slice_labels, slice_n)])
 ax.set_xlim(0, 1)
-ax.set_xlabel("Mean share of engagement_count (interactions only)")
-ax.set_title("Likes dominate engagement on every sum-based slice")
-ax.legend(loc="lower right", ncol=3, frameon=False, bbox_to_anchor=(1, -0.25))
+ax.set_xlabel("Mean share of engagement_count")
+ax.set_title("Composition of engagement_count: TikTok (interactions only) vs YouTube (with views)")
+ax.legend(loc="lower right", ncol=4, frameon=False, bbox_to_anchor=(1, -0.25))
 ax.invert_yaxis()
 fig.tight_layout()
 fig.savefig(PLOT / "P8_component_shares.png", dpi=140)
