@@ -83,13 +83,13 @@ def reviewPipelineCode(seed=42):
 
 
     def noisy_handle(base_handle):
-        if random.random() < 0.1:
+        if random.random() < 0.2:
             return None  # 🔥 more missing handles
     
         h = base_handle
     
         # random corruption
-        if random.random() < 0.1:
+        if random.random() < 0.3:
             i = random.randint(0, len(h)-1)
             h = h[:i] + random.choice("abcdefghijklmnopqrstuvwxyz") + h[i+1:]
     
@@ -103,7 +103,7 @@ def reviewPipelineCode(seed=42):
             h += random.choice(suffixes)
     
         # insert separators randomly
-        if random.random() < 0.2:
+        if random.random() < 0.3:
             i = random.randint(1, len(h)-1)
             h = h[:i] + random.choice([".", "_"]) + h[i:]
     
