@@ -21,15 +21,19 @@ was applied upstream.
 
 ## New Columns
 
-### `engagement_count` — unified **interactions** count
-Engagement is defined here as **active interactions only**: likes + comments + shares.
-Views are excluded by design (see correction note below).
+### `engagement_count` — platform-specific engagement aggregate
 
-Coalesced by source, in this order:
+Engagement is defined **platform-by-platform**, reflecting different interaction
+mechanics. Views are included for YouTube but not for TikTok or Instagram.
 
-1. **Instagram 2022** → `engagement_total` (HypeAuditor interactions aggregate; views-free)
-2. **Any 2024 row** (all platforms) → reconstructed as `er% × followers` (the source `er` field is interactions-based)
-3. **TikTok 2022 / YouTube 2022 / YouTube 2026** → `likes_avg + comments_avg + shares_avg` (NaN treated as 0 inside the sum; row stays NaN only if *all three* interaction columns are missing). YouTube 2022 and YouTube 2026 carry no `shares_avg`, so for those slices the sum reduces to `likes_avg + comments_avg`.
+Coalesced by source/platform, in this order:
+
+1. **Instagram 2022** → `engagement_total` (HypeAuditor's pre-aggregated interactions count; views-free by design of the source field)
+2. **Any 2024 row** (all platforms) → reconstructed as `er% × followers`. The 2024 source ships only the aggregate `er` field, so engagement composition cannot be adjusted at this step.
+3. **YouTube 2022 / 2026** → `likes_avg + comments_avg + views_avg`. **Views are included** because YouTube viewing requires a deliberate click on a thumbnail (active consumption), unlike autoplay-driven platforms.
+4. **TikTok 2022** → `likes_avg + comments_avg + shares_avg`. **Views excluded** because the For-You Page autoplays content — views are passive impressions, not active engagement.
+
+NaN values inside the sum are treated as 0; a row stays NaN only if *all* relevant components are missing.
 
 ### `er_pct` — engagement rate as a percentage
 `er_pct = engagement_count / followers * 100`, computed from the unified count
@@ -37,27 +41,42 @@ so every row is on the same formula. Rows with NaN or zero followers → NaN.
 
 ---
 
-## ⚠️ Correction: Views Excluded from Engagement (2026-04-26)
+## ⚠️ Update: Platform-Specific Treatment of Views (2026-05-20)
 
-An earlier version of this step summed `likes + comments + views + shares` for
-TT 2022 / YT 2022 / YT 2026. That version was **wrong**: views measure passive
-exposure (auto-play, scroll-by impressions), not active engagement, and the
-industry-standard definition of engagement rate excludes them
-(HypeAuditor, Hootsuite, Sprout Social, Influencer Marketing Hub, and the
-marketing literature all use interactions / followers).
+The current step uses **platform-specific definitions** of `engagement_count`:
+YouTube includes `views_avg`; TikTok and Instagram do not. The rationale is
+that interaction mechanics differ across platforms:
 
-Including views also made the pipeline internally inconsistent: IG 2022 and all
-2024 rows were already interaction-based, while the three sum-based slices
-were not. A component-share analysis (P8 in Step 5 EDA) showed views accounted
-for 88–98% of `engagement_count` on those slices, which inflated TikTok 2022's
-median `er_pct` to ~70% — an order of magnitude above every other slice. That
-artefact disappears once views are dropped.
+- **YouTube viewing is deliberate**: viewers click a thumbnail in a feed,
+  search result, or recommendation. A view is closer to active consumption
+  than to passive scroll-by exposure. Treating it as part of engagement
+  reflects this distinct mechanic.
+- **TikTok viewing is autoplay-driven**: the For-You Page automatically plays
+  the next video and views accumulate from sub-second scroll-by impressions.
+  Views on TikTok are therefore passive exposure and remain excluded.
+- **Instagram 2022** continues to use HypeAuditor's pre-aggregated
+  `engagement_total` field, which is interaction-only by design.
 
-**Fix applied:** `engagement_count` for the sum-based slices is now
-`likes_avg + comments_avg + shares_avg` (views removed). The `views_avg`
-column is retained in the CSV as a separate field for downstream use
-(e.g., view-rate analyses, reach controls in regressions), but it no longer
-contributes to `er_pct`.
+### History of this decision
+
+A prior version of this script (2026-04-26) summed
+`likes + comments + views + shares` for all sum-based slices and was flagged
+as treating views as engagement universally. We then corrected the script to
+exclude views for all three sum-based slices (TT 2022, YT 2022, YT 2026).
+On 2026-05-20, after further discussion of the platform-specific mechanics
+above, the YouTube portion was revised once more to re-include `views_avg`.
+TikTok remains views-excluded.
+
+### Methodological consequences
+
+- `engagement_count` and `er_pct` are **no longer defined identically across
+  platforms**. Within-platform comparisons remain consistent; cross-platform
+  comparisons of absolute ER magnitudes should be read as ordinal only and
+  reported with this caveat.
+- After the revision, `views_avg` contributes the dominant share of
+  `engagement_count` on YouTube slices (typically 95%+, see Step 5 EDA
+  decomposition). This is intentional under the current definition.
+- The 2024 slices are unaffected (no per-component columns in the source).
 
 ---
 
