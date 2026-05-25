@@ -14,12 +14,23 @@ Loaded 33,174 total rows; 14,816 valid 2022 rows.
   Youtube: k=7 cats, F=24.56, p=3.47e-27, η²=0.132
 
 ======================================================================
-3. PER-PLATFORM MULTIPLE OLS (controlled)
+3. PER-PLATFORM MULTIPLE OLS (controlled, with interactions)
 ======================================================================
+    Model: log_er ~ log_followers + category + country
+           + log_followers : category   (does dilution slope vary by category?)
+           + log_followers : country    (does dilution slope vary by country?)
 
-  Instagram: n=1,295, R²=0.550, adj.R²=0.542
+  Instagram: n=1,295
+    Baseline (no interactions): adj.R² = 0.542
+    Full (with interactions):   adj.R² = 0.566
+    F-test for log_followers × category:  F=6.33, p=1.412e-06
+    F-test for log_followers × country:   F=4.12, p=4.403e-07
 
-  Youtube: n=797, R²=0.230, adj.R²=0.209
+  Youtube: n=797
+    Baseline (no interactions): adj.R² = 0.209
+    Full (with interactions):   adj.R² = 0.217
+    F-test for log_followers × category:  F=1.12, p=0.3507
+    F-test for log_followers × country:   F=1.38, p=0.1553
 
 ======================================================================
 4. POOLED OLS with platform × log_followers interaction

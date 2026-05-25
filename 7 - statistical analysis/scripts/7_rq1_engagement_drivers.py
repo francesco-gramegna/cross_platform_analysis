@@ -146,31 +146,79 @@ save_table_png(pd.DataFrame(anova_rows), TBL / "T2_anova.png",
 # ==========================================================================
 # 3. Per-platform OLS: full controlled model for IG and YT
 # ==========================================================================
-log("\n" + "=" * 70 + "\n3. PER-PLATFORM MULTIPLE OLS (controlled)\n" + "=" * 70)
+log("\n" + "=" * 70 + "\n3. PER-PLATFORM MULTIPLE OLS (controlled, with interactions)\n" + "=" * 70)
+log("    Model: log_er ~ log_followers + category + country")
+log("           + log_followers : category   (does dilution slope vary by category?)")
+log("           + log_followers : country    (does dilution slope vary by country?)")
 ols_fits = {}
+joint_test_rows = []
+from statsmodels.stats.anova import anova_lm
 for plat in PLATFORMS_FULL:
     s = slice_data(plat, require_cat=True, require_country=True)
-    formula = (f'log_er ~ log_followers '
-               f'+ C(category_unified, Treatment(reference="{BASE_CATEGORY}")) '
-               f'+ C(country, Treatment(reference="{BASE_COUNTRY}"))')
-    fit = smf.ols(formula, data=s).fit()
+    cat_term     = f'C(category_unified, Treatment(reference="{BASE_CATEGORY}"))'
+    country_term = f'C(country, Treatment(reference="{BASE_COUNTRY}"))'
+    formula_full = (f'log_er ~ log_followers + {cat_term} + {country_term} '
+                    f'+ log_followers:{cat_term} + log_followers:{country_term}')
+    formula_no_cat_int     = (f'log_er ~ log_followers + {cat_term} + {country_term} '
+                              f'+ log_followers:{country_term}')
+    formula_no_country_int = (f'log_er ~ log_followers + {cat_term} + {country_term} '
+                              f'+ log_followers:{cat_term}')
+    formula_no_int         = (f'log_er ~ log_followers + {cat_term} + {country_term}')
+    fit          = smf.ols(formula_full,         data=s).fit()
+    fit_no_cat   = smf.ols(formula_no_cat_int,   data=s).fit()
+    fit_no_ctry  = smf.ols(formula_no_country_int, data=s).fit()
+    fit_no_int   = smf.ols(formula_no_int,       data=s).fit()
     ols_fits[plat] = (s, fit)
-    log(f"\n  {plat.capitalize()}: n={len(s):,}, R²={fit.rsquared:.3f}, "
-        f"adj.R²={fit.rsquared_adj:.3f}")
+
+    # Joint F-tests for each interaction block
+    f_cat = anova_lm(fit_no_cat, fit)   # adding cat-interaction
+    f_ctr = anova_lm(fit_no_ctry, fit)  # adding country-interaction
+    log(f"\n  {plat.capitalize()}: n={len(s):,}")
+    log(f"    Baseline (no interactions): adj.R² = {fit_no_int.rsquared_adj:.3f}")
+    log(f"    Full (with interactions):   adj.R² = {fit.rsquared_adj:.3f}")
+    log(f"    F-test for log_followers × category:  "
+        f"F={f_cat['F'].iloc[-1]:.2f}, p={f_cat['Pr(>F)'].iloc[-1]:.4g}")
+    log(f"    F-test for log_followers × country:   "
+        f"F={f_ctr['F'].iloc[-1]:.2f}, p={f_ctr['Pr(>F)'].iloc[-1]:.4g}")
+    joint_test_rows.append({
+        "platform": plat.capitalize(), "n": len(s),
+        "adj_R2_no_int": fit_no_int.rsquared_adj,
+        "adj_R2_full":   fit.rsquared_adj,
+        "F_cat_x_followers":  f_cat["F"].iloc[-1],
+        "p_cat_x_followers":  f_cat["Pr(>F)"].iloc[-1],
+        "F_ctry_x_followers": f_ctr["F"].iloc[-1],
+        "p_ctry_x_followers": f_ctr["Pr(>F)"].iloc[-1],
+    })
+
+    # Per-coefficient table
     pretty = pd.DataFrame({"coef": fit.params, "std_err": fit.bse,
                            "p": fit.pvalues,
                            "ci_lo": fit.conf_int()[0],
                            "ci_hi": fit.conf_int()[1]})
-    pretty.index = [t.replace('C(category_unified, Treatment(reference="Entertainment"))', "category")
-                     .replace('C(country, Treatment(reference="United States"))', "country")
-                     .replace("[T.", "[").rstrip("]") + "]"
-                    if "[T." in t else t for t in pretty.index]
+    pretty.index = [
+        t.replace('log_followers:C(category_unified, Treatment(reference="Entertainment"))', "log_F × cat")
+         .replace('log_followers:C(country, Treatment(reference="United States"))', "log_F × country")
+         .replace('C(category_unified, Treatment(reference="Entertainment"))', "category")
+         .replace('C(country, Treatment(reference="United States"))', "country")
+         .replace("[T.", "[").rstrip("]") + "]"
+        if "[T." in t else t for t in pretty.index]
     save_table_png(pretty, TBL / f"T3_ols_{plat}.png",
         title=f"Table 3. OLS — {plat.capitalize()} 2022 "
               f"(n={len(s):,}, R²={fit.rsquared:.3f}, adj.R²={fit.rsquared_adj:.3f})",
         fmt={"coef": lambda v: f"{v:+.3f}", "std_err": lambda v: f"{v:.3f}",
              "p": lambda v: f"{v:.3g}",
              "ci_lo": lambda v: f"{v:+.3f}", "ci_hi": lambda v: f"{v:+.3f}"})
+
+# Joint F-test summary table
+save_table_png(pd.DataFrame(joint_test_rows), TBL / "T3b_interaction_F_tests.png",
+    title="Table 3b. Joint F-tests for adding interaction blocks",
+    fmt={"platform": str, "n": lambda v: f"{int(v):,}",
+         "adj_R2_no_int": lambda v: f"{v:.3f}",
+         "adj_R2_full":   lambda v: f"{v:.3f}",
+         "F_cat_x_followers":  lambda v: f"{v:.2f}",
+         "p_cat_x_followers":  lambda v: f"{v:.4g}",
+         "F_ctry_x_followers": lambda v: f"{v:.2f}",
+         "p_ctry_x_followers": lambda v: f"{v:.4g}"})
 
 # ==========================================================================
 # 4. Pooled OLS with platform × log_followers interaction

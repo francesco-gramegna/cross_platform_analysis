@@ -1,0 +1,41 @@
+Loaded 33,174 rows; 7,225 valid 2022 IG+YT rows.
+After top-15-country filter: 6,922 rows.
+Unique accounts: 2,092
+  Instagram: 1,295
+  YouTube:   797
+
+Train: 1,673 accounts | Test: 419 accounts
+Feature count: 28 (1 continuous + 27 one-hot encoded)
+
+======================================================================
+MODEL PERFORMANCE (held-out test set)
+======================================================================
+  OLS (baseline)       R²=0.229  RMSE=0.607  MAE=0.446
+  Random Forest        R²=0.146  RMSE=0.639  MAE=0.458
+  XGBoost              R²=0.223  RMSE=0.609  MAE=0.439
+
+======================================================================
+PERMUTATION FEATURE IMPORTANCE (R² drop)
+======================================================================
+
+  OLS (baseline):
+    log_followers   ΔR² = 0.2466 (±0.0251)
+    platform        ΔR² = 0.0641 (±0.0122)
+    category        ΔR² = 0.0893 (±0.0241)
+    country         ΔR² = 0.0612 (±0.0145)
+
+  Random Forest:
+    log_followers   ΔR² = 0.3913 (±0.0597)
+    platform        ΔR² = 0.0518 (±0.0207)
+    category        ΔR² = 0.1279 (±0.0435)
+    country         ΔR² = 0.1448 (±0.0405)
+
+  XGBoost:
+    log_followers   ΔR² = 0.3891 (±0.0567)
+    platform        ΔR² = 0.1111 (±0.0279)
+    category        ΔR² = 0.1702 (±0.0404)
+    country         ΔR² = 0.1442 (±0.0416)
+
+Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F1_predicted_vs_actual.png
+Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F2_feature_importance.png
+Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F3_residuals.png
