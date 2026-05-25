@@ -182,9 +182,13 @@ FIELD_MAP = {
 for row in data:
     for old_key, new_key in FIELD_MAP.items():
         if old_key in row:
-            # Only overwrite if new_key is missing or empty
-            if new_key not in row or row[new_key] in (None, ""):
-                row[new_key] = row[old_key]
+            old_val = row.get(old_key)
+            new_val = row.get(new_key)
+
+            # Only overwrite if new_key is missing or empty,
+            # and do not copy placeholder zero values into the unified field
+            if (new_key not in row or new_val in (None, "")) and old_val not in (None, "", "0", 0):
+                row[new_key] = old_val
 
             # Remove the old key
             del row[old_key]
@@ -223,8 +227,3 @@ with open(fileOut, "w", newline="", encoding="utf-8") as f:
 
     writer.writeheader()
     writer.writerows(data)
-
-
-
-
-
