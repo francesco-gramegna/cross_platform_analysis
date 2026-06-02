@@ -39,3 +39,16 @@ PERMUTATION FEATURE IMPORTANCE (R² drop)
 Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F1_predicted_vs_actual.png
 Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F2_feature_importance.png
 Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F3_residuals.png
+
+======================================================================
+SHAP ANALYSIS (XGBoost on test set)
+======================================================================
+  Computed SHAP values: shape = (419, 28)
+  Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F4_shap_summary.png
+
+  Block-level mean |SHAP|:
+    log_followers   0.2608
+    category        0.1680
+    country         0.1508
+    platform        0.0768
+  Saved /Users/draco/Desktop/2026 Spring/DS516/project/cross_platform_analysis/8 - ML prediction/plots/F5_shap_dependence_followers.png

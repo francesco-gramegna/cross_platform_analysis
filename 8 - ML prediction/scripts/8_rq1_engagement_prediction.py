@@ -24,6 +24,7 @@ from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.inspection import permutation_importance
 import xgboost as xgb
+import shap
 
 ROOT = Path(__file__).resolve().parents[2]
 SRC  = ROOT / "4 - ER unified" / "finalData_with_er.csv"
@@ -258,6 +259,55 @@ for ax, (name, yhat) in zip(axes, predictions.items()):
 fig.suptitle("Residual distribution on held-out test set", y=1.02)
 fig.tight_layout(); fig.savefig(PLOT / "F3_residuals.png", dpi=160); plt.close(fig)
 log(f"Saved {PLOT/'F3_residuals.png'}")
+
+# ===========================================================================
+# F4: SHAP analysis on XGBoost (best non-linear model)
+# ===========================================================================
+log("\n" + "=" * 70 + "\nSHAP ANALYSIS (XGBoost on test set)\n" + "=" * 70)
+xgb_model = fitted_models["XGBoost"]
+explainer = shap.TreeExplainer(xgb_model)
+shap_values = explainer.shap_values(X_test)
+log(f"  Computed SHAP values: shape = {shap_values.shape}")
+
+# F4a — Summary beeswarm: top features and direction of impact per prediction
+plt.figure(figsize=(8, 7))
+shap.summary_plot(shap_values, X_test, feature_names=feature_names,
+                   max_display=15, show=False)
+plt.title("SHAP summary (XGBoost) — per-prediction contributions of each feature",
+          fontsize=11, pad=12)
+plt.tight_layout()
+plt.savefig(PLOT / "F4_shap_summary.png", dpi=160, bbox_inches="tight")
+plt.close()
+log(f"  Saved {PLOT/'F4_shap_summary.png'}")
+
+# F4b — Mean |SHAP| as block-level importance (parallel to permutation table)
+block_mean_abs_shap = {}
+for block_name, idxs in block_indices.items():
+    block_mean_abs_shap[block_name] = np.abs(shap_values[:, idxs]).sum(axis=1).mean()
+shap_imp_df = pd.DataFrame([{"feature_block": k, "mean_abs_shap": v}
+                             for k, v in block_mean_abs_shap.items()])
+shap_imp_df = shap_imp_df.sort_values("mean_abs_shap", ascending=False)
+log("\n  Block-level mean |SHAP|:")
+for _, r in shap_imp_df.iterrows():
+    log(f"    {r['feature_block']:<15} {r['mean_abs_shap']:.4f}")
+save_table_png(shap_imp_df, TBL / "T3_shap_block_importance.png",
+    title="Table 3. Block-level mean |SHAP value| from XGBoost",
+    fmt={"feature_block": str, "mean_abs_shap": lambda v: f"{v:.4f}"})
+
+# F4c — SHAP dependence plot for log_followers, colored by platform (interaction)
+log_f_idx = feature_names.index("log_followers")
+plat_yt_candidates = [i for i, n in enumerate(feature_names) if n.startswith("_platform_youtube")]
+plat_idx = plat_yt_candidates[0] if plat_yt_candidates else 0
+
+plt.figure(figsize=(8, 6))
+shap.dependence_plot(log_f_idx, shap_values, X_test, feature_names=feature_names,
+                      interaction_index=plat_idx, show=False)
+plt.title("SHAP dependence — log(followers) vs its SHAP impact, coloured by platform",
+          fontsize=11, pad=12)
+plt.tight_layout()
+plt.savefig(PLOT / "F5_shap_dependence_followers.png", dpi=160, bbox_inches="tight")
+plt.close()
+log(f"  Saved {PLOT/'F5_shap_dependence_followers.png'}")
 
 # ===========================================================================
 # Save summary
